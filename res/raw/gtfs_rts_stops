@@ -7,6 +7,7 @@
 10,'0010','Explorer Dr 2nd Stop West Of Satellite Dr',43.65427,-79.616047
 11,'0011','Mclaughlin Rd / Ceremonial Dr (South Leg)',43.599843,-79.666978
 12,'0012','Creekbank Rd North Of Tech Ave',43.643523,-79.615674
+13,'0013','Rodeo Dr North Of Regal Dr',43.613689,-79.68999
 14,'0014','Matheson Blvd / Solar Dr',43.652876,-79.609556
 19,'0019','Duke Of York Blvd / Rathburn Rd W',43.592667,-79.648591
 20,'0020','Matheson Blvd / Shuttle Dr',43.660649,-79.600931
@@ -1673,6 +1674,7 @@
 1841,'1841','Falbourne St North Of Matheson Blvd W',43.615859,-79.680777
 1844,'1844','Rathburn Rd / Sherwoodtowne Blvd',43.599845,-79.639696
 1845,'1845','City Centre Bus Terminal Platform N',43.594535,-79.647031
+1846,'1846','Matheson Blvd / Venice St',43.610656,-79.687632
 1847,'1847','Matheson Blvd / Keaton Cres (East Leg)',43.615256,-79.679266
 1848,'1848','Bristol Rd W / Sweetgrass Gate',43.594805,-79.686044
 1849,'1849','Tristar Dr West Of Shawson Dr',43.655197,-79.66527
@@ -3046,6 +3048,7 @@
 3352,'3352','Tenth Line South Of Erin Centre Blvd',43.547065,-79.727375
 3353,'3353','Winston Churchill Blvd South Of Eglinton Ave',43.548434,-79.716911
 3366,'3366','Erin Mills Pky / Credit Valley Rd',43.556711,-79.702819
+3370,'3370','Canadas Wonderland',43.837873,-79.538912
 3399,'3399','Erin Centre Blvd / Plantation Place',43.555098,-79.720236
 3401,'3401','Erin Centre Blvd / Glen Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Centre Bus Terminal Platform B',43.560493,-79.710736
@@ -3178,6 +3181,7 @@
 4204,'4204','Financial Dr 2nd Stop West Of Creditview Rd',43.609642,-79.741704
 4205,'4205','Financial Dr 1st Stop West Of Creditview Rd',43.610548,-79.739275
 4213,'4213','Hurontario St / Kingsway Dr',43.647298,-79.708048
+4288,'4288','City Centre Bus Terminal Platform M',43.593753,-79.647601
 4300,'4300','South Common Mall Bus Terminal Platform B',43.543064,-79.683335
 4500,'4500','Royal Windsor Dr / Winston Churchill Blvd',43.497174,-79.645207
 4501,'4501','Winston Churchill Blvd / Bromsgrove Rd',43.500519,-79.650933
