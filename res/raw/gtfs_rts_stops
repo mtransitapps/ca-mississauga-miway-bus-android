@@ -7,6 +7,7 @@
 10,'0010','Explorer Dr 2nd Stop West Of Satellite Dr',43.65427,-79.616047
 11,'0011','Mclaughlin Rd / Ceremonial Dr (South Leg)',43.599843,-79.666978
 12,'0012','Creekbank Rd North Of Tech Ave',43.643523,-79.615674
+13,'0013','Rodeo Dr North Of Regal Dr',43.613689,-79.68999
 14,'0014','Matheson Blvd / Solar Dr',43.652876,-79.609556
 19,'0019','Duke Of York Blvd / Rathburn Rd W',43.592667,-79.648591
 20,'0020','Matheson Blvd / Shuttle Dr',43.660649,-79.600931
@@ -1673,6 +1674,7 @@
 1841,'1841','Falbourne St North Of Matheson Blvd W',43.615859,-79.680777
 1844,'1844','Rathburn Rd / Sherwoodtowne Blvd',43.599845,-79.639696
 1845,'1845','City Ctr Bus Terminal Platform N',43.594535,-79.647031
+1846,'1846','Matheson Blvd / Venice St',43.610656,-79.687632
 1847,'1847','Matheson Blvd / Keaton Cres (East Leg)',43.615256,-79.679266
 1848,'1848','Bristol Rd W / Sweetgrass Gt',43.594805,-79.686044
 1849,'1849','Tristar Dr West Of Shawson Dr',43.655197,-79.66527
