@@ -2,13 +2,20 @@
 2,'0002','Erin Mills Pky 2nd Stop South Of Dundas St W',43.534537,-79.663158
 3,'0003','Folkway Dr / Greenview Crt',43.555886,-79.682569
 4,'0004','Eglinton Ave W West Of East Mill Rd',43.579357,-79.683928
+5,'0005','Spectrum Way 1st Stop North Of Eglinton Ave',43.649181,-79.607025
 6,'0006','City Ctr Bus Terminal Platform L',43.594029,-79.647334
+7,'0007','Spectrum Way 2nd Stop North Of Eglinton Ave',43.649728,-79.60829
+8,'0008','Spectrum Way / Matheson Blvd E',43.651879,-79.611948
 9,'0009','The Collegeway East Of Gln Erin Dr',43.537213,-79.684337
 10,'0010','Explorer Dr 2nd Stop West Of Satellite Dr',43.65427,-79.616047
 11,'0011','Mclaughlin Rd / Ceremonial Dr (South Leg)',43.599843,-79.666978
 12,'0012','Creekbank Rd North Of Tech Ave',43.643523,-79.615674
 13,'0013','Rodeo Dr North Of Regal Dr',43.613689,-79.68999
 14,'0014','Matheson Blvd / Solar Dr',43.652876,-79.609556
+15,'0015','Spectrum Way 1st Stop South Of Matheson Blvd E',43.651379,-79.612269
+16,'0016','Spectrum Way 2nd Stop South Of Matheson Blvd E',43.650138,-79.61169
+17,'0017','Spectrum Way 3rd Stop South Of Matheson Blvd E',43.649629,-79.609098
+18,'0018','Spectrum Way / Eglinton Ave E',43.648764,-79.606787
 19,'0019','Duke Of York Blvd / Rathburn Rd W',43.592667,-79.648591
 20,'0020','Matheson Blvd / Shuttle Dr',43.660649,-79.600931
 21,'0021','Matheson Blvd 1st Stop West Of Orbitor Dr',43.657301,-79.604704
