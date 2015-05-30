@@ -509,7 +509,7 @@
 557,'0557','Homelands Dr / Pyramid Cres',43.525178,-79.662857
 558,'0558','Sheridan Pk Dr East Of Speakman Dr',43.527213,-79.660535
 559,'0559','Sheridan Pk Dr / 5th Line West',43.529121,-79.658538
-562,'0562','Trillium Hospital Bus Terminal',43.572161,-79.60926
+562,'0562','Trillium Hosp Bus Terminal',43.572161,-79.60926
 563,'0563','Sheridan Ctr Bus Terminal Platform B',43.530089,-79.651673
 564,'0564','Lincoln Grn Way / Lincoln Grn Way',43.531872,-79.654727
 565,'0565','Fowler Dr / Roche Crt',43.528029,-79.651842
@@ -1478,7 +1478,6 @@
 1613,'1613','Britannia Rd / Mavis Rd',43.612554,-79.694878
 1614,'1614','Central Pky / Mdws Blvd',43.603187,-79.629238
 1616,'1616','Central Pky / Mallorytown Ave',43.615175,-79.640825
-1618,'1618','Eglinton Ave / Orbitor Dr',43.65609,-79.598408
 1619,'1619','Confederation Pky / King St',43.575862,-79.61668
 1620,'1620','Confederation Pky / Dundas St',43.577511,-79.619082
 1621,'1621','Confederation Pky / Agnes St',43.578325,-79.621615
@@ -1678,7 +1677,7 @@
 1838,'1838','Rathburn Rd / Living Arts Dr',43.591399,-79.65028
 1839,'1839','Matheson Blvd / Mclaughlin Rd',43.613088,-79.684097
 1840,'1840','Matheson Blvd / Keaton Cres (West Leg)',43.614323,-79.682707
-1841,'1841','Falbourne St North Of Matheson Blvd W',43.615859,-79.680777
+1841,'1841','Falbourne St North Of Matheson Blvd W',43.616747,-79.68097
 1844,'1844','Rathburn Rd / Sherwoodtowne Blvd',43.599845,-79.639696
 1845,'1845','City Ctr Bus Terminal Platform N',43.594535,-79.647031
 1846,'1846','Matheson Blvd / Venice St',43.610656,-79.687632
@@ -1852,7 +1851,6 @@
 2026,'2026','Tomken Rd / Pantera Dr',43.63071,-79.63807
 2027,'2027','Tomken Rd / Timberlea Blvd',43.628491,-79.634774
 2028,'2028','Tomken Rd / Eglinton Ave',43.626651,-79.629931
-2029,'2029','Eglinton Ave / Centennial Pk Blvd',43.655584,-79.598516
 2031,'2031','Eglinton Ave / Kennedy Rd',43.616898,-79.641865
 2033,'2033','Eglinton Ave E / Spectrum Way',43.649053,-79.606123
 2034,'2034','Eglinton Ave / Creekbank Rd',43.641152,-79.614972
@@ -1945,7 +1943,7 @@
 2125,'2125','Erin Mills Pky / Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky / Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Terminal Platform E',43.58312,-79.758783
-2128,'2128','Credit Vly Hospital',43.55862,-79.703697
+2128,'2128','Credit Vly Hosp',43.55862,-79.703697
 2129,'2129','Dream Crest Rd / Cinnamon Rd',43.589773,-79.683044
 2130,'2130','Ceremonial Dr / Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd / West Credit Ave',43.608981,-79.758003
@@ -2416,7 +2414,7 @@
 2618,'2618','Explorer Dr / Shuttle Dr',43.662889,-79.604414
 2619,'2619','Explorer Dr / Shuttle Dr',43.663323,-79.603821
 2620,'2620','Orbitor Dr / Explorer Dr',43.660903,-79.607647
-2622,'2622','Queensway / Trillium Hospital',43.572066,-79.609825
+2622,'2622','Queensway / Trillium Hosp',43.572066,-79.609825
 2623,'2623','Dixie Rd / Derry Rd',43.675948,-79.675033
 2624,'2624','Meyerside Dr / Vipond Dr',43.657189,-79.657736
 2625,'2625','Satellite Dr / Solar Dr',43.657133,-79.611566
@@ -2873,13 +2871,10 @@
 3095,'3095','Bromsgrove Rd West Of Seagull Dr',43.507975,-79.643308
 3096,'3096','Explorer Dr / Matheson Blvd',43.652298,-79.615336
 3097,'3097','Creekbank Rd / Sismet Rd',43.647247,-79.61906
-3098,'3098','Skymark Ave / Orbitor Dr',43.656935,-79.600557
-3099,'3099','Skymark Ave / Satellite Dr',43.65327,-79.605183
 3100,'3100','Derry Rd W West Of Envoy Dr',43.634006,-79.729404
 3101,'3101','Crawford Mill Ave / Buttle Sta Pl',43.629189,-79.721602
 3102,'3102','Matheson Blvd / Rose Cherry Pl',43.628461,-79.651198
 3104,'3104','Mavis Rd / Western Skies Way',43.627865,-79.716685
-3106,'3106','Satellite Dr / Eglinton Ave',43.651563,-79.603313
 3107,'3107','Kennedy Rd / Brunel Rd',43.632619,-79.66406
 3108,'3108','Mavis Rd / Boyer Blvd',43.614014,-79.698105
 3110,'3110','Kennedy Rd South Of Matheson Blvd',43.625515,-79.654884
@@ -2977,7 +2972,7 @@
 3245,'3245','Tomken Rd South Of Matheson Blvd',43.633108,-79.641321
 3246,'3246','Viscount Rd / Airway Dr',43.694436,-79.624989
 3247,'3247','Orbitor Dr / Skymark Ave',43.656683,-79.599771
-3248,'3248','Credit Vly Hospital',43.558526,-79.703993
+3248,'3248','Credit Vly Hosp',43.558526,-79.703993
 3249,'3249','Satellite Dr / Skymark Ave',43.652976,-79.605045
 3250,'3250','Aimco Blvd 2nd Stop West Of Creekbank Rd',43.644369,-79.619028
 3251,'3251','Brandon Gt Dr / Rhinebank St',43.734172,-79.639477
@@ -2986,7 +2981,6 @@
 3254,'3254','Matheson Blvd E West Of Explorer Dr',43.65018,-79.619588
 3255,'3255','Matheson Blvd / Creekbank Rd',43.648848,-79.621156
 3256,'3256','Matheson Blvd / Matheson Blvd',43.643953,-79.628125
-3257,'3257','Skymark Ave / Orbitor Dr',43.656633,-79.60049
 3258,'3258','Skymark Hub',43.663436,-79.592976
 3260,'3260','Superior Blvd 2nd Stop East Of Edwards Blvd',43.645201,-79.694754
 3261,'3261','Matheson Blvd E / Creekbank Rd',43.648408,-79.621241
@@ -3562,7 +3556,6 @@
 9101,'9101','Finch Ave / Humber College Blvd',43.734176,-79.609117
 9102,'9102','Finch Ave West Of Humber College Blvd',43.734517,-79.612002
 9103,'9103','Finch Ave / Humberline Dr',43.735135,-79.616918
-9104,'9104','Explorer Dr / Skymark Ave',43.66096,-79.595587
 9107,'9107','Rexdale Blvd / Tidemore Ave',43.714681,-79.585498
 9108,'9108','Rexdale Blvd / Martin Grv Rd',43.713694,-79.581413
 9109,'9109','Rexdale Blvd 1st Stop East Of Martin Grv Rd',43.71316,-79.57903
