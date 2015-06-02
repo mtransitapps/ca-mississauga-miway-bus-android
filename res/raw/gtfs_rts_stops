@@ -309,6 +309,7 @@
 340,'0340','Eglinton Ave W / Forum Dr',43.611575,-79.647846
 341,'0341','Ann St / Pk St',43.556109,-79.584534
 342,'0342','Port Credit Go Sta Platform C',43.555506,-79.587408
+343,'0343','Port Credit Go Sta Platform A',43.555764,-79.587179
 344,'0344','Port Credit Go Sta Platform B',43.555675,-79.587255
 345,'0345','Elizabeth St / Pk St',43.55439,-79.586716
 346,'0346','Winston Churchill Blvd / Aquitaine Ave',43.582304,-79.763234
@@ -1943,7 +1944,6 @@
 2125,'2125','Erin Mills Pky / Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky / Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Terminal Platform E',43.58312,-79.758783
-2128,'2128','Credit Vly Hosp',43.55862,-79.703697
 2129,'2129','Dream Crest Rd / Cinnamon Rd',43.589773,-79.683044
 2130,'2130','Ceremonial Dr / Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd / West Credit Ave',43.608981,-79.758003
@@ -2878,6 +2878,8 @@
 3107,'3107','Kennedy Rd / Brunel Rd',43.632619,-79.66406
 3108,'3108','Mavis Rd / Boyer Blvd',43.614014,-79.698105
 3110,'3110','Kennedy Rd South Of Matheson Blvd',43.625515,-79.654884
+3111,'3111','City Ctr Transit Terminal',43.595198,-79.645995
+3113,'3113','Kipling Sta',43.638111,-79.535069
 3114,'3114','Royal Windsor Dr 2nd Stop West Of Southdown Rd',43.505681,-79.635924
 3115,'3115','Financial Dr South Of Derry Rd',43.61096,-79.748805
 3116,'3116','Financial Dr / Creditview Rd',43.612305,-79.739247
@@ -2930,9 +2932,13 @@
 3183,'3183','Battleford Rd / Gln Erin Dr',43.582922,-79.753758
 3184,'3184','Gln Erin Dr / Meadowvale Town Ctr Cir (S Leg)',43.583894,-79.755361
 3185,'3185','Gln Erin Dr / Meadowvale Town Ctr Cir (N Leg)',43.585101,-79.757082
+3189,'3189','Mississauga Sports Ctr',43.63307,-79.653938
 3191,'3191','Envoy Dr / Tabbyman Walk',43.63507,-79.725693
 3192,'3192','Rathburn Rd / Confederation Pky',43.590116,-79.651399
+3193,'3193','Pan Am Bowling Ctr',43.651413,-79.603074
+3194,'3194','Pan Am Bowling Ctr',43.651749,-79.603066
 3195,'3195','Eglinton Ave E / Satellite Dr',43.651761,-79.603047
+3196,'3196','Centennial Pk Bmx Ctr',43.655565,-79.598549
 3197,'3197','Carlingview Dr 2nd Stop North Of Meteor Dr',43.684809,-79.594464
 3198,'3198','Queensway / Confederation Pky',43.57171,-79.610563
 3199,'3199','South Common Ctr Bus Terminal Platform G',43.544028,-79.684715
@@ -2972,8 +2978,6 @@
 3245,'3245','Tomken Rd South Of Matheson Blvd',43.633108,-79.641321
 3246,'3246','Viscount Rd / Airway Dr',43.694436,-79.624989
 3247,'3247','Orbitor Dr / Skymark Ave',43.656683,-79.599771
-3248,'3248','Credit Vly Hosp',43.558526,-79.703993
-3249,'3249','Satellite Dr / Skymark Ave',43.652976,-79.605045
 3250,'3250','Aimco Blvd 2nd Stop West Of Creekbank Rd',43.644369,-79.619028
 3251,'3251','Brandon Gt Dr / Rhinebank St',43.734172,-79.639477
 3252,'3252','Whittle Rd / Traders Blvd',43.624858,-79.67261
@@ -2982,6 +2986,7 @@
 3255,'3255','Matheson Blvd / Creekbank Rd',43.648848,-79.621156
 3256,'3256','Matheson Blvd / Matheson Blvd',43.643953,-79.628125
 3258,'3258','Skymark Hub',43.663436,-79.592976
+3259,'3259','Centennial Pk Bmx Ctr',43.656074,-79.598429
 3260,'3260','Superior Blvd 2nd Stop East Of Edwards Blvd',43.645201,-79.694754
 3261,'3261','Matheson Blvd E / Creekbank Rd',43.648408,-79.621241
 3262,'3262','Ambler Dr North Of Ronsa Crt',43.641638,-79.647935
