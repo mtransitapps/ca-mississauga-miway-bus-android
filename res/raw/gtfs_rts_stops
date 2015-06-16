@@ -3,7 +3,7 @@
 3,'0003','Folkway Dr / Greenview Crt',43.555886,-79.682569
 4,'0004','Eglinton Ave W West Of East Mill Rd',43.579357,-79.683928
 5,'0005','Spectrum Way 1st Stop North Of Eglinton Ave',43.649181,-79.607025
-6,'0006','City Ctr Bus Terminal Platform L',43.594029,-79.647334
+6,'0006','City Ctr Bus Terminal P.L',43.594029,-79.647334
 7,'0007','Spectrum Way 2nd Stop North Of Eglinton Ave',43.649728,-79.60829
 8,'0008','Spectrum Way / Matheson Blvd E',43.651879,-79.611948
 9,'0009','The Collegeway East Of Gln Erin Dr',43.537213,-79.684337
@@ -76,7 +76,7 @@
 83,'0083','Lisgar Dr / Yarrow Ave',43.573763,-79.780313
 87,'0087','Mavis Rd / Courtneypark Dr',43.623792,-79.711615
 88,'0088','Lisgar Dr / Berryman Tr',43.570222,-79.777561
-89,'0089','Clarkson Go Sta Platform B',43.51295,-79.63294
+89,'0089','Clarkson Go Sta P.5',43.51295,-79.63294
 90,'0090','Mavis Rd 1st Stop South Of Central Pky W',43.572442,-79.642394
 91,'0091','Derry Rd / Forest Pk Dr',43.581178,-79.779074
 92,'0092','Derry Rd / Tenth Line',43.584204,-79.775718
@@ -87,8 +87,8 @@
 97,'0097','Hurontario St / Courtneypark Dr W',43.637231,-79.694567
 98,'0098','Hurontario St / Annagem Blvd',43.634862,-79.691395
 99,'0099','Meadowvale Blvd / Tottington Dr',43.615138,-79.748817
-100,'0100','Clarkson Go Sta Platform F',43.512574,-79.633008
-101,'0101','Clarkson Go Sta Platform A',43.512821,-79.632839
+100,'0100','Clarkson Go Sta P.9',43.512574,-79.633008
+101,'0101','Clarkson Go Sta P.4',43.512821,-79.632839
 103,'0103','Southdown Rd / South Sheridan Way',43.521694,-79.644584
 104,'0104','Southdown Rd / Truscott Dr',43.518646,-79.640408
 105,'0105','Southdown Rd / Wiseman Crt',43.516101,-79.636914
@@ -124,7 +124,7 @@
 136,'0136','Bromsgrove Rd West Of Southdown Rd',43.514399,-79.636087
 137,'0137','Truscott Dr West Of Lockhart Rd',43.505802,-79.65757
 138,'0138','Truscott Dr / Lockhart Rd',43.5075,-79.655701
-139,'0139','Clarkson Go Sta Platform D',43.512969,-79.633264
+139,'0139','Clarkson Go Sta P.7',43.512969,-79.633264
 140,'0140','Bromsgrove Rd / Southdown Rd',43.51453,-79.634983
 141,'0141','Bromsgrove Rd 4th Stop West Of Southdown Rd',43.509641,-79.639534
 142,'0142','Bromsgrove Rd / Winston Churchill Blvd',43.500836,-79.65105
@@ -266,7 +266,7 @@
 293,'0293','Erin Mills Pky South Of Banfield Rd',43.567214,-79.718345
 295,'0295','Lakeshore Rd W / Ibar Way',43.536462,-79.602086
 296,'0296','Lakeshore Rd W / Balboa Dr',43.538479,-79.599898
-297,'0297','Clarkson Go Sta Platform C',43.513019,-79.633064
+297,'0297','Clarkson Go Sta P.6',43.513019,-79.633064
 298,'0298','Erin Mills Pky / Mcfarren Blvd',43.567683,-79.718372
 299,'0299','Erin Mills Pky / Banfield Rd',43.567353,-79.718713
 300,'0300','Ann St / Pk St',43.556082,-79.584473
@@ -282,7 +282,7 @@
 310,'0310','Bloor St W / Grn Lanes',43.644159,-79.526609
 311,'0311','Elizabeth St / High St',43.553753,-79.585505
 313,'0313','Erin Ctr Blvd / John Fraser Secondary School',43.559753,-79.715407
-314,'0314','Port Credit Go Sta Platform D',43.555435,-79.587496
+314,'0314','Port Credit Go Sta P.7',43.555435,-79.587496
 315,'0315','Atwater Ave / Cawthra Rd',43.574893,-79.573059
 318,'0318','Nahani Way East Of Forum Dr',43.613916,-79.65083
 319,'0319','Dakota Rd / Nahani Way',43.617146,-79.647634
@@ -308,13 +308,13 @@
 339,'0339','Hurontario St / Lakeshore Rd E',43.555413,-79.582136
 340,'0340','Eglinton Ave W / Forum Dr',43.611575,-79.647846
 341,'0341','Ann St / Pk St',43.556109,-79.584534
-342,'0342','Port Credit Go Sta Platform C',43.555506,-79.587408
-343,'0343','Port Credit Go Sta Platform A',43.555764,-79.587179
-344,'0344','Port Credit Go Sta Platform B',43.555675,-79.587255
+342,'0342','Port Credit Go Sta P.6',43.555506,-79.587408
+343,'0343','Port Credit Go Sta P.4',43.555764,-79.587179
+344,'0344','Port Credit Go Sta P.5',43.555675,-79.587255
 345,'0345','Elizabeth St / Pk St',43.55439,-79.586716
 346,'0346','Winston Churchill Blvd / Aquitaine Ave',43.582304,-79.763234
 347,'0347','Kennedy Rd South Of Gibraltar Dr',43.653631,-79.69255
-348,'0348','Port Credit Go Sta Platform E',43.55531,-79.587623
+348,'0348','Port Credit Go Sta P.8',43.55531,-79.587623
 349,'0349','Burnhamthorpe Rd East Of Gln Erin Dr',43.543456,-79.689301
 350,'0350','Burnhamthorpe Rd W / South Common Crt',43.544057,-79.687506
 351,'0351','Meadowvale Blvd / Mississauga Rd',43.611924,-79.755477
@@ -330,7 +330,7 @@
 361,'0361','Lakeshore Rd E / Cumberland Dr',43.559034,-79.577854
 362,'0362','Lakeshore Rd E / Woodlawn Ave',43.557967,-79.578968
 363,'0363','Lakeshore Rd E / Hurontario St',43.555098,-79.582131
-364,'0364','City Ctr Bus Terminal Platform H',43.593657,-79.646315
+364,'0364','City Ctr Bus Terminal P.H',43.593657,-79.646315
 365,'0365','Cawthra Rd / South Service Rd',43.580439,-79.580942
 366,'0366','Cawthra Rd / Arbor Rd',43.577029,-79.576786
 367,'0367','Atwater Ave West Of Cawthra Rd',43.574378,-79.573616
@@ -385,7 +385,7 @@
 422,'0422','Queensway / The West Mall',43.609221,-79.568406
 423,'0423','Dixie Rd / Kendall Rd',43.601748,-79.573416
 424,'0424','Dixie Rd / Primate Rd',43.600737,-79.571841
-426,'0426','Dixie Mall Bus Terminal Platform B',43.593759,-79.565366
+426,'0426','Dixie Mall Bus Terminal P.B',43.593759,-79.565366
 427,'0427','South Service Rd / Haig Blvd',43.592576,-79.573013
 428,'0428','South Service Rd / Dixie Mall North Access',43.59414,-79.571341
 429,'0429','Ogden Ave / South Service Rd',43.589211,-79.576041
@@ -420,7 +420,7 @@
 458,'0458','Dixie Rd / Kendall Rd',43.601319,-79.572274
 459,'0459','Dixie Rd / Sherway Dr',43.600219,-79.570726
 460,'0460','Duke Of York Blvd / Prince Of Wales Dr',43.590941,-79.645791
-461,'0461','Dixie Mall Bus Terminal Platform A',43.593852,-79.565562
+461,'0461','Dixie Mall Bus Terminal P.A',43.593852,-79.565562
 462,'0462','South Service Rd / Haig Blvd',43.592271,-79.573094
 463,'0463','South Service Rd / Applewood Rd',43.591161,-79.57431
 464,'0464','Ogden Ave / South Service Rd',43.589399,-79.576011
@@ -432,7 +432,7 @@
 470,'0470','South Service Rd / Dixie Mall Access',43.593791,-79.571498
 471,'0471','Lakeshore Rd / Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd / Forty-First St',43.590336,-79.545021
-477,'0477','City Ctr Bus Terminal Platform E',43.5938,-79.646225
+477,'0477','City Ctr Bus Terminal P.E',43.5938,-79.646225
 478,'0478','Eastgate Pky / Tahoe Blvd',43.638845,-79.610748
 479,'0479','Terry Fox Way / Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W / City Ctr Dr',43.597061,-79.644058
@@ -497,7 +497,7 @@
 543,'0543','Airport Monorail Link Sta',43.689791,-79.615589
 545,'0545','Erin Mills Pky 1st Stop South Of Dundas St W',43.536058,-79.665426
 546,'0546','Gln Erin Dr / Thomas St',43.565708,-79.728617
-547,'0547','Sheridan Ctr Bus Terminal Platform D',43.529728,-79.651619
+547,'0547','Sheridan Ctr Bus Terminal P.D',43.529728,-79.651619
 548,'0548','Dundas St W / Winston Churchill Blvd',43.523199,-79.68088
 549,'0549','Woodchester Dr / Dundas St W',43.52635,-79.676159
 550,'0550','Woodchester Dr / Thorn Lodge Dr',43.525342,-79.674634
@@ -511,7 +511,7 @@
 558,'0558','Sheridan Pk Dr East Of Speakman Dr',43.527213,-79.660535
 559,'0559','Sheridan Pk Dr / 5th Line West',43.529121,-79.658538
 562,'0562','Trillium Hosp Bus Terminal',43.572161,-79.60926
-563,'0563','Sheridan Ctr Bus Terminal Platform B',43.530089,-79.651673
+563,'0563','Sheridan Ctr Bus Terminal P.B',43.530089,-79.651673
 564,'0564','Lincoln Grn Way / Lincoln Grn Way',43.531872,-79.654727
 565,'0565','Fowler Dr / Roche Crt',43.528029,-79.651842
 566,'0566','Erin Mills Pky / Fowler Dr',43.527337,-79.651944
@@ -530,8 +530,8 @@
 583,'0583','Winston Churchill Blvd / Homelands Dr',43.518878,-79.676103
 595,'0595','Viscount Rd North Of American Dr',43.692144,-79.620065
 596,'0596','Speakman Dr East Of Flavelle Blvd',43.520266,-79.65861
-597,'0597','City Ctr Bus Terminal Platform J',43.593878,-79.646706
-598,'0598','Sheridan Ctr Bus Terminal Platform A',43.530486,-79.651751
+597,'0597','City Ctr Bus Terminal P.J',43.593878,-79.646706
+598,'0598','Sheridan Ctr Bus Terminal P.A',43.530486,-79.651751
 599,'0599','Eglinton Ave W / Erin Mills Pky',43.559412,-79.705906
 600,'0600','Glengarry Rd / Dundas St',43.556736,-79.642102
 604,'0604','Huron Pk Access Rd / Queensway',43.556208,-79.62883
@@ -573,8 +573,8 @@
 661,'0661','Central Pky W / Semenyk Crt',43.56886,-79.653929
 662,'0662','Central Pky W / Hawkestone Rd',43.570339,-79.651877
 663,'0663','Central Pky W / Wolfedale Rd',43.571574,-79.648915
-664,'0664','City Ctr Bus Terminal Platform I',43.593785,-79.646497
-665,'0665','Meadowvale Town Ctr Bus Terminal Platform D',43.583267,-79.758978
+664,'0664','City Ctr Bus Terminal P.I',43.593785,-79.646497
+665,'0665','Meadowvale Town Ctr Bus Terminal P.D',43.583267,-79.758978
 666,'0666','City Ctr Dr / Sq One Dr',43.596226,-79.642143
 667,'0667','Eglinton Ave / The Chase',43.565651,-79.699507
 669,'0669','Winston Churchill Blvd / Hornsgate Dr',43.521479,-79.680089
@@ -666,7 +666,7 @@
 762,'0762','Cawthra Rd / Melton Dr',43.588115,-79.590783
 763,'0763','Cawthra Rd / Tedwyn Dr',43.586411,-79.588395
 764,'0764','Cawthra Rd / North Service Rd',43.58517,-79.586392
-766,'0766','City Ctr Bus Terminal Platform K',43.59406,-79.646875
+766,'0766','City Ctr Bus Terminal P.K',43.59406,-79.646875
 767,'0767','Credit Vly Rd / Bay Villa Ave',43.555437,-79.70396
 768,'0768','Credit Vly Rd / Idlewilde Cres',43.554501,-79.70559
 769,'0769','Hurontario St / John St',43.583756,-79.621115
@@ -679,7 +679,7 @@
 776,'0776','Mclaughlin Rd / Regal Dr',43.614516,-79.686941
 777,'0777','Mclaughlin Rd South Of Britannia Rd',43.616171,-79.689111
 778,'0778','Tours Rd / Edenwood Dr',43.572927,-79.753729
-780,'0780','Meadowvale Town Ctr Bus Terminal Platform F',43.583109,-79.75856
+780,'0780','Meadowvale Town Ctr Bus Terminal P.F',43.583109,-79.75856
 781,'0781','Mclaughlin Rd / Regal Dr',43.614611,-79.687323
 782,'0782','Falconer Dr / Plainsman Rd',43.596186,-79.727678
 783,'0783','Britannia Rd West Of Tilsdown Rd',43.594671,-79.715458
@@ -699,9 +699,9 @@
 797,'0797','Cawthra Rd North Of Arbor Crt',43.579331,-79.579481
 799,'0799','Cawthra Rd South Of South Service Rd',43.57919,-79.57972
 800,'0800','Trelawny Cir / Forest Pk Dr',43.57628,-79.772411
-801,'0801','Islington Subway Bus Terminal Platform D',43.644789,-79.524877
+801,'0801','Islington Subway Bus Terminal P.D',43.644789,-79.524877
 802,'0802','Derry Rd / Dixie Rd',43.674301,-79.675069
-804,'0804','Islington Subway Bus Terminal Platform A',43.64468,-79.524767
+804,'0804','Islington Subway Bus Terminal P.A',43.64468,-79.524767
 805,'0805','Stanfield Rd 1st Stop North Of Middlegate Rd',43.601058,-79.586788
 806,'0806','Middlegate Rd / Stanfield Rd',43.598482,-79.585275
 807,'0807','Middlegate Rd 3rd Stop East Of Haines Rd',43.596537,-79.587439
@@ -709,7 +709,7 @@
 809,'0809','Haines Rd South Of Dundas St',43.594328,-79.592285
 810,'0810','Haines Rd / Dundas St',43.597159,-79.596246
 811,'0811','Dundas St / Aukland Rd',43.638667,-79.538002
-812,'0812','Meadowvale Town Ctr Bus Terminal Platform G',43.583367,-79.758295
+812,'0812','Meadowvale Town Ctr Bus Terminal P.G',43.583367,-79.758295
 813,'0813','Kariya Gt / City Ctr Dr',43.592117,-79.638706
 814,'0814','Dream Crest Rd / Lismic Blvd',43.58968,-79.683579
 815,'0815','Dundas St / Billingham Rd',43.630623,-79.549056
@@ -813,7 +813,7 @@
 916,'0916','Sawmill Vly Dr / Stonemason Cres (East Leg)',43.552112,-79.684088
 917,'0917','Sawmill Vly Dr / Farrier Crt',43.550995,-79.686353
 918,'0918','Folkway Dr West Of Sawmill Vly Dr',43.551409,-79.689476
-919,'0919','Meadowvale Town Ctr Bus Terminal Platform H',43.58353,-79.758391
+919,'0919','Meadowvale Town Ctr Bus Terminal P.H',43.58353,-79.758391
 920,'0920','Tranmere Dr South Of Boylen Rd',43.685172,-79.666876
 921,'0921','Middlegate Rd 2nd Stop East Of Haines Rd',43.595356,-79.588785
 922,'0922','Tomken Rd South Of Derry Rd',43.664777,-79.683874
@@ -883,7 +883,7 @@
 987,'0987','Mississauga Rd / Lapad Crt',43.557831,-79.680286
 988,'0988','Mississauga Rd / Burnhamthorpe Rd',43.553118,-79.676043
 989,'0989','Mississauga Rd / Sawmill Vly Dr',43.551537,-79.672513
-990,'0990','South Common Mall Bus Terminal Platform J',43.543095,-79.683727
+990,'0990','South Common Mall Bus Terminal P.J',43.543095,-79.683727
 991,'0991','University Of Toronto / Mississauga Campus',43.547809,-79.663549
 992,'0992','Mississauga Rd / Dundas St',43.543118,-79.660134
 993,'0993','Mississauga Rd / Dundas St',43.543059,-79.659726
@@ -906,8 +906,8 @@
 1010,'1010','Dixie Rd / Director Gt',43.672233,-79.670723
 1011,'1011','Meadowvale Blvd West Of Syntex Dr',43.605033,-79.760984
 1012,'1012','Meadowvale Blvd / Rapistan Crt',43.60427,-79.764506
-1013,'1013','South Common Ctr Bus Terminal Platform E',43.543447,-79.68391
-1014,'1014','South Common Ctr Bus Terminal Platform D',43.543251,-79.683584
+1013,'1013','South Common Ctr Bus Terminal P.E',43.543447,-79.68391
+1014,'1014','South Common Ctr Bus Terminal P.D',43.543251,-79.683584
 1015,'1015','South Millway West Of The Collegeway',43.541332,-79.682292
 1016,'1016','The Collegeway South Of South Millway',43.540137,-79.681724
 1017,'1017','The Collegeway / Hornbeam Cres',43.53788,-79.682763
@@ -952,7 +952,7 @@
 1059,'1059','Meadowvale Blvd / Rapistan Crt',43.603919,-79.765356
 1060,'1060','Meadowvale Blvd East Of Rapistan Crt',43.604441,-79.761963
 1061,'1061','Mdws Blvd / Prince George Ave',43.601464,-79.629735
-1062,'1062','South Common Ctr Bus Terminal Platform H',43.543479,-79.684238
+1062,'1062','South Common Ctr Bus Terminal P.H',43.543479,-79.684238
 1063,'1063','The Collegeway / South Commom Ctr Access Rd',43.54341,-79.680588
 1065,'1065','Dixie Rd / Mid-Way Blvd',43.668226,-79.665304
 1066,'1066','Mdws Blvd / Prince George Ave',43.601699,-79.629767
@@ -961,7 +961,7 @@
 1069,'1069','The Collegeway West Of South Millway',43.544913,-79.678959
 1071,'1071','The Collegeway / South Millway',43.545436,-79.677046
 1072,'1072','The Collegeway 1st Stop West Of Broad Hollow Gat',43.545251,-79.670831
-1073,'1073','South Common Ctr Bus Terminal Platform F',43.543917,-79.684551
+1073,'1073','South Common Ctr Bus Terminal P.F',43.543917,-79.684551
 1074,'1074','Burnhamthorpe Rd West Of Gln Erin Dr',43.542471,-79.6929
 1075,'1075','Folkway Dr / Jerring Mews',43.542392,-79.693892
 1076,'1076','Folkway Dr / Pheasant Run',43.54241,-79.696243
@@ -976,7 +976,7 @@
 1085,'1085','Folkway Dr / Sunflower Dr (West Leg)',43.5507,-79.696783
 1086,'1086','Folkway Dr / Trellis Cres',43.551171,-79.695423
 1087,'1087','The Collegeway / Broad Hollow Gt',43.543982,-79.666279
-1089,'1089','South Common Mall Bus Terminal Platform L',43.54272,-79.683107
+1089,'1089','South Common Mall Bus Terminal P.L',43.54272,-79.683107
 1090,'1090','South Millway / The Collegeway',43.541445,-79.681176
 1091,'1091','Dixie Rd / Dundas St',43.608889,-79.582949
 1092,'1092','Folkway Dr East Of Martlen Cres (East Leg)',43.545411,-79.702021
@@ -986,7 +986,7 @@
 1096,'1096','Winston Churchill Blvd / The Collegeway',43.530851,-79.692458
 1097,'1097','Winston Churchill Blvd South Of The Collegeway',43.529337,-79.69082
 1098,'1098','Winston Churchill Blvd / Laird Rd',43.525541,-79.685643
-1099,'1099','South Common Ctr Bus Terminal Platform A',43.542999,-79.683247
+1099,'1099','South Common Ctr Bus Terminal P.A',43.542999,-79.683247
 1100,'1100','Dundas St / Robinson St',43.546193,-79.652835
 1101,'1101','Dundas St / Dundas Cres',43.548981,-79.650274
 1102,'1102','Dundas St / Nanticoke Rd',43.544859,-79.655032
@@ -1105,7 +1105,7 @@
 1223,'1223','Mississauga Vly Blvd / Gwendale Cres',43.595788,-79.61076
 1224,'1224','Mississauga Vly Blvd / Bloor St',43.598951,-79.612472
 1225,'1225','Bloor St / Cawthra Rd',43.600906,-79.609614
-1226,'1226','Meadowvale Go Sta Platform A',43.596187,-79.755701
+1226,'1226','Meadowvale Go Sta P.A',43.596187,-79.755701
 1227,'1227','Mississauga Vly Blvd / Elm Dr',43.592395,-79.628764
 1228,'1228','Mississauga Vly Blvd / Arista Way',43.594718,-79.629566
 1229,'1229','Mississauga Vly Blvd East Of Arista Way',43.597462,-79.626345
@@ -1179,16 +1179,16 @@
 1300,'1300','Dixie Rd South Of Golden Orchard Dr',43.611171,-79.586874
 1301,'1301','Tomken Rd / Dundas St',43.600782,-79.593584
 1302,'1302','Dundas St West Of Constitution Blvd',43.601819,-79.592272
-1303,'1303','Islington Subway Bus Terminal Platform F',43.644915,-79.524934
+1303,'1303','Islington Subway Bus Terminal P.F',43.644915,-79.524934
 1304,'1304','Aukland Rd North Of Dundas St W',43.638863,-79.538568
 1305,'1305','Bloor St / Markland Dr (West Leg)',43.629133,-79.58028
-1306,'1306','Islington Subway Bus Terminal Platform D',43.644774,-79.524976
+1306,'1306','Islington Subway Bus Terminal P.D',43.644774,-79.524976
 1307,'1307','Burnhamthorpe Rd / Stoneham Rd',43.640623,-79.582489
 1308,'1308','Tomken Rd North Of Runningbrook Dr',43.613332,-79.611137
 1309,'1309','Burnhamthorpe Rd / Mill Rd',43.639518,-79.584201
 1310,'1310','Tomken Rd South Of Burnhamthorpe Rd',43.61289,-79.611085
 1311,'1311','Tomken Rd / Dundas St',43.600715,-79.593982
-1312,'1312','Islington Subway Bus Terminal Platform E',43.644901,-79.525047
+1312,'1312','Islington Subway Bus Terminal P.E',43.644901,-79.525047
 1313,'1313','Tomken Rd / Rymal Rd',43.602159,-79.595733
 1314,'1314','Tomken Rd / Homeric Dr',43.604075,-79.598489
 1315,'1315','Dixie Rd / Burnhamthorpe Rd',43.621955,-79.602052
@@ -1250,7 +1250,7 @@
 1371,'1371','Fairview Rd / Hanson Rd',43.586317,-79.628023
 1372,'1372','Fairview Rd / Hurontario St',43.587294,-79.626886
 1373,'1373','Confederation Pky / Central Pky W',43.582953,-79.635865
-1374,'1374','Meadowvale Town Ctr Bus Terminal Platform I',43.583658,-79.758549
+1374,'1374','Meadowvale Town Ctr Bus Terminal P.I',43.583658,-79.758549
 1375,'1375','Fairview Rd / Burdock Pl',43.588497,-79.625087
 1376,'1376','Garthwood Rd / Loyalist Dr',43.528282,-79.693033
 1377,'1377','Dundas St 1st Stop West Of Dixie Rd',43.608724,-79.584837
@@ -1278,11 +1278,11 @@
 1399,'1399','Queensway / Dixie Rd',43.604353,-79.573651
 1400,'1400','Duke Of York Blvd / Princess Royal Dr',43.589839,-79.644022
 1401,'1401','Fairview Rd / Chimo Crt',43.58063,-79.63209
-1402,'1402','City Ctr Bus Terminal Platform D',43.593938,-79.646469
-1403,'1403','City Ctr Bus Terminal Platform G',43.593565,-79.646131
+1402,'1402','City Ctr Bus Terminal P.D',43.593938,-79.646469
+1403,'1403','City Ctr Bus Terminal P.G',43.593565,-79.646131
 1404,'1404','Rathburn Rd West Of Elora Dr (East Leg)',43.586443,-79.652979
 1405,'1405','Rathburn Rd / Elora Dr West Intersection',43.584849,-79.653721
-1408,'1408','City Ctr Bus Terminal Platform O',43.594234,-79.647358
+1408,'1408','City Ctr Bus Terminal P.O',43.594234,-79.647358
 1409,'1409','Donway Dr / Bancroft Dr',43.61549,-79.704443
 1410,'1410','Creditview Rd / Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr / Castlebridge Dr',43.568218,-79.731648
@@ -1293,13 +1293,13 @@
 1416,'1416','Rathburn Rd / Elora Dr (West Leg)',43.584343,-79.653571
 1417,'1417','Creditview Rd / Carolyn Dr',43.585475,-79.695327
 1418,'1418','Derry Rd / Meadowvale Blvd',43.614359,-79.744663
-1419,'1419','City Ctr Bus Terminal Platform F',43.593625,-79.645919
+1419,'1419','City Ctr Bus Terminal P.F',43.593625,-79.645919
 1421,'1421','Burnhamthorpe Rd W / Living Arts Dr',43.587101,-79.643204
 1422,'1422','Burnhamthorpe Rd W / Confederation Pky',43.585627,-79.644872
 1423,'1423','Derry Rd West Of Meadowvale Blvd',43.613266,-79.746378
 1424,'1424','Rathburn Rd / Elora Dr (East Leg)',43.587536,-79.652521
 1425,'1425','City Ctr Dr 2nd South Of Robert Speck Pky',43.593191,-79.638917
-1426,'1426','City Ctr Bus Terminal Platform C',43.594301,-79.646672
+1426,'1426','City Ctr Bus Terminal P.C',43.594301,-79.646672
 1427,'1427','Duke Of York Blvd / Princess Royal Dr',43.589918,-79.644565
 1428,'1428','Living Arts Dr / Prince Of Wales Dr',43.589695,-79.647075
 1429,'1429','Winterton Way / Heatherleigh Ave',43.594054,-79.677141
@@ -1329,7 +1329,7 @@
 1456,'1456','Rathburn Rd / Duke Of York Blvd',43.592509,-79.648929
 1458,'1458','Aquitaine Ave East Of Formentera Ave',43.584834,-79.760668
 1459,'1459','Bristol Rd W / Bathgate Rd',43.58575,-79.698913
-1460,'1460','Erindale Go Sta Platform A',43.567012,-79.668081
+1460,'1460','Erindale Go Sta P.A',43.567012,-79.668081
 1461,'1461','Bristol Rd / River Grv Ave',43.584142,-79.703147
 1462,'1462','River Grv Ave / Stillriver Cres',43.586547,-79.704817
 1463,'1463','River Grv Ave / Willow Way',43.588265,-79.707047
@@ -1344,7 +1344,7 @@
 1472,'1472','Burnhamthorpe Rd W / Wolfedale Rd',43.576652,-79.655018
 1473,'1473','Burnhamthorpe Rd W / Perivale Rd',43.573623,-79.658529
 1474,'1474','Burnhamthorpe Rd W / Erindale Sta Rd',43.570399,-79.662315
-1475,'1475','Erindale Go Sta Platform B',43.567054,-79.668327
+1475,'1475','Erindale Go Sta P.B',43.567054,-79.668327
 1476,'1476','Burnhamthorpe Rd W / Elora Dr',43.582011,-79.648991
 1477,'1477','Burnhamthorpe Rd W / Mavis Rd',43.579824,-79.651393
 1478,'1478','Creditview Rd / Rose Haven Rd',43.573253,-79.676172
@@ -1489,7 +1489,7 @@
 1629,'1629','Mississauga Rd / The Collegeway',43.544908,-79.663028
 1630,'1630','Eglinton Ave / Fairwind Dr',43.602173,-79.65839
 1631,'1631','Orr Rd East Of Southdown Rd',43.506034,-79.621826
-1632,'1632','Islington Subway Bus Terminal Platform C',43.644624,-79.525004
+1632,'1632','Islington Subway Bus Terminal P.C',43.644624,-79.525004
 1633,'1633','Eglinton Ave West Of Creditview Rd',43.577301,-79.686053
 1634,'1634','Bristol Rd W / Fairwind Dr',43.605805,-79.669436
 1635,'1635','Bristol Rd W / Swiftcurrent Trl',43.6099,-79.668516
@@ -1536,13 +1536,13 @@
 1677,'1677','Meyerside Dr / Bonhill Rd',43.661344,-79.65293
 1678,'1678','Dundas St / 5th Line West',43.535885,-79.667633
 1681,'1681','Morning Star Dr / Airport Rd',43.710254,-79.649738
-1682,'1682','Sheridan Ctr Bus Terminal Platform C',43.529917,-79.651652
+1682,'1682','Sheridan Ctr Bus Terminal P.C',43.529917,-79.651652
 1683,'1683','Lakeshore Rd E / Greaves Ave',43.571794,-79.564278
 1684,'1684','Winston Churchill Blvd / Royal Windsor Dr',43.496399,-79.645342
 1685,'1685','Bonhill Rd / Trinity Dr',43.659915,-79.650643
 1688,'1688','Edenwood Dr / Tours Rd',43.57315,-79.753576
-1689,'1689','Erin Mills Town Ctr Bus Terminal Platform F',43.560745,-79.711598
-1690,'1690','Cawthra Sta East Platform A',43.616433,-79.628585
+1689,'1689','Erin Mills Town Ctr Bus Terminal P.F',43.560745,-79.711598
+1690,'1690','Cawthra Sta East P.A',43.616433,-79.628585
 1691,'1691','Webb Dr West Of Duke Of York Blvd',43.586451,-79.64079
 1692,'1692','Duke Of York Blvd North Of Webb Dr',43.587978,-79.641026
 1693,'1693','Britannia Rd / Tenth Line',43.564065,-79.749429
@@ -1566,8 +1566,8 @@
 1711,'1711','Mississauga Rd / Thorny-Brae Pl',43.567557,-79.694512
 1712,'1712','Gln Erin Dr / Thomas St',43.565529,-79.72789
 1713,'1713','Silken Laumann Way / Ivandale Dr',43.60861,-79.702745
-1714,'1714','Central Parkway Sta East Platform A',43.607769,-79.635966
-1716,'1716','Central Parkway Sta West Platform B',43.607892,-79.636173
+1714,'1714','Central Parkway Sta East P.A',43.607769,-79.635966
+1716,'1716','Central Parkway Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky / Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky / Burnhamthorpe Rd',43.54659,-79.683861
 1719,'1719','Erin Mills Pky / Burnhamthorpe Rd',43.547901,-79.68512
@@ -1575,7 +1575,7 @@
 1721,'1721','Erin Mills Pky / Credit Vly Rd',43.556498,-79.701424
 1722,'1722','Mississauga Rd / Tattersall Way',43.565886,-79.692493
 1725,'1725','Eglinton Ave / The Chase',43.565138,-79.699579
-1726,'1726','Cawthra Sta West Platform B',43.616483,-79.628971
+1726,'1726','Cawthra Sta West P.B',43.616483,-79.628971
 1727,'1727','Explorer Dr / Satellite Dr',43.658686,-79.612947
 1728,'1728','Mississauga Rd / Tattersall Way',43.565828,-79.692172
 1729,'1729','Carlingview Dr / Constellation Crt',43.690747,-79.597178
@@ -1603,8 +1603,8 @@
 1754,'1754','Bancroft Dr / Silken Laumann Way',43.611789,-79.707534
 1755,'1755','Orlando Dr / Viscount Rd',43.696718,-79.627996
 1756,'1756','Erin Mills Pky / Eglinton Ave W',43.55853,-79.705949
-1757,'1757','Erin Mills Town Ctr Bus Terminal Platform A',43.560474,-79.710712
-1758,'1758','Erin Mills Town Ctr Bus Terminal Platform D',43.56039,-79.713574
+1757,'1757','Erin Mills Town Ctr Bus Terminal P.A',43.560474,-79.710712
+1758,'1758','Erin Mills Town Ctr Bus Terminal P.D',43.56039,-79.713574
 1759,'1759','Erin Mills Pky / Thomas St',43.569817,-79.722438
 1760,'1760','Erin Mills Pky / Vista Blvd',43.573649,-79.727695
 1761,'1761','Erin Mills Pky / Wickham Rd',43.572825,-79.727316
@@ -1680,7 +1680,7 @@
 1840,'1840','Matheson Blvd / Keaton Cres (West Leg)',43.614323,-79.682707
 1841,'1841','Falbourne St North Of Matheson Blvd W',43.616747,-79.68097
 1844,'1844','Rathburn Rd / Sherwoodtowne Blvd',43.599845,-79.639696
-1845,'1845','City Ctr Bus Terminal Platform N',43.594535,-79.647031
+1845,'1845','City Ctr Bus Terminal P.N',43.594535,-79.647031
 1846,'1846','Matheson Blvd / Venice St',43.610656,-79.687632
 1847,'1847','Matheson Blvd / Keaton Cres (East Leg)',43.615256,-79.679266
 1848,'1848','Bristol Rd W / Sweetgrass Gt',43.594805,-79.686044
@@ -1943,7 +1943,7 @@
 2123,'2123','Indian Rd / Madigans Ln',43.546289,-79.607528
 2125,'2125','Erin Mills Pky / Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky / Britannia Rd',43.578761,-79.734052
-2127,'2127','Meadowvale Town Ctr Bus Terminal Platform E',43.58312,-79.758783
+2127,'2127','Meadowvale Town Ctr Bus Terminal P.E',43.58312,-79.758783
 2129,'2129','Dream Crest Rd / Cinnamon Rd',43.589773,-79.683044
 2130,'2130','Ceremonial Dr / Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd / West Credit Ave',43.608981,-79.758003
@@ -1985,7 +1985,7 @@
 2171,'2171','Tranmere Dr 2nd Stop West Of Telford Way',43.681455,-79.67475
 2172,'2172','Tranmere Dr South Of Drew Rd',43.68231,-79.677821
 2173,'2173','Creditview Rd / Bristol Rd',43.586843,-79.697663
-2174,'2174','Erin Mills Town Ctr Bus Terminal Platform E',43.560333,-79.713315
+2174,'2174','Erin Mills Town Ctr Bus Terminal P.E',43.560333,-79.713315
 2175,'2175','Drew Rd West Of Torbram Rd',43.698334,-79.660616
 2176,'2176','Drew Rd / Kimbel St',43.695792,-79.663402
 2177,'2177','Drew Rd / David Hunting Dr',43.69365,-79.665783
@@ -1993,7 +1993,7 @@
 2179,'2179','Tranmere Dr South Of Drew Rd',43.687919,-79.670836
 2180,'2180','Tranmere Dr / Gage Crt',43.686721,-79.669249
 2181,'2181','Britannia Rd / Terry Fox Way',43.607061,-79.701155
-2182,'2182','Hurontario & 407 Pk And Ride Platform A',43.652482,-79.711404
+2182,'2182','Hurontario & 407 Pk And Ride P.A',43.652482,-79.711404
 2183,'2183','Donway Dr / Blyleven Blvd',43.61663,-79.707269
 2184,'2184','Tomken Rd / Nuvik Crt',43.627885,-79.631502
 2185,'2185','Tomken Rd / Brevik Pl',43.634819,-79.64363
@@ -2037,7 +2037,7 @@
 2225,'2225','Montevideo Rd / Barrisdale Dr',43.590487,-79.753069
 2226,'2226','Montevideo Rd / Treviso Crt',43.58688,-79.749279
 2227,'2227','Creditview Rd / Pickwick Dr',43.592394,-79.70515
-2228,'2228','Meadowvale Town Ctr Bus Terminal Platform C',43.583429,-79.759
+2228,'2228','Meadowvale Town Ctr Bus Terminal P.C',43.583429,-79.759
 2229,'2229','Creditview Rd / Willow Way',43.590556,-79.702674
 2230,'2230','Viscount Rd / American Dr',43.69147,-79.619028
 2231,'2231','Dixie Rd 2nd Stop South Of Drew Rd',43.676844,-79.676973
@@ -2053,7 +2053,7 @@
 2241,'2241','Windwood Dr / Bucklepost Cres',43.575334,-79.740861
 2242,'2242','Windwood Dr / Gln Erin Dr',43.575925,-79.739759
 2243,'2243','Windwood Dr / Featherhead Cres',43.577823,-79.737131
-2244,'2244','Meadowvale Town Ctr Bus Terminal Platform B',43.583609,-79.759033
+2244,'2244','Meadowvale Town Ctr Bus Terminal P.B',43.583609,-79.759033
 2245,'2245','Windwood Dr / Wabukayne Crt',43.579561,-79.737107
 2246,'2246','Windwood Dr / Cheega Crt',43.578311,-79.737269
 2247,'2247','Windwood Dr / Gln Erin Dr',43.57628,-79.739306
@@ -2075,7 +2075,7 @@
 2263,'2263','Montevideo Rd / Barrisdale Dr',43.590709,-79.752842
 2264,'2264','Aquitaine Ave 1st Stop West Of Montevideo Rd',43.589486,-79.756261
 2265,'2265','Aquitaine Ave / Gln Erin Dr',43.58656,-79.758737
-2266,'2266','Meadowvale Town Ctr Bus Terminal Platform J',43.583898,-79.758828
+2266,'2266','Meadowvale Town Ctr Bus Terminal P.J',43.583898,-79.758828
 2267,'2267','Cawthra Rd / Santee Gt',43.599291,-79.606418
 2268,'2268','Bloor St / Cawthra Rd',43.600672,-79.610375
 2269,'2269','Bloor St / Mississauga Vly Blvd',43.599241,-79.612638
@@ -2131,7 +2131,7 @@
 2323,'2323','Morning Star Dr / Collet Rd',43.710002,-79.649805
 2324,'2324','Morning Star Dr / Lancaster Ave',43.712784,-79.647471
 2325,'2325','Windwood Dr / Townwood Crt',43.574219,-79.747584
-2326,'2326','Meadowvale Go Sta Platform A',43.596148,-79.755432
+2326,'2326','Meadowvale Go Sta P.A',43.596148,-79.755432
 2327,'2327','Britannia Rd / Latimer Dr',43.60944,-79.698972
 2328,'2328','Derry Rd / Danton Promenade',43.586351,-79.773581
 2329,'2329','Winston Churchill Blvd 3rd North Of Lakeshore',43.487432,-79.633169
@@ -2492,12 +2492,12 @@
 2700,'2700','Humber College Blvd / Hwy 27',43.730295,-79.601732
 2701,'2701','Tomken Rd South Of Canadian Pl',43.624092,-79.626036
 2702,'2702','Catalpa Rd / Twilight Rd',43.72048,-79.643884
-2703,'2703','Tomken Sta West Platform B',43.621777,-79.623496
+2703,'2703','Tomken Sta West P.B',43.621777,-79.623496
 2704,'2704','Rexwood Rd / Nashua Dr (North Leg)',43.714776,-79.6261
 2705,'2705','York St / Scarboro St',43.705488,-79.648777
-2706,'2706','Tomken Sta East Platform A',43.621769,-79.623491
+2706,'2706','Tomken Sta East P.A',43.621769,-79.623491
 2707,'2707','Goreway Dr / Dorcas St',43.71519,-79.634035
-2708,'2708','Westwood Mall Bus Terminal Platform H',43.721326,-79.640559
+2708,'2708','Westwood Mall Bus Terminal P.H',43.721326,-79.640559
 2709,'2709','Derry Rd / Legion Rd',43.70967,-79.636258
 2710,'2710','Derry Rd / Malton Go Sta Acrd',43.706634,-79.639083
 2711,'2711','Goreway Dr / Derry Rd',43.713077,-79.631216
@@ -2590,7 +2590,7 @@
 2801,'2801','Goreway Dr / Dorcas St',43.71503,-79.633456
 2802,'2802','Goreway Dr / Etude Dr',43.717079,-79.636152
 2803,'2803','Darcel Ave / Morning Star Dr',43.724958,-79.637712
-2804,'2804','Westwood Mall Bus Terminal Platform B',43.721594,-79.641084
+2804,'2804','Westwood Mall Bus Terminal P.B',43.721594,-79.641084
 2805,'2805','Brandon Gt Dr / Wildfern Dr',43.733192,-79.641126
 2806,'2806','Brandon Gt Dr / Darcel Ave',43.732056,-79.634894
 2807,'2807','Brandon Gt Dr / Sigsbee Dr',43.731621,-79.633215
@@ -2633,18 +2633,18 @@
 2845,'2845','Morning Star Dr / Brandon Gt Dr',43.72528,-79.627735
 2846,'2846','Morning Star Dr / Harwick Dr',43.725268,-79.632019
 2847,'2847','Morning Star Dr / Wainbrook Rd',43.724818,-79.634264
-2848,'2848','Westwood Mall Bus Terminal Platform J',43.721635,-79.640207
-2849,'2849','Westwood Mall Bus Terminal Platform E',43.721799,-79.640496
-2850,'2850','Westwood Mall Bus Terminal Platform A',43.721735,-79.640971
+2848,'2848','Westwood Mall Bus Terminal P.J',43.721635,-79.640207
+2849,'2849','Westwood Mall Bus Terminal P.E',43.721799,-79.640496
+2850,'2850','Westwood Mall Bus Terminal P.A',43.721735,-79.640971
 2851,'2851','John Garland Blvd [To] / Finch Ave',43.735636,-79.594554
 2852,'2852','Humber College Blvd / Finch Ave W',43.733198,-79.610182
-2853,'2853','Westwood Mall Bus Terminal Platform C',43.721469,-79.640814
+2853,'2853','Westwood Mall Bus Terminal P.C',43.721469,-79.640814
 2854,'2854','Goreway Dr North Of Morning Star Dr',43.722957,-79.6443
 2855,'2855','Brandon Gt Dr East Of Goreway Dr',43.726006,-79.647087
 2856,'2856','Brandon Gt Dr / Monica Dr',43.728083,-79.645302
 2857,'2857','Brandon Gt Dr / Lockington Cres',43.729849,-79.643884
 2858,'2858','Brandon Gt Dr / Rockhill Rd',43.73186,-79.642659
-2859,'2859','Westwood Mall Bus Terminal Platform F',43.721665,-79.640585
+2859,'2859','Westwood Mall Bus Terminal P.F',43.721665,-79.640585
 2860,'2860','Morning Star Dr East Of Goreway Dr',43.723639,-79.639592
 2862,'2862','Rexdale Blvd / Islington Ave',43.71424,-79.55671
 2863,'2863','Rexdale Blvd / Bergamot Ave',43.713484,-79.559608
@@ -2659,7 +2659,7 @@
 2872,'2872','Darcel Ave / Monica Dr',43.72694,-79.639318
 2873,'2873','Darcel Ave / Middleshire Dr',43.730457,-79.635948
 2874,'2874','Finch Ave / Humberline Dr',43.734907,-79.618202
-2875,'2875','Westwood Mall Bus Terminal Platform G',43.721431,-79.64081
+2875,'2875','Westwood Mall Bus Terminal P.G',43.721431,-79.64081
 2876,'2876','Darcel Ave / Monica Dr',43.727105,-79.639563
 2877,'2877','Darcel Ave / Middleshire Dr',43.730486,-79.636134
 2879,'2879','Rexdale Blvd / Precision Rd',43.71589,-79.589355
@@ -2684,7 +2684,7 @@
 2899,'2899','Darcel Ave / Netherbrae Rd',43.720334,-79.62673
 2900,'2900','Rexwood Rd South Of Derry Rd',43.715319,-79.626771
 2901,'2901','Airport Rd / 427 Hwy',43.686042,-79.603294
-2902,'2902','Malton Go Sta Acrd',43.705251,-79.637922
+2902,'2902','Malton Go Sta P.4',43.705251,-79.637922
 2903,'2903','Nashua Dr 4th Stop East Of Rexwood Rd',43.713827,-79.62025
 2904,'2904','Renforth Dr / Convair Dr',43.672067,-79.593095
 2905,'2905','Renforth Dr / Convair Dr',43.672356,-79.593688
@@ -2705,7 +2705,7 @@
 2920,'2920','Airport Rd North Of Northwest Dr',43.70056,-79.637905
 2921,'2921','Confederation Pky / Huntington Rdg Dr',43.594353,-79.658774
 2922,'2922','Speakman Dr 2nd Stop West Of Flavelle Blvd',43.514179,-79.664016
-2923,'2923','Woodbine Ctr Bus Terminal Platform A',43.719654,-79.602542
+2923,'2923','Woodbine Ctr Bus Terminal P.A',43.719654,-79.602542
 2924,'2924','Derry Rd / Professional Crt',43.709292,-79.636267
 2925,'2925','Airport Rd South Of Derry Rd',43.701903,-79.640282
 2926,'2926','Confederation Pky / Huntington Rdg Dr',43.594394,-79.658377
@@ -2911,7 +2911,7 @@
 3145,'3145','Argentia Rd West Of Winston Churchill Blvd',43.594322,-79.787369
 3146,'3146','Argentia Rd / Winston Churchill Blvd',43.597035,-79.784694
 3147,'3147','Bristol Rd W East Of Creditview Rd',43.587288,-79.696353
-3150,'3150','Islington Subway Bus Terminal Platform B',43.644654,-79.524883
+3150,'3150','Islington Subway Bus Terminal P.B',43.644654,-79.524883
 3160,'3160','Central Pky West Of Mavis Rd',43.573923,-79.647277
 3163,'3163','Courtneypark Dr West Of Kennedy Rd',43.647065,-79.685352
 3168,'3168','Mavis Rd / Paisley Blvd',43.563204,-79.62804
@@ -2941,7 +2941,7 @@
 3196,'3196','Centennial Pk Bmx Ctr',43.655565,-79.598549
 3197,'3197','Carlingview Dr 2nd Stop North Of Meteor Dr',43.684809,-79.594464
 3198,'3198','Queensway / Confederation Pky',43.57171,-79.610563
-3199,'3199','South Common Ctr Bus Terminal Platform G',43.544028,-79.684715
+3199,'3199','South Common Ctr Bus Terminal P.G',43.544028,-79.684715
 3200,'3200','Derry Rd / Syntex Dr',43.604836,-79.754446
 3201,'3201','Derry Rd / Mississauga Rd',43.609595,-79.752452
 3202,'3202','Derry Rd / Creditview Rd',43.613825,-79.744842
@@ -2954,13 +2954,13 @@
 3212,'3212','Creekbank Rd / Aimco Blvd',43.645311,-79.616774
 3213,'3213','Creekbank Rd / Eglinton Ave',43.641434,-79.614928
 3214,'3214','Eastgate Pky South Of Eglinton Ave E',43.639465,-79.612159
-3218,'3218','Erin Mills Town Ctr Bus Terminal Platform C',43.560434,-79.713561
+3218,'3218','Erin Mills Town Ctr Bus Terminal P.C',43.560434,-79.713561
 3219,'3219','Erin Ctr Blvd / John Fraser Secondary School',43.559789,-79.715407
-3220,'3220','Dixie Sta West Platform B',43.629887,-79.614905
+3220,'3220','Dixie Sta West P.B',43.629887,-79.614905
 3221,'3221','Gln Erin Dr / Erin Ctr Blvd',43.556765,-79.71635
 3222,'3222','Gln Erin Dr / Hazelton Pl',43.555082,-79.714009
 3224,'3224','Confederation Pkwy / Prince Of Wales Dr',43.588171,-79.648867
-3225,'3225','Dixie Sta East Platform A',43.62986,-79.614727
+3225,'3225','Dixie Sta East P.A',43.62986,-79.614727
 3226,'3226','Derry Rd East Of Bramalea Rd',43.687126,-79.660691
 3228,'3228','Aimco Blvd West Of Creekbank Rd',43.645308,-79.617969
 3229,'3229','Aimco Blvd 3rd Stop West Of Creekbank Rd',43.642862,-79.620686
@@ -3014,7 +3014,7 @@
 3295,'3295','Cactus Gt / Tobias Mason Pk',43.588213,-79.786983
 3296,'3296','Tenth Line / Doverwood Dr',43.59063,-79.785597
 3297,'3297','Tenth Line / Crimson King Cir',43.590596,-79.785858
-3298,'3298','Lisgar Go Sta Platform A',43.592105,-79.788278
+3298,'3298','Lisgar Go Sta P.A',43.592105,-79.788278
 3300,'3300','Carlingview Dr / Meteor Dr',43.68092,-79.593066
 3301,'3301','Carlingview Dr South Of Meteor Dr',43.677733,-79.591627
 3302,'3302','Eglinton Ave / Metcalfe Ave',43.55673,-79.709244
@@ -3039,7 +3039,7 @@
 3325,'3325','Middlesex Gt / Aquinas Ave',43.542599,-79.722555
 3326,'3326','Aquinas Ave / Sebastian Dr',43.54045,-79.724383
 3332,'3332','Artesian Dr / Columbo Cres',43.544368,-79.716477
-3333,'3333','City Ctr Bus Terminal Platform A',43.594756,-79.646548
+3333,'3333','City Ctr Bus Terminal P.A',43.594756,-79.646548
 3334,'3334','Artesian Dr East Of Half Moon Grv',43.546046,-79.715203
 3335,'3335','Erin Ctr Blvd / Dubonet Dr',43.548231,-79.726967
 3336,'3336','Erin Ctr Blvd West Of Winston Churchill Blvd',43.552452,-79.72356
@@ -3057,7 +3057,7 @@
 3370,'3370','Canadas Wonderland',43.837873,-79.538912
 3399,'3399','Erin Ctr Blvd / Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd / Gln Erin Dr',43.55726,-79.717961
-3402,'3402','Erin Mills Town Ctr Bus Terminal Platform B',43.560493,-79.710736
+3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
 3403,'3403','Erin Ctr Blvd / Gln Erin Dr',43.557939,-79.717464
 3404,'3404','Erin Ctr Blvd / Russell Vw Rd',43.55569,-79.720038
 3406,'3406','Bristol Rd W / Hurontario St',43.613761,-79.664527
@@ -3126,7 +3126,7 @@
 3689,'3689','Meadowpine Blvd West Of Meadowvale Blvd',43.60461,-79.770978
 3700,'3700','Kennedy Rd / Edwards Blvd',43.640786,-79.674925
 3701,'3701','Kennedy Rd / Edwards Blvd',43.640892,-79.675481
-3702,'3702','Clarkson Go Sta Platform C',43.512999,-79.633144
+3702,'3702','Clarkson Go Sta P.6',43.512999,-79.633144
 3720,'3720','Winston Churchill Blvd / Beryl Rd',43.494109,-79.642171
 3800,'3800','Argentia Rd West Of Winston Churchill Blvd',43.594304,-79.787381
 3801,'3801','Argentia Rd / Winston Churchill Blvd',43.596986,-79.784701
@@ -3154,9 +3154,9 @@
 4003,'4003','Hurontario St / Burnhamthorpe Rd E',43.593553,-79.634548
 4005,'4005','Hurontario St / Burnhamthorpe Rd W',43.593801,-79.63567
 4006,'4006','Hurontario St / Kingsway Dr',43.647225,-79.707491
-4007,'4007','South Common Ctr Bus Terminal Platform C',43.543128,-79.683419
-4008,'4008','South Common Ctr Bus Terminal Platform I',43.543269,-79.683933
-4009,'4009','Clarkson Go Sta Platform E',43.512689,-79.633209
+4007,'4007','South Common Ctr Bus Terminal P.C',43.543128,-79.683419
+4008,'4008','South Common Ctr Bus Terminal P.I',43.543269,-79.683933
+4009,'4009','Clarkson Go Sta P.8',43.512689,-79.633209
 4010,'4010','Lisgar Dr North Of Doug Leavens Blvd',43.56808,-79.774323
 4011,'4011','Doug Leavens Blvd / Trelawny Cir',43.570933,-79.77081
 4020,'4020','Living Arts Dr / Rathburn Rd',43.590996,-79.649657
@@ -3171,7 +3171,7 @@
 4111,'4111','Churchill Mdws Blvd / Deepwood Hts',43.549593,-79.743465
 4112,'4112','Churchill Mdws Blvd / Thomas St',43.551842,-79.746525
 4113,'4113','Churchill Mdws Blvd South Of Arbourview Ter',43.550291,-79.744725
-4114,'4114','Erin Mills Town Ctr Bus Terminal Platform G',43.556209,-79.710976
+4114,'4114','Erin Mills Town Ctr Bus Terminal P.G',43.556209,-79.710976
 4115,'4115','Thomas St / Passion Flower Blvd',43.554945,-79.743811
 4116,'4116','Thomas St / Tenth Line',43.558357,-79.741314
 4117,'4117','Thomas St / Oscar Peterson Blvd',43.559554,-79.73752
@@ -3187,15 +3187,15 @@
 4204,'4204','Financial Dr 2nd Stop West Of Creditview Rd',43.609642,-79.741704
 4205,'4205','Financial Dr 1st Stop West Of Creditview Rd',43.610548,-79.739275
 4213,'4213','Hurontario St / Kingsway Dr',43.647298,-79.708048
-4288,'4288','City Ctr Bus Terminal Platform M',43.593753,-79.647601
-4300,'4300','South Common Mall Bus Terminal Platform B',43.543064,-79.683335
+4288,'4288','City Ctr Bus Terminal P.M',43.593753,-79.647601
+4300,'4300','South Common Mall Bus Terminal P.B',43.543064,-79.683335
 4500,'4500','Royal Windsor Dr / Winston Churchill Blvd',43.497174,-79.645207
 4501,'4501','Winston Churchill Blvd / Bromsgrove Rd',43.500519,-79.650933
 4502,'4502','Winston Churchill Blvd / Benedet Dr',43.507383,-79.660355
 4505,'4505','Winston Churchill Blvd / Burnhamthorpe Rd',43.536175,-79.699781
 4506,'4506','Winston Churchill Blvd / Unity Gt',43.53942,-79.70413
 4507,'4507','Winston Churchill Blvd / Credit Vly Rd',43.546736,-79.714087
-4508,'4508','Clarkson Go Sta Platform F',43.512603,-79.63306
+4508,'4508','Clarkson Go Sta P.9',43.512603,-79.63306
 4509,'4509','Winston Pk Dr / Plymouth Dr',43.510148,-79.674938
 4510,'4510','Derry Rd W / Copenhagen Rd',43.591037,-79.768147
 4512,'4512','Winston Churchill Blvd / Eglinton Ave',43.549174,-79.717898
@@ -3249,7 +3249,7 @@
 4916,'4916','Thomas St / Highbank Rd',43.571007,-79.720914
 4917,'4917','Thomas St / Northrise Rd',43.572216,-79.719564
 4918,'4918','Thomas St East Of Joymar Dr',43.578,-79.714215
-4920,'4920','Streetsville Go Sta Platform A',43.575484,-79.71057
+4920,'4920','Streetsville Go Sta P.3',43.575484,-79.71057
 4921,'4921','Thomas St / Wareham Dr',43.572549,-79.719507
 4922,'4922','Thomas St / Erin Mills Pky',43.570379,-79.721955
 4923,'4923','Thomas St West Of Erin Mills Pky',43.569018,-79.724201
@@ -3391,7 +3391,7 @@
 6123,'6123','Mavis Rd 2nd Stop South Of Central Pky W',43.570015,-79.638906
 6124,'6124','Mavis Rd / Cantay Rd',43.616994,-79.702081
 6125,'6125','Mavis Rd / Britannia Rd',43.612155,-79.69615
-6126,'6126','Cooksville Go Sta Platform A',43.582013,-79.623513
+6126,'6126','Cooksville Go Sta P.2',43.582013,-79.623513
 6127,'6127','Hillcrest Ave / Confederation Pky',43.579382,-79.624167
 6128,'6128','Hillcrest Ave / Parkerhill Rd',43.577791,-79.625826
 6129,'6129','Hillcrest Ave / High Spgs Cres',43.575998,-79.628777
@@ -3426,7 +3426,7 @@
 6168,'6168','Mclaughlin Rd / Derry Rd',43.636961,-79.717718
 6169,'6169','Twain Ave / Magistrate Terr',43.6392,-79.726262
 6170,'6170','Hillcrest Ave / Pearwood Pl',43.574929,-79.630436
-6171,'6171','City Ctr Bus Terminal Platform B',43.594595,-79.646442
+6171,'6171','City Ctr Bus Terminal P.B',43.594595,-79.646442
 6172,'6172','Westbridge Way / Lilford Gt',43.617999,-79.751063
 6182,'6182','Twain Ave / Magistrate Terr',43.639006,-79.726651
 6183,'6183','Mavis Rd South Of Twain Ave',43.636909,-79.727563
@@ -3464,7 +3464,7 @@
 6621,'6621','Mclaughlin Rd / Rothschild Trl',43.63236,-79.711369
 6622,'6622','Mclaughlin Rd / Navigator Dr',43.62842,-79.706025
 6623,'6623','Mclaughlin Rd / Courtneypark Dr',43.626418,-79.703415
-6624,'6624','Sheridan College Brampton Campus Platform B',43.656359,-79.740136
+6624,'6624','Sheridan College Brampton Campus P.B',43.656359,-79.740136
 6627,'6627','Mclaughlin Rd 2nd Stop South Of Cantay Rd',43.618964,-79.693214
 6670,'6670','Mclaughlin Rd / Rossellini Dr',43.643182,-79.725633
 6810,'6810','Winterton Way / Stapleford Ter',43.599668,-79.671343
@@ -3474,8 +3474,8 @@
 6814,'6814','Guildwood Way / Constellation Dr',43.596371,-79.667327
 6815,'6815','Windsor Hl Blvd / Terry Fox Way',43.592965,-79.682628
 6880,'6880','Financial Dr 1st Stop South Of Syntex Crt',43.609308,-79.745097
-7100,'7100','Westwood Mall Bus Terminal Platform K',43.72189,-79.640859
-7200,'7200','Humber College North Campus Platform A',43.729473,-79.605632
+7100,'7100','Westwood Mall Bus Terminal P.K',43.72189,-79.640859
+7200,'7200','Humber College North Campus P.A',43.729473,-79.605632
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St / Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St / Paulart Dr',43.631092,-79.546306
