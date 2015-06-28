@@ -5,7 +5,7 @@ Mississauga MiWay buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 12, 2015 to August 2, 2015.
+Schedule from June 29, 2015 to August 2, 2015.
 Tweets from @MiWayHelps.
 News from miwayblog.ca.
 ----------
