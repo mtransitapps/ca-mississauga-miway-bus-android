@@ -283,7 +283,6 @@
 311,'0311','Elizabeth St / High St',43.553753,-79.585505
 313,'0313','Erin Ctr Blvd / John Fraser Secondary School',43.559753,-79.715407
 314,'0314','Port Credit Go Sta P.7',43.555435,-79.587496
-315,'0315','Atwater Ave / Cawthra Rd',43.574893,-79.573059
 318,'0318','Nahani Way East Of Forum Dr',43.613916,-79.65083
 319,'0319','Dakota Rd / Nahani Way',43.617146,-79.647634
 320,'0320','Winston Churchill Blvd / North Sheridan Way',43.513331,-79.668579
@@ -434,11 +433,9 @@
 472,'0472','Lakeshore Rd / Forty-First St',43.590336,-79.545021
 477,'0477','City Ctr Bus Terminal P.E',43.5938,-79.646225
 478,'0478','Eastgate Pky / Tahoe Blvd',43.638845,-79.610748
-479,'0479','Terry Fox Way / Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W / City Ctr Dr',43.597061,-79.644058
 481,'0481','City Ctr Dr / Sq One Dr',43.596141,-79.642406
 482,'0482','Eglinton Ave / Hurontario St',43.607248,-79.652713
-483,'0483','Terry Fox Way / Preston Mnr Dr',43.599212,-79.690309
 484,'0484','Hadwen Rd 2nd Stop North Of North Sheridan Way',43.52198,-79.655033
 485,'0485','Speakman Dr / Hadwen Rd',43.521974,-79.657607
 486,'0486','Speakman Dr South Of Sheridan Pk Dr',43.515792,-79.669473
@@ -711,7 +708,6 @@
 811,'0811','Dundas St / Aukland Rd',43.638667,-79.538002
 812,'0812','Meadowvale Town Ctr Bus Terminal P.G',43.583367,-79.758295
 813,'0813','Kariya Gt / City Ctr Dr',43.592117,-79.638706
-814,'0814','Dream Crest Rd / Lismic Blvd',43.58968,-79.683579
 815,'0815','Dundas St / Billingham Rd',43.630623,-79.549056
 816,'0816','Superior Blvd 1st Stop East Of Edwards Blvd',43.644312,-79.695765
 817,'0817','Superior Blvd / Innovator Dr',43.64689,-79.692832
@@ -720,7 +716,6 @@
 820,'0820','Dixie Rd / Dundas St',43.608687,-79.583326
 821,'0821','Dixie Rd / Blundell Rd',43.607798,-79.582058
 822,'0822','Dixie Rd / Ernest Samuel Dr',43.604276,-79.576862
-824,'0824','Ceremonial Dr / Micmac Cres',43.601091,-79.665959
 825,'0825','Ceremonial Dr / Fairwind Dr',43.604502,-79.662724
 826,'0826','Dundas St East Of Haines Rd',43.598795,-79.595316
 827,'0827','Dundas St West Of Tomken Rd',43.598756,-79.595775
@@ -748,7 +743,6 @@
 850,'0850','Keaton Cres 3rd Stop South Of Matheson Blvd',43.612787,-79.681464
 851,'0851','Rathburn Rd / Confederation Pky',43.589577,-79.651547
 852,'0852','Old Creditview Rd North Of Spg Gdn Crt',43.616262,-79.737157
-853,'0853','Terry Fox Way / Bristol Rd',43.595385,-79.684768
 854,'0854','Atwater Ave / Northaven Dr',43.572148,-79.576022
 855,'0855','Dundas St / Cawthra Rd',43.593473,-79.601101
 856,'0856','Dundas St East Of Cawthra Rd',43.594849,-79.599521
@@ -817,7 +811,6 @@
 920,'0920','Tranmere Dr South Of Boylen Rd',43.685172,-79.666876
 921,'0921','Middlegate Rd 2nd Stop East Of Haines Rd',43.595356,-79.588785
 922,'0922','Tomken Rd South Of Derry Rd',43.664777,-79.683874
-923,'0923','Terry Fox Way / Bristol Rd',43.595564,-79.685507
 924,'0924','Burnhamthorpe Rd / Tamarack Gt',43.539649,-79.69655
 925,'0925','Columbus Rd 1st Stop North Of Mid-Way Blvd',43.665064,-79.669765
 926,'0926','Burnhamthorpe Rd W / Winston Churchill Blvd',43.53684,-79.69968
@@ -864,7 +857,6 @@
 967,'0967','Columbus Rd / Derry Rd',43.671467,-79.6776
 968,'0968','South Millway / Sanderling Cres (North Leg)',43.547119,-79.678935
 969,'0969','South Millway / The Collegeway',43.545436,-79.677462
-970,'0970','Sladeview Cres West Of Ridgeway Dr',43.526646,-79.714034
 971,'0971','Burnhamthorpe Rd W / Sawmill Vly Dr',43.551011,-79.676783
 972,'0972','Sladeview Cres West Of Ridgeway Dr',43.526395,-79.714754
 973,'0973','Ridgeway Dr North Of Dovetail Mews',43.521439,-79.700915
@@ -956,7 +948,6 @@
 1063,'1063','The Collegeway / South Commom Ctr Access Rd',43.54341,-79.680588
 1065,'1065','Dixie Rd / Mid-Way Blvd',43.668226,-79.665304
 1066,'1066','Mdws Blvd / Prince George Ave',43.601699,-79.629767
-1067,'1067','Fairwind Dr / Ceremonial Dr',43.604694,-79.662225
 1068,'1068','Eglinton Ave / Tomken Rd',43.627588,-79.630034
 1069,'1069','The Collegeway West Of South Millway',43.544913,-79.678959
 1071,'1071','The Collegeway / South Millway',43.545436,-79.677046
@@ -1086,14 +1077,10 @@
 1200,'1200','Wolfedale Rd 1st Stop North Of Westlock Rd',43.568909,-79.64433
 1204,'1204','Hurontario St / Matthews Gt',43.59221,-79.632893
 1206,'1206','Hurontario St / Elm Dr E',43.590775,-79.63113
-1207,'1207','Central Pky W / Achill Cres',43.587762,-79.630641
 1208,'1208','Hurontario St / Central Pky E',43.589198,-79.628738
-1209,'1209','Central Pky W / Joan Dr',43.585988,-79.63291
 1210,'1210','Hurontario St / Fairview Rd E',43.587477,-79.626435
-1211,'1211','Central Pky W / Palgrave Rd',43.584985,-79.63411
 1212,'1212','Hurontario St / Hanson Rd Walkway',43.58613,-79.624497
 1213,'1213','Burnhamthorpe Rd West Of Winston Churchill Blvd',43.535773,-79.700867
-1214,'1214','Central Pky E / Hurontario St',43.589581,-79.628382
 1215,'1215','Mississauga Vly Blvd / Central Pky E',43.590731,-79.625953
 1216,'1216','Mississauga Vly Blvd / Fairview Rd',43.588868,-79.624521
 1217,'1217','Mississauga Vly Blvd / Voltaire Cres West Leg',43.587427,-79.621519
@@ -1142,7 +1129,6 @@
 1262,'1262','Mississauga Vly Blvd / Voltaire Cres West Leg',43.587776,-79.621313
 1263,'1263','Mississauga Vly Blvd / Fairview Rd',43.588666,-79.624179
 1264,'1264','Mississauga Vly Blvd / Central Pky E',43.590818,-79.625715
-1265,'1265','Central Pky E / Hurontario St',43.589632,-79.628926
 1266,'1266','South Millway / Burnhamthorpe Rd W',43.548114,-79.679347
 1267,'1267','Trelawny Cir / Mockingbird Lanes',43.577717,-79.771143
 1268,'1268','Trelawny Cir / Forest Pk Dr',43.576559,-79.772393
@@ -1173,7 +1159,6 @@
 1294,'1294','Battleford Rd / Edenwood Dr',43.578186,-79.759565
 1295,'1295','Winston Churchill Blvd / Aquitaine Ave',43.582738,-79.763411
 1296,'1296','Cawthra Rd / Dundas St',43.595827,-79.601572
-1297,'1297','Donway Dr / Escobar Cres',43.616663,-79.706984
 1298,'1298','Trelawny Cir East Of Doug Leavens Blvd',43.570863,-79.768496
 1299,'1299','Montevideo Rd / Aquitaine Ave',43.590179,-79.756247
 1300,'1300','Dixie Rd South Of Golden Orchard Dr',43.611171,-79.586874
@@ -1214,7 +1199,6 @@
 1335,'1335','Bloor St / Fieldgate Dr',43.622888,-79.587801
 1336,'1336','Bloor St East Of Fieldgate Dr',43.624522,-79.586028
 1337,'1337','Bloor St / Bridgewood Dr',43.625819,-79.584597
-1338,'1338','Donway Dr / Ormindale Way',43.613217,-79.711234
 1339,'1339','Bloor St East Of Bridgewood Dr',43.62735,-79.582417
 1340,'1340','Bloor St West Of Markland Dr',43.627452,-79.582582
 1341,'1341','Bloor St / Bridgewood Dr',43.625947,-79.584755
@@ -1239,19 +1223,10 @@
 1360,'1360','Tomken Rd / Flagship Dr',43.605115,-79.600336
 1361,'1361','Tomken Rd / Homeric Dr',43.603657,-79.598238
 1362,'1362','Tomken Rd / Rymal Rd',43.60187,-79.595665
-1363,'1363','Donway Dr / Bancroft Dr',43.611482,-79.708259
 1364,'1364','Dixie Rd 2nd Stop North Of Dundas St',43.611052,-79.586009
-1365,'1365','Mississauga Vly Blvd / Daralea Hts',43.600668,-79.62196
-1366,'1366','Mississauga Vly Blvd / Molly Ave',43.60289,-79.619481
-1367,'1367','Mississauga Vly Blvd / Hyacinthe Blvd',43.601226,-79.61595
-1368,'1368','Mississauga Vly Blvd / Bloor St',43.599238,-79.613122
-1369,'1369','Donway Dr / Culmore Cres',43.6117,-79.708416
 1370,'1370','Fairview Rd / Joan Dr',43.583951,-79.630479
 1371,'1371','Fairview Rd / Hanson Rd',43.586317,-79.628023
-1372,'1372','Fairview Rd / Hurontario St',43.587294,-79.626886
-1373,'1373','Confederation Pky / Central Pky W',43.582953,-79.635865
 1374,'1374','Meadowvale Town Ctr Bus Terminal P.I',43.583658,-79.758549
-1375,'1375','Fairview Rd / Burdock Pl',43.588497,-79.625087
 1376,'1376','Garthwood Rd / Loyalist Dr',43.528282,-79.693033
 1377,'1377','Dundas St 1st Stop West Of Dixie Rd',43.608724,-79.584837
 1378,'1378','Dundas St / Queen Frederica Dr',43.606592,-79.587204
@@ -1283,7 +1258,6 @@
 1404,'1404','Rathburn Rd West Of Elora Dr (East Leg)',43.586443,-79.652979
 1405,'1405','Rathburn Rd / Elora Dr West Intersection',43.584849,-79.653721
 1408,'1408','City Ctr Bus Terminal P.O',43.594234,-79.647358
-1409,'1409','Donway Dr / Bancroft Dr',43.61549,-79.704443
 1410,'1410','Creditview Rd / Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr / Castlebridge Dr',43.568218,-79.731648
 1412,'1412','Creditview Rd / Melia Dr',43.569395,-79.670436
@@ -1306,7 +1280,6 @@
 1431,'1431','Old Derry Rd / Lessard Ln',43.628822,-79.725812
 1432,'1432','Old Derry Rd / 2nd Line West',43.627133,-79.727769
 1433,'1433','Old Derry Rd / Old Mill Ln',43.625524,-79.729588
-1434,'1434','Terry Fox Way / Southfork Dr',43.596923,-79.686964
 1435,'1435','Old Derry Rd / Missinihe Pk Access Rd',43.621326,-79.734275
 1437,'1437','Tahoe Blvd / Buckhorn Gt',43.639545,-79.609876
 1438,'1438','Buckhorn Gt / Tahoe Blvd',43.641371,-79.609661
@@ -1319,7 +1292,6 @@
 1445,'1445','Creditview Rd / Kenninghall Blvd',43.604289,-79.721201
 1446,'1446','Living Arts Dr / Sq One Dr',43.590715,-79.648581
 1447,'1447','Queenston Dr / Fellmore Dr',43.560815,-79.66124
-1448,'1448','Bancroft Dr / Drysdale Dr',43.61276,-79.706609
 1449,'1449','Eglinton Ave West Of Guildwood Way',43.593719,-79.667708
 1450,'1450','Mclaughlin Rd North Of Ceremonial Dr (North Leg)',43.60955,-79.680271
 1451,'1451','Creditview Rd / Carolyn Rd',43.584931,-79.694979
@@ -1336,10 +1308,8 @@
 1464,'1464','River Grv Ave / Riverdale Cres',43.590429,-79.708982
 1465,'1465','River Grv Ave / Highbrook Ave',43.59201,-79.7102
 1466,'1466','River Grv Ave North Of Astrella Cr (North Leg)',43.594502,-79.714049
-1467,'1467','Terry Fox Way / Blueheron Blvd',43.597017,-79.687346
 1468,'1468','Rathburn Rd / Creditview Rd',43.569722,-79.669141
 1469,'1469','Creditview Rd / Eglinton Ave',43.577783,-79.684891
-1470,'1470','Bancroft Dr / Drysdale Dr',43.612473,-79.706714
 1471,'1471','Eglinton Ave E / Central Pky E',43.61611,-79.642279
 1472,'1472','Burnhamthorpe Rd W / Wolfedale Rd',43.576652,-79.655018
 1473,'1473','Burnhamthorpe Rd W / Perivale Rd',43.573623,-79.658529
@@ -1566,8 +1536,8 @@
 1711,'1711','Mississauga Rd / Thorny-Brae Pl',43.567557,-79.694512
 1712,'1712','Gln Erin Dr / Thomas St',43.565529,-79.72789
 1713,'1713','Silken Laumann Way / Ivandale Dr',43.60861,-79.702745
-1714,'1714','Central Parkway Sta East P.A',43.607769,-79.635966
-1716,'1716','Central Parkway Sta West P.B',43.607892,-79.636173
+1714,'1714','Central Pkwy Sta East P.A',43.607769,-79.635966
+1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky / Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky / Burnhamthorpe Rd',43.54659,-79.683861
 1719,'1719','Erin Mills Pky / Burnhamthorpe Rd',43.547901,-79.68512
@@ -1814,7 +1784,6 @@
 1987,'1987','Kennedy Rd / Eglinton Ave',43.616475,-79.642642
 1988,'1988','Eglinton Ave / Delaware Dr',43.613059,-79.646164
 1989,'1989','Britannia Rd E 2nd Stop East Of Whittle Rd',43.630563,-79.67458
-1990,'1990','Ceremonial Dr / Sunrise Crt',43.598101,-79.670121
 1991,'1991','Eglinton Ave E East Of Hurontario St',43.607348,-79.652017
 1992,'1992','Eglinton Ave E / Huron Hts Dr',43.612556,-79.646275
 1993,'1993','Kennedy Rd / Candlestick Cir',43.617348,-79.643354
@@ -1939,7 +1908,6 @@
 2119,'2119','Explorer Dr 2nd Stop North Of Matheson Blvd',43.664036,-79.600319
 2120,'2120','Bristol Rd W / Lismic Blvd',43.592587,-79.688136
 2121,'2121','Courtneypark Dr East Of Tomken Rd',43.656032,-79.667348
-2122,'2122','Terry Fox Way / Matheson Blvd',43.603233,-79.695513
 2123,'2123','Indian Rd / Madigans Ln',43.546289,-79.607528
 2125,'2125','Erin Mills Pky / Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky / Britannia Rd',43.578761,-79.734052
@@ -1959,9 +1927,7 @@
 2144,'2144','Matheson Blvd / Orbitor Dr',43.657819,-79.603614
 2145,'2145','Matheson Blvd / Explorer Dr',43.662453,-79.598942
 2147,'2147','Skymark Ave / Explorer Dr',43.661243,-79.595721
-2148,'2148','Donway Dr / 2nd Line West',43.615984,-79.71229
 2149,'2149','Tranmere Dr / Telford Way',43.681022,-79.67079
-2150,'2150','Donway Dr / Diamond Crt',43.613124,-79.711806
 2151,'2151','Eglinton Ave W East Of White Clover Way',43.581787,-79.680766
 2152,'2152','Millers Grv / Bartholomew Cres',43.57216,-79.757708
 2153,'2153','Millers Grv / Colebrook Cres',43.573416,-79.759775
@@ -1989,12 +1955,10 @@
 2175,'2175','Drew Rd West Of Torbram Rd',43.698334,-79.660616
 2176,'2176','Drew Rd / Kimbel St',43.695792,-79.663402
 2177,'2177','Drew Rd / David Hunting Dr',43.69365,-79.665783
-2178,'2178','Donway Dr / Fielder Dr',43.616251,-79.711974
 2179,'2179','Tranmere Dr South Of Drew Rd',43.687919,-79.670836
 2180,'2180','Tranmere Dr / Gage Crt',43.686721,-79.669249
 2181,'2181','Britannia Rd / Terry Fox Way',43.607061,-79.701155
 2182,'2182','Hurontario & 407 Pk And Ride P.A',43.652482,-79.711404
-2183,'2183','Donway Dr / Blyleven Blvd',43.61663,-79.707269
 2184,'2184','Tomken Rd / Nuvik Crt',43.627885,-79.631502
 2185,'2185','Tomken Rd / Brevik Pl',43.634819,-79.64363
 2186,'2186','Drew Rd / Dixie Rd',43.682165,-79.680901
@@ -2006,7 +1970,6 @@
 2192,'2192','Tranmere Dr / Boylen Rd',43.686077,-79.66806
 2193,'2193','Gln Erin Dr / Windwood Dr (South Leg)',43.576196,-79.739803
 2194,'2194','Gln Erin Dr / Windwood Dr (South Leg)',43.57601,-79.739311
-2195,'2195','Terry Fox Way / Matheson Blvd',43.603364,-79.695931
 2196,'2196','Gln Erin Dr South Of Battleford Rd',43.582353,-79.753597
 2197,'2197','Bristol Rd W / Sweetgrass Gt',43.593663,-79.686961
 2198,'2198','Carlingview Dr / Dixon Rd',43.686941,-79.595479
@@ -2782,7 +2745,6 @@
 3003,'3003','Northwest Dr 2nd Stop East Of Caravelle Dr',43.702854,-79.629438
 3004,'3004','Winston Churchill Blvd 2nd North Of Lakeshore',43.485858,-79.631004
 3005,'3005','Matheson Blvd E / Rose Cherry Pl',43.628015,-79.651543
-3006,'3006','Falconer Dr / Kinsmen Gt',43.60617,-79.729252
 3008,'3008','Commerce Blvd South Of Matheson Blvd E',43.664599,-79.594075
 3009,'3009','Goreway Dr South Of Morning Star Dr',43.720294,-79.641018
 3010,'3010','Mclaughlin Rd / Bristol Rd',43.602899,-79.671173
@@ -2964,7 +2926,6 @@
 3226,'3226','Derry Rd East Of Bramalea Rd',43.687126,-79.660691
 3228,'3228','Aimco Blvd West Of Creekbank Rd',43.645308,-79.617969
 3229,'3229','Aimco Blvd 3rd Stop West Of Creekbank Rd',43.642862,-79.620686
-3231,'3231','Joymar Dr / Tannery St',43.578877,-79.71775
 3232,'3232','Burnhamthorpe Rd W West Of Confederation Pky',43.583975,-79.646829
 3234,'3234','Aimco Blvd / Matheson Blvd',43.640279,-79.622862
 3235,'3235','Aimco Blvd / Dixie Rd',43.638676,-79.624474
@@ -3001,7 +2962,6 @@
 3272,'3272','Skymark Hub',43.662856,-79.593957
 3273,'3273','Matheson Blvd / General Rd',43.640675,-79.632064
 3280,'3280','Hurontario St / Robert Speck Pky',43.596079,-79.637923
-3282,'3282','Terry Fox Way / Plymouth Dr',43.606104,-79.699317
 3286,'3286','Confederation Pky / City Ctr Dr',43.586139,-79.646359
 3287,'3287','Confederation Pky / Princess Royal Dr',43.587125,-79.647489
 3288,'3288','Confederation Pky / Sq One Dr',43.589106,-79.650504
@@ -3073,7 +3033,6 @@
 3420,'3420','Bromsgrove Rd 2nd East Of Seagull Dr',43.510676,-79.638732
 3423,'3423','Bloor St / Islington Ave',43.644524,-79.523667
 3433,'3433','Credit Vly Rd / Gln Erin Dr',43.553015,-79.707182
-3440,'3440','Terry Fox Way / Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr / Rhinebank St',43.734303,-79.639102
 3473,'3473','Winston Churchill Blvd 4th North Of Lakeshore',43.48984,-79.636434
 3497,'3497','Hurontario St / Robert Speck Pky',43.597084,-79.639956
