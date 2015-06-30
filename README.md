@@ -1,4 +1,4 @@
-# Mississauga Miway Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# Mississauga MiWay Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-mississauga-miway-bus-android/master/pub/hi-res-app-icon.png"/>
 
