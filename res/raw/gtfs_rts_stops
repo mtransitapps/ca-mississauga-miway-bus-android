@@ -403,7 +403,7 @@
 442,'0442','Lakeshore Rd E East Of Orchard Rd',43.581342,-79.553833
 443,'0443','Lakeshore Rd E / Dixie Rd',43.583999,-79.551056
 444,'0444','Lakeshore Rd E East Of Deta Rd',43.586114,-79.548875
-445,'0445','Lakeshore Rd E East Of Island Rd',43.587742,-79.547325
+445,'0445','Lakeshore Rd E East Of Isl Rd',43.587742,-79.547325
 446,'0446','Long Branch Go Sta',43.592019,-79.543867
 447,'0447','Lakeshore Rd West Of Forty-Third St',43.587308,-79.548135
 448,'0448','Lakeshore Rd E / Deta Rd',43.585913,-79.549351
@@ -536,7 +536,7 @@
 607,'0607','Paisley Blvd / Morrison Ave',43.561453,-79.629206
 620,'0620','Paisley Blvd / Morrison Ave',43.562231,-79.628743
 621,'0621','Huron Pk Access South Of Paisley Blvd',43.557308,-79.630476
-628,'0628','Huron Pk Recreation Ctre / Paisley Blvd W',43.559226,-79.63253
+628,'0628','Huron Pk Recreation Ctre / Paisley Blvd W',43.558794,-79.632004
 629,'0629','Dundas St / Robinson St',43.545917,-79.652809
 630,'0630','Paisley Blvd / Huron Pk Pl',43.560819,-79.630421
 631,'0631','Paisley Blvd / Huron Pk Pl',43.560262,-79.630533
@@ -1092,7 +1092,7 @@
 1223,'1223','Mississauga Vly Blvd / Gwendale Cres',43.595788,-79.61076
 1224,'1224','Mississauga Vly Blvd / Bloor St',43.598951,-79.612472
 1225,'1225','Bloor St / Cawthra Rd',43.600906,-79.609614
-1226,'1226','Meadowvale Go Sta P.A',43.596187,-79.755701
+1226,'1226','Meadowvale Go Sta P.3',43.596187,-79.755701
 1227,'1227','Mississauga Vly Blvd / Elm Dr',43.592395,-79.628764
 1228,'1228','Mississauga Vly Blvd / Arista Way',43.594718,-79.629566
 1229,'1229','Mississauga Vly Blvd East Of Arista Way',43.597462,-79.626345
@@ -1301,7 +1301,7 @@
 1456,'1456','Rathburn Rd / Duke Of York Blvd',43.592509,-79.648929
 1458,'1458','Aquitaine Ave East Of Formentera Ave',43.584834,-79.760668
 1459,'1459','Bristol Rd W / Bathgate Rd',43.58575,-79.698913
-1460,'1460','Erindale Go Sta P.A',43.567012,-79.668081
+1460,'1460','Erindale Go Sta P.5',43.567012,-79.668081
 1461,'1461','Bristol Rd / River Grv Ave',43.584142,-79.703147
 1462,'1462','River Grv Ave / Stillriver Cres',43.586547,-79.704817
 1463,'1463','River Grv Ave / Willow Way',43.588265,-79.707047
@@ -1314,7 +1314,7 @@
 1472,'1472','Burnhamthorpe Rd W / Wolfedale Rd',43.576652,-79.655018
 1473,'1473','Burnhamthorpe Rd W / Perivale Rd',43.573623,-79.658529
 1474,'1474','Burnhamthorpe Rd W / Erindale Sta Rd',43.570399,-79.662315
-1475,'1475','Erindale Go Sta P.B',43.567054,-79.668327
+1475,'1475','Erindale Go Sta P.4',43.567054,-79.668327
 1476,'1476','Burnhamthorpe Rd W / Elora Dr',43.582011,-79.648991
 1477,'1477','Burnhamthorpe Rd W / Mavis Rd',43.579824,-79.651393
 1478,'1478','Creditview Rd / Rose Haven Rd',43.573253,-79.676172
@@ -2094,7 +2094,7 @@
 2323,'2323','Morning Star Dr / Collet Rd',43.710002,-79.649805
 2324,'2324','Morning Star Dr / Lancaster Ave',43.712784,-79.647471
 2325,'2325','Windwood Dr / Townwood Crt',43.574219,-79.747584
-2326,'2326','Meadowvale Go Sta P.A',43.596148,-79.755432
+2326,'2326','Meadowvale Go Sta P.3',43.596148,-79.755432
 2327,'2327','Britannia Rd / Latimer Dr',43.60944,-79.698972
 2328,'2328','Derry Rd / Danton Promenade',43.586351,-79.773581
 2329,'2329','Winston Churchill Blvd 3rd North Of Lakeshore',43.487432,-79.633169
@@ -2452,7 +2452,7 @@
 2697,'2697','Tomken Rd North Of Britannia Rd',43.647897,-79.660857
 2698,'2698','Tomken Rd / Verbena Rd',43.648287,-79.661815
 2699,'2699','Brandon Gt Dr / Langworthy Dr',43.721437,-79.651287
-2700,'2700','Humber College Blvd / Hwy 27',43.730295,-79.601732
+2700,'2700','Humber College Blvd / Hwy 27',43.73031,-79.601736
 2701,'2701','Tomken Rd South Of Canadian Pl',43.624092,-79.626036
 2702,'2702','Catalpa Rd / Twilight Rd',43.72048,-79.643884
 2703,'2703','Tomken Sta West P.B',43.621777,-79.623496
@@ -2974,7 +2974,7 @@
 3295,'3295','Cactus Gt / Tobias Mason Pk',43.588213,-79.786983
 3296,'3296','Tenth Line / Doverwood Dr',43.59063,-79.785597
 3297,'3297','Tenth Line / Crimson King Cir',43.590596,-79.785858
-3298,'3298','Lisgar Go Sta P.A',43.592105,-79.788278
+3298,'3298','Lisgar Go Sta P.7',43.592105,-79.788278
 3300,'3300','Carlingview Dr / Meteor Dr',43.68092,-79.593066
 3301,'3301','Carlingview Dr South Of Meteor Dr',43.677733,-79.591627
 3302,'3302','Eglinton Ave / Metcalfe Ave',43.55673,-79.709244
@@ -3434,7 +3434,7 @@
 6815,'6815','Windsor Hl Blvd / Terry Fox Way',43.592965,-79.682628
 6880,'6880','Financial Dr 1st Stop South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Mall Bus Terminal P.K',43.72189,-79.640859
-7200,'7200','Humber College North Campus P.A',43.729473,-79.605632
+7200,'7200','Humber College North Campus P.8',43.729487,-79.605631
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St / Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St / Paulart Dr',43.631092,-79.546306
