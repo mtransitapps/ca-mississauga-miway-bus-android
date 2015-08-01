@@ -687,7 +687,6 @@
 788,'0788','Dundas St / Jaguar Vly Dr',43.581667,-79.614987
 789,'0789','Britannia Rd / Queen St N',43.588428,-79.722416
 790,'0790','Britannia Rd / Farmstead Ln',43.566702,-79.746861
-791,'0791','Ceremonial Dr / Micmac Cres',43.600885,-79.666038
 792,'0792','Hurontario St / Floradale Dr',43.577227,-79.612333
 793,'0793','Gln Erin Dr North Of The Collegeway',43.537887,-79.68733
 794,'0794','Gln Erin Dr / Council Ring Rd',43.540923,-79.689802
@@ -716,7 +715,6 @@
 820,'0820','Dixie Rd / Dundas St',43.608687,-79.583326
 821,'0821','Dixie Rd / Blundell Rd',43.607798,-79.582058
 822,'0822','Dixie Rd / Ernest Samuel Dr',43.604276,-79.576862
-825,'0825','Ceremonial Dr / Fairwind Dr',43.604502,-79.662724
 826,'0826','Dundas St East Of Haines Rd',43.598795,-79.595316
 827,'0827','Dundas St West Of Tomken Rd',43.598756,-79.595775
 828,'0828','Meadowvale Blvd / Tottington Dr',43.614818,-79.749196
@@ -858,7 +856,6 @@
 968,'0968','South Millway / Sanderling Cres (North Leg)',43.547119,-79.678935
 969,'0969','South Millway / The Collegeway',43.545436,-79.677462
 971,'0971','Burnhamthorpe Rd W / Sawmill Vly Dr',43.551011,-79.676783
-972,'0972','Sladeview Cres West Of Ridgeway Dr',43.526395,-79.714754
 973,'0973','Ridgeway Dr North Of Dovetail Mews',43.521439,-79.700915
 974,'0974','Loyalist Dr / Seebring Cres',43.534867,-79.705131
 975,'0975','Loyalist Dr / Osbourne Rd',43.537625,-79.706236
@@ -1912,8 +1909,6 @@
 2125,'2125','Erin Mills Pky / Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky / Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Terminal P.E',43.58312,-79.758783
-2129,'2129','Dream Crest Rd / Cinnamon Rd',43.589773,-79.683044
-2130,'2130','Ceremonial Dr / Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd / West Credit Ave',43.608981,-79.758003
 2132,'2132','Orbitor Dr / Skymark Ave',43.656768,-79.600848
 2133,'2133','Kennedy Rd / Watline Ave',43.629445,-79.659804
@@ -2897,10 +2892,7 @@
 3189,'3189','Mississauga Sports Ctr',43.63307,-79.653938
 3191,'3191','Envoy Dr / Tabbyman Walk',43.63507,-79.725693
 3192,'3192','Rathburn Rd / Confederation Pky',43.590116,-79.651399
-3193,'3193','Pan Am Bowling Ctr',43.651413,-79.603074
-3194,'3194','Pan Am Bowling Ctr',43.651749,-79.603066
 3195,'3195','Eglinton Ave E / Satellite Dr',43.651761,-79.603047
-3196,'3196','Centennial Pk Bmx Ctr',43.655565,-79.598549
 3197,'3197','Carlingview Dr 2nd Stop North Of Meteor Dr',43.684809,-79.594464
 3198,'3198','Queensway / Confederation Pky',43.57171,-79.610563
 3199,'3199','South Common Ctr Bus Terminal P.G',43.544028,-79.684715
@@ -2947,7 +2939,6 @@
 3255,'3255','Matheson Blvd / Creekbank Rd',43.648848,-79.621156
 3256,'3256','Matheson Blvd / Matheson Blvd',43.643953,-79.628125
 3258,'3258','Skymark Hub',43.663436,-79.592976
-3259,'3259','Centennial Pk Bmx Ctr',43.656074,-79.598429
 3260,'3260','Superior Blvd 2nd Stop East Of Edwards Blvd',43.645201,-79.694754
 3261,'3261','Matheson Blvd E / Creekbank Rd',43.648408,-79.621241
 3262,'3262','Ambler Dr North Of Ronsa Crt',43.641638,-79.647935
@@ -2957,6 +2948,7 @@
 3266,'3266','Eglinton Ave / Satellite Dr',43.651422,-79.603062
 3267,'3267','Ambler Dr / Aerowood Dr',43.641844,-79.635498
 3268,'3268','Ambler Dr / Matheson Blvd',43.640205,-79.633324
+3269,'3269','Mississauga Sports Ctr Goalball',43.629851,-79.652867
 3270,'3270','City Ctr Dr 1st Stop West Of Kariya Gt',43.591468,-79.640182
 3271,'3271','City Ctr Dr / Duke Of York Blvd',43.58923,-79.642772
 3272,'3272','Skymark Hub',43.662856,-79.593957
