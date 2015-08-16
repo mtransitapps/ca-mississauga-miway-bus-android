@@ -288,7 +288,7 @@
 320,'0320','Winston Churchill Blvd / North Sheridan Way',43.513331,-79.668579
 321,'0321','Thornwood Dr / Clansman Tr',43.613955,-79.655711
 322,'0322','Eglinton Ave E / Albina Way',43.610984,-79.64807
-323,'0323','Lakeshore Rd E / Port St',43.55504,-79.581798
+323,'0323','Lakeshore Rd E / St Lawrence Dr',43.55504,-79.581798
 324,'0324','Hurontario St / Inglewood Dr',43.559421,-79.587304
 325,'0325','Lakeshore Rd E / Stavebank Rd S',43.551904,-79.585251
 326,'0326','Lakeshore Rd E East Of Elizabeth St',43.553352,-79.583657
@@ -964,7 +964,7 @@
 1085,'1085','Folkway Dr / Sunflower Dr (West Leg)',43.5507,-79.696783
 1086,'1086','Folkway Dr / Trellis Cres',43.551171,-79.695423
 1087,'1087','The Collegeway / Broad Hollow Gt',43.543982,-79.666279
-1089,'1089','South Common Mall Bus Terminal P.L',43.54272,-79.683107
+1089,'1089','South Common Mall Bus Terminal P.K',43.54272,-79.683107
 1090,'1090','South Millway / The Collegeway',43.541445,-79.681176
 1091,'1091','Dixie Rd / Dundas St',43.608889,-79.582949
 1092,'1092','Folkway Dr East Of Martlen Cres (East Leg)',43.545411,-79.702021
@@ -3196,7 +3196,7 @@
 4912,'4912','Thomas St / Gln Erin Dr',43.565372,-79.728352
 4913,'4913','Thomas St / Middlebury Dr',43.567915,-79.725487
 4914,'4914','Thomas St / Erin Mills Pky',43.569323,-79.723377
-4915,'4915','Thomas St East Of Erin Mills Pky',43.570402,-79.721596
+4915,'4915','Thomas St East Of Erin Mills Pky',43.570212,-79.721846
 4916,'4916','Thomas St / Highbank Rd',43.571007,-79.720914
 4917,'4917','Thomas St / Northrise Rd',43.572216,-79.719564
 4918,'4918','Thomas St East Of Joymar Dr',43.578,-79.714215
@@ -3426,7 +3426,7 @@
 6815,'6815','Windsor Hl Blvd / Terry Fox Way',43.592965,-79.682628
 6880,'6880','Financial Dr 1st Stop South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Mall Bus Terminal P.K',43.72189,-79.640859
-7200,'7200','Humber College North Campus P.8',43.729487,-79.605631
+7200,'7200','Humber College North Campus P.8',43.72925,-79.604916
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St / Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St / Paulart Dr',43.631092,-79.546306
