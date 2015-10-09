@@ -2632,7 +2632,7 @@
 2848,'2848','Westwood Mall Bus Terminal P.J',43.721635,-79.640207
 2849,'2849','Westwood Mall Bus Terminal P.E',43.721799,-79.640496
 2850,'2850','Westwood Mall Bus Terminal P.A',43.721735,-79.640971
-2851,'2851','John Garland Blvd [To] At Finch Ave',43.735636,-79.594554
+2851,'2851','John Garland Blvd [To] @ Finch Ave',43.735636,-79.594554
 2852,'2852','Humber College Blvd @ Finch Ave W',43.733198,-79.610182
 2853,'2853','Westwood Mall Bus Terminal P.C',43.721469,-79.640814
 2854,'2854','Goreway Dr North Of Morning Star Dr',43.722957,-79.6443
@@ -3251,9 +3251,9 @@
 4932,'4932','Mcdowell Dr @ Tenth Line',43.562008,-79.745782
 4942,'4942','Churchill Mdws Blvd @ Tacc Dr',43.547579,-79.741254
 5003,'5003','Aimco Blvd 1st Stop East Of Matheson Blvd',43.640471,-79.622365
-5007,'5007','Britannia Rd At # 2400 Britannia Rd',43.669151,-79.624331
+5007,'5007','Britannia Rd @ # 2400 Britannia Rd',43.669151,-79.624331
 5009,'5009','Eglinton Ave East Of 427 Hwy',43.671874,-79.571532
-5010,'5010','Britannia Rd At # 2400 Britannia Rd',43.669182,-79.624424
+5010,'5010','Britannia Rd @ # 2400 Britannia Rd',43.669182,-79.624424
 5011,'5011','Dixie Rd @ Drew Rd',43.681126,-79.68274
 5012,'5012','Dixie Rd @ Clark Blvd',43.710163,-79.722081
 5013,'5013','Dixie Rd @ Balmoral Dr',43.705935,-79.716445
