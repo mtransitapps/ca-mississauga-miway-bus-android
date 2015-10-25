@@ -698,7 +698,6 @@
 797,'0797','Cawthra Rd North Of Arbor Crt',43.579331,-79.579481
 799,'0799','Cawthra Rd South Of South Service Rd',43.57919,-79.57972
 800,'0800','Trelawny Cir @ Forest Pk Dr',43.57628,-79.772411
-801,'0801','Islington Subway Bus Terminal P.D',43.644789,-79.524877
 802,'0802','Derry Rd @ Dixie Rd',43.674301,-79.675069
 804,'0804','Islington Subway Bus Terminal P.A',43.64468,-79.524767
 805,'0805','Stanfield Rd 1st Stop North Of Middlegate Rd',43.601058,-79.586788
@@ -1187,7 +1186,6 @@
 1309,'1309','Burnhamthorpe Rd @ Mill Rd',43.639518,-79.584201
 1310,'1310','Tomken Rd South Of Burnhamthorpe Rd',43.61289,-79.611085
 1311,'1311','Tomken Rd @ Dundas St',43.600715,-79.593982
-1312,'1312','Islington Subway Bus Terminal P.E',43.644901,-79.525047
 1313,'1313','Tomken Rd @ Rymal Rd',43.602159,-79.595733
 1314,'1314','Tomken Rd @ Homeric Dr',43.604075,-79.598489
 1315,'1315','Dixie Rd @ Burnhamthorpe Rd',43.621955,-79.602052
@@ -1839,7 +1837,6 @@
 2014,'2014','Eglinton Ave E @ Dixie Rd',43.636201,-79.619983
 2015,'2015','Eglinton Ave E @ Matheson Blvd E',43.638129,-79.617843
 2016,'2016','Eglinton Ave E @ Eastgate Pky',43.641016,-79.614566
-2017,'2017','Eglinton Ave W @ Rakely Crt',43.648472,-79.606341
 2018,'2018','Renforth Dr @ Eglinton Ave',43.666368,-79.588287
 2019,'2019','Tomken Rd @ Eglinton Ave',43.626803,-79.629841
 2020,'2020','Tomken Rd @ Timberlea Blvd',43.628548,-79.634239
@@ -2496,8 +2493,6 @@
 2708,'2708','Westwood Mall Bus Terminal P.H',43.721326,-79.640559
 2709,'2709','Derry Rd @ Legion Rd',43.70967,-79.636258
 2710,'2710','Derry Rd @ Malton Go Sta Acrd',43.706634,-79.639083
-2711,'2711','Goreway Dr @ Derry Rd',43.713077,-79.631216
-2712,'2712','Goreway Dr @ Derry Rd',43.712667,-79.633062
 2713,'2713','Avebury Rd North Of Aldridge St',43.621005,-79.67883
 2714,'2714','Avebury Rd South Of Aldridge St',43.61942,-79.677279
 2715,'2715','Copenhagen Rd @ Tamar Rd',43.595335,-79.768393
@@ -2781,7 +2776,6 @@
 3008,'3008','Commerce Blvd South Of Matheson Blvd E',43.664599,-79.594075
 3009,'3009','Goreway Dr South Of Morning Star Dr',43.720294,-79.641018
 3010,'3010','Mclaughlin Rd @ Bristol Rd',43.602899,-79.671173
-3011,'3011','Britannia Rd East Of Erin Mills Pky',43.579799,-79.731764
 3012,'3012','Falbourne St 3rd North Of Matheson Blvd W',43.619206,-79.682179
 3013,'3013','City Ctr Dr 1st South Of Robert Speck Pky',43.594332,-79.639449
 3014,'3014','Bancroft Dr @ Donway Dr',43.611568,-79.707948
@@ -2809,10 +2803,7 @@
 3037,'3037','Mavis Rd @ Bancroft Dr',43.617148,-79.702945
 3039,'3039','Erindale Sta Rd South Of Burnhamthorpe Rd',43.56817,-79.658018
 3040,'3040','Central Pky @ Mavis Rd',43.574871,-79.64603
-3041,'3041','Central Pky @ Grand Pk Dr',43.57676,-79.643597
-3042,'3042','Central Pky @ Redmond Rd',43.578818,-79.640975
 3043,'3043','Confederation Pky @ Burnhamthorpe Rd',43.585146,-79.644598
-3044,'3044','Central Pky @ Grand Pk Dr',43.577164,-79.643439
 3045,'3045','Central Pky @ Mavis Rd',43.575437,-79.645856
 3046,'3046','Erindale Sta Rd North Of Central Pky W',43.568587,-79.658294
 3047,'3047','Lisgar Dr @ Beechnut Row',43.566485,-79.770789
@@ -2989,6 +2980,11 @@
 3272,'3272','Skymark Hub',43.662856,-79.593957
 3273,'3273','Matheson Blvd @ General Rd',43.640675,-79.632064
 3274,'3274','Lakeshore Rd E @ West Ave',43.571118,-79.565057
+3275,'3275','Eglinton Ave @ Rakely Crt',43.648923,-79.605752
+3276,'3276','Britannia Rd East Of Erin Mills Pky',43.580576,-79.730779
+3277,'3277','Britannia Rd @ Hogan Dr',43.580978,-79.73077
+3278,'3278','Derry Rd @ Goreway Dr',43.713239,-79.632375
+3279,'3279','Goreway Dr @ Derry Rd',43.713804,-79.632168
 3280,'3280','Hurontario St @ Robert Speck Pky',43.596079,-79.637923
 3282,'3282','Terry Fox Way @ Plymouth Dr',43.606104,-79.699317
 3286,'3286','Confederation Pky @ City Ctr Dr',43.586139,-79.646359
@@ -3428,16 +3424,8 @@
 6182,'6182','Twain Ave @ Magistrate Terr',43.639006,-79.726651
 6183,'6183','Mavis Rd South Of Twain Ave',43.636909,-79.727563
 6184,'6184','Mavis Rd @ Envoy Dr',43.635631,-79.725197
-6200,'6200','Fairview Rd @ Joan Dr',43.584248,-79.63046
-6201,'6201','Redmond Rd @ Commonwealth Cir',43.579817,-79.642414
 6202,'6202','Webb Dr @ Confederation Pky',43.583489,-79.643749
 6203,'6203','Webb Dr @ Confederation Pky',43.583893,-79.643672
-6204,'6204','Redmond Rd @ Italia Cres',43.579812,-79.642736
-6205,'6205','Redmond Rd North Of Commonwealth Cir',43.581375,-79.644732
-6206,'6206','Redmond Rd @ Webb Dr',43.581572,-79.645396
-6207,'6207','Fairview Rd @ Hanson Rd',43.586541,-79.627968
-6208,'6208','Fairview Rd @ Confederation Pky',43.581654,-79.631894
-6209,'6209','Fairview Rd @ Confederation Pky',43.581275,-79.631779
 6600,'6600','Sheridan College Brampton Campus',43.656318,-79.740016
 6602,'6602','Mclaughlin Rd @ Courtneypark Dr',43.626281,-79.70266
 6603,'6603','Mclaughlin Rd @ Navigator Dr',43.62837,-79.705592
