@@ -1861,7 +1861,7 @@
 2043,'2043','Dixie Rd @ Aimco Blvd',43.638357,-79.624049
 2045,'2045','Dixie Rd @ Eglinton Ave',43.635482,-79.620061
 2046,'2046','Dixie Rd @ Crestlawn Dr',43.633632,-79.617525
-2047,'2047','Dixie Rd @ South Gateway Rd',43.631801,-79.614964
+2047,'2047','Dixie Rd @ South Gateway Rd',43.631794,-79.61498
 2048,'2048','Eglinton Ave E @ Tomken Rd',43.62655,-79.630529
 2049,'2049','Old Derry Rd East Of Gazette Gt',43.619847,-79.735669
 2051,'2051','Tomken Rd South Of Kamato Rd',43.635788,-79.64491
@@ -2872,7 +2872,7 @@
 3119,'3119','Mclaughlin Rd North Of Britannia Rd',43.618402,-79.692062
 3120,'3120','Northwest Dr 1st Stop West Of Caravelle Dr',43.702906,-79.629983
 3121,'3121','Meadowpine Blvd @ Danbro Cres',43.603325,-79.777957
-3122,'3122','Dixie Rd @ Dixie Sta',43.630815,-79.613975
+3122,'3122','Dixie Rd @ Dixie Sta',43.63081,-79.613982
 3123,'3123','Hillcrest Ave West Of Hurontario St',43.580354,-79.623328
 3125,'3125','Central Pky @ Erindale Sta Rd',43.567559,-79.655815
 3126,'3126','Mclaughlin Rd @ Cantay Rd',43.62109,-79.695684
@@ -2891,7 +2891,7 @@
 3141,'3141','Royal Windsor Dr 1st Stop West Of Southdown Rd',43.508259,-79.633169
 3142,'3142','Royal Windsor Dr 2nd Stop West Of Avonhead Rd',43.500098,-79.641975
 3143,'3143','Royal Windsor Dr 1st Stop West Of Avonhead Rd',43.503503,-79.638274
-3144,'3144','Dixie Rd @ Dixie Sta',43.630784,-79.614281
+3144,'3144','Dixie Rd @ Dixie Sta',43.630786,-79.61428
 3145,'3145','Argentia Rd West Of Winston Churchill Blvd',43.594322,-79.787369
 3146,'3146','Argentia Rd @ Winston Churchill Blvd',43.597035,-79.784694
 3147,'3147','Bristol Rd W East Of Creditview Rd',43.587288,-79.696353
@@ -2980,13 +2980,14 @@
 3272,'3272','Skymark Hub',43.662856,-79.593957
 3273,'3273','Matheson Blvd @ General Rd',43.640675,-79.632064
 3274,'3274','Lakeshore Rd E @ West Ave',43.571118,-79.565057
-3275,'3275','Eglinton Ave @ Rakely Crt',43.648923,-79.605752
+3275,'3275','Eglinton Ave @ Rakely Crt',43.648474,-79.606346
 3276,'3276','Britannia Rd East Of Erin Mills Pky',43.580576,-79.730779
 3277,'3277','Britannia Rd @ Hogan Dr',43.580978,-79.73077
 3278,'3278','Derry Rd @ Goreway Dr',43.713239,-79.632375
 3279,'3279','Goreway Dr @ Derry Rd',43.713804,-79.632168
 3280,'3280','Hurontario St @ Robert Speck Pky',43.596079,-79.637923
 3282,'3282','Terry Fox Way @ Plymouth Dr',43.606104,-79.699317
+3285,'3285','Confederation Pky @ Burnhamthorpe Rd',43.585288,-79.645152
 3286,'3286','Confederation Pky @ City Ctr Dr',43.586139,-79.646359
 3287,'3287','Confederation Pky @ Princess Royal Dr',43.587125,-79.647489
 3288,'3288','Confederation Pky @ Sq One Dr',43.589106,-79.650504
