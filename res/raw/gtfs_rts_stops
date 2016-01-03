@@ -433,7 +433,6 @@
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
 477,'0477','City Ctr Bus Terminal P.E',43.5938,-79.646225
-478,'0478','Eastgate Pky @ Tahoe Blvd',43.638845,-79.610748
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
 481,'0481','City Ctr Dr @ Sq One Dr',43.596141,-79.642406
@@ -1458,7 +1457,6 @@
 1591,'1591','Rathburn Rd E @ Tomken Rd',43.616791,-79.615717
 1592,'1592','Mclaughlin Rd @ Matheson Blvd',43.612668,-79.684416
 1593,'1593','Sorrento Dr @ Eglinton Ave',43.608964,-79.650122
-1594,'1594','Sorrento Dr @ Eglinton Ave',43.608483,-79.649761
 1595,'1595','Sorrento Dr @ Elia Ave',43.605855,-79.64759
 1597,'1597','Winston Churchill Blvd @ Dalehurst Dr',43.592359,-79.777213
 1598,'1598','Winston Churchill Blvd @ Danton Promenade',43.590558,-79.774697
@@ -1501,7 +1499,6 @@
 1643,'1643','Confederation Pky South Of Croatia Dr',43.584015,-79.638095
 1644,'1644','Confederation Pky @ Central Pky W',43.583393,-79.636487
 1645,'1645','Duke Of York Blvd @ Webb Dr',43.587253,-79.640029
-1646,'1646','Confederation Pky @ Hillcrest Ave',43.579153,-79.624556
 1647,'1647','Confederation Pky South Of Hillcrest Ave',43.578119,-79.621706
 1648,'1648','Confederation Pky @ Dundas St',43.577601,-79.619761
 1649,'1649','Confederation Pky @ Dunbar Rd',43.575296,-79.616111
@@ -1851,7 +1848,6 @@
 2028,'2028','Tomken Rd @ Eglinton Ave',43.626651,-79.629931
 2031,'2031','Eglinton Ave @ Kennedy Rd',43.616898,-79.641865
 2033,'2033','Eglinton Ave E @ Spectrum Way',43.649053,-79.606123
-2034,'2034','Eglinton Ave @ Creekbank Rd',43.641152,-79.614972
 2035,'2035','Eglinton Ave @ Matheson Blvd',43.638668,-79.617744
 2037,'2037','Eglinton Ave @ Maingate Dr',43.630787,-79.626503
 2038,'2038','Eglinton Ave East Of Satellite Dr',43.653717,-79.600554
@@ -2852,7 +2848,6 @@
 3088,'3088','Orbitor Dr North Of Matheson Blvd',43.658858,-79.604606
 3089,'3089','Orbitor Dr @ Explorer Dr',43.661273,-79.607738
 3090,'3090','Commerce Blvd @ Matheson Blvd',43.664949,-79.593987
-3091,'3091','Eastgate Pky @ Tahoe Blvd',43.638896,-79.611305
 3092,'3092','Matheson Blvd West Of Renforth Dr',43.665605,-79.5917
 3093,'3093','Commerce Blvd @ Skymark Ave',43.663741,-79.593107
 3094,'3094','Orbitor Dr @ Matheson Blvd E',43.658486,-79.604429
@@ -2933,11 +2928,9 @@
 3204,'3204','Mcdowell Dr @ Delle Donne Dr',43.559159,-79.748763
 3205,'3205','Mcdowell Dr @ Delle Donne Dr',43.559402,-79.748758
 3206,'3206','Mcdowell Dr @ Churchill Mdws Blvd',43.556133,-79.752751
-3209,'3209','Eastgate Pky @ Fieldgate Dr',43.637404,-79.608512
 3211,'3211','Creekbank Rd @ Aimco Blvd',43.645026,-79.616297
 3212,'3212','Creekbank Rd @ Aimco Blvd',43.645311,-79.616774
 3213,'3213','Creekbank Rd @ Eglinton Ave',43.641434,-79.614928
-3214,'3214','Eastgate Pky South Of Eglinton Ave E',43.639465,-79.612159
 3218,'3218','Erin Mills Town Ctr Bus Terminal P.C',43.560434,-79.713561
 3219,'3219','Erin Ctr Blvd @ John Fraser Secondary School',43.559789,-79.715407
 3220,'3220','Dixie Sta West P.B',43.629887,-79.614905
@@ -3197,7 +3190,6 @@
 4520,'4520','Winston Churchill Blvd @ Sherwood Hts',43.507381,-79.6609
 4521,'4521','Winston Churchill Blvd @ Kingsway Dr',43.505449,-79.658221
 4522,'4522','Winston Churchill Blvd @ Bromsgrove Rd',43.50059,-79.651538
-4524,'4524','Aquitaine Ave @ Formentera Ave',43.584324,-79.761781
 4526,'4526','Bristol Cir @ Plymouth Dr',43.513986,-79.673335
 4527,'4527','Bristol Cir @ London Ln',43.51058,-79.670548
 4529,'4529','Winston Churchill Blvd @ Cornish Rd',43.533856,-79.697047
