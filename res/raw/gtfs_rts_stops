@@ -1567,7 +1567,7 @@
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
 1719,'1719','Erin Mills Pky @ Burnhamthorpe Rd',43.547901,-79.68512
 1720,'1720','Erin Mills Pky @ Folkway Dr',43.55074,-79.689267
-1721,'1721','Erin Mills Pky @ Credit Vly Rd',43.556498,-79.701424
+1721,'1721','Erin Mills Pky @ Credit Vly Rd',43.556494,-79.701416
 1722,'1722','Mississauga Rd @ Tattersall Way',43.565886,-79.692493
 1725,'1725','Eglinton Ave @ The Chase',43.565138,-79.699579
 1726,'1726','Cawthra Sta West P.B',43.616483,-79.628971
@@ -2619,7 +2619,7 @@
 2842,'2842','Morning Star Dr @ Corliss Cres',43.724828,-79.635083
 2843,'2843','Morning Star Dr @ Harwick Dr',43.725402,-79.631879
 2844,'2844','Morning Star Dr @ Custer Cres',43.725608,-79.628808
-2845,'2845','Morning Star Dr @ Brandon Gt Dr',43.72528,-79.627735
+2845,'2845','Mornin G Star Dr @ Brandon Gt Dr',43.72528,-79.627735
 2846,'2846','Morning Star Dr @ Harwick Dr',43.725268,-79.632019
 2847,'2847','Morning Star Dr @ Wainbrook Rd',43.724818,-79.634264
 2848,'2848','Westwood Mall Bus Terminal P.J',43.721635,-79.640207
@@ -2771,6 +2771,7 @@
 3004,'3004','Winston Churchill Blvd 2nd North Of Lakeshore',43.485858,-79.631004
 3005,'3005','Matheson Blvd E @ Rose Cherry Pl',43.628015,-79.651543
 3006,'3006','Falconer Dr @ Kinsmen Gt',43.60617,-79.729252
+3007,'3007','Tahoe Sta West P.B',43.638717,-79.610177
 3008,'3008','Commerce Blvd South Of Matheson Blvd E',43.664599,-79.594075
 3009,'3009','Goreway Dr South Of Morning Star Dr',43.720294,-79.641018
 3010,'3010','Mclaughlin Rd @ Bristol Rd',43.602899,-79.671173
@@ -2799,6 +2800,7 @@
 3034,'3034','Gln Erin Dr @ Castlebridge Dr',43.568024,-79.731181
 3035,'3035','Kimbel St 1st Stop East Of Torbram Rd',43.7021,-79.662307
 3037,'3037','Mavis Rd @ Bancroft Dr',43.617148,-79.702945
+3038,'3038','Tahoe Sta East P.A',43.638869,-79.609971
 3039,'3039','Erindale Sta Rd South Of Burnhamthorpe Rd',43.56817,-79.658018
 3040,'3040','Central Pky @ Mavis Rd',43.574871,-79.64603
 3043,'3043','Confederation Pky @ Burnhamthorpe Rd',43.585146,-79.644598
@@ -2936,9 +2938,11 @@
 3220,'3220','Dixie Sta West P.B',43.629887,-79.614905
 3221,'3221','Gln Erin Dr @ Erin Ctr Blvd',43.556765,-79.71635
 3222,'3222','Gln Erin Dr @ Hazelton Pl',43.555082,-79.714009
+3223,'3223','Etobicoke Crk Sta West P.B',43.645603,-79.610456
 3224,'3224','Confederation Pkwy @ Prince Of Wales Dr',43.588171,-79.648867
 3225,'3225','Dixie Sta East P.A',43.62986,-79.614727
 3226,'3226','Derry Rd East Of Bramalea Rd',43.687126,-79.660691
+3227,'3227','Etobicoke Crk Sta East P.A',43.645492,-79.610224
 3228,'3228','Aimco Blvd West Of Creekbank Rd',43.645308,-79.617969
 3229,'3229','Aimco Blvd 3rd Stop West Of Creekbank Rd',43.642862,-79.620686
 3231,'3231','Joymar Dr @ Tannery St',43.578877,-79.71775
