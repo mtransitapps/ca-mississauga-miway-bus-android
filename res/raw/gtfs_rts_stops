@@ -15,7 +15,7 @@
 16,'0016','Spectrum Way 2nd Stop South Of Matheson Blvd E',43.650138,-79.61169
 17,'0017','Spectrum Way 3rd Stop South Of Matheson Blvd E',43.649629,-79.609098
 18,'0018','Spectrum Way @ Eglinton Ave E',43.648764,-79.606787
-19,'0019','Duke Of York Blvd @ Rathburn Rd W',43.592667,-79.648591
+19,'0019','City Ctr Transit Terminal P.S',43.592667,-79.648591
 20,'0020','Matheson Blvd @ Shuttle Dr',43.660649,-79.600931
 21,'0021','Matheson Blvd 1st Stop West Of Orbitor Dr',43.657301,-79.604704
 22,'0022','Tours Rd @ Millers Grv',43.571858,-79.754791
@@ -73,7 +73,7 @@
 81,'0081','Lisgar Dr @ Berryman Tr',43.569872,-79.77685
 82,'0082','Lisgar Dr @ Dillingwood Dr',43.576114,-79.782904
 83,'0083','Lisgar Dr @ Yarrow Ave',43.573763,-79.780313
-85,'0085','City Ctr Bus Terminal P.L',43.594021,-79.647341
+85,'0085','City Ctr Transit Terminal P.L',43.594021,-79.647341
 87,'0087','Mavis Rd @ Courtneypark Dr',43.623792,-79.711615
 88,'0088','Lisgar Dr @ Berryman Tr',43.570222,-79.777561
 89,'0089','Clarkson Go Sta P.5',43.51295,-79.63294
@@ -270,6 +270,7 @@
 313,'0313','Erin Ctr Blvd @ John Fraser Secondary School',43.559753,-79.715407
 314,'0314','Port Credit Go Sta P.7',43.555435,-79.587496
 315,'0315','Atwater Ave @ Cawthra Rd',43.574893,-79.573059
+316,'0316','Duke Of York Blvd @ Sq One Dr',43.591864,-79.647742
 319,'0319','Dakota Rd @ Nahani Way',43.617146,-79.647634
 320,'0320','Winston Churchill Blvd @ North Sheridan Way',43.513331,-79.668579
 322,'0322','Eglinton Ave E @ Albina Way',43.610984,-79.64807
@@ -335,7 +336,7 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
-388,'0388','Rathburn Rd @ Hammerson Dr',43.596093,-79.644989
+388,'0388','City Ctr Transit Terminal P.Q',43.596093,-79.644989
 389,'0389','City Ctr Transit Terminal P.P',43.595233,-79.645967
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
@@ -427,6 +428,7 @@
 487,'0487','Speakman Dr 2nd Stop South Of Sheridan Pk Dr',43.513583,-79.666194
 488,'0488','Cawthra Seniors Bldg @ Arbor Crt',43.57844,-79.575861
 489,'0489','Speakman Dr South Of Sheridan Pk Dr',43.516018,-79.669568
+490,'0490','University Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
@@ -1267,8 +1269,8 @@
 1401,'1401','Fairview Rd @ Chimo Crt',43.58063,-79.63209
 1404,'1404','Rathburn Rd West Of Elora Dr (East Leg)',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr West Intersection',43.584849,-79.653721
-1406,'1406','City Ctr Bus Terminal P.A',43.594748,-79.646556
-1408,'1408','City Ctr Bus Terminal P.O',43.594234,-79.647358
+1406,'1406','City Ctr Transit Terminal P.A',43.594748,-79.646556
+1408,'1408','City Ctr Transit Terminal P.O',43.594234,-79.647358
 1409,'1409','Donway Dr @ Bancroft Dr',43.61549,-79.704443
 1410,'1410','Creditview Rd @ Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr @ Castlebridge Dr',43.568218,-79.731648
@@ -1310,7 +1312,7 @@
 1452,'1452','Creditview Rd @ Princelea Pl',43.580788,-79.689359
 1453,'1453','Creditview Rd @ Cuthbert Ave',43.579069,-79.687068
 1454,'1454','Truscott Dr @ Elite Rd',43.530875,-79.629218
-1456,'1456','Rathburn Rd @ Duke Of York Blvd',43.592509,-79.648929
+1456,'1456','City Ctr Transit Terminal P.R',43.592509,-79.648929
 1458,'1458','Aquitaine Ave East Of Formentera Ave',43.584834,-79.760668
 1459,'1459','Bristol Rd W @ Bathgate Rd',43.58575,-79.698913
 1460,'1460','Erindale Go Sta P.5',43.567012,-79.668081
@@ -1609,6 +1611,7 @@
 1787,'1787','Explorer Dr @ Orbitor Dr',43.661296,-79.608147
 1788,'1788','Winston Churchill Blvd @ Thomas St',43.560914,-79.733931
 1790,'1790','Winston Churchill Blvd @ Erin Ctr Blvd',43.553124,-79.723298
+1792,'1792','Erin Mills Sta West P.3/4',43.552144,-79.700337
 1794,'1794','The Credit Woodlands @ Erinmore Dr',43.559116,-79.659915
 1795,'1795','Queenston Dr @ Chalice Cres (South Leg)',43.563556,-79.664989
 1796,'1796','Eglinton Ave West Of Fallingbrook Dr',43.58205,-79.680896
@@ -3017,7 +3020,7 @@
 3352,'3352','Tenth Line South Of Erin Ctr Blvd',43.547065,-79.727375
 3353,'3353','Winston Churchill Blvd South Of Eglinton Ave',43.548434,-79.716911
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
-3390,'3390','City Ctr Bus Terminal P.N',43.59455,-79.647013
+3390,'3390','City Ctr Transit Terminal P.N',43.59455,-79.647013
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
