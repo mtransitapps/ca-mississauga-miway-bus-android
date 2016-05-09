@@ -1,6 +1,5 @@
 1,'0001','Erin Mills Pky North Of Lincoln Grn Way',43.53564,-79.664309
 2,'0002','Erin Mills Pky 2nd Stop South Of Dundas St W',43.534537,-79.663158
-3,'0003','Folkway Dr @ Greenview Crt',43.555886,-79.682569
 4,'0004','Eglinton Ave W West Of East Mill Rd',43.579357,-79.683928
 5,'0005','Spectrum Way 1st Stop North Of Eglinton Ave',43.649181,-79.607025
 7,'0007','Spectrum Way 2nd Stop North Of Eglinton Ave',43.649728,-79.60829
@@ -248,7 +247,6 @@
 290,'0290','Indian Rd @ Cermel Dr',43.543606,-79.610474
 291,'0291','Lakeshore Rd W @ Balboa Dr',43.538981,-79.599701
 292,'0292','Lakeshore Rd W @ Ibar Way',43.536465,-79.602419
-293,'0293','Erin Mills Pky South Of Banfield Rd',43.567214,-79.718345
 294,'0294','Sorrento Dr @ Trudeau Ave',43.607963,-79.649134
 295,'0295','Lakeshore Rd W @ Ibar Way',43.536462,-79.602086
 296,'0296','Lakeshore Rd W @ Balboa Dr',43.538479,-79.599898
@@ -417,6 +415,8 @@
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
 474,'0474','City Ctr Transit Terminal Drop Off',43.59476,-79.646543
+475,'0475','Eglinton Ave W @ East Mill Rd',43.580277,-79.682776
+476,'0476','Burnhamthorpe Community Ctr',43.623993,-79.598578
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
 481,'0481','City Ctr Dr @ Sq One Dr',43.596141,-79.642406
@@ -430,6 +430,7 @@
 489,'0489','Speakman Dr South Of Sheridan Pk Dr',43.516018,-79.669568
 490,'0490','University Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
+492,'0492','Cawthra Rd @ Hassall Rd',43.606629,-79.616839
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
 495,'0495','Cawthra Seniors Bldg @ Arbor Crt',43.57837,-79.576061
@@ -481,7 +482,6 @@
 543,'0543','Airport Monorail Link Sta',43.689791,-79.615589
 545,'0545','Erin Mills Pky 1st Stop South Of Dundas St W',43.536058,-79.665426
 546,'0546','Gln Erin Dr @ Thomas St',43.565708,-79.728617
-547,'0547','Sheridan Ctr Bus Terminal P.D',43.529728,-79.651619
 548,'0548','Dundas St W @ Winston Churchill Blvd',43.523199,-79.68088
 549,'0549','Woodchester Dr @ Dundas St W',43.52635,-79.676159
 550,'0550','Woodchester Dr @ Thorn Lodge Dr',43.525342,-79.674634
@@ -787,20 +787,9 @@
 902,'0902','Burnhamthorpe Rd W @ Mississauga Rd',43.552883,-79.675999
 903,'0903','Burnhamthorpe Rd W @ Promontory Dr',43.557051,-79.675091
 904,'0904','Burnhamthorpe Rd W @ Promontory Cres',43.557668,-79.674718
-905,'0905','Folkway Dr @ Erin Mills Pky',43.550345,-79.69018
-906,'0906','Folkway Dr @ Sawmill Vly Dr',43.552462,-79.688648
-907,'0907','Folkway Dr @ Coppersmith Crt',43.553949,-79.690362
-908,'0908','Folkway Dr @ Trapper Cres (West Leg)',43.555501,-79.6906
 909,'0909','Lakeshore Rd @ Owenwood Dr',43.529424,-79.609698
 910,'0910','University Of Toronto @ Mississauga Campus',43.54781,-79.663602
-911,'0911','Folkway Dr @ Trapper Cres (East Leg)',43.556497,-79.689526
-912,'0912','Folkway Dr @ Powderhorn Cres (East Leg)',43.556717,-79.686761
-913,'0913','Folkway Dr @ Flintlock Crt',43.556839,-79.684034
 914,'0914','Mississauga Rd @ The Collegeway',43.544837,-79.662324
-915,'0915','Folkway Dr @ Sawmill Vly Dr',43.5527,-79.682738
-916,'0916','Sawmill Vly Dr @ Stonemason Cres (East Leg)',43.552112,-79.684088
-917,'0917','Sawmill Vly Dr @ Farrier Crt',43.550995,-79.686353
-918,'0918','Folkway Dr West Of Sawmill Vly Dr',43.551409,-79.689476
 919,'0919','Meadowvale Town Ctr Bus Terminal P.H',43.58353,-79.758391
 920,'0920','Tranmere Dr South Of Boylen Rd',43.685172,-79.666876
 921,'0921','Middlegate Rd 2nd Stop East Of Haines Rd',43.595356,-79.588785
@@ -929,7 +918,6 @@
 1047,'1047','Winston Churchill Blvd South Of Laird Rd',43.524425,-79.68412
 1048,'1048','The Collegeway @ Council Ring Rd',43.531928,-79.69142
 1049,'1049','The Collegeway @ South Common Ctr Access Rd',43.543387,-79.680923
-1050,'1050','Folkway Dr @ Sunflower Dr (East Leg)',43.55,-79.692997
 1051,'1051','Meadowvale Blvd @ Meadowpine Blvd',43.604558,-79.768713
 1053,'1053','Meadowpine Blvd @ East Danbro Cres',43.603537,-79.77509
 1054,'1054','The Collegeway South Of South Millway',43.544806,-79.66943
@@ -951,23 +939,10 @@
 1072,'1072','The Collegeway 1st Stop West Of Broad Hollow Gat',43.545251,-79.670831
 1073,'1073','South Common Ctr Bus Terminal P.F',43.543917,-79.684551
 1074,'1074','Burnhamthorpe Rd West Of Gln Erin Dr',43.542471,-79.6929
-1075,'1075','Folkway Dr @ Jerring Mews',43.542392,-79.693892
-1076,'1076','Folkway Dr @ Pheasant Run',43.54241,-79.696243
-1077,'1077','Folkway Dr @ Cathian Crt',43.541138,-79.696778
-1078,'1078','Folkway Dr @ Marigold Cres (East Leg)',43.539457,-79.697805
-1079,'1079','Folkway Dr @ Marigold Cres (West Leg)',43.538759,-79.700592
-1080,'1080','Folkway Dr @ Unity Gt',43.540297,-79.703654
-1081,'1081','Folkway Dr @ Taffey Cres (East Leg)',43.542478,-79.703817
-1082,'1082','Folkway Dr @ Martlen Cres (West Leg)',43.544051,-79.703511
-1083,'1083','Folkway Dr @ Gln Erin Dr',43.547021,-79.699499
-1084,'1084','Folkway Dr @ Treetop Cres (West Leg)',43.549251,-79.698399
-1085,'1085','Folkway Dr @ Sunflower Dr (West Leg)',43.5507,-79.696783
-1086,'1086','Folkway Dr @ Trellis Cres',43.551171,-79.695423
 1087,'1087','The Collegeway @ Broad Hollow Gt',43.543982,-79.666279
 1089,'1089','South Common Mall Bus Terminal P.K',43.54272,-79.683107
 1090,'1090','South Millway @ The Collegeway',43.541445,-79.681176
 1091,'1091','Dixie Rd @ Dundas St',43.608889,-79.582949
-1092,'1092','Folkway Dr East Of Martlen Cres (East Leg)',43.545411,-79.702021
 1093,'1093','Gooderham Est Blvd @ Buttle Sta Pl',43.629078,-79.723675
 1094,'1094','The Collegeway 2nd Stop West Of Broad Hollow Ga',43.54583,-79.675733
 1095,'1095','Dundas St East Of Winston Churchill Blv',43.525197,-79.679241
@@ -3445,7 +3420,6 @@
 6880,'6880','Financial Dr 1st Stop South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Mall Bus Terminal P.K',43.72189,-79.640859
 7200,'7200','Humber College North Campus P.8',43.729206,-79.604957
-7201,'7201','Humber College North Campus P.1',43.729268,-79.605653
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
