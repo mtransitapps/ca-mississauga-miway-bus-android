@@ -34,7 +34,7 @@
 38,'0038','Creekbank Rd @ Matheson Blvd',43.648584,-79.62089
 39,'0039','Matheson Blvd @ Explorer Dr',43.651986,-79.615554
 40,'0040','Matheson Blvd @ Spectrum Way',43.651965,-79.612355
-41,'0041','Matheson Blvd @ Solar Dr',43.652385,-79.60989
+41,'0041','Matheson Blvd @ Solar Dr',43.652676,-79.609406
 42,'0042','Matheson Blvd @ Satellite Dr',43.654636,-79.607668
 43,'0043','Matheson Blvd @ Shuttle Dr',43.660333,-79.600839
 44,'0044','Matheson Blvd @ Explorer Dr',43.662555,-79.598443
@@ -268,7 +268,6 @@
 313,'0313','Erin Ctr Blvd @ John Fraser Secondary School',43.559753,-79.715407
 314,'0314','Port Credit Go Sta P.7',43.555435,-79.587496
 315,'0315','Atwater Ave @ Cawthra Rd',43.574893,-79.573059
-316,'0316','Duke Of York Blvd @ Sq One Dr',43.591864,-79.647742
 319,'0319','Dakota Rd @ Nahani Way',43.617146,-79.647634
 320,'0320','Winston Churchill Blvd @ North Sheridan Way',43.513331,-79.668579
 322,'0322','Eglinton Ave E @ Albina Way',43.610984,-79.64807
@@ -415,8 +414,6 @@
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
 474,'0474','City Ctr Transit Terminal Drop Off',43.59476,-79.646543
-475,'0475','Eglinton Ave W @ East Mill Rd',43.580277,-79.682776
-476,'0476','Burnhamthorpe Community Ctr',43.623993,-79.598578
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
 481,'0481','City Ctr Dr @ Sq One Dr',43.596141,-79.642406
@@ -430,7 +427,6 @@
 489,'0489','Speakman Dr South Of Sheridan Pk Dr',43.516018,-79.669568
 490,'0490','University Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
-492,'0492','Cawthra Rd @ Hassall Rd',43.606629,-79.616839
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
 495,'0495','Cawthra Seniors Bldg @ Arbor Crt',43.57837,-79.576061
@@ -506,7 +502,9 @@
 571,'0571','Gln Erin Dr @ Duncairn Dr',43.562689,-79.723517
 572,'0572','Gln Erin Dr @ Middlebury Dr',43.560538,-79.721148
 573,'0573','Gln Erin Dr @ Erin Ctr Blvd',43.558513,-79.718826
+574,'0574','Aimco Blvd @ Dixie Rd',43.638021,-79.625179
 575,'0575','Airport Monorail Link Sta',43.689789,-79.615574
+576,'0576','Matheson Blvd @ Bradco Blvd',43.638537,-79.634423
 578,'0578','City Ctr Dr North Of Kariya Gt',43.594045,-79.638749
 579,'0579','Lincoln Grn Way East Of Erin Mills Pky',43.531319,-79.65594
 580,'0580','Erin Mills Pky 2nd Stop North Of Dundas St W',43.539722,-79.670049
@@ -903,7 +901,7 @@
 1031,'1031','South Millway @ Buttonbush Cres (North Leg)',43.541245,-79.679472
 1032,'1032','South Millway @ Buttonbush Cres (South Leg)',43.5408,-79.678306
 1033,'1033','South Millway @ 5th Line West',43.539546,-79.674236
-1034,'1034','Erin Mills Pky 1st Stop South Of South Millway',43.539923,-79.671072
+1034,'1034','Erin Mills Pky South Of South Millway',43.539923,-79.671072
 1035,'1035','Dundas St @ Mississauga Rd',43.542315,-79.659953
 1036,'1036','Dundas St @ Redstart Dr',43.539304,-79.663523
 1037,'1037','Dundas St East Of Erin Mills Pky',43.537813,-79.665363
@@ -1458,6 +1456,7 @@
 1643,'1643','Confederation Pky South Of Croatia Dr',43.584015,-79.638095
 1644,'1644','Confederation Pky @ Central Pky W',43.583393,-79.636487
 1645,'1645','Duke Of York Blvd @ Webb Dr',43.587253,-79.640029
+1646,'1646','Confederation Pky @ Hillcrest Ave',43.579153,-79.624556
 1647,'1647','Confederation Pky South Of Hillcrest Ave',43.578119,-79.621706
 1648,'1648','Confederation Pky @ Dundas St',43.577601,-79.619761
 1649,'1649','Confederation Pky @ Dunbar Rd',43.575296,-79.616111
@@ -2909,6 +2908,7 @@
 3240,'3240','Explorer Dr 2nd Stop North Of Matheson Blvd',43.65601,-79.617012
 3241,'3241','Explorer Dr 1st Stop West Of Satellite Dr',43.656478,-79.616976
 3242,'3242','Maingate Dr 1st Stop North Of Haultain Crt',43.634971,-79.634275
+3244,'3244','Maingate Dr South Of Matheson Blvd',43.636023,-79.636786
 3245,'3245','Tomken Rd South Of Matheson Blvd',43.633108,-79.641321
 3246,'3246','Viscount Rd @ Airway Dr',43.694436,-79.624989
 3247,'3247','Orbitor Dr @ Skymark Ave',43.656683,-79.599771
@@ -3349,7 +3349,7 @@
 6128,'6128','Hillcrest Ave @ Parkerhill Rd',43.577791,-79.625826
 6129,'6129','Hillcrest Ave @ High Spgs Cres',43.575998,-79.628777
 6130,'6130','Hillcrest Ave @ Clayhill Rd',43.57272,-79.631671
-6131,'6131','Hillcrest Ave @ Wildgrass Rd',43.56979,-79.633661
+6131,'6131','Hillcrest Ave @ Wildgrass Rd',43.569673,-79.63392
 6132,'6132','Hillcrest Ave @ Mavis Rd',43.568319,-79.635626
 6133,'6133','Mavis Rd @ Novo Star Dr',43.630169,-79.719797
 6134,'6134','Derry Rd @ Bellshire Gt',43.621559,-79.742363
