@@ -14,7 +14,7 @@
 16,'0016','Spectrum Way 2nd Stop South Of Matheson Blvd E',43.650138,-79.61169
 17,'0017','Spectrum Way 3rd Stop South Of Matheson Blvd E',43.649629,-79.609098
 18,'0018','Spectrum Way @ Eglinton Ave E',43.648764,-79.606787
-19,'0019','City Ctr Transit Terminal P.S',43.592667,-79.648591
+19,'0019','Duke Of York Blvd @ Rathburn Rd W',43.592667,-79.648591
 20,'0020','Matheson Blvd @ Shuttle Dr',43.660649,-79.600931
 21,'0021','Matheson Blvd 1st Stop West Of Orbitor Dr',43.657301,-79.604704
 22,'0022','Tours Rd @ Millers Grv',43.571858,-79.754791
@@ -118,14 +118,13 @@
 131,'0131','Bromsgrove Rd @ Constable Rd',43.504168,-79.647314
 132,'0132','Bromsgrove Rd East Of Tredmore Dr',43.506615,-79.644798
 133,'0133','Bromsgrove Rd @ Seagull Dr',43.50888,-79.642174
-134,'0134','Bromsgrove Rd 3rd West Of Southdown Rd',43.510544,-79.639044
 135,'0135','Bromsgrove Rd 2nd West Of Southdown Rd',43.512483,-79.6378
 136,'0136','Bromsgrove Rd West Of Southdown Rd',43.514399,-79.636087
 137,'0137','Truscott Dr West Of Lockhart Rd',43.505802,-79.65757
 138,'0138','Truscott Dr @ Lockhart Rd',43.5075,-79.655701
 139,'0139','Clarkson Go Sta P.7',43.512969,-79.633264
 140,'0140','Bromsgrove Rd @ Southdown Rd',43.51453,-79.634983
-141,'0141','Bromsgrove Rd 4th Stop West Of Southdown Rd',43.509641,-79.639534
+141,'0141','Bromsgrove Rd 3rd West Of Southdown Rd',43.509641,-79.639534
 142,'0142','Bromsgrove Rd @ Winston Churchill Blvd',43.500836,-79.65105
 143,'0143','Winston Churchill Blvd @ Stockholm Rd',43.503088,-79.654946
 144,'0144','Winston Churchill Blvd @ Truscott Dr',43.505361,-79.657629
@@ -334,8 +333,6 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
-388,'0388','City Ctr Transit Terminal P.Q',43.596093,-79.644989
-389,'0389','City Ctr Transit Terminal P.P',43.595233,-79.645967
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
 394,'0394','Osprey Blvd @ Snowflake Ln',43.567706,-79.759694
@@ -414,7 +411,6 @@
 470,'0470','South Service Rd @ Dixie Mall Access',43.593791,-79.571498
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
-474,'0474','City Ctr Transit Terminal Drop Off',43.59476,-79.646543
 477,'0477','City Ctr Transit Terminal P.E',43.5938,-79.646225
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
@@ -1288,7 +1284,7 @@
 1452,'1452','Creditview Rd @ Princelea Pl',43.580788,-79.689359
 1453,'1453','Creditview Rd @ Cuthbert Ave',43.579069,-79.687068
 1454,'1454','Truscott Dr @ Elite Rd',43.530875,-79.629218
-1456,'1456','City Ctr Transit Terminal P.R',43.592509,-79.648929
+1456,'1456','Rathburn Rd @ Duke Of York Blvd',43.592509,-79.648929
 1458,'1458','Aquitaine Ave East Of Formentera Ave',43.584834,-79.760668
 1459,'1459','Bristol Rd W @ Bathgate Rd',43.58575,-79.698913
 1460,'1460','Erindale Go Sta P.5',43.567012,-79.668081
@@ -1584,7 +1580,7 @@
 1787,'1787','Explorer Dr @ Orbitor Dr',43.661296,-79.608147
 1788,'1788','Winston Churchill Blvd @ Thomas St',43.560914,-79.733931
 1790,'1790','Winston Churchill Blvd @ Erin Ctr Blvd',43.553124,-79.723298
-1792,'1792','Erin Mills Sta West P.3/4',43.552144,-79.700337
+1792,'1792','Erin Mills Sta West P.3',43.552144,-79.700337
 1794,'1794','The Credit Woodlands @ Erinmore Dr',43.559116,-79.659915
 1795,'1795','Queenston Dr @ Chalice Cres (South Leg)',43.563556,-79.664989
 1796,'1796','Eglinton Ave West Of Fallingbrook Dr',43.58205,-79.680896
@@ -2754,7 +2750,6 @@
 3107,'3107','Kennedy Rd @ Brunel Rd',43.632619,-79.66406
 3108,'3108','Mavis Rd @ Boyer Blvd',43.614014,-79.698105
 3110,'3110','Kennedy Rd South Of Matheson Blvd',43.625515,-79.654884
-3111,'3111','City Ctr Transit Terminal P.P',43.595198,-79.645995
 3114,'3114','Royal Windsor Dr 2nd Stop West Of Southdown Rd',43.505681,-79.635924
 3115,'3115','Financial Dr South Of Derry Rd',43.61096,-79.748805
 3116,'3116','Financial Dr @ Creditview Rd',43.612305,-79.739247
@@ -2945,7 +2940,6 @@
 3415,'3415','Bristol Rd W @ Heatherleigh Ave',43.597232,-79.683315
 3416,'3416','Bristol Rd E @ Hurontario St',43.614195,-79.663712
 3418,'3418','Admiral Blvd @ Edwards Blvd',43.645209,-79.699391
-3420,'3420','Bromsgrove Rd 2nd East Of Seagull Dr',43.510676,-79.638732
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3423,'3423','Bloor St @ Islington Ave',43.644524,-79.523667
 3433,'3433','Credit Vly Rd @ Gln Erin Dr',43.553015,-79.707182
@@ -3055,7 +3049,7 @@
 4119,'4119','Churchill Mdws Blvd @ Stardust Dr',43.53925,-79.731488
 4120,'4120','Churchill Mdws Blvd @ Tacc Dr',43.547475,-79.74086
 4121,'4121','Churchill Mdws Blvd North Of Placid Pl',43.544671,-79.737217
-4122,'4122','Churchill Mdws Blvd @ Eglinton Ave',43.538347,-79.729638
+4122,'4122','Churchill Mdws Blvd @ Eglinton Ave',43.538354,-79.72958
 4123,'4123','Churchill Mdws Blvd North Of Swiftdale Dr',43.550387,-79.744426
 4124,'4124','Churchill Mdws Blvd @ Erin Ctr Blvd',43.543281,-79.736144
 4125,'4125','Thomas St @ Tenth Line',43.55868,-79.741196
@@ -3257,6 +3251,8 @@
 5783,'5783','Millcreek Dr @ Aquitaine Ave',43.595434,-79.756746
 5784,'5784','Millcreek Dr @ Derry Rd',43.597223,-79.760636
 6000,'6000','City Ctr Transit Terminal Drop Off',43.594363,-79.646651
+6001,'6001','Islington Subway Drop-Off',43.644572,-79.524649
+6002,'6002','Meadowvale Town Ctr Drop Off',43.583782,-79.759017
 6101,'6101','Mavis Rd 1st Stop North Of Hillcrest Ave',43.569908,-79.638277
 6102,'6102','Mavis Rd @ Central Pky',43.575019,-79.645531
 6105,'6105','Mavis Rd @ Winterton Way',43.595676,-79.674949
