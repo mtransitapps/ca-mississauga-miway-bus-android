@@ -1239,7 +1239,6 @@
 1399,'1399','Queensway @ Dixie Rd',43.604353,-79.573651
 1400,'1400','Duke Of York Blvd @ Princess Royal Dr',43.589839,-79.644022
 1401,'1401','Fairview Rd @ Chimo Crt',43.58063,-79.63209
-1402,'1402','City Ctr Transit Terminal P.D',43.593938,-79.646469
 1403,'1403','City Ctr Transit Terminal P.G',43.593565,-79.646131
 1404,'1404','Rathburn Rd West Of Elora Dr (East Leg)',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr West Intersection',43.584849,-79.653721
@@ -1255,7 +1254,6 @@
 1416,'1416','Rathburn Rd @ Elora Dr (West Leg)',43.584343,-79.653571
 1417,'1417','Creditview Rd @ Carolyn Dr',43.585475,-79.695327
 1418,'1418','Derry Rd @ Meadowvale Blvd',43.614359,-79.744663
-1419,'1419','City Ctr Transit Terminal P.F',43.593625,-79.645919
 1421,'1421','Burnhamthorpe Rd W @ Living Arts Dr',43.587101,-79.643204
 1422,'1422','Burnhamthorpe Rd W @ Confederation Pky',43.585627,-79.644872
 1423,'1423','Derry Rd West Of Meadowvale Blvd',43.613266,-79.746378
@@ -1490,7 +1488,7 @@
 1684,'1684','Winston Churchill Blvd @ Royal Windsor Dr',43.496399,-79.645342
 1687,'1687','Westwood Mall Bus Terminal P.D',43.721596,-79.640667
 1688,'1688','Edenwood Dr @ Tours Rd',43.57315,-79.753576
-1689,'1689','Erin Mills Town Ctr Bus Terminal P.F',43.560745,-79.711598
+1689,'1689','Erin Mills Town Ctr Bus Terminal P.F',43.560412,-79.71083
 1690,'1690','Cawthra Sta East P.A',43.616433,-79.628585
 1691,'1691','Webb Dr West Of Duke Of York Blvd',43.586451,-79.64079
 1692,'1692','Duke Of York Blvd North Of Webb Dr',43.587978,-79.641026
