@@ -143,9 +143,7 @@
 160,'0160','Gln Erin Dr @ Folkway Dr',43.547214,-79.699792
 161,'0161','Gln Erin Dr South Of Rolling Vly Dr',43.545002,-79.694566
 162,'0162','Gln Erin Dr @ Romark Mews Walkway',43.544323,-79.693405
-163,'0163','Dakota Rd @ Nahani Way',43.617256,-79.647768
 170,'0170','Financial Dr @ Meadowvale Blvd',43.614491,-79.751409
-176,'0176','Dakota Rd @ Kennedy Rd',43.618388,-79.645301
 177,'0177','Kennedy Rd @ Matheson Blvd',43.625949,-79.655023
 178,'0178','Kennedy Rd @ Coopers Ave',43.631028,-79.661926
 179,'0179','Kennedy Rd @ Coopers Ave',43.634119,-79.666072
@@ -267,7 +265,6 @@
 313,'0313','Erin Ctr Blvd @ John Fraser Secondary School',43.559753,-79.715407
 314,'0314','Port Credit Go Sta P.7',43.555435,-79.587496
 315,'0315','Atwater Ave @ Cawthra Rd',43.574893,-79.573059
-319,'0319','Dakota Rd @ Nahani Way',43.617146,-79.647634
 320,'0320','Winston Churchill Blvd @ North Sheridan Way',43.513331,-79.668579
 322,'0322','Eglinton Ave E @ Albina Way',43.610984,-79.64807
 323,'0323','Lakeshore Rd E @ St Lawrence Dr',43.55504,-79.581798
@@ -506,7 +503,6 @@
 577,'0577','Living Arts Dr @ Prince Of Wales Dr',43.589792,-79.647799
 578,'0578','City Ctr Dr North Of Kariya Gt',43.594045,-79.638749
 579,'0579','Lincoln Grn Way East Of Erin Mills Pky',43.531319,-79.65594
-580,'0580','Erin Mills Pky 2nd Stop North Of Dundas St W',43.539722,-79.670049
 581,'0581','Lakeshore Rd @ Johnsons Ln',43.52195,-79.617863
 583,'0583','Winston Churchill Blvd @ Homelands Dr',43.518878,-79.676103
 584,'0584','Burnhamthorpe Rd @ Living Arts Dr',43.586502,-79.643345
@@ -911,6 +907,7 @@
 1039,'1039','South Millway @ 5th Line W',43.539871,-79.674291
 1040,'1040','South Millway @ Buttonbush Cres',43.54086,-79.678082
 1041,'1041','South Millway @ Buttonbush Cres',43.541409,-79.679642
+1042,'1042','Thomas St @ Go Sta Access',43.578303,-79.714116
 1043,'1043','The Collegeway @ Gln Erin Dr',43.536507,-79.68637
 1044,'1044','The Collegeway @ Spruce Needle Dr',43.535702,-79.687613
 1045,'1045','The Collegeway @ Council Ring Rd',43.532297,-79.691362
@@ -1243,6 +1240,7 @@
 1404,'1404','Rathburn Rd West Of Elora Dr',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr',43.584849,-79.653721
 1406,'1406','City Ctr Transit Terminal P.A',43.594748,-79.646556
+1407,'1407','Goreway Dr @ Nashua Dr',43.710682,-79.622162
 1408,'1408','City Ctr Transit Terminal P.O',43.594234,-79.647358
 1409,'1409','Donway Dr @ Bancroft Dr',43.61549,-79.704443
 1410,'1410','Creditview Rd @ Melia Dr',43.570171,-79.672128
@@ -1420,7 +1418,6 @@
 1597,'1597','Winston Churchill Blvd @ Dalehurst Dr',43.592359,-79.777213
 1598,'1598','Winston Churchill Blvd @ Danton Promenade',43.590558,-79.774697
 1600,'1600','Central Pky @ Mdws Blvd',43.60341,-79.629071
-1601,'1601','Central Pky @ Youngstown Ave',43.604729,-79.631681
 1603,'1603','Central Pky @ Laurentian Ave',43.609385,-79.638527
 1604,'1604','Central Pky @ Bud Gregory Blvd',43.61281,-79.639602
 1605,'1605','Central Pky @ Mallorytown Ave',43.614962,-79.640359
@@ -1514,6 +1511,7 @@
 1712,'1712','Gln Erin Dr @ Thomas St',43.565529,-79.72789
 1713,'1713','Silken Laumann Way @ Ivandale Dr',43.60861,-79.702745
 1714,'1714','Central Pkwy Sta East P.A',43.607769,-79.635966
+1715,'1715','Erin Mills Sta East P.7',43.552224,-79.700076
 1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky @ Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
@@ -1551,7 +1549,6 @@
 1755,'1755','Orlando Dr @ Viscount Rd',43.696718,-79.627996
 1756,'1756','Erin Mills Pky @ Eglinton Ave W',43.55853,-79.705949
 1757,'1757','Erin Mills Town Ctr Bus Terminal P.A',43.560474,-79.710712
-1758,'1758','Erin Mills Town Ctr Bus Terminal P.D',43.56039,-79.713574
 1759,'1759','Erin Mills Pky @ Thomas St',43.569817,-79.722438
 1760,'1760','Erin Mills Pky @ Vista Blvd',43.573649,-79.727695
 1761,'1761','Erin Mills Pky @ Wickham Rd',43.572825,-79.727316
@@ -1633,6 +1630,7 @@
 1850,'1850','Argentia Rd 2nd Stop East Of Tenth Line',43.59595,-79.785515
 1851,'1851','Milverton Dr East Of Avebury Rd',43.619965,-79.673784
 1852,'1852','Edwards Blvd @ Statesman Dr',43.651053,-79.708271
+1853,'1853','Goreway Dr @ Nashua Dr',43.710565,-79.622655
 1854,'1854','Bristol Rd W @ Kinglet Ave',43.592848,-79.688118
 1855,'1855','Brunel Rd West Of Kennedy Rd',43.631624,-79.666003
 1856,'1856','Brunel Rd @ Wallace St',43.63028,-79.66959
@@ -1661,6 +1659,7 @@
 1879,'1879','Mclaughlin Rd @ Eglinton Ave',43.59723,-79.663778
 1880,'1880','Brunel Rd 2nd Stop West Of Wallace St',43.627876,-79.673523
 1881,'1881','Britannia Rd East Of Greensboro Dr',43.572594,-79.739754
+1882,'1882','Streetsville Go Sta P.3',43.575495,-79.71059
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441
 1886,'1886','Britannia Rd 2nd Stop West Of Erin Mills Pky',43.576636,-79.735657
 1887,'1887','Britannia Rd @ Gln Erin Dr',43.574823,-79.737751
@@ -1765,7 +1764,6 @@
 1992,'1992','Eglinton Ave E @ Huron Hts Dr',43.612556,-79.646275
 1993,'1993','Kennedy Rd @ Candlestick Cir',43.617348,-79.643354
 1994,'1994','Traders Blvd @ Kennedy Rd',43.630933,-79.662287
-1995,'1995','Kennedy Rd @ Beachgrass Crt',43.619232,-79.645865
 1998,'1998','Eglinton Ave @ Terry Fox Way',43.58796,-79.674202
 1999,'1999','Eglinton Ave W @ Wainscot Dr',43.587307,-79.674576
 2002,'2002','Eglinton Ave E East Of Tomken Rd',43.628524,-79.628488
@@ -1829,7 +1827,6 @@
 2083,'2083','Eglinton Ave East Of Hwy 403',43.626158,-79.631604
 2084,'2084','Matheson Blvd @ Tomken Rd',43.633201,-79.641634
 2085,'2085','Matheson Blvd East Of Timberlea Blvd',43.632444,-79.643064
-2093,'2093','Bristol Rd @ Grand Highland Way',43.618935,-79.651944
 2094,'2094','Tomken Rd @ Matheson Blvd',43.633285,-79.641148
 2095,'2095','Matheson Blvd @ Maingate Dr',43.63604,-79.637268
 2096,'2096','Maingate Dr @ Haultain Crt',43.63414,-79.632811
@@ -1870,7 +1867,6 @@
 2135,'2135','Derry Rd @ Millcreek Dr',43.597562,-79.761187
 2136,'2136','Explorer Dr North Of Matheson Blvd',43.663463,-79.599104
 2137,'2137','Mavis Rd South Of Winterton Way',43.594529,-79.673092
-2138,'2138','Dakota Rd @ Kennedy Rd',43.618206,-79.6459
 2139,'2139','Tranmere Dr South Of Boylen Rd',43.683641,-79.667655
 2140,'2140','Kariya Dr North Of Enfield Pl',43.59032,-79.635984
 2144,'2144','Matheson Blvd @ Orbitor Dr',43.657819,-79.603614
@@ -1902,7 +1898,6 @@
 2171,'2171','Tranmere Dr 2nd Stop West Of Telford Way',43.681455,-79.67475
 2172,'2172','Tranmere Dr South Of Drew Rd',43.68231,-79.677821
 2173,'2173','Creditview Rd @ Bristol Rd',43.586843,-79.697663
-2174,'2174','Erin Mills Town Ctr Bus Terminal P.E',43.560333,-79.713315
 2175,'2175','Drew Rd West Of Torbram Rd',43.698334,-79.660616
 2176,'2176','Drew Rd @ Kimbel St',43.695792,-79.663402
 2177,'2177','Drew Rd @ David Hunting Dr',43.69365,-79.665783
@@ -2160,13 +2155,8 @@
 2441,'2441','Vista Blvd @ Vista Dr',43.57569,-79.723404
 2442,'2442','Vista Blvd @ Sora Dr',43.575042,-79.725114
 2443,'2443','Vista Blvd @ Turney Dr',43.573863,-79.726761
-2444,'2444','Vista Blvd @ Turney Dr',43.573621,-79.726828
-2445,'2445','Vista Blvd @ Sora Dr',43.574809,-79.725206
-2446,'2446','Vista Blvd @ Vista Dr',43.575553,-79.720831
-2447,'2447','Vista Dr @ Turney Dr',43.57443,-79.718613
 2448,'2448','Thomas St @ Hillside Dr',43.576071,-79.716472
 2450,'2450','Thomas St @ Queen St',43.580035,-79.711855
-2451,'2451','Thomas St @ Victoria St',43.579728,-79.71258
 2452,'2452','Queen St @ Old Sta Rd',43.57629,-79.706337
 2453,'2453','Queen St @ Old Sta Rd',43.576384,-79.706694
 2454,'2454','Windwood Dr @ Wabukayne Crt',43.579343,-79.737
@@ -2405,7 +2395,6 @@
 2731,'2731','Redstone Rd @ Bonaventure Dr',43.714662,-79.65402
 2732,'2732','Derry Rd @ Gln Erin Dr',43.592613,-79.766479
 2734,'2734','Copenhagen Rd @ Joliette Cres',43.59409,-79.77108
-2735,'2735','Goreway Dr South Of Nashua Dr',43.711109,-79.626345
 2736,'2736','Nashua Dr @ Goreway Dr',43.711077,-79.6222
 2737,'2737','Rexwood Rd North Of Nashua Dr',43.71238,-79.621984
 2738,'2738','Rexwood Rd 2nd North Of Nashua Dr',43.713486,-79.624777
@@ -2619,7 +2608,6 @@
 2961,'2961','Nashua Dr 3rd Stop East Of Rexwood Rd',43.715822,-79.621396
 2962,'2962','Nashua Dr @ Rexwood Rd South Intersection',43.71229,-79.621242
 2963,'2963','Nashua Dr @ Goreway Dr',43.710847,-79.622479
-2964,'2964','Goreway Dr North Of Nashua Dr',43.711289,-79.626292
 2965,'2965','Goreway Dr @ Nashua Dr',43.712395,-79.629965
 2966,'2966','Nashua Dr East Goreway Dr',43.713751,-79.628122
 2967,'2967','Northam Dr @ American Dr',43.695338,-79.616145
@@ -2818,7 +2806,6 @@
 3211,'3211','Creekbank Rd @ Aimco Blvd',43.645026,-79.616297
 3212,'3212','Creekbank Rd @ Aimco Blvd',43.645311,-79.616774
 3213,'3213','Creekbank Rd @ Eglinton Ave',43.641434,-79.614928
-3218,'3218','Erin Mills Town Ctr Bus Terminal P.C',43.560434,-79.713561
 3219,'3219','Erin Ctr Blvd @ John Fraser Secondary School',43.559789,-79.715407
 3220,'3220','Dixie Sta West P.B',43.629887,-79.614905
 3221,'3221','Gln Erin Dr @ Erin Ctr Blvd',43.556765,-79.71635
@@ -2916,10 +2903,16 @@
 3340,'3340','Sebastian Dr @ Stonecutter Cres',43.539068,-79.722444
 3341,'3341','Erin Ctr Blvd @ Oscar Peterson Blvd',43.550003,-79.725235
 3342,'3342','Gln Erin Dr South Of Eglinton Ave',43.553459,-79.711381
+3343,'3343','Central Pky @ Rathburn Rd',43.606112,-79.633824
+3344,'3344','Britannia Rd West Of Tenth Line',43.563836,-79.750079
+3345,'3345','Bristol Rd @ Barondale Dr',43.619821,-79.650235
 3346,'3346','Derry Rd East Of Edwards Blvd',43.650174,-79.701268
 3347,'3347','Morning Star Dr @ Catalpa Dr',43.719747,-79.643193
 3352,'3352','Tenth Line South Of Erin Ctr Blvd',43.547065,-79.727375
 3353,'3353','Winston Churchill Blvd South Of Eglinton Ave',43.548434,-79.716911
+3356,'3356','Bristol Rd @ Kennedy Rd',43.620561,-79.6483
+3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714
+3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
 3390,'3390','City Ctr Transit Terminal P.N',43.59455,-79.647013
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
@@ -3039,7 +3032,6 @@
 4111,'4111','Churchill Mdws Blvd @ Deepwood Hts',43.549593,-79.743465
 4112,'4112','Churchill Mdws Blvd @ Thomas St',43.551842,-79.746525
 4113,'4113','Churchill Mdws Blvd South Of Arbourview Ter',43.550291,-79.744725
-4114,'4114','Erin Mills Town Ctr Bus Terminal P.G',43.556209,-79.710976
 4115,'4115','Thomas St @ Passion Flower Blvd',43.554945,-79.743811
 4116,'4116','Thomas St @ Tenth Line',43.558357,-79.741314
 4117,'4117','Thomas St @ Oscar Peterson Blvd',43.559554,-79.73752
@@ -3155,27 +3147,6 @@
 5305,'5305','Kennedy Rd @ Marcove Rd',43.649722,-79.686866
 5306,'5306','Kennedy Rd @ Superior Blvd',43.651278,-79.68946
 5310,'5310','Kennedy Rd @ Superior Blvd',43.651236,-79.688905
-5600,'5600','Tenth Line @ Millers Grv',43.567549,-79.753543
-5601,'5601','Tenth Line @ Kindree Cir Walkway',43.569469,-79.756203
-5602,'5602','Tenth Line @ Switzer Gt',43.57137,-79.758777
-5603,'5603','Tenth Line @ Battleford Rd',43.573958,-79.762464
-5604,'5604','Tenth Line @ Millers Grv',43.575934,-79.765309
-5605,'5605','Tenth Line @ Aquitaine Ave',43.578931,-79.769384
-5606,'5606','Tenth Line @ Vanderbilt Rd',43.58181,-79.773388
-5607,'5607','Tenth Line @ Derry Rd',43.583756,-79.776079
-5608,'5608','Tenth Line @ Avalon Dr',43.585995,-79.779038
-5609,'5609','Tenth Line @ Bay Tree Crt Walkway',43.588116,-79.782043
-5613,'5613','Tenth Line @ Lowville Hts Walkway',43.587983,-79.782231
-5614,'5614','Tenth Line @ Scotch Pine Gt',43.586072,-79.77952
-5615,'5615','Tenth Line @ Derry Rd',43.583861,-79.776518
-5616,'5616','Tenth Line @ Bloomfield Dr',43.581879,-79.773895
-5617,'5617','Tenth Line W @ Aquitaine Ave',43.578999,-79.769816
-5618,'5618','Tenth Line @ Millers Grv',43.575983,-79.765655
-5619,'5619','Tenth Line @ Trelawny Cir',43.574044,-79.76287
-5620,'5620','Tenth Line @ Switzer Gt',43.571429,-79.759271
-5621,'5621','Tenth Line @ Prairie Cir Walkway',43.569336,-79.756342
-5622,'5622','Tenth Line @ Waxwing Dr',43.567634,-79.753826
-5623,'5623','Tenth Line @ Britannia Rd',43.564353,-79.749461
 5624,'5624','Tenth Line @ Mcdowell Dr',43.56183,-79.745959
 5625,'5625','Tenth Line @ Thomas St',43.558549,-79.741582
 5626,'5626','Tenth Line @ Bala Dr',43.556372,-79.738446
@@ -3226,7 +3197,6 @@
 5743,'5743','Britannia Rd @ Netherhart Rd',43.662243,-79.639739
 5744,'5744','Courtneypark Dr @ Kennedy Rd',43.647963,-79.684303
 5745,'5745','Tenth Line @ Mcdowell Dr',43.561811,-79.74562
-5746,'5746','Tenth Line @ Britannia Rd',43.564349,-79.749052
 5747,'5747','Erin Ctr Blvd @ Winston Churchill Blvd',43.553244,-79.722776
 5748,'5748','Thomas St @ Churchill Mdws Blvd',43.55174,-79.747122
 5749,'5749','Thomas St @ 9th Line',43.548733,-79.751244
