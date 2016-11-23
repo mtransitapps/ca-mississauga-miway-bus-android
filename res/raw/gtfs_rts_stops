@@ -1511,7 +1511,7 @@
 1712,'1712','Gln Erin Dr @ Thomas St',43.565529,-79.72789
 1713,'1713','Silken Laumann Way @ Ivandale Dr',43.60861,-79.702745
 1714,'1714','Central Pkwy Sta East P.A',43.607769,-79.635966
-1715,'1715','Erin Mills Sta East P.7',43.552224,-79.700076
+1715,'1715','Erin Mills Sta East P.7',43.552219,-79.70007
 1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky @ Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
@@ -1575,7 +1575,7 @@
 1787,'1787','Explorer Dr @ Orbitor Dr',43.661296,-79.608147
 1788,'1788','Winston Churchill Blvd @ Thomas St',43.560914,-79.733931
 1790,'1790','Winston Churchill Blvd @ Erin Ctr Blvd',43.553124,-79.723298
-1792,'1792','Erin Mills Sta West P.3',43.552144,-79.700337
+1792,'1792','Erin Mills Sta West P.3',43.55235,-79.70015
 1794,'1794','The Credit Woodlands @ Erinmore Dr',43.559116,-79.659915
 1795,'1795','Queenston Dr @ Chalice Cres',43.563556,-79.664989
 1796,'1796','Eglinton Ave West Of Fallingbrook Dr',43.58205,-79.680896
@@ -1607,7 +1607,7 @@
 1823,'1823','Matheson Blvd @ Chedworth Way',43.614637,-79.682564
 1824,'1824','Mclaughlin Rd @ Avonwick Ave',43.610605,-79.681945
 1825,'1825','Mclaughlin Rd @ Ceremonial Dr',43.607587,-79.677873
-1826,'1826','Mclaughlin 1st South Of Ceremonial',43.606671,-79.676592
+1826,'1826','Mclaughlin Rd South Of Ceremonial Dr',43.606671,-79.676592
 1827,'1827','Mclaughlin Rd @ Parkwood Pl',43.604357,-79.673433
 1828,'1828','Mclaughlin Rd @ Bristol Rd',43.603041,-79.671765
 1829,'1829','Silken Laumann Way @ Ivandale Dr',43.608713,-79.703139
@@ -2999,7 +2999,7 @@
 3843,'3843','Argentia Rd 3rd Stop West Of Derry Rd',43.59948,-79.777871
 3866,'3866','Argentia Rd East Of Winston Churchill',43.598352,-79.78278
 3867,'3867','Argentia Rd 3rd Stop East Of Winston Churchill',43.599712,-79.774006
-3868,'3868','Argentia Rd 4th Stop East Of Winston Churhill',43.601487,-79.762767
+3868,'3868','Argentia Rd 4th Stop East Of Winston Churchill',43.601487,-79.762767
 3869,'3869','Argentia Rd 2nd Stop East Of Winston Churchill',43.599282,-79.77738
 3900,'3900','Coopers Ave @ Kennedy Rd',43.631615,-79.66138
 3905,'3905','Mclaughlin Rd South Of Cantay Rd',43.620263,-79.694983
@@ -3340,7 +3340,7 @@
 9017,'9017','Dundas St @ Wilmar Rd',43.634891,-79.54133
 9018,'9018','Dundas St @ Shaver Ave',43.632232,-79.544617
 9019,'9019','Dundas St @ Paulart Dr',43.631376,-79.546671
-9020,'9020','Dundas St West Of The East Mall',43.62986,-79.552844
+9020,'9020','Dundas St West Of The East Mall',43.630265,-79.551159
 9022,'9022','Bloor St @ Mill Rd',43.631933,-79.575206
 9023,'9023','Bloor St @ Forestview Rd',43.632704,-79.57344
 9024,'9024','Bloor St @ Markland Dr',43.633472,-79.570843
