@@ -2914,6 +2914,10 @@
 3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714
 3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
+3372,'3372','King St @ Sheppard Ave',43.57977,-79.612951
+3373,'3373','King St @ Sheppard Ave',43.580143,-79.612864
+3376,'3376','Camilla Rd @ Paisley Blvd',43.579421,-79.606114
+3377,'3377','Camilla Rd @ Pasiley Blvd',43.57931,-79.605644
 3390,'3390','City Ctr Transit Terminal P.N',43.59455,-79.647013
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
@@ -2933,6 +2937,8 @@
 3418,'3418','Admiral Blvd @ Edwards Blvd',43.645209,-79.699391
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3423,'3423','Bloor St @ Islington Ave',43.644524,-79.523667
+3424,'3424','Erin Mills Sta P.4',43.552557,-79.699905
+3425,'3425','Erin Mills Sta P.8',43.552013,-79.700285
 3433,'3433','Credit Vly Rd @ Gln Erin Dr',43.553015,-79.707182
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
@@ -3088,8 +3094,10 @@
 4545,'4545','Plymouth Dr @ Bristol Cir',43.513914,-79.673723
 4546,'4546','Plymouth Dr @ Bristol Cir',43.513931,-79.673733
 4547,'4547','Plymouth Dr @ Winston Churchill Blvd',43.515542,-79.672213
+4548,'4548','Winston Churchill Sta East P.7',43.54209,-79.712422
 4549,'4549','Plymouth Dr @ Winston Churchill Blvd',43.515675,-79.67259
 4550,'4550','Winston Churchill Blvd @ Tacc Dr',43.556792,-79.728384
+4551,'4551','Winston Churchill Sta West P.3',43.542197,-79.712608
 4700,'4700','Sandstone Dr West Of Hurontario St',43.623863,-79.679164
 4701,'4701','Sandstone Dr @ Avebury Rd',43.622833,-79.680439
 4702,'4702','Avebury Rd @ Britannia Rd W',43.623388,-79.682497
