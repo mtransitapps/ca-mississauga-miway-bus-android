@@ -48,6 +48,7 @@
 52,'0052','Matheson Blvd @ Mcadam Rd',43.624711,-79.657678
 53,'0053','Matheson Blvd @ Mclaughlin Rd',43.613003,-79.684582
 54,'0054','Britannia Rd @ Joseph St',43.590515,-79.719783
+55,'0055','9th Line @ Thomas St',43.548389,-79.751128
 57,'0057','Erin Ctr Blvd West Of Erin Mills Pky',43.561219,-79.712095
 58,'0058','Erin Ctr Blvd East Of Mall Access',43.560673,-79.713184
 59,'0059','Mississauga Vly Blvd North Of Central Pky E',43.591642,-79.626861
@@ -2913,6 +2914,9 @@
 3356,'3356','Bristol Rd @ Kennedy Rd',43.620561,-79.6483
 3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714
 3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925
+3359,'3359','9th Line @ Henrietta Way',43.54207,-79.742523
+3360,'3360','9th Line @ Tacc Dr',43.544126,-79.745171
+3361,'3361','9th Line @ Arbourview Ter',43.547293,-79.74968
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
 3372,'3372','King St @ Sheppard Ave',43.57977,-79.612951
 3373,'3373','King St @ Sheppard Ave',43.580143,-79.612864
