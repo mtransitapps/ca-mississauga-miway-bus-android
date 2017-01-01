@@ -596,7 +596,6 @@
 700,'0700','Confederation Pky North Of Queensway',43.572087,-79.611293
 701,'0701','Confederation Pky @ Paisley Blvd',43.573571,-79.613401
 702,'0702','Paisley Blvd @ Mavis Rd',43.563462,-79.627774
-703,'0703','Paisley Blvd East Of Hurontario St',43.576144,-79.609552
 704,'0704','Camilla Rd @ Queensway',43.577932,-79.604049
 705,'0705','Camilla Rd @ Cherry Post Dr',43.575396,-79.600591
 706,'0706','Camilla Rd South Of Pathfinder Dr',43.573219,-79.597842
@@ -636,9 +635,6 @@
 741,'0741','Camilla Rd @ Pathfinder Dr',43.574104,-79.598763
 742,'0742','Camilla Rd @ Cherry Post Dr',43.575658,-79.600684
 743,'0743','Camilla Rd @ Daphne Ave',43.578304,-79.604313
-744,'0744','Paisley Blvd @ Camilla Rd',43.579228,-79.606212
-745,'0745','Paisley Blvd @ Shepard Ave',43.577416,-79.608991
-746,'0746','Paisley Blvd @ Hurontario St',43.576255,-79.609798
 747,'0747','Dundas St @ Argyle Rd',43.575499,-79.62168
 748,'0748','Dundas St @ Confederation Pky',43.577763,-79.619027
 749,'0749','Dundas St @ Hurontario St',43.580373,-79.616007
@@ -647,7 +643,6 @@
 752,'0752','Dundas St @ Edenhurst Dr',43.585143,-79.610584
 753,'0753','Dundas St @ Clf Rd',43.587362,-79.607981
 754,'0754','Dundas St @ Hensall Cir',43.588597,-79.606627
-756,'0756','Paisley Blvd @ Camilla Rd',43.579243,-79.605939
 758,'0758','Confederation Pky South Of Paisley Blvd',43.573007,-79.612919
 759,'0759','Confederation Pky 2nd South Of Paisley Blvd',43.572173,-79.611762
 760,'0760','Camilla Rd @ Camilla Pl',43.576988,-79.602697
@@ -1877,7 +1872,6 @@
 2149,'2149','Tranmere Dr @ Telford Way',43.681022,-79.67079
 2150,'2150','Donway Dr @ Diamond Crt',43.613124,-79.711806
 2151,'2151','Eglinton Ave W East Of White Clover Way',43.581787,-79.680766
-2152,'2152','Millers Grv @ Bartholomew Cres',43.57216,-79.757708
 2153,'2153','Millers Grv @ Colebrook Cres',43.573416,-79.759775
 2154,'2154','Millers Grv @ Arnett Crt',43.574848,-79.760612
 2155,'2155','Tomken Rd @ Timberlea Blvd',43.639015,-79.648954
@@ -2106,7 +2100,6 @@
 2390,'2390','Explorer Dr @ Matheson Blvd',43.662733,-79.59813
 2391,'2391','Old Derry Rd @ Historic Trl',43.624531,-79.730216
 2392,'2392','Old Derry Rd @ Gaslamp Walk',43.628154,-79.726409
-2393,'2393','Millers Grv @ Chamberlain Crt',43.571975,-79.757253
 2394,'2394','Millers Grv @ Colebrook Cres',43.573589,-79.759957
 2395,'2395','Derry Rd @ Mclaughlin Rd',43.636125,-79.717048
 2396,'2396','Derry Rd @ Saint Barbara Blvd',43.639158,-79.713801
