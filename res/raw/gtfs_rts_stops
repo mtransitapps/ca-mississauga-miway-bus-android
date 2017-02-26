@@ -461,7 +461,6 @@
 528,'0528','Meadowvale Blvd @ Fengate Dr',43.614684,-79.746014
 529,'0529','Lakeshore Rd 2nd Stop West Of Southdown Rd',43.492314,-79.618292
 530,'0530','Speakman Dr @ Flavelle Blvd',43.519344,-79.659831
-531,'0531','Leanne Blvd @ 5th Line West',43.526157,-79.653443
 532,'0532','Gln Erin Dr @ Britannia Rd',43.574658,-79.738336
 533,'0533','Meadowvale Blvd East Of West Credit Blvd',43.61087,-79.75701
 534,'0534','Dundas St W West Of Erin Mills Pky',43.535977,-79.666988
@@ -566,7 +565,6 @@
 665,'0665','Meadowvale Town Ctr Bus Terminal P.D',43.583267,-79.758978
 666,'0666','City Ctr Dr @ Sq One Dr',43.596226,-79.642143
 667,'0667','Eglinton Ave @ The Chase',43.565651,-79.699507
-669,'0669','Winston Churchill Blvd @ Hornsgate Dr',43.521479,-79.680089
 670,'0670','Dundas St @ Cornerbrook Pl',43.553063,-79.647546
 671,'0671','Cedarglen Gt @ Hemus Sq',43.559502,-79.638487
 672,'0672','Cedarglen Gt @ Parmeer Dr',43.557422,-79.640007
@@ -722,9 +720,7 @@
 842,'0842','Trelawny Cir @ Doug Leavens Blvd',43.571231,-79.77094
 843,'0843','Lakeshore Rd West Of Lorne Pk Rd',43.529846,-79.609602
 844,'0844','Mclaughlin 2nd South Of Ceremonial',43.605317,-79.674738
-845,'0845','Eglinton Ave W 2nd Stop East Of Willow Crk Dr',43.586018,-79.675991
 847,'0847','Old Derry Rd @ 2nd Line West',43.626927,-79.727811
-848,'0848','Eglinton Ave West Of Terry Fox Way',43.586397,-79.676033
 849,'0849','Rathburn Rd @ Elora Dr East Intersection',43.588849,-79.652443
 850,'0850','Keaton Cres 3rd Stop South Of Matheson Blvd',43.612787,-79.681464
 851,'0851','Rathburn Rd @ Confederation Pky',43.589577,-79.651547
@@ -940,7 +936,6 @@
 1094,'1094','The Collegeway 2nd Stop West Of Broad Hollow Ga',43.54583,-79.675733
 1095,'1095','Dundas St East Of Winston Churchill Blv',43.525197,-79.679241
 1096,'1096','Winston Churchill Blvd @ The Collegeway',43.530851,-79.692458
-1097,'1097','Winston Churchill Blvd South Of The Collegeway',43.529337,-79.69082
 1098,'1098','Winston Churchill Blvd @ Laird Rd',43.525541,-79.685643
 1099,'1099','South Common Ctr Bus Terminal P.A',43.542999,-79.683247
 1100,'1100','Dundas St @ Robinson St',43.546193,-79.652835
@@ -1503,7 +1498,6 @@
 1708,'1708','Mississauga Rd @ Badminton Dr',43.563861,-79.689466
 1709,'1709','Mississauga Rd @ Badminton Dr',43.563956,-79.689823
 1710,'1710','Mississauga Rd @ Thorny-Brae Pl',43.567816,-79.695126
-1711,'1711','Mississauga Rd @ Thorny-Brae Pl',43.567557,-79.694512
 1712,'1712','Gln Erin Dr @ Thomas St',43.565529,-79.72789
 1713,'1713','Silken Laumann Way @ Ivandale Dr',43.60861,-79.702745
 1714,'1714','Central Pkwy Sta East P.A',43.607769,-79.635966
@@ -2849,7 +2843,6 @@
 3282,'3282','Terry Fox Way @ Plymouth Dr',43.606104,-79.699317
 3283,'3283','Central Pky @ Burnhamthorpe Rd',43.601086,-79.625828
 3284,'3284','Central Pky @ Burnhamthorpe Rd',43.601326,-79.626689
-3285,'3285','Confederation Pky @ Burnhamthorpe Rd',43.585288,-79.645152
 3286,'3286','Confederation Pky @ City Ctr Dr',43.586139,-79.646359
 3287,'3287','Confederation Pky @ Princess Royal Dr',43.587125,-79.647489
 3288,'3288','Confederation Pky @ Sq One Dr',43.589106,-79.650504
@@ -2903,7 +2896,6 @@
 3346,'3346','Derry Rd East Of Edwards Blvd',43.650174,-79.701268
 3347,'3347','Morning Star Dr @ Catalpa Dr',43.719747,-79.643193
 3352,'3352','Tenth Line South Of Erin Ctr Blvd',43.547065,-79.727375
-3353,'3353','Winston Churchill Blvd South Of Eglinton Ave',43.548434,-79.716911
 3356,'3356','Bristol Rd @ Kennedy Rd',43.620561,-79.6483
 3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714
 3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925
@@ -3085,11 +3077,9 @@
 4538,'4538','Bristol Cir @ Winston Pk Dr',43.50924,-79.670932
 4540,'4540','Royal Windsor Dr 3rd Stop West Of Avonhead Rd',43.498347,-79.643907
 4541,'4541','Plymouth Dr @ London Ln',43.511712,-79.674066
-4542,'4542','Plymouth Dr @ London Ln',43.51173,-79.674078
 4543,'4543','Terragar Blvd East Of Black Walnut Trl',43.585864,-79.785321
 4544,'4544','Terragar Blvd @ Scotch Pine Gt',43.583895,-79.782239
 4545,'4545','Plymouth Dr @ Bristol Cir',43.513914,-79.673723
-4546,'4546','Plymouth Dr @ Bristol Cir',43.513931,-79.673733
 4547,'4547','Plymouth Dr @ Winston Churchill Blvd',43.515542,-79.672213
 4548,'4548','Winston Churchill Sta East P.7',43.54209,-79.712422
 4549,'4549','Plymouth Dr @ Winston Churchill Blvd',43.515675,-79.67259
