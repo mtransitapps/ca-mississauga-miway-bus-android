@@ -79,7 +79,7 @@
 89,'0089','Clarkson Go Sta P.5',43.51295,-79.63294
 90,'0090','Mavis Rd South Of Central Pky W',43.572442,-79.642394
 91,'0091','Derry Rd @ Forest Pk Dr',43.581178,-79.779074
-92,'0092','Derry Rd @ Tenth Line',43.584204,-79.775718
+92,'0092','Derry Rd West Of Tenth Line',43.584204,-79.775718
 93,'0093','Winston Churchill Blvd @ Vanderbilt Rd',43.58491,-79.766847
 94,'0094','Tours Rd @ Millers Grv',43.571833,-79.75499
 95,'0095','Hurontario St @ Annagem Blvd',43.635641,-79.691799
@@ -135,7 +135,7 @@
 149,'0149','Dundas St @ Clayhill Rd',43.57079,-79.627669
 150,'0150','Winston Churchill Blvd North Of Stockholm Rd',43.504136,-79.655999
 152,'0152','Britannia Rd E East Of Wallace St',43.632802,-79.668903
-153,'0153','Gln Erin Dr @ Erin Ctr Blvd',43.558317,-79.718261
+153,'0153','Gln Erin Dr North Of Erin Ctr Blvd',43.558317,-79.718261
 154,'0154','Gln Erin Dr @ Middlebury Dr',43.560317,-79.720707
 155,'0155','Gln Erin Dr @ Burnford Trl',43.562565,-79.722888
 156,'0156','Gln Erin Dr North Of Burnford Trl',43.564162,-79.725641
@@ -522,11 +522,11 @@
 599,'0599','Eglinton Ave W @ Erin Mills Pky',43.559412,-79.705906
 600,'0600','Glengarry Rd @ Dundas St',43.556736,-79.642102
 604,'0604','Huron Pk Access Rd @ Queensway',43.556208,-79.62883
-606,'0606','Huron Pk Recreation Ctre @ Paisley Blvd W',43.559403,-79.632524
+606,'0606','Huron Pk Recreation Ctr',43.559403,-79.632524
 607,'0607','Paisley Blvd @ Morrison Ave',43.561453,-79.629206
 620,'0620','Paisley Blvd @ Morrison Ave',43.562231,-79.628743
 621,'0621','Huron Pk Access South Of Paisley Blvd',43.557308,-79.630476
-628,'0628','Huron Pk Recreation Ctre @ Paisley Blvd W',43.558794,-79.632004
+628,'0628','Huron Pk Recreation Ctr',43.558794,-79.632004
 629,'0629','Dundas St @ Robinson St',43.545917,-79.652809
 630,'0630','Paisley Blvd @ Huron Pk Pl',43.560819,-79.630421
 631,'0631','Paisley Blvd @ Huron Pk Pl',43.560262,-79.630533
@@ -1065,8 +1065,8 @@
 1230,'1230','Mississauga Vly Blvd @ Central Pky E',43.598945,-79.62392
 1231,'1231','Bloor St @ Hyacinthe Blvd',43.597267,-79.619882
 1232,'1232','Bloor St @ Michelle Row',43.597811,-79.617243
-1233,'1233','Wolfedale Rd 2nd Stop North Of Westlock Rd',43.570319,-79.646379
-1234,'1234','Wolfedale Rd South Of Central Pky W',43.569984,-79.646213
+1233,'1233','Wolfedale Rd South Of Central Pky',43.570319,-79.646379
+1234,'1234','Wolfedale Rd South Of Central Pky',43.569984,-79.646213
 1235,'1235','Wolfedale Rd 2nd Stop South Of Central Pky W',43.568234,-79.643664
 1236,'1236','Britannia Rd @ Mavis Rd',43.611529,-79.696573
 1237,'1237','Cawthra Rd @ Dundas St',43.595844,-79.602062
@@ -1494,7 +1494,7 @@
 1704,'1704','Queen St @ Reid Dr',43.574985,-79.70478
 1705,'1705','Mississauga Rd @ Rothesay Crt',43.57119,-79.69966
 1706,'1706','Mississauga Rd @ Eglinton Ave',43.56873,-79.696357
-1707,'1707','Eglinton Ave @ Mississauga Rd',43.569067,-79.695074
+1707,'1707','Eglinton Ave East Of Mississauga Rd',43.569067,-79.695074
 1708,'1708','Mississauga Rd @ Badminton Dr',43.563861,-79.689466
 1709,'1709','Mississauga Rd @ Badminton Dr',43.563956,-79.689823
 1710,'1710','Mississauga Rd @ Thorny-Brae Pl',43.567816,-79.695126
@@ -1550,7 +1550,7 @@
 1767,'1767','Winston Churchill Blvd @ Battleford Rd',43.579171,-79.758282
 1769,'1769','Explorer Dr East Of Satellite Dr',43.659187,-79.611717
 1772,'1772','Eglinton Ave @ Erin Mills Pky',43.559435,-79.706363
-1773,'1773','Eglinton Ave @ Erin Mills Town Ctr South Gt',43.557878,-79.707994
+1773,'1773','Eglinton Ave @ Erin Mills Town Ctr South',43.557878,-79.707994
 1776,'1776','Campus Rd @ Elmbank Rd',43.688792,-79.610568
 1777,'1777','Credit Vly Rd @ Inchbury Rd',43.547406,-79.712043
 1778,'1778','Credit Vly Rd @ Romfield Cres',43.549144,-79.708824
@@ -2601,7 +2601,7 @@
 2967,'2967','Northam Dr @ American Dr',43.695338,-79.616145
 2968,'2968','American Dr @ Northam Dr',43.695499,-79.614627
 2969,'2969','Mavis Rd @ Sombrero Way',43.623944,-79.712356
-2970,'2970','Rathburn Rd @ Confederation Pky',43.590112,-79.651052
+2970,'2970','Rathburn Rd East Of Confederation Pky',43.590112,-79.651052
 2971,'2971','American Dr @ Dorman Rd',43.69676,-79.613196
 2972,'2972','Viscount Rd @ American Dr',43.691714,-79.619529
 2973,'2973','Viscount Rd South Of Airway Dr',43.692197,-79.620722
@@ -2796,7 +2796,7 @@
 3213,'3213','Creekbank Rd @ Eglinton Ave',43.641439,-79.614925
 3219,'3219','Erin Ctr Blvd @ John Fraser Secondary School',43.559789,-79.715407
 3220,'3220','Dixie Sta West P.B',43.629887,-79.614905
-3221,'3221','Gln Erin Dr @ Erin Ctr Blvd',43.556765,-79.71635
+3221,'3221','Gln Erin Dr South Of Erin Ctr Blvd',43.556765,-79.71635
 3222,'3222','Gln Erin Dr @ Hazelton Pl',43.555082,-79.714009
 3223,'3223','Etobicoke Crk Sta West P.B',43.645604,-79.61037
 3224,'3224','Confederation Pkwy @ Prince Of Wales Dr',43.588171,-79.648867
@@ -2926,8 +2926,8 @@
 3418,'3418','Admiral Blvd @ Edwards Blvd',43.645209,-79.699391
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3423,'3423','Bloor St @ Islington Ave',43.644524,-79.523667
-3424,'3424','Erin Mills Sta P.4',43.552557,-79.699905
-3425,'3425','Erin Mills Sta P.8',43.552013,-79.700285
+3424,'3424','Erin Mills Sta West P.4',43.552557,-79.699905
+3425,'3425','Erin Mills Sta East P.8',43.552013,-79.700285
 3433,'3433','Credit Vly Rd @ Gln Erin Dr',43.553015,-79.707182
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
@@ -3013,7 +3013,7 @@
 4007,'4007','South Common Ctr Bus Terminal P.C',43.543128,-79.683419
 4008,'4008','South Common Ctr Bus Terminal P.I',43.543269,-79.683933
 4009,'4009','Clarkson Go Sta P.8',43.512689,-79.633209
-4010,'4010','Lisgar Dr North Of Doug Leavens Blvd',43.56808,-79.774323
+4010,'4010','Doug Leavens Blvd @ Lisgar Dr',43.567829,-79.773563
 4011,'4011','Doug Leavens Blvd @ Trelawny Cir',43.570933,-79.77081
 4020,'4020','Living Arts Dr @ Rathburn Rd',43.590996,-79.649657
 4021,'4021','Living Arts Dr @ Princess Royal Dr',43.588602,-79.646019
@@ -3085,8 +3085,8 @@
 4549,'4549','Plymouth Dr @ Winston Churchill Blvd',43.515675,-79.67259
 4550,'4550','Winston Churchill Blvd @ Tacc Dr',43.556792,-79.728384
 4551,'4551','Winston Churchill Sta West P.3',43.542197,-79.712608
-4552,'4552','Winston Churchill Sta P.4',43.542408,-79.712419
-4553,'4553','Winston Churchill Sta P.8',43.541947,-79.712588
+4552,'4552','Winston Churchill Sta West P.4',43.542408,-79.712419
+4553,'4553','Winston Churchill Sta East P.8',43.541947,-79.712588
 4700,'4700','Sandstone Dr West Of Hurontario St',43.623863,-79.679164
 4701,'4701','Sandstone Dr @ Avebury Rd',43.622833,-79.680439
 4702,'4702','Avebury Rd @ Britannia Rd W',43.623388,-79.682497
@@ -3197,7 +3197,7 @@
 5747,'5747','Erin Ctr Blvd @ Winston Churchill Blvd',43.553244,-79.722776
 5748,'5748','Thomas St @ Churchill Mdws Blvd',43.55174,-79.747122
 5749,'5749','Thomas St @ 9th Line',43.548733,-79.751244
-5750,'5750','Churchill Mdws Blvd @ Binwood Gt',43.554055,-79.749698
+5750,'5750','Churchill Mdws Blvd @ Brinwood Gt',43.554055,-79.749698
 5751,'5751','Erin Ctr Blvd East Of Winston Churchill Blvd',43.553444,-79.722078
 5752,'5752','Thomas St @ Raftsman Cv',43.549957,-79.749523
 5770,'5770','Courtneypark Dr @ Maritz Dr',43.634073,-79.698007
@@ -3398,7 +3398,7 @@
 9096,'9096','Kipling Ave @ Goswell Rd',43.649071,-79.538395
 9097,'9097','Sherway Gt South Of Sherway Gdns Bter',43.609548,-79.556465
 9098,'9098','Islington Ave South Of Dundas St',43.649842,-79.525842
-9100,'9100','Finch Ave East Of Humberline Dr',43.73395,-79.610538
+9100,'9100','Finch Ave @ Humber College Blvd',43.73395,-79.610538
 9101,'9101','Finch Ave @ Humber College Blvd',43.734176,-79.609117
 9102,'9102','Finch Ave West Of Humber College Blvd',43.734517,-79.612002
 9103,'9103','Finch Ave @ Humberline Dr',43.735135,-79.616918
