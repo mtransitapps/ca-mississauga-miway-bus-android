@@ -30,6 +30,8 @@
 32,'0032','Matheson Blvd @ Ambler Dr',43.639985,-79.632914
 33,'0033','Matheson Blvd @ Dixie Rd',43.642179,-79.630409
 34,'0034','Matheson Blvd @ Matheson Blvd',43.64349,-79.628544
+35,'0035','Spectrum Sta East P.A',43.649781,-79.605589
+36,'0036','Spectrum Sta West P.B',43.649512,-79.606182
 37,'0037','Matheson Blvd @ Spectrum Way',43.652165,-79.611792
 38,'0038','Creekbank Rd @ Matheson Blvd',43.648584,-79.62089
 39,'0039','Matheson Blvd @ Explorer Dr',43.651986,-79.615554
@@ -331,6 +333,7 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
+388,'0388','Rathburn Rd @ Hammerson Dr',43.596095,-79.644979
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
 394,'0394','Osprey Blvd @ Snowflake Ln',43.567706,-79.759694
@@ -359,7 +362,7 @@
 418,'0418','Lisgar Dr @ Yarrow Ave',43.573688,-79.780067
 419,'0419','Lisgar Dr @ Allcroft Rd',43.576039,-79.782633
 420,'0420','Ogden Ave @ Halliday Ave',43.58286,-79.567198
-422,'0422','Queensway @ The West Mall',43.609221,-79.568406
+422,'0422','Queensway West Of The West Mall',43.609221,-79.568406
 423,'0423','Dixie Rd @ Kendall Rd',43.601748,-79.573416
 424,'0424','Dixie Rd @ Primate Rd',43.600737,-79.571841
 426,'0426','Dixie Mall Bus Terminal P.B',43.593759,-79.565366
@@ -1551,6 +1554,7 @@
 1769,'1769','Explorer Dr East Of Satellite Dr',43.659187,-79.611717
 1772,'1772','Eglinton Ave @ Erin Mills Pky',43.559435,-79.706363
 1773,'1773','Eglinton Ave @ Erin Mills Town Ctr South',43.557878,-79.707994
+1775,'1775','Eglinton Ave @ Erin Mills Town Ctr South',43.557342,-79.70813
 1776,'1776','Campus Rd @ Elmbank Rd',43.688792,-79.610568
 1777,'1777','Credit Vly Rd @ Inchbury Rd',43.547406,-79.712043
 1778,'1778','Credit Vly Rd @ Romfield Cres',43.549144,-79.708824
@@ -1793,6 +1797,7 @@
 2041,'2041','Dixie Rd @ Matheson Blvd',43.642367,-79.629562
 2042,'2042','Dixie Rd North Of Aimco Blvd',43.640526,-79.626963
 2043,'2043','Dixie Rd @ Aimco Blvd',43.638357,-79.624049
+2044,'2044','Orbitor Sta East P.A',43.656822,-79.598396
 2045,'2045','Dixie Rd @ Eglinton Ave',43.635482,-79.620061
 2046,'2046','Dixie Rd @ Crestlawn Dr',43.633632,-79.617525
 2047,'2047','Dixie Rd @ South Gateway Rd',43.631794,-79.61498
@@ -1845,6 +1850,7 @@
 2121,'2121','Courtneypark Dr East Of Tomken Rd',43.656032,-79.667348
 2122,'2122','Terry Fox Way @ Matheson Blvd',43.603233,-79.695513
 2123,'2123','Indian Rd @ Madigans Ln',43.546289,-79.607528
+2124,'2124','Orbitor Sta West P.B',43.657031,-79.598462
 2125,'2125','Erin Mills Pky @ Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky @ Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Terminal P.E',43.58312,-79.758783
@@ -2295,6 +2301,7 @@
 2636,'2636','Gln Erin Dr @ Britannia Rd',43.574395,-79.737351
 2637,'2637','Dixie Rd @ Britannia Rd',43.654586,-79.646211
 2638,'2638','Dixie Rd @ Shawson Dr',43.652088,-79.642845
+2639,'2639','Commerce Blvd @ Skymark Ave',43.664243,-79.593436
 2640,'2640','Gln Erin Dr South Of Britannia Rd',43.573703,-79.736623
 2641,'2641','Tomken Rd @ Brevik Pl',43.634503,-79.642869
 2642,'2642','Tomken Rd @ Meyerside Dr',43.650715,-79.664626
@@ -2777,7 +2784,7 @@
 3182,'3182','Battleford Rd @ Montevideo Rd',43.584695,-79.749584
 3183,'3183','Battleford Rd @ Gln Erin Dr',43.582922,-79.753758
 3184,'3184','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.583894,-79.755361
-3185,'3185','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.585101,-79.757082
+3185,'3185','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.585155,-79.757132
 3191,'3191','Envoy Dr @ Tabbyman Walk',43.63507,-79.725693
 3192,'3192','Rathburn Rd @ Confederation Pky',43.590116,-79.651399
 3195,'3195','Eglinton Ave E @ Satellite Dr',43.651761,-79.603047
