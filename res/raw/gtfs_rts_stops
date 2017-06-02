@@ -473,6 +473,7 @@
 540,'0540','Gln Erin Dr @ Peacock Dr',43.572803,-79.735874
 541,'0541','Gln Erin Dr @ Quails Run',43.570733,-79.733539
 543,'0543','Airport Monorail Link Sta',43.689791,-79.615589
+544,'0544','Matheson Blvd @ Heatherleigh Ave',43.605583,-79.693409
 545,'0545','Erin Mills Pky South Of Dundas St W',43.536058,-79.665426
 546,'0546','Gln Erin Dr @ Thomas St',43.565708,-79.728617
 548,'0548','Dundas St W @ Winston Churchill Blvd',43.523199,-79.68088
@@ -523,11 +524,21 @@
 598,'0598','Sheridan Ctr Bus Terminal P.A',43.530486,-79.651751
 599,'0599','Eglinton Ave W @ Erin Mills Pky',43.559412,-79.705906
 600,'0600','Glengarry Rd @ Dundas St',43.556736,-79.642102
+601,'0601','Matheson Blvd @ Mavis Rd',43.608421,-79.690164
+602,'0602','Matheson Blvd @ Venice St',43.610327,-79.68757
+603,'0603','Matheson Blvd East Of Kennedy Rd',43.626341,-79.654487
 604,'0604','Huron Pk Access Rd @ Queensway',43.556208,-79.62883
+605,'0605','Matheson Blvd @ Mavis Rd',43.607892,-79.690407
 606,'0606','Huron Pk Recreation Ctr',43.559403,-79.632524
 607,'0607','Paisley Blvd @ Morrison Ave',43.561453,-79.629206
 620,'0620','Paisley Blvd @ Morrison Ave',43.562231,-79.628743
 621,'0621','Huron Pk Access South Of Paisley Blvd',43.557308,-79.630476
+622,'0622','Matheson Blvd @ Heatherleigh Ave',43.605224,-79.693417
+623,'0623','Matheson Blvd @ Terry Fox Way',43.603558,-79.6957
+624,'0624','Britannia Rd E @ Kennedy Rd',43.633808,-79.667046
+625,'0625','Britannia Rd E @ Wallace St',43.632248,-79.671059
+626,'0626','Britannia Rd E @ Whittle Rd',43.628485,-79.677216
+627,'0627','Eglinton Ave @ Dixie Rd',43.635116,-79.621087
 628,'0628','Huron Pk Recreation Ctr',43.558794,-79.632004
 629,'0629','Dundas St @ Robinson St',43.545917,-79.652809
 630,'0630','Paisley Blvd @ Huron Pk Pl',43.560819,-79.630421
@@ -1423,6 +1434,7 @@
 1613,'1613','Britannia Rd @ Mavis Rd',43.612554,-79.694878
 1614,'1614','Central Pky @ Mdws Blvd',43.603187,-79.629238
 1616,'1616','Central Pky @ Mallorytown Ave',43.615175,-79.640825
+1617,'1617','Confederation Pky @ Parkside Vlg Dr',43.58833,-79.649505
 1619,'1619','Confederation Pky @ King St',43.575862,-79.61668
 1620,'1620','Confederation Pky @ Dundas St',43.577511,-79.619082
 1621,'1621','Confederation Pky @ Agnes St',43.578325,-79.621615
@@ -1502,7 +1514,7 @@
 1712,'1712','Gln Erin Dr @ Thomas St',43.565529,-79.72789
 1713,'1713','Silken Laumann Way @ Ivandale Dr',43.60861,-79.702745
 1714,'1714','Central Pkwy Sta East P.A',43.607769,-79.635966
-1715,'1715','Erin Mills Sta East P.7',43.552219,-79.70007
+1715,'1715','Erin Mills Sta East P.5',43.552589,-79.699554
 1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky @ Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
@@ -1552,6 +1564,7 @@
 1769,'1769','Explorer Dr East Of Satellite Dr',43.659187,-79.611717
 1772,'1772','Eglinton Ave @ Erin Mills Pky',43.559435,-79.706363
 1773,'1773','Eglinton Ave @ Erin Mills Town Ctr South',43.557878,-79.707994
+1774,'1774','Confederation Pky @ Arbutus Way',43.587151,-79.647975
 1775,'1775','Eglinton Ave @ Erin Mills Town Ctr South',43.557342,-79.70813
 1776,'1776','Campus Rd @ Elmbank Rd',43.688792,-79.610568
 1777,'1777','Credit Vly Rd @ Inchbury Rd',43.547406,-79.712043
@@ -1653,6 +1666,7 @@
 1881,'1881','Britannia Rd East Of Greensboro Dr',43.572594,-79.739754
 1882,'1882','Streetsville Go Sta P.3',43.575495,-79.71059
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441
+1884,'1884','Rose Cherry Pl South Of Hershey Ctr',43.629737,-79.651734
 1886,'1886','Britannia Rd 2nd Stop West Of Erin Mills Pky',43.576636,-79.735657
 1887,'1887','Britannia Rd @ Gln Erin Dr',43.574823,-79.737751
 1888,'1888','Hurontario St @ Superior Blvd',43.641531,-79.699768
@@ -1788,6 +1802,7 @@
 2031,'2031','Eglinton Ave @ Kennedy Rd',43.616898,-79.641865
 2033,'2033','Eglinton Ave E @ Spectrum Way',43.649053,-79.606123
 2035,'2035','Eglinton Ave @ Matheson Blvd',43.638668,-79.617744
+2036,'2036','Eglinton Ave @ Dixie Rd',43.634891,-79.621927
 2037,'2037','Eglinton Ave @ Maingate Dr',43.630787,-79.626503
 2038,'2038','Eglinton Ave East Of Satellite Dr',43.653717,-79.600554
 2039,'2039','Eglinton Ave @ Burgoyne St',43.633115,-79.623909
@@ -2376,7 +2391,7 @@
 2719,'2719','Redstone Rd @ Bonaventure Dr',43.714541,-79.654445
 2720,'2720','Redstone Rd @ Manion Rd',43.714768,-79.650815
 2721,'2721','Manion Rd @ Coral Dr',43.712965,-79.64985
-2722,'2722','Manion Rd @ Sills Rd',43.712588,-79.648431
+2722,'2722','Manion Rd @ Morning Star Dr',43.712459,-79.647901
 2723,'2723','Lancaster Ave @ Harold Sheard Dr',43.712403,-79.64645
 2724,'2724','Lancaster Ave @ Etude Dr',43.711063,-79.644332
 2725,'2725','Lancaster Ave @ Etude Dr',43.710858,-79.643704
@@ -2415,6 +2430,7 @@
 2762,'2762','Netherwood Rd @ Almadale Crt',43.719124,-79.655212
 2763,'2763','Netherwood Rd @ Redstone Rd',43.719912,-79.653295
 2764,'2764','Eglinton Ave @ Creekbank Rd',43.641597,-79.614467
+2765,'2765','Rose Cherry Pl North Of Matheson Blvd',43.630104,-79.651365
 2766,'2766','Brandon Gt Dr East Of Anaka Dr',43.722797,-79.649803
 2767,'2767','Catalpa Rd @ Chipley Cres',43.723468,-79.647926
 2768,'2768','Catalpa Rd @ Clara Dr',43.72225,-79.646166
@@ -2744,7 +2760,7 @@
 3128,'3128','Rose Cherry Pl @ Matheson Blvd',43.628404,-79.651683
 3130,'3130','Osprey Blvd @ Waxwing Dr',43.565863,-79.757404
 3131,'3131','Whittle Rd @ Britannia Rd',43.627894,-79.676572
-3132,'3132','Hurontario St @ Longside Blvd',43.643156,-79.702584
+3132,'3132','Hurontario St @ Longside Dr',43.643156,-79.702584
 3133,'3133','Derry Rd @ Samuelson Cir',43.624501,-79.742984
 3134,'3134','Derry Rd @ Godwick Dr',43.624346,-79.742739
 3135,'3135','Envoy Dr @ Derry Rd W',43.633357,-79.726349
@@ -2931,7 +2947,7 @@
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3423,'3423','Bloor St @ Islington Ave',43.644524,-79.523667
 3424,'3424','Erin Mills Sta West P.4',43.552557,-79.699905
-3425,'3425','Erin Mills Sta East P.8',43.552013,-79.700285
+3425,'3425','Erin Mills Sta East P.6',43.552245,-79.699942
 3433,'3433','Credit Vly Rd @ Gln Erin Dr',43.553015,-79.707182
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
@@ -3085,12 +3101,12 @@
 4544,'4544','Terragar Blvd @ Scotch Pine Gt',43.583895,-79.782239
 4545,'4545','Plymouth Dr @ Bristol Cir',43.513914,-79.673723
 4547,'4547','Plymouth Dr @ Winston Churchill Blvd',43.515542,-79.672213
-4548,'4548','Winston Churchill Sta East P.7',43.54209,-79.712422
+4548,'4548','Winston Churchill Sta East P.5',43.542292,-79.711935
 4549,'4549','Plymouth Dr @ Winston Churchill Blvd',43.515675,-79.67259
 4550,'4550','Winston Churchill Blvd @ Tacc Dr',43.556792,-79.728384
 4551,'4551','Winston Churchill Sta West P.3',43.542197,-79.712608
 4552,'4552','Winston Churchill Sta West P.4',43.542408,-79.712419
-4553,'4553','Winston Churchill Sta East P.8',43.541947,-79.712588
+4553,'4553','Winston Churchill Sta East P.6',43.54202,-79.712183
 4700,'4700','Sandstone Dr West Of Hurontario St',43.623863,-79.679164
 4701,'4701','Sandstone Dr @ Avebury Rd',43.622833,-79.680439
 4702,'4702','Avebury Rd @ Britannia Rd W',43.623388,-79.682497
