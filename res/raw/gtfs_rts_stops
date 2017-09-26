@@ -23,8 +23,8 @@
 32,'0032','Matheson Blvd @ Ambler Dr',43.639985,-79.632914
 33,'0033','Matheson Blvd @ Dixie Rd',43.642179,-79.630409
 34,'0034','Matheson Blvd @ Matheson Blvd',43.64349,-79.628544
-35,'0035','Spectrum Sta East P.A',43.649781,-79.605589
-36,'0036','Spectrum Sta West P.B',43.649512,-79.606182
+35,'0035','Spectrum Sta East P.A',43.649799,-79.605575
+36,'0036','Spectrum Sta West P.B',43.649547,-79.60618
 37,'0037','Matheson Blvd @ Spectrum Way',43.652165,-79.611792
 38,'0038','Creekbank Rd @ Matheson Blvd',43.648584,-79.62089
 39,'0039','Matheson Blvd @ Explorer Dr',43.651986,-79.615554
@@ -506,7 +506,7 @@
 586,'0586','Burnhamthorpe Rd @ Duke Of York Blvd',43.588499,-79.641462
 587,'0587','Burnhamthorpe Rd @ Kariya Dr',43.591139,-79.637811
 588,'0588','Burnhamthorpe Rd @ Kariya Gt',43.591749,-79.637718
-589,'0589','Confederation Pky South Of Burnhamthorpe Rd',43.584887,-79.644657
+589,'0589','Confederation Pky South Of Burnhamthorpe Rd',43.58493,-79.644614
 590,'0590','Bristol Rd @ Trailwood Dr',43.615928,-79.658929
 591,'0591','Bristol Rd @ Frank Mckechnie Community Ctr',43.616933,-79.653917
 592,'0592','Bristol Rd @ Nahani Way',43.619529,-79.650513
@@ -794,7 +794,7 @@
 926,'0926','Burnhamthorpe Rd W @ Winston Churchill Blvd',43.53684,-79.69968
 927,'0927','Burnhamthorpe Rd W @ Loyalist Dr',43.533168,-79.703819
 928,'0928','Loyalist Dr @ Sancrest Crt',43.534253,-79.704996
-929,'0929','Burnhamthorpe / Ridgeway',43.526312,-79.711427
+929,'0929','Burnhamthorpe Rd @ Ridgeway Dr',43.526312,-79.711427
 930,'0930','Ridgeway Dr @ Drummond Rd',43.527288,-79.713337
 931,'0931','Ridgeway Dr @ Unity Dr',43.53202,-79.716949
 932,'0932','Unity Dr @ Colonial Dr',43.533503,-79.715185
@@ -810,7 +810,7 @@
 942,'0942','Columbus Rd 3rd Stop North Of Mid-Way Blvd',43.668061,-79.673519
 943,'0943','Derry Rd @ Tenth Line',43.584066,-79.776315
 944,'0944','Ridgeway Dr North Of Drummond Rd',43.528517,-79.715316
-945,'0945','Ridgeway Dr 2nd Stop North Of Drummond Rd',43.53094,-79.716205
+945,'0945','Ridgeway Dr 2nd Stop North Of Drummond Rd',43.530926,-79.716211
 946,'0946','The Collegeway @ Loyalist Dr',43.530049,-79.693985
 947,'0947','Loyalist Dr @ Garthwood Rd',43.528491,-79.693227
 948,'0948','Garthwood Rd @ Burgess Cres',43.52718,-79.694295
@@ -1056,8 +1056,8 @@
 1214,'1214','Central Pky E @ Hurontario St',43.589581,-79.628382
 1215,'1215','Mississauga Vly Blvd @ Central Pky E',43.590731,-79.625953
 1216,'1216','Mississauga Vly Blvd @ Fairview Rd',43.588868,-79.624521
-1217,'1217','Mississauga Vly Blvd @ Voltaire Cres',43.587427,-79.621519
-1218,'1218','Mississauga Vly Blvd @ Voltaire Cres',43.589059,-79.619487
+1217,'1217','Mississauga Vly Blvd @ Voltarie Cres',43.587427,-79.621519
+1218,'1218','Mississauga Vly Blvd @ Voltarie Cres',43.589059,-79.619487
 1219,'1219','Mississauga Vly Blvd @ Trisha Downs',43.589911,-79.617659
 1220,'1220','Mississauga Vly Blvd @ Clf Rd',43.590901,-79.613908
 1221,'1221','Mississauga Vly Blvd @ Lolita Gdns',43.592264,-79.612712
@@ -1098,8 +1098,8 @@
 1258,'1258','Mississauga Vly Blvd @ Lolita Gdns',43.592632,-79.612617
 1259,'1259','Mississauga Vly Blvd @ Clf Rd',43.591243,-79.6139
 1260,'1260','Mississauga Vly Blvd @ Trisha Downs',43.590636,-79.61436
-1261,'1261','Mississauga Vly Blvd @ Voltaire Cres',43.589161,-79.619658
-1262,'1262','Mississauga Vly Blvd @ Voltaire Cres',43.587776,-79.621313
+1261,'1261','Mississauga Vly Blvd @ Voltarie Cres',43.589161,-79.619658
+1262,'1262','Mississauga Vly Blvd @ Voltarie Cres',43.587776,-79.621313
 1263,'1263','Mississauga Vly Blvd @ Fairview Rd',43.588666,-79.624179
 1264,'1264','Mississauga Vly Blvd @ Central Pky E',43.590818,-79.625715
 1265,'1265','Central Pky E @ Hurontario St',43.589632,-79.628926
@@ -1798,7 +1798,7 @@
 2041,'2041','Dixie Rd @ Matheson Blvd',43.642367,-79.629562
 2042,'2042','Dixie Rd North Of Aimco Blvd',43.640526,-79.626963
 2043,'2043','Dixie Rd @ Aimco Blvd',43.638357,-79.624049
-2044,'2044','Orbitor Sta East P.A',43.656822,-79.598396
+2044,'2044','Orbitor Sta East P.A',43.656851,-79.598334
 2045,'2045','Dixie Rd @ Eglinton Ave',43.635482,-79.620061
 2046,'2046','Dixie Rd @ Crestlawn Dr',43.633632,-79.617525
 2047,'2047','Dixie Rd @ South Gateway Rd',43.631794,-79.61498
@@ -1850,7 +1850,7 @@
 2121,'2121','Courtneypark Dr East Of Tomken Rd',43.656032,-79.667348
 2122,'2122','Terry Fox Way @ Matheson Blvd',43.603233,-79.695513
 2123,'2123','Indian Rd @ Madigans Ln',43.546289,-79.607528
-2124,'2124','Orbitor Sta West P.B',43.657031,-79.598462
+2124,'2124','Orbitor Sta West P.B',43.657067,-79.598469
 2125,'2125','Erin Mills Pky @ Windwood Dr',43.58045,-79.736147
 2126,'2126','Erin Mills Pky @ Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Terminal P.E',43.58312,-79.758783
@@ -2299,7 +2299,7 @@
 2636,'2636','Gln Erin Dr @ Britannia Rd',43.574395,-79.737351
 2637,'2637','Dixie Rd @ Britannia Rd',43.654586,-79.646211
 2638,'2638','Dixie Rd @ Shawson Dr',43.652088,-79.642845
-2639,'2639','Commerce Blvd @ Skymark Ave',43.664243,-79.593436
+2639,'2639','Commerce Blvd @ Skymark Ave',43.66427,-79.593435
 2640,'2640','Gln Erin Dr South Of Britannia Rd',43.573703,-79.736623
 2641,'2641','Tomken Rd @ Brevik Pl',43.634503,-79.642869
 2642,'2642','Tomken Rd @ Meyerside Dr',43.650715,-79.664626
