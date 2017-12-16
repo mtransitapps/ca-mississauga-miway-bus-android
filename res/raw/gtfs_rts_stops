@@ -1448,6 +1448,7 @@
 1656,'1656','Laird Rd East Of Ridgeway Dr',43.519708,-79.690521
 1657,'1657','Colonial Dr @ Orleans Rd',43.523064,-79.690288
 1658,'1658','Colonial Dr @ Mcmaster Rd',43.523106,-79.693912
+1659,'1659','Orbitor Dr North Of Skymark Ave',43.657214,-79.601978
 1660,'1660','Dundas St W @ Vega Blvd',43.515851,-79.689454
 1661,'1661','Laird Rd West Of Ridgeway Dr',43.51769,-79.690429
 1662,'1662','Laird Rd @ Colonial Dr',43.522004,-79.688949
@@ -1763,6 +1764,8 @@
 2013,'2013','Eglinton Ave E @ Burgoyne St',43.632416,-79.624148
 2014,'2014','Eglinton Ave E @ Dixie Rd',43.636201,-79.619983
 2015,'2015','Eglinton Ave E @ Matheson Blvd E',43.638129,-79.617843
+2016,'2016','Eglinton Ave E @ Eastgate Pky',43.641016,-79.614566
+2017,'2017','Eglinton Ave W @ Rakely Crt',43.648977,-79.605702
 2018,'2018','Renforth Dr @ Eglinton Ave',43.666365,-79.588289
 2019,'2019','Tomken Rd @ Eglinton Ave',43.626803,-79.629841
 2020,'2020','Tomken Rd @ Timberlea Blvd',43.628548,-79.634239
@@ -1775,9 +1778,11 @@
 2027,'2027','Tomken Rd @ South Timberlea Blvd',43.628491,-79.634774
 2028,'2028','Tomken Rd @ Eglinton Ave',43.626651,-79.629931
 2031,'2031','Eglinton Ave @ Kennedy Rd',43.616898,-79.641865
+2033,'2033','Eglinton Ave E @ Spectrum Way',43.649053,-79.606123
 2035,'2035','Eglinton Ave @ Matheson Blvd',43.638668,-79.617744
 2036,'2036','Eglinton Ave @ Dixie Rd',43.634891,-79.621927
 2037,'2037','Eglinton Ave @ Maingate Dr',43.630787,-79.626503
+2038,'2038','Eglinton Ave East Of Satellite Dr',43.653717,-79.600554
 2039,'2039','Eglinton Ave @ Burgoyne St',43.633115,-79.623909
 2040,'2040','Dixie Rd @ Aerowood Dr',43.644289,-79.632184
 2041,'2041','Dixie Rd @ Matheson Blvd',43.642367,-79.629562
@@ -1842,6 +1847,7 @@
 2129,'2129','Dream Crest Rd @ Cinnamon Rd',43.589773,-79.683044
 2130,'2130','Ceremonial Dr @ Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd @ West Credit Ave',43.608981,-79.758003
+2132,'2132','Orbitor Dr @ Skymark Ave',43.656768,-79.600848
 2133,'2133','Kennedy Rd @ Watline Ave',43.629445,-79.659804
 2134,'2134','Derry Rd @ Argentia Rd',43.601753,-79.756628
 2135,'2135','Derry Rd @ Millcreek Dr',43.597562,-79.761187
@@ -2395,6 +2401,7 @@
 2761,'2761','Benavon Rd @ Netherwood Rd',43.716466,-79.658089
 2762,'2762','Netherwood Rd @ Almadale Crt',43.719124,-79.655212
 2763,'2763','Netherwood Rd @ Redstone Rd',43.719912,-79.653295
+2764,'2764','Eglinton Ave @ Creekbank Rd',43.641597,-79.614467
 2766,'2766','Brandon Gt Dr East Of Anaka Dr',43.722797,-79.649803
 2767,'2767','Catalpa Rd @ Chipley Cres',43.723468,-79.647926
 2768,'2768','Catalpa Rd @ Clara Dr',43.72225,-79.646166
@@ -2735,6 +2742,8 @@
 3145,'3145','Argentia Rd West Of Winston Churchill Blvd',43.594322,-79.787369
 3146,'3146','Argentia Rd @ Winston Churchill Blvd',43.597035,-79.784694
 3147,'3147','Bristol Rd W East Of Creditview Rd',43.587288,-79.696353
+3148,'3148','Eglinton Ave @ Tahoe Blvd',43.644999,-79.610545
+3149,'3149','Eglinton Ave E @ Tahoe Blvd',43.644403,-79.61072
 3150,'3150','Islington Subway Bus Terminal P.B',43.644654,-79.524883
 3160,'3160','Central Pky West Of Mavis Rd',43.573923,-79.647277
 3163,'3163','Courtneypark Dr West Of Kennedy Rd',43.647065,-79.685352
@@ -2758,6 +2767,7 @@
 3185,'3185','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.585155,-79.757132
 3191,'3191','Envoy Dr @ Tabbyman Walk',43.63507,-79.725693
 3192,'3192','Rathburn Rd @ Confederation Pky',43.590116,-79.651399
+3195,'3195','Eglinton Ave E @ Satellite Dr',43.651769,-79.603037
 3197,'3197','Carlingview Dr 2nd Stop North Of Meteor Dr',43.684809,-79.594464
 3198,'3198','Queensway @ Confederation Pky',43.57171,-79.610563
 3199,'3199','South Common Ctr Bus Terminal P.G',43.544028,-79.684715
@@ -2791,6 +2801,7 @@
 3242,'3242','Maingate Dr North Of Haultain Crt',43.634971,-79.634275
 3244,'3244','Maingate Dr South Of Matheson Blvd',43.636023,-79.636786
 3246,'3246','Viscount Rd @ Airway Dr',43.694436,-79.624989
+3247,'3247','Orbitor Dr @ Skymark Ave',43.656677,-79.599773
 3251,'3251','Brandon Gt Dr @ Rhinebank St',43.734172,-79.639477
 3252,'3252','Whittle Rd @ Traders Blvd',43.624858,-79.67261
 3254,'3254','Matheson Blvd E West Of Explorer Dr',43.65018,-79.619588
@@ -2802,6 +2813,7 @@
 3263,'3263','Ambler Dr East Of Ronsa Crt',43.64458,-79.643587
 3264,'3264','Ambler Dr North Of Kamato Rd',43.645244,-79.639744
 3265,'3265','Ambler Dr @ Kamato Rd',43.643998,-79.63841
+3266,'3266','Eglinton Ave @ Satellite Dr',43.651422,-79.603062
 3267,'3267','Ambler Dr @ Aerowood Dr',43.641844,-79.635498
 3268,'3268','Ambler Dr @ Matheson Blvd',43.640205,-79.633324
 3270,'3270','City Ctr Dr West Of Kariya Gt',43.591468,-79.640182
@@ -2927,6 +2939,7 @@
 3517,'3517','Eglinton Ave @ Credit Vly Rd',43.561974,-79.703176
 3518,'3518','Eglinton Ave @ Middlesex Gt',43.543716,-79.723348
 3519,'3519','Eglinton Ave E @ Sorrento Dr',43.608779,-79.650498
+3520,'3520','Orbitor Dr @ Eglinton Ave',43.655897,-79.598716
 3521,'3521','Eglinton Ave @ Sorrento Dr',43.609192,-79.650365
 3522,'3522','Eglinton Ave @ Summersky Crt',43.562511,-79.702917
 3523,'3523','Eglinton Ave @ Credit Vly Hosptial',43.560831,-79.70486
@@ -2939,6 +2952,7 @@
 3530,'3530','Erin Ctr Blvd @ Oscar Peterson Blvd',43.549688,-79.725165
 3531,'3531','Erin Ctr Blvd @ Dubonet Dr',43.548023,-79.726922
 3532,'3532','Tenth Line @ Perennial Dr',43.545036,-79.726328
+3533,'3533','Orbitor Dr @ Matheson Blvd',43.657707,-79.603281
 3534,'3534','Eglinton Ave @ Perennial Dr',43.541648,-79.726053
 3535,'3535','Eglinton Ave @ Intrepid Dr',43.536461,-79.731695
 3536,'3536','Dundas St West Of Wharton Way',43.61757,-79.575037
@@ -3289,7 +3303,6 @@
 6880,'6880','Financial Dr South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Mall Bus Terminal P.K',43.72189,-79.640859
 7200,'7200','Humber College North Campus P.8',43.729206,-79.604957
-7201,'7201','Humber College North Campus P.1',43.729268,-79.605653
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
