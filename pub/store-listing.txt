@@ -5,7 +5,7 @@ Mississauga MiWay buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from December 30, 2017 to February 25, 2018.
+Schedule from February 1, 2018 to February 25, 2018.
 Tweets from @MiWayHelps.
 News from miwayblog.ca.
 ----------
