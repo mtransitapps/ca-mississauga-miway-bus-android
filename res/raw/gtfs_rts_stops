@@ -152,6 +152,7 @@
 192,'0192','Erin Mills Pky @ Erin Ctr Blvd',43.562435,-79.711302
 193,'0193','Kennedy Rd @ Courtneypark Dr',43.647824,-79.684802
 194,'0194','Kennedy Rd @ Pendant Dr',43.643151,-79.678519
+195,'0195','Kennedy Rd @ Kenway Dr',43.638897,-79.67276
 196,'0196','Kennedy Rd @ Britannia Rd',43.634252,-79.666676
 197,'0197','Kennedy Rd @ Matheson Blvd',43.626165,-79.655762
 198,'0198','South Millway @ Council Ring Rd',43.539431,-79.675996
@@ -324,6 +325,7 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
+388,'0388','Rathburn Rd @ Hammerson Dr',43.596095,-79.644979
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
 394,'0394','Osprey Blvd @ Snowflake Ln',43.567706,-79.759694
@@ -402,6 +404,8 @@
 470,'0470','South Service Rd @ Dixie Mall Access',43.593791,-79.571498
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
+475,'0475','Eglinton Ave W @ East Mill Rd',43.580277,-79.682776
+476,'0476','Burnhamthorpe Community Ctr',43.623993,-79.598578
 477,'0477','City Ctr Transit Terminal P.E',43.5938,-79.646225
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
@@ -416,6 +420,7 @@
 489,'0489','Speakman Dr South Of Sheridan Pk Dr',43.516018,-79.669568
 490,'0490','University Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
+492,'0492','Cawthra Rd @ Hassall Rd',43.606629,-79.616839
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
 495,'0495','Cawthra Seniors Bldg @ Arbor Crt',43.57837,-79.576061
@@ -1187,7 +1192,6 @@
 1362,'1362','Tomken Rd @ Rymal Rd',43.60187,-79.595665
 1364,'1364','Dixie Rd #3105 Dixie Rd',43.611052,-79.586009
 1365,'1365','Mississauga Vly Blvd @ Daralea Hts',43.600668,-79.62196
-1366,'1366','Mississauga Vly Blvd @ Molly Ave',43.60289,-79.619481
 1367,'1367','Mississauga Vly Blvd @ Hyacinthe Blvd',43.601226,-79.61595
 1368,'1368','Mississauga Vly Blvd @ Bloor St',43.599238,-79.613122
 1370,'1370','Fairview Rd @ Joan Dr',43.583951,-79.630479
@@ -2185,7 +2189,6 @@
 2500,'2500','Courtneypark Dr West Of Netherhart Rd',43.671157,-79.649597
 2502,'2502','Dixie Rd @ Meyerside Dr',43.66024,-79.653798
 2503,'2503','Dixie Rd @ Courtneypark Dr',43.663122,-79.65769
-2504,'2504','Dixie Rd North Of Courtneypark Dr',43.664605,-79.659729
 2505,'2505','Financial Dr @ #6768 Financial Dr',43.609929,-79.74014
 2506,'2506','Gln Erin Dr @ Credit Vly Rd',43.552755,-79.708054
 2507,'2507','Derry Rd @ Dixie Rd',43.674467,-79.67545
@@ -2351,7 +2354,6 @@
 2707,'2707','Goreway Dr @ Dorcas St',43.71519,-79.634035
 2708,'2708','Westwood Sq Bus Terminal P.H',43.721326,-79.640559
 2709,'2709','Derry Rd @ Legion Rd',43.70967,-79.636258
-2710,'2710','Derry Rd @ Malton Go Sta',43.706634,-79.639083
 2713,'2713','Avebury Rd North Of Aldridge St',43.621005,-79.67883
 2714,'2714','Avebury Rd South Of Aldridge St',43.61942,-79.677279
 2715,'2715','Copenhagen Rd @ Tamar Rd',43.595335,-79.768393
@@ -2697,7 +2699,6 @@
 3085,'3085','Explorer Dr North Of Matheson Blvd',43.654283,-79.615662
 3086,'3086','Winston Churchill Blvd @ Britannia Rd',43.568766,-79.744589
 3087,'3087','Explorer Dr @ Satellite Dr',43.658341,-79.613176
-3093,'3093','Commerce Blvd @ Skymark Ave',43.663741,-79.593107
 3095,'3095','Bromsgrove Rd West Of Seagull Dr',43.507975,-79.643308
 3096,'3096','Explorer Dr @ Matheson Blvd',43.652298,-79.615336
 3097,'3097','Creekbank Rd @ Sismet Rd',43.647247,-79.61906
@@ -2886,6 +2887,9 @@
 3360,'3360','9th Line @ Tacc Dr',43.544126,-79.745171
 3361,'3361','9th Line @ Arbourview Ter',43.547293,-79.74968
 3362,'3362','Kennedy Rd @ Kenway Dr',43.638049,-79.671706
+3363,'3363','Derry Rd @ Mavis Rd',43.632575,-79.722788
+3364,'3364','Derry Rd @ Mavis Rd',43.633187,-79.721782
+3365,'3365','Finch Ave East Of Humberline Dr',43.734511,-79.614179
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
 3372,'3372','King St @ Sheppard Ave',43.57977,-79.612951
 3373,'3373','King St @ Sheppard Ave',43.580143,-79.612864
@@ -3300,7 +3304,6 @@
 6880,'6880','Financial Dr South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Sq Bus Terminal P.K',43.72189,-79.640859
 7200,'7200','Humber College North Campus P.8',43.729206,-79.604957
-7201,'7201','Humber College North Campus P.1',43.729268,-79.605653
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
