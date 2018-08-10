@@ -387,7 +387,6 @@
 457,'0457','Lakeshore Rd E @ Beechwood Ave',43.566809,-79.569757
 458,'0458','Dixie Rd @ Kendal L Rd',43.601319,-79.572274
 459,'0459','Dixie Rd @ Sherway Dr',43.600219,-79.570726
-460,'0460','Duke Of York Blvd @ Prince Of Wales Dr',43.590941,-79.645791
 461,'0461','Dixie Mall Bus Terminal P.A',43.593852,-79.565562
 462,'0462','South Service Rd @ Haig Blvd',43.592271,-79.573094
 463,'0463','South Service Rd @ Applewood Rd',43.591161,-79.57431
@@ -497,7 +496,6 @@
 583,'0583','Winston Churchill Blvd @ Homelands Dr',43.518878,-79.676103
 584,'0584','Burnhamthorpe Rd @ Living Arts Dr',43.586502,-79.643345
 585,'0585','Burnhamthorpe Rd @ Duke Of York Blvd',43.587926,-79.641605
-586,'0586','Burnhamthorpe Rd @ Duke Of York Blvd',43.588499,-79.641462
 587,'0587','Burnhamthorpe Rd @ Kariya Dr',43.591139,-79.637811
 588,'0588','Burnhamthorpe Rd @ Kariya Gt',43.591749,-79.637718
 589,'0589','Confederation Pky South Of Burnhamthorpe Rd',43.58493,-79.644614
@@ -1117,7 +1115,7 @@
 1315,'1315','Dixie Rd @ Burnhamthorpe Rd',43.621955,-79.602052
 1316,'1316','Dixie Rd @ Winding Trl',43.619631,-79.599007
 1317,'1317','Dixie Rd @ Bloor St',43.617056,-79.595324
-1318,'1318','Dixie Rd @ Golden Orchard Dr',43.612902,-79.589287
+1318,'1318','Dixie Rd @ Golden Orchard Dr',43.61206,-79.588184
 1319,'1319','Dixie Rd North Of Dundas St',43.610052,-79.585264
 1320,'1320','Tomken Rd @ Flagship Dr',43.605064,-79.599866
 1321,'1321','Tomken Rd @ Bloor St',43.607823,-79.603829
@@ -1423,14 +1421,14 @@
 1670,'1670','River Grv Ave @ Kingsbank Crt',43.591311,-79.709832
 1671,'1671','River Grv Ave @ Riverdale Cres',43.590347,-79.709078
 1672,'1672','River Grv Ave @ South Riverdale Cres',43.588697,-79.707867
-1673,'1673','River Grv Ave @ Stillriver Cres',43.586631,-79.705112
+1673,'1673','River Grv Ave @ Stillriver Cres',43.586137,-79.704725
 1674,'1674','River Grv Ave North Of Bristol Rd W',43.584443,-79.703561
 1675,'1675','Bristol Rd W @ Millbrook Ln',43.584851,-79.700604
-1676,'1676','Bristol Rd W @ Creditview Rd',43.586534,-79.697409
+1676,'1676','Bristol Rd W @ Creditview Rd',43.586453,-79.697268
 1678,'1678','Dundas St @ 5th Line West',43.535885,-79.667633
 1681,'1681','Morning Star Dr @ Airport Rd',43.710254,-79.649738
 1682,'1682','Sheridan Ctr Bus Terminal P.C',43.529917,-79.651652
-1684,'1684','Winston Churchill Blvd @ Royal Windsor Dr',43.496399,-79.645342
+1684,'1684','Winston Churchill Blvd @ Royal Windsor Dr',43.496397,-79.645311
 1687,'1687','Westwood Sq Bus Terminal P.D',43.721596,-79.640667
 1688,'1688','Edenwood Dr @ Tours Rd',43.57315,-79.753576
 1689,'1689','Erin Mills Town Ctr Bus Terminal P.F',43.560412,-79.71083
@@ -1481,7 +1479,6 @@
 1742,'1742','Wolfedale Rd @ Westlock Rd',43.566971,-79.641885
 1743,'1743','Bancroft Dr @ Emerson Ln',43.60028,-79.714583
 1744,'1744','Bancroft Dr @ Bidwell Trl',43.601715,-79.713263
-1745,'1745','Duke Of York Blvd @ City Ctr Dr',43.588994,-79.642604
 1746,'1746','Webb Dr East Of Confederation Pky',43.585408,-79.641656
 1748,'1748','Bancroft Dr @ Douguy Blvd',43.606272,-79.710205
 1749,'1749','Creekbank Rd @ Tech Ave',43.644069,-79.616145
@@ -1976,7 +1973,7 @@
 2316,'2316','Argentia Rd @ Kitimat Rd',43.60329,-79.736648
 2317,'2317','Lakeshore Rd @ Hazelhurst Rd',43.488057,-79.622915
 2318,'2318','Creditview Rd @ Willowvale Gdns',43.582832,-79.691705
-2319,'2319','Winston Churchill Blvd North Of Lakeshore Rd',43.484319,-79.628788
+2319,'2319','Winston Churchill Blvd North Of Lakeshore Rd',43.48432,-79.628798
 2320,'2320','Airport Rd @ Hull St',43.704205,-79.643022
 2321,'2321','Airport Rd @ Ripon St',43.706276,-79.645346
 2322,'2322','Airport Rd @ Victory Cres',43.707577,-79.647228
@@ -1986,7 +1983,7 @@
 2326,'2326','Meadowvale Go Sta P.3',43.596148,-79.755432
 2327,'2327','Britannia Rd @ Latimer Dr',43.60944,-79.698972
 2328,'2328','Derry Rd @ Danton Promenade',43.586351,-79.773581
-2329,'2329','Winston Churchill Blvd @ Deer Run',43.487432,-79.633169
+2329,'2329','Winston Churchill Blvd @ Deer Run',43.487499,-79.633105
 2330,'2330','Millcreek Dr South Of Aquitaine Ave',43.59509,-79.752491
 2331,'2331','Coopers Ave @ Rose Cherry Pl',43.632412,-79.660209
 2332,'2332','Paisley Blvd @ Confederation Pky',43.573425,-79.614036
@@ -2003,8 +2000,8 @@
 2344,'2344','Matheson Blvd @ Satellite Dr',43.655451,-79.607302
 2347,'2347','Kitimat Rd South Of Argentia Rd',43.600637,-79.734012
 2348,'2348','Lakeshore Rd West Of Southdown Rd',43.493958,-79.616498
-2349,'2349','Creditview Rd @ Britannia Rd',43.598442,-79.712924
-2350,'2350','Winston Churchill Blvd North Of Beryl Rd',43.495254,-79.643763
+2349,'2349','Creditview Rd North Of Britannia Rd',43.598442,-79.712924
+2350,'2350','Winston Churchill Blvd North Of Beryl Rd',43.495269,-79.643747
 2351,'2351','Royal Windsor Dr East Of Winston Churchill Blvd',43.4978,-79.644067
 2352,'2352','Royal Windsor Dr @ 2480 Royal Windsor Dr',43.49916,-79.64259
 2353,'2353','Royal Windsor Dr @ Avonhead Rd',43.504867,-79.6364
@@ -2576,7 +2573,7 @@
 3001,'3001','Kennedy Rd @ Annagem Blvd',43.645108,-79.681179
 3002,'3002','Bristol Rd W @ Terry Fox Way',43.595148,-79.685306
 3003,'3003','Northwest Dr @ 6580 Northwest Dr',43.702854,-79.629438
-3004,'3004','Winston Churchill @ 450 Winston Churchill Blvd',43.485858,-79.631004
+3004,'3004','Winston Churchill @ 450 Winston Churchill Blvd',43.485911,-79.630942
 3005,'3005','Matheson Blvd E @ Rose Cherry Pl',43.628015,-79.651543
 3007,'3007','Tahoe Sta West P.B',43.638721,-79.610169
 3008,'3008','Commerce Blvd South Of Matheson Blvd E',43.664599,-79.594075
@@ -2793,7 +2790,7 @@
 3298,'3298','Lisgar Go Sta P.7',43.592105,-79.788278
 3299,'3299','Edwards Blvd @ Derry Rd',43.648592,-79.702838
 3300,'3300','Carlingview Dr @ Meteor Dr',43.68092,-79.593066
-3301,'3301','Carlingview Dr South Of Meteor Dr',43.677733,-79.591627
+3301,'3301','Carlingview Dr @ Renforth Dr',43.677126,-79.591388
 3302,'3302','Eglinton Ave @ Metcalfe Ave',43.55673,-79.709244
 3303,'3303','Gln Erin Dr @ Eglinton Ave',43.553991,-79.712261
 3304,'3304','Gln Erin Dr @ Credit Vly Rd',43.552493,-79.707973
@@ -2869,7 +2866,7 @@
 3433,'3433','Credit Vly Rd @ Gln Erin Dr',43.553015,-79.707182
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
-3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.48984,-79.636434
+3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.489901,-79.636403
 3497,'3497','Hurontario St @ Robert Speck Pky',43.597084,-79.639956
 3500,'3500','Eglinton Ave @ Kimbermount Ave',43.551283,-79.714857
 3501,'3501','Erin Ctr Blvd @ Janice Dr',43.542912,-79.736164
