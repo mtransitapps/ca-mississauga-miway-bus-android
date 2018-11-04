@@ -7,12 +7,11 @@ Schedule. News.
 What's new in this version?:
 Schedule from October 4, 2018 to December 23, 2018.
 Tweets from @MiWayHelps.
-News from miwayblog.ca.
 ----------
 Full description:
 This application adds Mississauga MiWay buses information to MonTransit.
 
-This app contains the buses schedule (available offline) and news from miwayblog.ca and @MiWayHelps on Twitter.
+This app contains the buses schedule (available offline) and news from @MiWayHelps on Twitter.
 
 MiWay serves Mississauga in Ontario, Canada.
 
@@ -31,7 +30,7 @@ https://github.com/mtransitapps/ca-mississauga-miway-bus-android
 This app is not related with MiWay.
 
 Permissions:
-- Other: required to read news from miwayblog.ca and Twitter
+- Other: required to read news from Twitter
 ----------
 Application type: Applications
 ----------
