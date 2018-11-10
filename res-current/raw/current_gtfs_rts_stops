@@ -71,7 +71,6 @@
 85,'0085','City Ctr Transit Terminal P.L',43.594021,-79.647341
 87,'0087','Mavis Rd @ Courtneypark Dr',43.623792,-79.711615
 88,'0088','Lisgar Dr @ Berryman Tr',43.570222,-79.777561
-89,'0089','Clarkson Go Sta P.5',43.51295,-79.63294
 90,'0090','Mavis Rd South Of Central Pky W',43.572442,-79.642394
 91,'0091','Derry Rd @ Forest Pk Dr',43.581178,-79.779074
 92,'0092','Derry Rd West Of Tenth Line',43.584204,-79.775718
@@ -1027,7 +1026,6 @@
 1190,'1190','Dundas St @ Confederation Pky',43.577359,-79.619891
 1191,'1191','Dundas St @ Jarrow Ave',43.612518,-79.580014
 1192,'1192','Dundas St @ Jarrow Ave',43.612942,-79.580116
-1193,'1193','Mavis Rd @ Eglinton Ave',43.592202,-79.668807
 1194,'1194','Dundas St @ Mavis Rd',43.566742,-79.632504
 1195,'1195','Dundas St @ Wolfedale Rd',43.563345,-79.636048
 1196,'1196','Dundas St @ Cedarglen Gt',43.560644,-79.639142
@@ -1705,7 +1703,6 @@
 1955,'1955','Eglinton Ave @ Heritage Hls Blvd',43.600165,-79.66064
 1956,'1956','Eglinton Ave @ Heritage Hls Blvd',43.599483,-79.660828
 1957,'1957','Eglinton Ave @ Guildwood Way',43.594488,-79.666465
-1958,'1958','Mclaughlin Rd @ Eglinton Ave',43.597481,-79.66371
 1959,'1959','Hurontario St @ Ceremonial Dr',43.609295,-79.656831
 1960,'1960','Hurontario St @ Matheson Blvd E',43.619233,-79.669661
 1961,'1961','Hurontario St @ Watline Ave',43.620933,-79.671891
@@ -2550,6 +2547,7 @@
 2926,'2926','Confederation Pky @ Huntington Rdg Dr',43.594394,-79.658377
 2927,'2927','Airport Rd @ Northwest Dr',43.699049,-79.636487
 2928,'2928','Airport Rd @ Silver Dart Dr',43.695013,-79.631056
+2930,'2930','Toronto Airport-Terminal 3',43.686024,-79.620165
 2931,'2931','Derry Rd @ Rexwood Rd',43.716411,-79.626994
 2932,'2932','Airport Rd @ American Dr',43.689184,-79.621808
 2933,'2933','Airport Rd South Of Derry Rd',43.702061,-79.639918
@@ -2847,8 +2845,6 @@
 3312,'3312','Bristol Rd W @ Ceremonial Dr',43.600024,-79.676403
 3313,'3313','Bristol Rd W @ Guildwood Way',43.601355,-79.67314
 3314,'3314','Artesian Dr West Of Winston Churchill Blvd',43.546183,-79.715337
-3315,'3315','City Ctr Dr East Of Duke Of York Blvd',43.589706,-79.641869
-3316,'3316','City Ctr Dr @ Kariya Gt',43.592033,-79.639191
 3317,'3317','Artesian Dr @ Southampton Dr',43.544264,-79.716851
 3322,'3322','Aquinas Ave @ Sebastian Dr',43.540669,-79.723846
 3323,'3323','Aquinas Ave @ Middlesex Gt',43.542269,-79.722054
