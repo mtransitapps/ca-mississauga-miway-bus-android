@@ -82,7 +82,7 @@
 98,'0098','Hurontario St @ Annagem Blvd',43.634862,-79.691395
 99,'0099','Meadowvale Blvd @ Tottington Dr',43.615138,-79.748817
 100,'0100','Clarkson Go Sta P.9',43.512574,-79.633008
-101,'0101','Clarkson Go Sta P.4',43.512821,-79.632839
+101,'0101','Clarkson Go Sta P.5',43.512821,-79.632839
 103,'0103','Southdown Rd @ South Sheridan Way',43.521694,-79.644584
 104,'0104','Southdown Rd @ Truscott Dr',43.518646,-79.640408
 105,'0105','Southdown Rd @ Wiseman Crt',43.516101,-79.636914
@@ -388,6 +388,7 @@
 457,'0457','Lakeshore Rd E @ Beechwood Ave',43.566809,-79.569757
 458,'0458','Dixie Rd @ Kendal L Rd',43.601319,-79.572274
 459,'0459','Dixie Rd @ Sherway Dr',43.600219,-79.570726
+460,'0460','Duke Of York Blvd @ Prince Of Wales Dr',43.590941,-79.645791
 461,'0461','Dixie Mall Bus Terminal P.A',43.593852,-79.565562
 462,'0462','South Service Rd @ Haig Blvd',43.592271,-79.573094
 463,'0463','South Service Rd @ Applewood Rd',43.591161,-79.57431
@@ -499,6 +500,7 @@
 583,'0583','Winston Churchill Blvd @ Homelands Dr',43.518878,-79.676103
 584,'0584','Burnhamthorpe Rd @ Living Arts Dr',43.586502,-79.643345
 585,'0585','Burnhamthorpe Rd @ Duke Of York Blvd',43.587926,-79.641605
+586,'0586','Burnhamthorpe Rd @ Duke Of York Blvd',43.588499,-79.641462
 587,'0587','Burnhamthorpe Rd @ Kariya Dr',43.591139,-79.637811
 588,'0588','Burnhamthorpe Rd @ Kariya Gt',43.591749,-79.637718
 589,'0589','Confederation Pky South Of Burnhamthorpe Rd',43.58493,-79.644614
@@ -762,7 +764,7 @@
 889,'0889','Mcdowell Dr @ Yachtsman Xing',43.554707,-79.754117
 891,'0891','Creditview Rd @ Bristol Rd',43.586664,-79.696961
 892,'0892','Creditview Rd @ Torrington Dr',43.590405,-79.702071
-893,'0893','Darcel Ave @ Chigwel Crt',43.720792,-79.625876
+893,'0893','Darcel Ave @ South Chigwel Crt',43.720792,-79.625876
 894,'0894','Cawthra Rd @ Orwell St',43.590502,-79.593787
 895,'0895','Cawthra Rd @ Needham Ln',43.592591,-79.596761
 896,'0896','Burnhamthorpe Rd West Of Folkway Dr',43.541641,-79.694292
@@ -791,7 +793,7 @@
 930,'0930','Ridgeway Dr @ Drummond Rd',43.527288,-79.713337
 931,'0931','Ridgeway Dr @ Unity Dr',43.53202,-79.716949
 932,'0932','Unity Dr @ Colonial Dr',43.533503,-79.715185
-934,'0934','Unity Dr @ 3765 Unity Dr',43.535972,-79.711333
+934,'0934','Unity Dr @ Erin Mills Twin Arena',43.535972,-79.711333
 935,'0935','Unity Dr @ Loyalist Dr',43.537922,-79.707009
 936,'0936','Viscount Rd South Of Airway Dr',43.692847,-79.622419
 937,'0937','The Collegeway @ Winston Churchill Blvd',43.531114,-79.692675
@@ -832,7 +834,7 @@
 974,'0974','Loyalist Dr @ Seebring Cres',43.534867,-79.705131
 975,'0975','Loyalist Dr @ Osbourne Rd',43.537625,-79.706236
 976,'0976','Unity Dr West Of Pepper Mill Crt',43.537088,-79.708883
-977,'0977','Unity Dr 2nd Stop West Of Pepper Mill Crt',43.536116,-79.71133
+977,'0977','Unity Dr @ Erin Mills Twin Arena',43.536116,-79.71133
 978,'0978','Columbus Rd @ 6830 Columbus Rd',43.66821,-79.673987
 980,'0980','Burnhamthorpe Rd W @ Mississauga Rd',43.553317,-79.675309
 981,'0981','Burnhamthorpe Rd W @ Sawmill Vly Dr',43.550278,-79.676692
@@ -1414,7 +1416,7 @@
 1620,'1620','Confederation Pky @ Dundas St',43.577511,-79.619082
 1621,'1621','Confederation Pky @ Agnes St',43.578325,-79.621615
 1622,'1622','Confederation Pky @ Hillcrest Ave',43.579073,-79.623865
-1625,'1625','Confederation Pky South Of Riel Dr',43.584227,-79.638475
+1625,'1625','Confederation Pky North Of Central Pky',43.584227,-79.638475
 1626,'1626','Confederation Pky @ Riel Dr',43.584183,-79.640086
 1627,'1627','Confederation Pky @ Webb Dr',43.584284,-79.642561
 1629,'1629','Mississauga Rd @ The Collegeway',43.544908,-79.663028
@@ -1511,6 +1513,7 @@
 1742,'1742','Wolfedale Rd @ Westlock Rd',43.566971,-79.641885
 1743,'1743','Bancroft Dr @ Emerson Ln',43.60028,-79.714583
 1744,'1744','Bancroft Dr @ Bidwell Trl',43.601715,-79.713263
+1745,'1745','Duke Of York Blvd @ City Ctr Dr',43.588994,-79.642604
 1746,'1746','Webb Dr East Of Confederation Pky',43.585408,-79.641656
 1748,'1748','Bancroft Dr @ Douguy Blvd',43.606272,-79.710205
 1749,'1749','Creekbank Rd @ Tech Ave',43.644069,-79.616145
@@ -1636,7 +1639,7 @@
 1881,'1881','Britannia Rd East Of Greensboro Dr',43.572594,-79.739754
 1882,'1882','Streetsville Go Sta P.3',43.575495,-79.71059
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441
-1886,'1886','Britannia Rd 2nd Stop West Of Erin Mills Pky',43.576636,-79.735657
+1886,'1886','Britannia Rd @ Sundance Pl',43.576636,-79.735657
 1887,'1887','Britannia Rd @ Gln Erin Dr',43.574823,-79.737751
 1888,'1888','Hurontario St @ Superior Blvd',43.641531,-79.699768
 1889,'1889','Hurontario St @ Skyway Dr',43.640761,-79.699363
@@ -1793,7 +1796,7 @@
 2061,'2061','Explorer Dr South Of Matheson Blvd E',43.661481,-79.596782
 2063,'2063','Britannia Rd West Of Erin Mills Pky',43.578024,-79.734092
 2065,'2065','Maingate Dr South Of Matheson Blvd',43.634918,-79.634603
-2066,'2066','Eglinton Ave @ Commerce Blvd',43.662554,-79.590872
+2066,'2066','Eglinton Ave @ Commerce Blvd',43.662634,-79.590566
 2070,'2070','Creekbank Rd @ Sismet Rd',43.647425,-79.61892
 2077,'2077','Matheson Blvd @ Dixie Rd',43.641891,-79.631147
 2078,'2078','Matheson Blvd @ Ambler Dr',43.640407,-79.63278
@@ -2450,7 +2453,7 @@
 2824,'2824','Darcel Ave @ Woodruff Cres',43.719927,-79.63255
 2825,'2825','Darcel Ave @ Laddie Cres',43.718949,-79.628339
 2826,'2826','Netherbrae Rd @ Darcel Ave',43.719968,-79.627
-2827,'2827','Darcel Ave @ Chigwel Crt',43.722877,-79.624835
+2827,'2827','Darcel Ave @ North Chigwel Crt',43.722877,-79.624835
 2828,'2828','Darcel Ave @ Harwick Dr',43.724295,-79.625163
 2829,'2829','Morning Star Dr @ Brandon Gt Dr',43.725328,-79.62725
 2830,'2830','Corliss Cres @ Teeswater Rd',43.726312,-79.635707
@@ -2547,7 +2550,7 @@
 2926,'2926','Confederation Pky @ Huntington Rdg Dr',43.594394,-79.658377
 2927,'2927','Airport Rd @ Northwest Dr',43.699049,-79.636487
 2928,'2928','Airport Rd @ Silver Dart Dr',43.695013,-79.631056
-2930,'2930','Toronto Airport-Terminal 3',43.686024,-79.620165
+2930,'2930','Toronto Airport-Terminal 3',43.686408,-79.620653
 2931,'2931','Derry Rd @ Rexwood Rd',43.716411,-79.626994
 2932,'2932','Airport Rd @ American Dr',43.689184,-79.621808
 2933,'2933','Airport Rd South Of Derry Rd',43.702061,-79.639918
@@ -2706,7 +2709,7 @@
 3119,'3119','Mclaughlin Rd North Of Britannia Rd',43.618402,-79.692062
 3120,'3120','Northwest Dr West Of Caravelle Dr',43.702906,-79.629983
 3121,'3121','Meadowpine Blvd @ Danbro Cres',43.603325,-79.777957
-3122,'3122','Dixie Rd @ Dixie Sta',43.63081,-79.613982
+3122,'3122','Dixie Rd @ Dixie Sta',43.631107,-79.614314
 3123,'3123','Hillcrest Ave West Of Hurontario St',43.580354,-79.623328
 3125,'3125','Central Pky @ Erindale Sta Rd',43.567559,-79.655815
 3126,'3126','Mclaughlin Rd @ Cantay Rd',43.62109,-79.695684
@@ -2783,7 +2786,7 @@
 3237,'3237','Aimco Blvd @ Bradco Blvd',43.634828,-79.628735
 3238,'3238','Aimco Blvd @ Maingate Dr',43.633047,-79.630712
 3239,'3239','Maingate Dr @ Haultain Crt',43.633977,-79.63235
-3240,'3240','Explorer Dr 2nd Stop North Of Matheson Blvd',43.65601,-79.617012
+3240,'3240','Explorer Dr @ 5800 Explorer Dr',43.65601,-79.617012
 3241,'3241','Explorer Dr West Of Satellite Dr',43.656478,-79.616976
 3242,'3242','Maingate Dr North Of Haultain Crt',43.634971,-79.634275
 3244,'3244','Maingate Dr South Of Matheson Blvd',43.636023,-79.636786
@@ -3380,7 +3383,7 @@
 9107,'9107','Rexdale Blvd @ Tidemore Ave',43.714681,-79.585498
 9108,'9108','Rexdale Blvd @ Martin Grv Rd',43.713694,-79.581413
 9109,'9109','Rexdale Blvd East Of Martin Grv Rd',43.71316,-79.57903
-9110,'9110','Rexdale Blvd 2nd Stop East Of Martin Grv Rd',43.712652,-79.576596
+9110,'9110','Rexdale Blvd Opposite 230 Rexdale Blvd',43.712652,-79.576596
 9111,'9111','Rexdale Blvd 3rd Stop East Of Martin Grv Rd',43.712103,-79.574375
 9112,'9112','Rexdale Blvd @ Kipling Ave',43.711453,-79.567055
 9113,'9113','Rexdale Blvd @ Bergamot Ave',43.712984,-79.560675
@@ -3391,7 +3394,7 @@
 9120,'9120','Rexdale Blvd @ Kipling Ave',43.711825,-79.566574
 9121,'9121','Rexdale Blvd @ Brydon Dr',43.711612,-79.571147
 9122,'9122','Rexdale Blvd West Of Brydon Dr',43.712362,-79.574232
-9123,'9123','Rexdale Blvd 2nd Stop West Of Brydon Dr',43.713027,-79.577059
+9123,'9123','Rexdale Blvd @ 230 Rexdale Blvd',43.713027,-79.577059
 9124,'9124','Rexdale Blvd @ Martin Grv Rd',43.713922,-79.580936
 9125,'9125','Rexdale Blvd @ Tidemore Ave',43.714846,-79.58501
 9127,'9127','Humber College Blvd @ Etobicoke Hosp',43.730763,-79.599498
