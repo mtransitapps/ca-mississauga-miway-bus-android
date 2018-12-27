@@ -1468,7 +1468,6 @@
 1689,'1689','Erin Mills Town Ctr Bus Terminal P.F',43.560412,-79.71083
 1690,'1690','Cawthra Sta East P.A',43.616433,-79.628585
 1691,'1691','Webb Dr West Of Duke Of York Blvd',43.586451,-79.64079
-1692,'1692','Duke Of York Blvd North Of Webb Dr',43.587978,-79.641026
 1693,'1693','Britannia Rd @ Tenth Line',43.564065,-79.749429
 1694,'1694','Millers Grv @ Arnett Crt',43.574888,-79.761057
 1695,'1695','Lakeshore Rd West Of Hazelhurst Rd',43.485193,-79.625911
@@ -2806,8 +2805,6 @@
 3266,'3266','Eglinton Ave @ Satellite Dr',43.651363,-79.603116
 3267,'3267','Ambler Dr @ Aerowood Dr',43.641844,-79.635498
 3268,'3268','Ambler Dr @ Matheson Blvd',43.640205,-79.633324
-3270,'3270','City Ctr Dr West Of Kariya Gt',43.591468,-79.640182
-3271,'3271','City Ctr Dr @ Duke Of York Blvd',43.58923,-79.642772
 3272,'3272','Skymark Ave West Of Commerce Blvd',43.662856,-79.593957
 3274,'3274','Lakeshore Rd E @ West Ave',43.571118,-79.565057
 3276,'3276','Britannia Rd East Of Erin Mills Pky',43.580576,-79.730779
@@ -3347,7 +3344,6 @@
 9067,'9067','Burnhamthorpe Rd @ The West Mall',43.644708,-79.566461
 9068,'9068','Burnhamthorpe Rd @ The East Mall',43.646174,-79.560283
 9069,'9069','Burnhamthorpe Rd @ 400 Burnhamthorpe Rd',43.646985,-79.556483
-9070,'9070','Burnhamthorpe Rd @ Laurel Ave',43.647184,-79.555676
 9071,'9071','Burnhamthorpe Rd @ Shaver Ave',43.648294,-79.550925
 9072,'9072','Burnhamthorpe Rd @ Martin Grv Rd',43.648623,-79.549144
 9073,'9073','Burnhamthorpe Rd @ Ashbourne Dr',43.649272,-79.546351
@@ -3365,7 +3361,6 @@
 9085,'9085','Burnhamthorpe Rd @ Appleby Rd',43.649427,-79.54724
 9086,'9086','Burnhamthorpe Rd @ Martin Grv Rd',43.648997,-79.548825
 9087,'9087','Burnhamthorpe Rd @ Shaver Ave',43.64832,-79.551507
-9088,'9088','Burnhamthorpe Rd @ Warwood Rd',43.647551,-79.554836
 9089,'9089','Burnhamthorpe Rd @ 400 Burnhamthorpe Rd',43.64726,-79.556191
 9090,'9090','Burnhamthorpe Rd @ The East Mall',43.646382,-79.559886
 9091,'9091','Burnhamthorpe Rd @ The West Mall',43.644777,-79.567034
