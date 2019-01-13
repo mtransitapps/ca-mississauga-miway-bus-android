@@ -7,7 +7,6 @@
 12,'0012','Creekbank Rd North Of Tech Ave',43.643523,-79.615674
 13,'0013','Rodeo Dr North Of Regal Dr',43.613689,-79.68999
 14,'0014','Matheson Blvd @ Solar Dr',43.652876,-79.609556
-19,'0019','Duke Of York Blvd @ Rathburn Rd W',43.592667,-79.648591
 20,'0020','Matheson Blvd @ Shuttle Dr',43.660649,-79.600931
 21,'0021','Matheson Blvd West Of Orbitor Dr',43.657301,-79.604704
 22,'0022','Tours Rd @ Millers Grv',43.571858,-79.754791
@@ -257,7 +256,6 @@
 313,'0313','Erin Ctr Blvd @ John Fraser Secondary School',43.559753,-79.715407
 314,'0314','Port Credit Go Sta P.7',43.555435,-79.587496
 315,'0315','Atwater Ave @ Cawthra Rd',43.574893,-79.573059
-316,'0316','Duke Of York Blvd @ Sq One Dr',43.591864,-79.647742
 320,'0320','Winston Churchill Blvd @ North Sheridan Way',43.513331,-79.668579
 322,'0322','Eglinton Ave E @ Albina Way',43.610984,-79.64807
 323,'0323','Lakeshore Rd E @ St Lawrence Dr',43.55504,-79.581798
@@ -347,7 +345,6 @@
 414,'0414','North Service Rd @ Annapolis Ave',43.585423,-79.582039
 415,'0415','North Service Rd @ Cawthra Rd',43.58538,-79.585842
 416,'0416','Cawthra Rd @ Cawthra Pk Secondary School',43.576078,-79.574926
-417,'0417','Duke Of York Blvd @ Prince Of Wales Dr',43.590992,-79.646337
 418,'0418','Lisgar Dr @ Yarrow Ave',43.573688,-79.780067
 419,'0419','Lisgar Dr @ Allcroft Rd',43.576039,-79.782633
 420,'0420','Ogden Ave @ Halliday Ave',43.58286,-79.567198
@@ -388,7 +385,6 @@
 457,'0457','Lakeshore Rd E @ Beechwood Ave',43.566809,-79.569757
 458,'0458','Dixie Rd @ Kendal L Rd',43.601319,-79.572274
 459,'0459','Dixie Rd @ Sherway Dr',43.600219,-79.570726
-460,'0460','Duke Of York Blvd @ Prince Of Wales Dr',43.590941,-79.645791
 461,'0461','Dixie Mall Bus Terminal P.A',43.593852,-79.565562
 462,'0462','South Service Rd @ Haig Blvd',43.592271,-79.573094
 463,'0463','South Service Rd @ Applewood Rd',43.591161,-79.57431
@@ -659,7 +655,6 @@
 772,'0772','Winston Churchill Blvd @ Eglinton Ave',43.548674,-79.716646
 773,'0773','Winston Churchill Blvd @ Erin Ctr Blvd',43.552926,-79.722498
 774,'0774','Winston Churchill Blvd @ Thomas St',43.560835,-79.733288
-775,'0775','Duke Of York Blvd @ City Ctr Dr',43.589018,-79.643136
 776,'0776','Mclaughlin Rd @ Regal Dr',43.614516,-79.686941
 777,'0777','Mclaughlin Rd South Of Britannia Rd',43.616171,-79.689111
 778,'0778','Tours Rd @ Edenwood Dr',43.572927,-79.753729
@@ -1217,7 +1212,6 @@
 1397,'1397','American Dr @ Northam Dr',43.695156,-79.615268
 1398,'1398','River Grv Ave @ Astrella Cres',43.593871,-79.713133
 1399,'1399','Queensway @ Dixie Rd',43.604353,-79.573651
-1400,'1400','Duke Of York Blvd @ Princess Royal Dr',43.589839,-79.644022
 1401,'1401','Fairview Rd @ Chimo Crt',43.58063,-79.63209
 1403,'1403','City Ctr Transit Terminal P.G',43.593565,-79.646131
 1404,'1404','Rathburn Rd West Of Elora Dr',43.586443,-79.652979
@@ -1239,7 +1233,6 @@
 1423,'1423','Derry Rd West Of Meadowvale Blvd',43.613266,-79.746378
 1424,'1424','Rathburn Rd @ East Elora Dr',43.587536,-79.652521
 1425,'1425','City Ctr Dr @ Sq One Pkng Lot 1',43.593191,-79.638917
-1427,'1427','Duke Of York Blvd @ Princess Royal Dr',43.589918,-79.644565
 1428,'1428','Living Arts Dr @ Prince Of Wales Dr',43.589695,-79.647075
 1429,'1429','Winterton Way @ Heatherleigh Ave',43.594054,-79.677141
 1431,'1431','Old Derry Rd @ Lessard Ln',43.628822,-79.725812
@@ -1512,7 +1505,6 @@
 1742,'1742','Wolfedale Rd @ Westlock Rd',43.566971,-79.641885
 1743,'1743','Bancroft Dr @ Emerson Ln',43.60028,-79.714583
 1744,'1744','Bancroft Dr @ Bidwell Trl',43.601715,-79.713263
-1745,'1745','Duke Of York Blvd @ City Ctr Dr',43.588994,-79.642604
 1746,'1746','Webb Dr East Of Confederation Pky',43.585408,-79.641656
 1748,'1748','Bancroft Dr @ Douguy Blvd',43.606272,-79.710205
 1749,'1749','Creekbank Rd @ Tech Ave',43.644069,-79.616145
@@ -3301,7 +3293,6 @@
 9006,'9006','Dundas St @ Acorn Ave',43.637226,-79.538744
 9007,'9007','Dundas St @ Aukland Rd',43.638352,-79.53806
 9008,'9008','Dundas St W @ Summerland Ter',43.64386,-79.533022
-9009,'9009','Dundas St W @ Michael Power Pl',43.645549,-79.531372
 9010,'9010','Dundas St W @ Mabelle Ave',43.646629,-79.530543
 9011,'9011','Dundas St W @ Cordova Ave',43.648668,-79.52872
 9012,'9012','Central Pk Roadway @ Islington Ave',43.648175,-79.52539
@@ -3407,5 +3398,4 @@
 9961,'9961','Dixon Rd @ Carlingview Dr',43.686572,-79.5958
 9962,'9962','Carlingview Dr South Of Dixon Rd',43.68245,-79.59375
 9970,'9970','Carlingview Dr North Of International Blvd',43.677364,-79.591195
-9971,'9971','Carlingview Dr @ 129 Carlingview Dr',43.678525,-79.591658
 9972,'9972','Carlingview Dr North Of Meteor Dr',43.68173,-79.593072
