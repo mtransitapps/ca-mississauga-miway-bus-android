@@ -1349,8 +1349,8 @@
 1551,'1551','Burnhamthorpe Rd West Of Mill Rd',43.636765,-79.587072
 1552,'1552','Burnhamthorpe Rd @ Ponytrail Dr',43.63297,-79.591322
 1553,'1553','Burnhamthorpe Rd West Of Ponytrail Dr',43.631406,-79.592932
-1554,'1554','Burnhamthorpe Rd @ Fieldgate Dr',43.628812,-79.595832
-1555,'1555','Burnhamthorpe Rd @ Bough Beeches Blvd',43.62524,-79.599745
+1554,'1554','Burnhamthorpe Rd @ Fieldgate Dr',43.628389,-79.596387
+1555,'1555','Burnhamthorpe Rd @ Bough Beeches Blvd',43.624962,-79.60016
 1556,'1556','Southdown Rd @ Orr Rd',43.50566,-79.622911
 1557,'1557','Burnhamthorpe Rd @ Dixie Rd',43.622212,-79.603161
 1558,'1558','Burnhamthorpe Rd @ Golden Orchard Dr',43.618538,-79.607045
@@ -2610,6 +2610,7 @@
 3003,'3003','Northwest Dr @ 6580 Northwest Dr',43.702854,-79.629438
 3004,'3004','Winston Churchill @ 450 Winston Churchill Blvd',43.485911,-79.630942
 3005,'3005','Matheson Blvd @ Rose Cherry Pl',43.628015,-79.651543
+3006,'3006','Falconer Dr @ Kinsmen Gt',43.60617,-79.729252
 3007,'3007','Tahoe Sta West P.B',43.638721,-79.610169
 3008,'3008','Commerce Blvd South Of Matheson Blvd E',43.664599,-79.594075
 3009,'3009','Goreway Dr South Of Morning Star Dr',43.720294,-79.641018
@@ -2779,7 +2780,7 @@
 3239,'3239','Maingate Dr @ Haultain Crt',43.633977,-79.63235
 3240,'3240','Explorer Dr @ 5800 Explorer Dr',43.65601,-79.617012
 3241,'3241','Explorer Dr West Of Satellite Dr',43.656478,-79.616976
-3242,'3242','Maingate Dr North Of Haultain Crt',43.634971,-79.634275
+3242,'3242','Maingate Dr North Of Haultain Crt',43.635315,-79.635508
 3244,'3244','Maingate Dr South Of Matheson Blvd',43.636023,-79.636786
 3246,'3246','Viscount Rd @ Airway Dr',43.694436,-79.624989
 3248,'3248','Credit Vly Hosp',43.558535,-79.703869
@@ -2960,7 +2961,7 @@
 3840,'3840','Argentia Rd West Of Derry Rd',43.601879,-79.762424
 3841,'3841','Argentia Rd @ 2835 Argentia Rd',43.600067,-79.773448
 3842,'3842','Argentia Rd East Of Winston Churchill Blvd',43.59866,-79.782811
-3843,'3843','Argentia Rd @ 2885 Argentia Rd',43.59948,-79.777871
+3843,'3843','Argentia Rd @ 2885 Argentia Rd',43.599567,-79.77784
 3866,'3866','Argentia Rd East Of Winston Churchill',43.598352,-79.78278
 3867,'3867','Argentia Rd @ 2830 Argentia Rd',43.599712,-79.774006
 3868,'3868','Argentia Rd @ 2680 Argentia Rd',43.601487,-79.762767
