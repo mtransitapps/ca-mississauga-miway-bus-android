@@ -776,7 +776,6 @@
 914,'0914','Mississauga Rd @ The Collegeway',43.544837,-79.662324
 919,'0919','Meadowvale Town Ctr Bus Terminal P.H',43.58353,-79.758391
 920,'0920','Tranmere Dr South Of Boylen Rd',43.685172,-79.666876
-921,'0921','Middlegate Rd @ 1000 Middlegate Rd',43.595356,-79.588785
 922,'0922','Tomken Rd South Of Derry Rd',43.664777,-79.683874
 923,'0923','Terry Fox Way @ Bristol Rd',43.595564,-79.685507
 924,'0924','Burnhamthorpe Rd @ Tamarack Gt',43.539649,-79.69655
@@ -1202,12 +1201,9 @@
 1387,'1387','Burnhamthorpe Rd E @ Golden Orchard Dr',43.618693,-79.606491
 1388,'1388','Burnhamthorpe Rd E @ Dixie Rd',43.622065,-79.602892
 1389,'1389','Burnhamthorpe Rd E @ Havenwood Dr',43.6252,-79.599374
-1390,'1390','Burnhamthorpe Rd East Of Havenwood Dr',43.626435,-79.598056
 1391,'1391','Burnhamthorpe Rd E @ Fieldgate Dr',43.628736,-79.595536
 1392,'1392','Burnhamthorpe Rd E East Of Fieldgate Dr',43.631331,-79.592736
 1393,'1393','Burnhamthorpe Rd East Of Ponytrail Dr',43.633605,-79.590216
-1394,'1394','Burnhamthorpe Rd @ Fleetwood Pk',43.634822,-79.588836
-1395,'1395','Burnhamthorpe Rd E East Of Fleetwood Pk',43.636839,-79.586669
 1396,'1396','Northwest Dr @ American Dr',43.699184,-79.612545
 1397,'1397','American Dr @ Northam Dr',43.695156,-79.615268
 1398,'1398','River Grv Ave @ Astrella Cres',43.593871,-79.713133
@@ -1346,7 +1342,6 @@
 1548,'1548','Dixie Rd @ Hickory Dr',43.628202,-79.610051
 1549,'1549','Dixie Rd @ Rathburn Rd',43.626005,-79.607015
 1550,'1550','Dixie Rd @ Rockwood Mall',43.624485,-79.604956
-1551,'1551','Burnhamthorpe Rd West Of Mill Rd',43.636765,-79.587072
 1552,'1552','Burnhamthorpe Rd @ Ponytrail Dr',43.63297,-79.591322
 1553,'1553','Burnhamthorpe Rd West Of Ponytrail Dr',43.631406,-79.592932
 1554,'1554','Burnhamthorpe Rd @ Fieldgate Dr',43.628389,-79.596387
@@ -1972,7 +1967,6 @@
 2282,'2282','Gln Erin Dr @ Aquitaine Ave',43.586384,-79.759199
 2283,'2283','Eglinton Ave @ Hurontario St',43.606361,-79.653067
 2284,'2284','Aquitaine Ave East Of Montevideo Rd',43.593185,-79.755948
-2286,'2286','Burnhamthorpe Rd @ Ponytrail Dr',43.63346,-79.590839
 2289,'2289','Eglinton Ave West Of Kennedy Rd',43.614943,-79.644028
 2290,'2290','Aquitaine Ave @ Formentera Ave',43.584315,-79.761805
 2291,'2291','Eglinton Ave East Of Kingsbridge Gdn Cir',43.605171,-79.654507
