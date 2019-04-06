@@ -321,6 +321,7 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
+388,'0388','Rathburn Rd @ Hammerson Dr',43.596095,-79.644979
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
 394,'0394','Osprey Blvd @ Snowflake Ln',43.567706,-79.759694
@@ -397,6 +398,8 @@
 470,'0470','South Service Rd @ Dixie Mall Access',43.593791,-79.571498
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
+475,'0475','Eglinton Ave W @ East Mill Rd',43.580277,-79.682776
+476,'0476','Burnhamthorpe Community Ctr',43.623993,-79.598578
 477,'0477','City Ctr Transit Terminal P.E',43.5938,-79.646225
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
@@ -411,6 +414,7 @@
 489,'0489','Speakman Dr South Of Sheridan Pk Dr',43.516018,-79.669568
 490,'0490','University Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
+492,'0492','Cawthra Rd @ Hassall Rd',43.606629,-79.616839
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
 495,'0495','Cawthra Seniors Bldg @ Arbor Crt',43.57837,-79.576061
@@ -775,6 +779,7 @@
 914,'0914','Mississauga Rd @ The Collegeway',43.544837,-79.662324
 919,'0919','Meadowvale Town Ctr Bus Terminal P.H',43.58353,-79.758391
 920,'0920','Tranmere Dr South Of Boylen Rd',43.685172,-79.666876
+921,'0921','Middlegate Rd @ 1000 Middlegate Rd',43.595356,-79.588785
 922,'0922','Tomken Rd South Of Derry Rd',43.664777,-79.683874
 923,'0923','Terry Fox Way @ Bristol Rd',43.595564,-79.685507
 924,'0924','Burnhamthorpe Rd @ Tamarack Gt',43.539649,-79.69655
@@ -883,7 +888,6 @@
 1032,'1032','South Millway @ Buttonbush Cres',43.5408,-79.678306
 1033,'1033','South Millway @ 5th Line West',43.539546,-79.674236
 1034,'1034','Erin Mills Pky South Of South Millway',43.539923,-79.671072
-1035,'1035','Dundas St @ Mississauga Rd',43.542315,-79.659953
 1036,'1036','Dundas St @ Redstart Dr',43.539304,-79.663523
 1037,'1037','Dundas St East Of Erin Mills Pky',43.537813,-79.665363
 1038,'1038','Erin Mills Pky @ Erindale Secondary School',43.538458,-79.668208
@@ -1041,7 +1045,7 @@
 1215,'1215','Mississauga Vly Blvd @ Central Pky E',43.590731,-79.625953
 1216,'1216','Mississauga Vly Blvd @ Fairview Rd',43.588868,-79.624521
 1217,'1217','Mississauga Vly Blvd @ Voltarie Cres',43.587427,-79.621519
-1218,'1218','Mississauga Vly Blvd @ Voltarie Cres',43.589059,-79.619487
+1218,'1218','Mississauga Vly Blvd @ Thornwood Ps',43.589059,-79.619487
 1219,'1219','Mississauga Vly Blvd @ Trisha Downs',43.589911,-79.617659
 1220,'1220','Mississauga Vly Blvd @ Clf Rd',43.590901,-79.613908
 1221,'1221','Mississauga Vly Blvd @ Lolita Gdns',43.592264,-79.612712
@@ -1081,7 +1085,7 @@
 1258,'1258','Mississauga Vly Blvd @ Lolita Gdns',43.592632,-79.612617
 1259,'1259','Mississauga Vly Blvd @ Clf Rd',43.591243,-79.6139
 1260,'1260','Mississauga Vly Blvd @ Trisha Downs',43.590636,-79.61436
-1261,'1261','Mississauga Vly Blvd @ Voltarie Cres',43.589161,-79.619658
+1261,'1261','Mississauga Vly Blvd @ Thornwood Ps',43.589161,-79.619658
 1262,'1262','Mississauga Vly Blvd @ Voltarie Cres',43.587776,-79.621313
 1263,'1263','Mississauga Vly Blvd @ Fairview Rd',43.588666,-79.624179
 1264,'1264','Mississauga Vly Blvd @ Central Pky E',43.590818,-79.625715
@@ -1223,7 +1227,6 @@
 1415,'1415','Rathburn Rd @ Mavis Rd',43.583262,-79.655119
 1416,'1416','Rathburn Rd @ Elora Dr',43.584343,-79.653571
 1417,'1417','Creditview Rd @ Carolyn Rd',43.585475,-79.695327
-1418,'1418','Derry Rd @ Meadowvale Blvd',43.614359,-79.744663
 1421,'1421','Burnhamthorpe Rd W @ Living Arts Dr',43.587101,-79.643204
 1422,'1422','Burnhamthorpe Rd W @ Confederation Pky',43.585627,-79.644872
 1423,'1423','Derry Rd West Of Meadowvale Blvd',43.613266,-79.746378
@@ -1872,7 +1875,6 @@
 2184,'2184','Tomken Rd @ Nuvik Crt',43.627885,-79.631502
 2185,'2185','Tomken Rd @ Brevik Pl',43.634819,-79.64363
 2186,'2186','Drew Rd @ Dixie Rd',43.682165,-79.680901
-2187,'2187','Drew Rd East Of Dixie Rd',43.682194,-79.680292
 2188,'2188','Drew Rd @ Tranmere Dr',43.682594,-79.679018
 2189,'2189','Tranmere Dr South Of Drew Rd',43.681601,-79.67569
 2190,'2190','Tranmere Dr @ Telford Way',43.68092,-79.670569
@@ -2009,7 +2011,6 @@
 2329,'2329','Winston Churchill Blvd @ Deer Run',43.487499,-79.633105
 2330,'2330','Millcreek Dr South Of Aquitaine Ave',43.59509,-79.752491
 2331,'2331','Coopers Ave @ Rose Cherry Pl',43.632412,-79.660209
-2332,'2332','Paisley Blvd @ Confederation Pky',43.573425,-79.614036
 2333,'2333','Southdown Rd @ Lakeshore Rd',43.499138,-79.614292
 2334,'2334','Winston Churchill Blvd @ Derry Rd',43.588228,-79.771536
 2335,'2335','Creditview Rd @ South Parade Crt',43.576197,-79.683167
@@ -2536,7 +2537,7 @@
 2927,'2927','Airport Rd @ Northwest Dr',43.699049,-79.636487
 2928,'2928','Airport Rd @ Silver Dart Dr',43.695013,-79.631056
 2930,'2930','Toronto Airport-Terminal 3',43.686408,-79.620653
-2931,'2931','Derry Rd @ Rexwood Rd',43.716411,-79.626994
+2931,'2931','Derry Rd @ Rexwood Rd',43.716485,-79.626899
 2932,'2932','Airport Rd @ American Dr',43.689184,-79.621808
 2933,'2933','Airport Rd South Of Derry Rd',43.702061,-79.639918
 2934,'2934','Airport Rd South Of 409 Hwy',43.686005,-79.609114
@@ -2710,7 +2711,6 @@
 3136,'3136','Derry Rd @ John Watt Blvd',43.63302,-79.726765
 3137,'3137','Kennedy Rd South Of Courtneypark Dr',43.646663,-79.68324
 3139,'3139','Dundas St @ Elmcreek Rd',43.56824,-79.630513
-3140,'3140','Mavis Rd South Of Derry Rd',43.632281,-79.721872
 3141,'3141','Royal Windsor Dr West Of Southdown Rd',43.508259,-79.633169
 3142,'3142','Royal Windsor Dr @ 2555 Royal Windsor Dr',43.500098,-79.641975
 3143,'3143','Royal Windsor Dr West Of Avonhead Rd',43.503503,-79.638274
@@ -2741,6 +2741,7 @@
 3183,'3183','Battleford Rd @ Gln Erin Dr',43.582922,-79.753758
 3184,'3184','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.583894,-79.755361
 3185,'3185','Gln Erin Dr @ Meadowvale Cc',43.585155,-79.757132
+3186,'3186','Matheson Blvd South Of Aimco Blvd',43.639335,-79.622139
 3191,'3191','Envoy Dr @ Tabbyman Walk',43.63507,-79.725693
 3192,'3192','Rathburn Rd @ Confederation Pky',43.590116,-79.651399
 3195,'3195','Eglinton Ave E @ Satellite Dr',43.651762,-79.603047
@@ -2866,6 +2867,7 @@
 3365,'3365','Finch Ave East Of Humberline Dr',43.734511,-79.614179
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
 3367,'3367','Creekbank Rd @ Tech Ave',43.642402,-79.61537
+3368,'3368','Hurontario St South Of Burnhamthorpe Rd',43.593142,-79.634632
 3372,'3372','King St @ Sheppard Ave',43.57977,-79.612951
 3373,'3373','King St @ Shepard Ave',43.580143,-79.612864
 3376,'3376','Camilla Rd @ Paisley Blvd',43.579421,-79.606114
@@ -2972,7 +2974,6 @@
 4001,'4001','Old Derry Rd @ Gooderham Est Blvd',43.629638,-79.724692
 4002,'4002','Winston Churchill Blvd @ Bentley Dr',43.563172,-79.737028
 4003,'4003','Hurontario St @ Burnhamthorpe Rd E',43.593553,-79.634548
-4005,'4005','Hurontario St @ Burnhamthorpe Rd W',43.593801,-79.63567
 4006,'4006','Hurontario St @ Kingsway Dr',43.647225,-79.707491
 4007,'4007','South Common Ctr Bus Terminal P.C',43.543128,-79.683419
 4008,'4008','South Common Ctr Bus Terminal P.I',43.543269,-79.683933
@@ -3278,7 +3279,6 @@
 6880,'6880','Financial Dr South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Sq Bus Terminal P.K',43.72189,-79.640859
 7200,'7200','Humber College North Campus P.8',43.729206,-79.604957
-7201,'7201','Humber College North Campus P.1',43.729268,-79.605653
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
@@ -3328,7 +3328,7 @@
 9065,'9065','Burnhamthorpe Rd @ Renforth Dr',43.643245,-79.57257
 9066,'9066','Burnhamthorpe Rd @ Mulgrove Dr',43.644112,-79.568591
 9067,'9067','Burnhamthorpe Rd @ The West Mall',43.644708,-79.566461
-9068,'9068','Burnhamthorpe Rd @ The East Mall',43.646174,-79.560283
+9068,'9068','Burnhamthorpe Rd @ The East Mall',43.646212,-79.559456
 9069,'9069','Burnhamthorpe Rd @ 400 Burnhamthorpe Rd',43.646985,-79.556483
 9071,'9071','Burnhamthorpe Rd @ Shaver Ave',43.648294,-79.550925
 9072,'9072','Burnhamthorpe Rd @ Martin Grv Rd',43.648623,-79.549144
