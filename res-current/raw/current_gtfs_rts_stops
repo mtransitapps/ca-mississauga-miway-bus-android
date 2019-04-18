@@ -321,6 +321,7 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
+388,'0388','Rathburn Rd @ Hammerson Dr',43.596095,-79.644979
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
 394,'0394','Osprey Blvd @ Snowflake Ln',43.567706,-79.759694
@@ -397,6 +398,8 @@
 470,'0470','South Service Rd @ Dixie Mall Access',43.593791,-79.571498
 471,'0471','Lakeshore Rd @ Forty-Third St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-First St',43.590336,-79.545021
+475,'0475','Eglinton Ave W @ East Mill Rd',43.580277,-79.682776
+476,'0476','Burnhamthorpe Community Ctr',43.623993,-79.598578
 477,'0477','City Ctr Transit Terminal P.E',43.5938,-79.646225
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
@@ -411,6 +414,7 @@
 489,'0489','Speakman Dr South Of Sheridan Pk Dr',43.516018,-79.669568
 490,'0490','University Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
+492,'0492','Cawthra Rd @ Hassall Rd',43.606629,-79.616839
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
 495,'0495','Cawthra Seniors Bldg @ Arbor Crt',43.57837,-79.576061
@@ -775,6 +779,7 @@
 914,'0914','Mississauga Rd @ The Collegeway',43.544837,-79.662324
 919,'0919','Meadowvale Town Ctr Bus Terminal P.H',43.58353,-79.758391
 920,'0920','Tranmere Dr South Of Boylen Rd',43.685172,-79.666876
+921,'0921','Middlegate Rd @ 1000 Middlegate Rd',43.595356,-79.588785
 922,'0922','Tomken Rd South Of Derry Rd',43.664777,-79.683874
 923,'0923','Terry Fox Way @ Bristol Rd',43.595564,-79.685507
 924,'0924','Burnhamthorpe Rd @ Tamarack Gt',43.539649,-79.69655
@@ -2741,6 +2746,7 @@
 3183,'3183','Battleford Rd @ Gln Erin Dr',43.582922,-79.753758
 3184,'3184','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.583894,-79.755361
 3185,'3185','Gln Erin Dr @ Meadowvale Cc',43.585155,-79.757132
+3186,'3186','Matheson Blvd South Of Aimco Blvd',43.639335,-79.622139
 3191,'3191','Envoy Dr @ Tabbyman Walk',43.63507,-79.725693
 3192,'3192','Rathburn Rd @ Confederation Pky',43.590116,-79.651399
 3195,'3195','Eglinton Ave E @ Satellite Dr',43.651762,-79.603047
@@ -2866,6 +2872,7 @@
 3365,'3365','Finch Ave East Of Humberline Dr',43.734511,-79.614179
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
 3367,'3367','Creekbank Rd @ Tech Ave',43.642402,-79.61537
+3368,'3368','Hurontario St South Of Burnhamthorpe Rd',43.593142,-79.634632
 3372,'3372','King St @ Sheppard Ave',43.57977,-79.612951
 3373,'3373','King St @ Shepard Ave',43.580143,-79.612864
 3376,'3376','Camilla Rd @ Paisley Blvd',43.579421,-79.606114
