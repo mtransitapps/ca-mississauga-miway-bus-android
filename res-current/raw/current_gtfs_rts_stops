@@ -1063,7 +1063,7 @@
 1257,'1257','Mississauga Vly Blvd @ Silvercreek Blvd',43.594144,-79.611083
 1258,'1258','Mississauga Vly Blvd @ Lolita Gdns',43.592632,-79.612617
 1259,'1259','Mississauga Vly Blvd @ Clf Rd',43.591243,-79.6139
-1260,'1260','Mississauga Vly Blvd @ Trisha Downs',43.590636,-79.61436
+1260,'1260','Mississauga Vly Blvd @ Trisha Downs',43.590042,-79.617276
 1261,'1261','Mississauga Vly Blvd @ Thornwood Ps',43.589161,-79.619658
 1262,'1262','Mississauga Vly Blvd @ Voltarie Cres',43.587776,-79.621313
 1263,'1263','Mississauga Vly Blvd @ Fairview Rd',43.588666,-79.624179
@@ -2131,7 +2131,7 @@
 2503,'2503','Dixie Rd @ Courtneypark Dr',43.663122,-79.65769
 2505,'2505','Financial Dr @ 6768 Financial Dr',43.609929,-79.74014
 2506,'2506','Gln Erin Dr @ Credit Vly Rd',43.552755,-79.708054
-2507,'2507','Derry Rd @ Dixie Rd',43.674467,-79.67545
+2507,'2507','Derry Rd West Of Dixie Rd',43.674467,-79.67545
 2508,'2508','Gln Erin Dr @ Eglinton Ave',43.553932,-79.711817
 2509,'2509','Cardiff Blvd @ Transmark Crt',43.674192,-79.681224
 2510,'2510','Cardiff Blvd @ Lorimar Dr',43.669532,-79.6879
@@ -2404,7 +2404,7 @@
 2832,'2832','Teeswater Rd @ Brandon Gt Dr',43.729217,-79.630178
 2833,'2833','Brandon Gt Dr @ Wildfern Dr',43.732582,-79.636054
 2834,'2834','Brandon Gt Dr @ Wildfern Dr',43.733639,-79.640818
-2835,'2835','Brandon Gt Dr @ Keenan Cres',43.730812,-79.643899
+2835,'2835','Brandon Gt Dr @ Keenan Cres',43.732589,-79.641958
 2836,'2836','Brandon Gt Dr @ Lockington Cres',43.729923,-79.644031
 2837,'2837','Brandon Gt Dr @ Monica Dr',43.728307,-79.645235
 2838,'2838','Brandon Gt Dr East Of Goreway Dr',43.726436,-79.646891
@@ -2666,7 +2666,7 @@
 3143,'3143','Royal Windsor Dr West Of Avonhead Rd',43.503503,-79.638274
 3144,'3144','Dixie Rd @ Dixie Sta',43.630786,-79.61428
 3145,'3145','Argentia Rd West Of Winston Churchill Blvd',43.594322,-79.787369
-3146,'3146','Argentia Rd @ Winston Churchill Blvd',43.597035,-79.784694
+3146,'3146','Argentia Rd West Of Winston Churchill Blvd',43.597035,-79.784694
 3147,'3147','Bristol Rd W East Of Creditview Rd',43.587288,-79.696353
 3148,'3148','Eglinton Ave @ Tahoe Blvd',43.644999,-79.610545
 3149,'3149','Eglinton Ave @ Tahoe Blvd',43.644403,-79.61072
@@ -2896,7 +2896,7 @@
 3702,'3702','Clarkson Go Sta P.6',43.512986,-79.633231
 3720,'3720','Winston Churchill Blvd @ Beryl Rd',43.494109,-79.642171
 3800,'3800','Argentia Rd West Of Winston Churchill Blvd',43.594304,-79.787381
-3801,'3801','Argentia Rd @ Winston Churchill Blvd',43.596986,-79.784701
+3801,'3801','Argentia Rd West Of Winston Churchill Blvd',43.596986,-79.784701
 3812,'3812','Argentia Rd East Of Tenth Line',43.594044,-79.787326
 3815,'3815','Airport Rd @ Jetliner Rd',43.68577,-79.607311
 3840,'3840','Argentia Rd West Of Derry Rd',43.601879,-79.762424
@@ -3212,7 +3212,7 @@
 6621,'6621','Mclaughlin Rd @ Rothschild Trl',43.63236,-79.711369
 6622,'6622','Mclaughlin Rd @ Navigator Dr',43.62842,-79.706025
 6623,'6623','Mclaughlin Rd @ Courtneypark Dr',43.626418,-79.703415
-6624,'6624','Sheridan College Brampton Campus P.B',43.656359,-79.740136
+6624,'6624','Sheridan College Brampton Campus',43.656359,-79.740136
 6627,'6627','Mclaughlin Rd @ 6150 Mclaughlin Rd',43.618964,-79.693214
 6670,'6670','Mclaughlin Rd @ Rossellini Dr',43.643182,-79.725633
 6810,'6810','Winterton Way @ Stapleford Ter',43.599668,-79.671343
@@ -3302,7 +3302,7 @@
 9096,'9096','Kipling Ave @ Goswell Rd',43.649071,-79.538395
 9097,'9097','Sherway Gt South Of Sherway Gdns Bter',43.609548,-79.556465
 9098,'9098','Islington Ave South Of Dundas St',43.649842,-79.525842
-9100,'9100','Finch Ave @ Humber College Blvd',43.73395,-79.610538
+9100,'9100','Finch Ave @ Humber College Blvd',43.734046,-79.610229
 9101,'9101','Finch Ave @ Humber College Blvd',43.734176,-79.609117
 9102,'9102','Finch Ave West Of Humber College Blvd',43.734517,-79.612002
 9103,'9103','Finch Ave @ Humberline Dr',43.735135,-79.616918
