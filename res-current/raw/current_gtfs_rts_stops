@@ -665,7 +665,6 @@
 788,'0788','Dundas St @ Jaguar Vly Dr',43.581667,-79.614987
 789,'0789','Britannia Rd @ Queen St N',43.588428,-79.722416
 790,'0790','Britannia Rd @ Farmstead Ln',43.566702,-79.746861
-791,'0791','Ceremonial Dr @ Micmac Cres',43.600885,-79.666038
 792,'0792','Hurontario St @ Floradale Dr',43.577227,-79.612333
 793,'0793','Gln Erin Dr North Of The Collegeway',43.537887,-79.68733
 794,'0794','Gln Erin Dr @ Council Ring Rd',43.540923,-79.689802
@@ -690,7 +689,6 @@
 820,'0820','Dixie Rd @ Dundas St',43.608687,-79.583326
 821,'0821','Dixie Rd @ Blundell Rd',43.607812,-79.582017
 822,'0822','Dixie Rd @ Ernest Samuel Dr',43.604276,-79.576862
-825,'0825','Ceremonial Dr @ Fairwind Dr',43.604502,-79.662724
 826,'0826','Dundas St East Of Haines Rd',43.598795,-79.595316
 827,'0827','Dundas St West Of Tomken Rd',43.598756,-79.595775
 828,'0828','Meadowvale Blvd @ Tottington Dr',43.614818,-79.749196
@@ -780,9 +778,6 @@
 935,'0935','Unity Dr @ Loyalist Dr',43.537922,-79.707009
 936,'0936','Viscount Rd South Of Airway Dr',43.692847,-79.622419
 937,'0937','The Collegeway @ Winston Churchill Blvd',43.531114,-79.692675
-938,'0938','Burnhamthorpe Rd @ Tamarack Gt',43.539618,-79.696192
-939,'0939','Burnhamthorpe Rd @ Folkway Dr',43.54177,-79.693769
-940,'0940','Burnhamthorpe Rd @ Gln Erin Dr',43.542673,-79.691646
 941,'0941','Columbus Rd @ 6830 Columbus Rd',43.666134,-79.67118
 942,'0942','Columbus Rd @ 6855 Columbus Rd',43.668061,-79.673519
 943,'0943','Derry Rd @ Tenth Line',43.584066,-79.776315
@@ -803,7 +798,6 @@
 960,'0960','Colonial Dr @ Jackpine Rd',43.528518,-79.706678
 961,'0961','Burnhamthorpe Rd @ Colonial Dr',43.527877,-79.709662
 962,'0962','Loyalist Dr @ Burnhamthorpe Rd',43.533119,-79.704253
-963,'0963','Burnhamthorpe Rd @ Winston Churchill Blvd',43.535937,-79.700257
 964,'0964','Burnhamthorpe Rd @ Erin Mills Pky',43.545878,-79.683753
 965,'0965','Laird Rd @ Coldstream Rd',43.519945,-79.690714
 966,'0966','Columbus Rd South Of Davand Dr',43.669795,-79.675552
@@ -811,7 +805,6 @@
 968,'0968','South Millway @ Sanderling Cres',43.547119,-79.678935
 969,'0969','South Millway @ The Collegeway',43.545436,-79.677462
 971,'0971','Burnhamthorpe Rd W @ Sawmill Vly Dr',43.551011,-79.676783
-972,'0972','Sladeview Cres West Of Ridgeway Dr',43.526395,-79.714754
 973,'0973','Ridgeway Dr North Of Dovetail Mews',43.521439,-79.700915
 974,'0974','Loyalist Dr @ Seebring Cres',43.534867,-79.705131
 975,'0975','Loyalist Dr @ Osbourne Rd',43.537625,-79.706236
@@ -1068,7 +1061,6 @@
 1262,'1262','Mississauga Vly Blvd @ Voltarie Cres',43.587776,-79.621313
 1263,'1263','Mississauga Vly Blvd @ Fairview Rd',43.588666,-79.624179
 1264,'1264','Mississauga Vly Blvd @ Central Pky E',43.590818,-79.625715
-1265,'1265','Central Pky E @ Hurontario St',43.589632,-79.628926
 1266,'1266','South Millway @ Burnhamthorpe Rd W',43.548114,-79.679347
 1267,'1267','Trelawny Cir @ Mockingbird Lanes',43.577717,-79.771143
 1268,'1268','Trelawny Cir @ Forest Pk Dr',43.576559,-79.772393
@@ -1797,8 +1789,6 @@
 2126,'2126','Erin Mills Pky @ Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Terminal P.E',43.58312,-79.758783
 2128,'2128','Credit Vly Hosp',43.558705,-79.703655
-2129,'2129','Dream Crest Rd @ Rick Hansen Secondary School',43.589773,-79.683044
-2130,'2130','Ceremonial Dr @ Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd @ West Credit Ave',43.608981,-79.758003
 2133,'2133','Kennedy Rd @ Watline Ave',43.629445,-79.659804
 2134,'2134','Derry Rd @ Argentia Rd',43.601753,-79.756628
