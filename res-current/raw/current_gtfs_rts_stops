@@ -732,7 +732,7 @@
 863,'0863','Dundas St @ Neilco Crt',43.611158,-79.581471
 864,'0864','Dundas St @ Mattawa Ave',43.614161,-79.578265
 865,'0865','Dundas St @ Coram Way',43.615929,-79.576315
-866,'0866','Dundas St @ Wharton Way',43.618578,-79.573551
+866,'0866','Dundas / Wharton',43.618578,-79.573551
 867,'0867','Dundas St @ Summerville Crt',43.621893,-79.570113
 868,'0868','Dundas St East Of Southcreek Rd',43.624542,-79.567361
 869,'0869','Dundas St @ 2200 Dundas St',43.626166,-79.5655
@@ -2568,7 +2568,7 @@
 2985,'2985','Northwest Dr @ American Dr',43.699318,-79.612479
 2986,'2986','Derry Rd East Of Goreway Dr',43.714393,-79.630615
 2987,'2987','Derry Rd West Of Rexwood Rd',43.715189,-79.6302
-2988,'2988','Derry Rd @ Rexwood Rd',43.716307,-79.626549
+2988,'2988','Derry / Rexwood',43.716307,-79.626549
 2989,'2989','Derry Rd @ Rexwood Rd',43.716234,-79.627966
 2990,'2990','Northwest Dr @ Airway Dr',43.700831,-79.616999
 2991,'2991','Northwest Dr West Of Airway Dr',43.701873,-79.619755
@@ -2774,7 +2774,7 @@
 3268,'3268','Ambler Dr @ Matheson Blvd',43.640205,-79.633324
 3272,'3272','Skymark Ave West Of Commerce Blvd',43.662856,-79.593957
 3274,'3274','Lakeshore Rd E @ West Ave',43.571118,-79.565057
-3276,'3276','Britannia Rd East Of Erin Mills Pky',43.580576,-79.730779
+3276,'3276','Britannia Rd @ Hogan Dr',43.580576,-79.730779
 3277,'3277','Britannia Rd @ Hogan Dr',43.580978,-79.73077
 3278,'3278','Derry Rd @ Goreway Dr',43.713239,-79.632375
 3279,'3279','Goreway Dr @ Derry Rd',43.713804,-79.632168
