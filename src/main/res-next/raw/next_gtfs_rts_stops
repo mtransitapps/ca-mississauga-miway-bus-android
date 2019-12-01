@@ -1205,7 +1205,7 @@
 1396,'1396','Northwest Dr @ American Dr',43.699184,-79.612545
 1397,'1397','American Dr @ Northam Dr',43.695156,-79.615268
 1398,'1398','River Grv Ave @ Astrella Cres',43.593871,-79.713133
-1399,'1399','Queensway @ Dixie Rd',43.604353,-79.573651
+1399,'1399','Queensway East Of Dixie Rd',43.604353,-79.573651
 1401,'1401','Fairview Rd @ Chimo Crt',43.58063,-79.63209
 1402,'1402','City Ctr Transit Terminal P.D',43.593938,-79.646469
 1403,'1403','City Ctr Transit Terminal P.G',43.593565,-79.646131
@@ -1621,6 +1621,7 @@
 1881,'1881','Britannia Rd East Of Greensboro Dr',43.572594,-79.739754
 1882,'1882','Streetsville Go Sta P.3',43.575495,-79.71059
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441
+1884,'1884','Rose Cherry Pl South Of Paramount Ctr',43.630015,-79.651611
 1886,'1886','Britannia Rd @ Sundance Pl',43.576636,-79.735657
 1887,'1887','Britannia Rd @ Gln Erin Dr',43.574823,-79.737751
 1888,'1888','Hurontario St @ Superior Blvd',43.641531,-79.699768
@@ -2871,6 +2872,7 @@
 3390,'3390','City Ctr Transit Terminal P.N',43.59455,-79.647013
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.599883,-79.715359
 3392,'3392','Creditview Rd @ Britannia Rd',43.597696,-79.712478
+3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
