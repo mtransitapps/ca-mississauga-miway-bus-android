@@ -78,7 +78,7 @@
 95,'0095','Hurontario St @ Annagem Blvd',43.635641,-79.691799
 96,'0096','Hurontario St @ Courtneypark Dr E',43.637827,-79.694764
 97,'0097','Hurontario St @ Courtneypark Dr W',43.637231,-79.694567
-98,'0098','Hurontario St @ Annagem Blvd',43.634862,-79.691395
+98,'0098','Hurontario St South Of Prologis Blvd',43.634862,-79.691395
 99,'0099','Meadowvale Blvd @ Tottington Dr',43.615138,-79.748817
 100,'0100','Clarkson Go Sta P.9',43.512574,-79.633008
 101,'0101','Clarkson Go Sta P.5',43.512821,-79.632839
@@ -456,7 +456,7 @@
 539,'0539','Meadowvale Blvd @ Financial Dr',43.614194,-79.751353
 540,'0540','Gln Erin Dr @ Peacock Dr',43.572803,-79.735874
 541,'0541','Gln Erin Dr @ Quails Run',43.570733,-79.733539
-543,'0543','Viscount Sta',43.689791,-79.615589
+543,'0543','Viscount Sta',43.689883,-79.615684
 544,'0544','Matheson Blvd @ Heatherleigh Ave',43.605583,-79.693409
 545,'0545','Erin Mills Pky South Of Dundas St W',43.536058,-79.665426
 546,'0546','Gln Erin Dr @ Thomas St',43.565708,-79.728617
@@ -1757,7 +1757,7 @@
 2030,'2030','Eglinton Ave @ Explorer Dr',43.65952,-79.594054
 2031,'2031','Eglinton Ave @ Kennedy Rd',43.616898,-79.641865
 2032,'2032','Eglinton Ave @ Commerce Blvd',43.662277,-79.59159
-2033,'2033','Eglinton Ave E @ Spectrum Way',43.649053,-79.606123
+2033,'2033','Eglinton Ave E @ Spectrum Way',43.648926,-79.606207
 2035,'2035','Eglinton Ave @ Matheson Blvd',43.638668,-79.617744
 2037,'2037','Eglinton Ave @ Maingate Dr',43.630787,-79.626503
 2038,'2038','Eglinton Ave East Of Satellite Dr',43.653717,-79.600554
@@ -2135,7 +2135,7 @@
 2472,'2472','Britannia Rd @ Greensboro Dr',43.570271,-79.742255
 2473,'2473','Tomken Rd @ Courtneypark Dr',43.654621,-79.669896
 2474,'2474','Tomken Rd @ Pacific Cir',43.656935,-79.673008
-2475,'2475','Tomken Rd @ Mid-Way Blvd',43.659932,-79.676737
+2475,'2475','Tomken Rd @ Mid-Way Blvd',43.659925,-79.676747
 2476,'2476','Tomken Rd @ Pacific Gt',43.66235,-79.68028
 2477,'2477','Tomken Rd @ Derry Rd',43.665338,-79.684134
 2478,'2478','Tomken Rd @ Gana Crt',43.666812,-79.686223
@@ -2605,7 +2605,7 @@
 3021,'3021','Meadowpine Blvd @ Winston Churchill Blvd',43.604287,-79.7905
 3022,'3022','Lorne Pk Rd @ Truscott Dr',43.532976,-79.624171
 3023,'3023','Creditview Rd South Of Willow Way',43.589157,-79.700747
-3024,'3024','Derry Rd West Of Terragar Blvd',43.578044,-79.783249
+3024,'3024','Derry Rd West Of Terragar Blvd',43.579248,-79.781668
 3025,'3025','Derry Rd East Of Lisgar Dr',43.578075,-79.782765
 3026,'3026','Dundas St @ Clayhill Rd',43.570368,-79.627778
 3027,'3027','Cantay Rd @ Standish Crt',43.62423,-79.684449
