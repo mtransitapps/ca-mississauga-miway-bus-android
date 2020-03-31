@@ -726,6 +726,7 @@
 858,'0858','Dundas St @ Tomken Rd',43.60034,-79.593508
 859,'0859','Dundas St @ Stanfield Rd',43.60305,-79.59057
 860,'0860','Dundas St @ Arena Rd',43.605022,-79.588393
+861,'0861','Dundas St @ Blundell Rd',43.606573,-79.586677
 862,'0862','Dundas St @ Dixie Rd',43.608788,-79.584228
 863,'0863','Dundas St @ Neilco Crt',43.611158,-79.581471
 864,'0864','Dundas St @ Mattawa Ave',43.614161,-79.578265
@@ -3066,10 +3067,19 @@
 4942,'4942','Churchill Mdws Blvd @ Tacc Dr',43.547579,-79.741254
 5007,'5007','Britannia Rd @ 2400 Britannia Rd',43.669151,-79.624331
 5009,'5009','Eglinton Ave East Of 427 Hwy',43.671874,-79.571532
+5011,'5011','Dixie Rd @ Drew Rd',43.681126,-79.68274
+5012,'5012','Dixie Rd @ Clark Blvd',43.710163,-79.722081
+5013,'5013','Dixie Rd @ Balmoral Dr',43.705935,-79.716445
+5014,'5014','Dixie Rd @ Steeles Ave',43.695592,-79.702209
 5015,'5015','Dixie Rd @ Derry Rd',43.675674,-79.675379
 5016,'5016','Britannia Rd @ Midfield Rd',43.67113,-79.628411
 5017,'5017','Britannia Rd @ Infield Tunnel Rd',43.673655,-79.631753
 5018,'5018','Britannia Rd North Of Infield Tunnel Rd',43.677222,-79.636361
+5019,'5019','Dixie Rd @ Steeles Ave',43.695848,-79.701941
+5020,'5020','Dixie Rd @ Balmoral Dr',43.706258,-79.716292
+5021,'5021','Dixie Rd @ Clark Blvd',43.710664,-79.722255
+5022,'5022','Bramalea Transit Terminal',43.719124,-79.720933
+5023,'5023','Dixie Rd @ Mid-Way Blvd',43.667983,-79.66431
 5100,'5100','Lorimar Dr @ Cardiff Blvd',43.669495,-79.686983
 5301,'5301','Rose Cherry Pl @ Paramount Ctr',43.632486,-79.652707
 5302,'5302','Courtneypark Dr @ Innovator Dr',43.644954,-79.686563
