@@ -643,11 +643,7 @@
 763,'0763','Cawthra Rd @ Tedwyn Dr',43.586411,-79.588395
 764,'0764','Cawthra Rd @ North Service Rd',43.58517,-79.586392
 766,'0766','City Ctr Transit Terminal P.K',43.59406,-79.646875
-767,'0767','Credit Vly Rd @ Bay Villa Ave',43.555437,-79.70396
-768,'0768','Credit Vly Rd @ Idlewilde Cres',43.554501,-79.70559
 769,'0769','Hurontario St @ John St',43.583756,-79.621115
-770,'0770','Credit Vly Rd @ Donegal Dr',43.5505,-79.708548
-771,'0771','Credit Vly Rd @ Kimbermount Ave',43.547579,-79.712943
 772,'0772','Winston Churchill Blvd @ Eglinton Ave',43.548674,-79.716646
 773,'0773','Winston Churchill Blvd @ Erin Ctr Blvd',43.552926,-79.722498
 774,'0774','Winston Churchill Blvd @ Thomas St',43.560835,-79.733288
@@ -692,7 +688,6 @@
 820,'0820','Dixie Rd @ Dundas St',43.608687,-79.583326
 821,'0821','Dixie Rd @ Blundell Rd',43.607812,-79.582017
 822,'0822','Dixie Rd @ Ernest Samuel Dr',43.604276,-79.576862
-824,'0824','Ceremonial Dr @ Micmac Cres',43.601091,-79.665959
 825,'0825','Ceremonial Dr @ Fairwind Dr',43.604502,-79.662724
 826,'0826','Dundas St East Of Haines Rd',43.598795,-79.595316
 827,'0827','Dundas St West Of Tomken Rd',43.598756,-79.595775
@@ -910,7 +905,6 @@
 1063,'1063','The Collegeway @ South Commom Ctr Access Rd',43.54341,-79.680588
 1065,'1065','Dixie Rd @ Mid-Way Blvd',43.668226,-79.665304
 1066,'1066','Mdws Blvd @ Prince George Ave',43.601699,-79.629767
-1067,'1067','Fairwind Dr @ Ceremonial Dr',43.604694,-79.662225
 1068,'1068','Eglinton Ave @ Tomken Rd',43.627588,-79.630034
 1069,'1069','The Collegeway West Of South Millway',43.544913,-79.678959
 1071,'1071','The Collegeway @ South Millway',43.545436,-79.677046
@@ -1029,14 +1023,10 @@
 1200,'1200','Wolfedale Rd North Of Westlock Rd',43.568909,-79.64433
 1204,'1204','Hurontario St @ Matthews Gt',43.59221,-79.632893
 1206,'1206','Hurontario St @ Elm Dr E',43.590775,-79.63113
-1207,'1207','Central Pky W @ Achill Cres',43.587762,-79.630641
 1208,'1208','Hurontario St @ Central Pky E',43.589198,-79.628738
-1209,'1209','Central Pky W @ Joan Dr',43.585988,-79.63291
 1210,'1210','Hurontario St @ Fairview Rd E',43.587477,-79.626435
-1211,'1211','Central Pky W @ Palgrave Rd',43.584985,-79.63411
 1212,'1212','Hurontario St @ Hanson Rd Walkway',43.58613,-79.624497
 1213,'1213','Burnhamthorpe Rd West Of Winston Churchill Blvd',43.535773,-79.700867
-1214,'1214','Central Pky E @ Hurontario St',43.589581,-79.628382
 1215,'1215','Mississauga Vly Blvd @ Central Pky E',43.590731,-79.625953
 1216,'1216','Mississauga Vly Blvd @ Fairview Rd',43.588868,-79.624521
 1217,'1217','Mississauga Vly Blvd @ Voltarie Cres',43.587427,-79.621519
@@ -1207,7 +1197,6 @@
 1398,'1398','River Grv Ave @ Astrella Cres',43.593871,-79.713133
 1399,'1399','Queensway East Of Dixie Rd',43.604353,-79.573651
 1401,'1401','Fairview Rd @ Chimo Crt',43.58063,-79.63209
-1402,'1402','City Ctr Transit Terminal P.D',43.593938,-79.646469
 1403,'1403','City Ctr Transit Terminal P.G',43.593565,-79.646131
 1404,'1404','Rathburn Rd West Of Elora Dr',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr',43.584849,-79.653721
@@ -1714,7 +1703,6 @@
 1987,'1987','Kennedy Rd @ Eglinton Ave',43.616475,-79.642642
 1988,'1988','Eglinton Ave @ Delaware Dr',43.613059,-79.646164
 1989,'1989','Britannia Rd E @ 190 Britannia Rd',43.630563,-79.67458
-1990,'1990','Ceremonial Dr @ Sunrise Crt',43.598101,-79.670121
 1991,'1991','Eglinton Ave E East Of Hurontario St',43.607348,-79.652017
 1992,'1992','Eglinton Ave E @ Huron Hts Dr',43.612556,-79.646275
 1993,'1993','Kennedy Rd @ Candlestick Cir',43.617348,-79.643354
@@ -2879,7 +2867,6 @@
 3423,'3423','Bloor St @ Islington Ave',43.644524,-79.523667
 3424,'3424','Erin Mills Sta West P.4',43.552557,-79.699905
 3425,'3425','Erin Mills Sta East P.6',43.552245,-79.699942
-3433,'3433','Credit Vly Rd @ Gln Erin Dr',43.553015,-79.707182
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.489901,-79.636403
@@ -3067,19 +3054,10 @@
 4942,'4942','Churchill Mdws Blvd @ Tacc Dr',43.547579,-79.741254
 5007,'5007','Britannia Rd @ 2400 Britannia Rd',43.669151,-79.624331
 5009,'5009','Eglinton Ave East Of 427 Hwy',43.671874,-79.571532
-5011,'5011','Dixie Rd @ Drew Rd',43.681126,-79.68274
-5012,'5012','Dixie Rd @ Clark Blvd',43.710163,-79.722081
-5013,'5013','Dixie Rd @ Balmoral Dr',43.705935,-79.716445
-5014,'5014','Dixie Rd @ Steeles Ave',43.695592,-79.702209
 5015,'5015','Dixie Rd @ Derry Rd',43.675674,-79.675379
 5016,'5016','Britannia Rd @ Midfield Rd',43.67113,-79.628411
 5017,'5017','Britannia Rd @ Infield Tunnel Rd',43.673655,-79.631753
 5018,'5018','Britannia Rd North Of Infield Tunnel Rd',43.677222,-79.636361
-5019,'5019','Dixie Rd @ Steeles Ave',43.695848,-79.701941
-5020,'5020','Dixie Rd @ Balmoral Dr',43.706258,-79.716292
-5021,'5021','Dixie Rd @ Clark Blvd',43.710664,-79.722255
-5022,'5022','Bramalea Transit Terminal',43.719124,-79.720933
-5023,'5023','Dixie Rd @ Mid-Way Blvd',43.667983,-79.66431
 5100,'5100','Lorimar Dr @ Cardiff Blvd',43.669495,-79.686983
 5301,'5301','Rose Cherry Pl @ Paramount Ctr',43.632486,-79.652707
 5302,'5302','Courtneypark Dr @ Innovator Dr',43.644954,-79.686563
