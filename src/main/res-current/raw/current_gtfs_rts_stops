@@ -689,6 +689,7 @@
 820,'0820','Dixie Rd @ Dundas St',43.608687,-79.583326
 821,'0821','Dixie Rd @ Blundell Rd',43.607812,-79.582017
 822,'0822','Dixie Rd @ Ernest Samuel Dr',43.604276,-79.576862
+824,'0824','Ceremonial Dr @ Micmac Cres',43.601091,-79.665959
 825,'0825','Ceremonial Dr @ Fairwind Dr',43.604502,-79.662724
 826,'0826','Dundas St East Of Haines Rd',43.598795,-79.595316
 827,'0827','Dundas St West Of Tomken Rd',43.598756,-79.595775
@@ -906,6 +907,7 @@
 1063,'1063','The Collegeway @ South Commom Ctr Access Rd',43.54341,-79.680588
 1065,'1065','Dixie Rd @ Mid-Way Blvd',43.668226,-79.665304
 1066,'1066','Mdws Blvd @ Prince George Ave',43.601699,-79.629767
+1067,'1067','Fairwind Dr @ Ceremonial Dr',43.604694,-79.662225
 1068,'1068','Eglinton Ave @ Tomken Rd',43.627588,-79.630034
 1069,'1069','The Collegeway West Of South Millway',43.544913,-79.678959
 1071,'1071','The Collegeway @ South Millway',43.545436,-79.677046
@@ -1024,10 +1026,14 @@
 1200,'1200','Wolfedale Rd North Of Westlock Rd',43.568909,-79.64433
 1204,'1204','Hurontario St @ Matthews Gt',43.59221,-79.632893
 1206,'1206','Hurontario St @ Elm Dr E',43.590775,-79.63113
+1207,'1207','Central Pky W @ Achill Cres',43.587762,-79.630641
 1208,'1208','Hurontario St @ Central Pky E',43.589198,-79.628738
+1209,'1209','Central Pky W @ Joan Dr',43.585988,-79.63291
 1210,'1210','Hurontario St @ Fairview Rd E',43.587477,-79.626435
+1211,'1211','Central Pky W @ Palgrave Rd',43.584985,-79.63411
 1212,'1212','Hurontario St @ Hanson Rd Walkway',43.58613,-79.624497
 1213,'1213','Burnhamthorpe Rd West Of Winston Churchill Blvd',43.535773,-79.700867
+1214,'1214','Central Pky E @ Hurontario St',43.589581,-79.628382
 1215,'1215','Mississauga Vly Blvd @ Central Pky E',43.590731,-79.625953
 1216,'1216','Mississauga Vly Blvd @ Fairview Rd',43.588868,-79.624521
 1217,'1217','Mississauga Vly Blvd @ Voltarie Cres',43.587427,-79.621519
@@ -1170,12 +1176,8 @@
 1365,'1365','Mississauga Vly Blvd @ Daralea Hts',43.600668,-79.62196
 1367,'1367','Mississauga Vly Blvd @ Hyacinthe Blvd',43.601226,-79.61595
 1368,'1368','Mississauga Vly Blvd @ Bloor St',43.599238,-79.613122
-1370,'1370','Fairview Rd @ Joan Dr',43.583951,-79.630479
-1371,'1371','Fairview Rd @ Hanson Rd',43.586317,-79.628023
-1372,'1372','Fairview Rd @ Hurontario St',43.587294,-79.626886
 1373,'1373','Confederation Pky @ Central Pky W',43.582953,-79.635865
 1374,'1374','Meadowvale Town Ctr Bus Terminal P.I',43.583658,-79.758549
-1375,'1375','Fairview Rd @ Burdock Pl',43.588497,-79.625087
 1376,'1376','Garthwood Rd @ Loyalist Dr',43.528282,-79.693033
 1377,'1377','Dundas St West Of Dixie Rd',43.608724,-79.584837
 1378,'1378','Dundas St @ Queen Frederica Dr',43.606592,-79.587204
@@ -1212,6 +1214,7 @@
 1415,'1415','Rathburn Rd @ Mavis Rd',43.583262,-79.655119
 1416,'1416','Rathburn Rd @ Elora Dr',43.584343,-79.653571
 1417,'1417','Creditview Rd @ Carolyn Rd',43.585475,-79.695327
+1419,'1419','City Ctr Transit Terminal P.F',43.593625,-79.645919
 1421,'1421','Burnhamthorpe Rd W @ Living Arts Dr',43.587101,-79.643204
 1422,'1422','Burnhamthorpe Rd W @ Confederation Pky',43.585627,-79.644872
 1423,'1423','Derry Rd West Of Meadowvale Blvd',43.613266,-79.746378
@@ -1539,7 +1542,6 @@
 1813,'1813','Lakeshore Rd E @ Montbeck Cres',43.570582,-79.56531
 1815,'1815','Derry Rd @ Vanguard Dr',43.691513,-79.656325
 1816,'1816','Britannia Rd W East Of Avebury Rd',43.623834,-79.682152
-1817,'1817','Avebury Rd @ Matheson Blvd W',43.616212,-79.67554
 1818,'1818','Matheson Blvd @ Cancross Crt',43.61587,-79.675485
 1819,'1819','Matheson Blvd East Of Cancross Ct',43.617602,-79.672646
 1820,'1820','Matheson Blvd @ Hurontario St',43.619107,-79.670519
@@ -1572,12 +1574,7 @@
 1851,'1851','Milverton Dr @ Hurontario St',43.620778,-79.672633
 1852,'1852','Edwards Blvd @ Statesman Dr',43.651053,-79.708271
 1854,'1854','Bristol Rd W @ Kinglet Ave',43.592848,-79.688118
-1855,'1855','Brunel Rd West Of Kennedy Rd',43.631624,-79.666003
-1856,'1856','Brunel Rd @ Wallace St',43.63028,-79.66959
 1857,'1857','Bristol Rd W @ Mclaughlin Rd',43.602333,-79.67204
-1858,'1858','Mcadam Rd South Of Watline Ave',43.624437,-79.665827
-1859,'1859','Mcadam Rd South Of Matheson Blvd E',43.625833,-79.66126
-1860,'1860','Mcadam Rd @ Matheson Blvd E',43.624634,-79.658027
 1861,'1861','Central Pky @ Copernicus Dr',43.581508,-79.638499
 1862,'1862','Central Pky West Of Copernicus Dr',43.579797,-79.639999
 1863,'1863','Redmond Rd @ Naomi Cres',43.577598,-79.63907
@@ -1586,7 +1583,6 @@
 1866,'1866','Fairview Rd @ Ukraine Rd',43.578833,-79.631611
 1867,'1867','Fairview Rd @ Dragon Dr',43.58043,-79.631946
 1868,'1868','Confederation Pky @ Fairview Rd',43.581271,-79.630763
-1869,'1869','Brunel Rd West Of Wallace St',43.629324,-79.671768
 1870,'1870','Fairview Rd @ Lech Walesa Dr',43.579719,-79.631925
 1871,'1871','Fairview Rd @ Latvia Crt',43.578083,-79.632198
 1872,'1872','Fairview Rd @ Luzon Cres',43.577432,-79.633438
@@ -1597,7 +1593,6 @@
 1877,'1877','Mclaughlin Rd South Of Bristol Rd',43.601019,-79.669021
 1878,'1878','Central Pky @ Central Pky Sta',43.606826,-79.635487
 1879,'1879','Mclaughlin Rd @ Eglinton Ave',43.59723,-79.663778
-1880,'1880','Brunel Rd @ 151 Brunel Rd',43.627876,-79.673523
 1881,'1881','Britannia Rd East Of Greensboro Dr',43.572594,-79.739754
 1882,'1882','Streetsville Go Sta P.3',43.575495,-79.71059
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441
@@ -1637,7 +1632,6 @@
 1920,'1920','Matheson Blvd East Of Hurontario St',43.620126,-79.669071
 1923,'1923','Whittle Rd @ Watline Ave',43.622974,-79.670062
 1925,'1925','Matheson Blvd East Of Hurontario St',43.620327,-79.669302
-1926,'1926','Brunel Rd @ Whittle Rd',43.626864,-79.674785
 1927,'1927','Britannia Rd East Of Hurontario St',43.627247,-79.678309
 1928,'1928','Whittle Rd @ Brunel Rd',43.626752,-79.675147
 1929,'1929','Whittle Rd @ Brunel Rd',43.626566,-79.674655
@@ -1699,6 +1693,7 @@
 1987,'1987','Kennedy Rd @ Eglinton Ave',43.616475,-79.642642
 1988,'1988','Eglinton Ave @ Delaware Dr',43.613059,-79.646164
 1989,'1989','Britannia Rd E @ 190 Britannia Rd',43.630563,-79.67458
+1990,'1990','Ceremonial Dr @ Sunrise Crt',43.598101,-79.670121
 1991,'1991','Eglinton Ave E East Of Hurontario St',43.607348,-79.652017
 1992,'1992','Eglinton Ave E @ Huron Hts Dr',43.612556,-79.646275
 1993,'1993','Kennedy Rd @ Candlestick Cir',43.617348,-79.643354
@@ -2828,6 +2823,8 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.599883,-79.715359
 3392,'3392','Creditview Rd @ Britannia Rd',43.597696,-79.712478
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
+3395,'3395','Sq One Dr @ Lower City Ctr Terminal',43.593569,-79.645231
+3396,'3396','Sq One Dr @ Lower City Ctr Terminal',43.593185,-79.645901
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
@@ -3000,10 +2997,6 @@
 4551,'4551','Winston Churchill Sta West P.3',43.542197,-79.712608
 4552,'4552','Winston Churchill Sta West P.4',43.542408,-79.712419
 4553,'4553','Winston Churchill Sta East P.6',43.54202,-79.712183
-4700,'4700','Sandstone Dr West Of Hurontario St',43.623863,-79.679164
-4701,'4701','Sandstone Dr @ Avebury Rd',43.622833,-79.680439
-4702,'4702','Avebury Rd @ Britannia Rd W',43.623388,-79.682497
-4703,'4703','Brunel Rd West Of Whittle Rd',43.625482,-79.676712
 4902,'4902','9th Line @ Lacman Trl',43.550998,-79.754749
 4903,'4903','Mcdowell Dr @ Swordsman Dr',43.552998,-79.755972
 4906,'4906','Mcdowell Dr @ Tenth Line',43.561612,-79.745827
