@@ -5,7 +5,6 @@
 10,'0010','Explorer Dr @ 5875 Explorer Dr',43.65427,-79.616047
 11,'0011','Mclaughlin Rd @ Ceremonial Dr',43.599843,-79.666978
 12,'0012','Creekbank Rd North Of Tech Ave',43.643523,-79.615674
-13,'0013','Rodeo Dr North Of Regal Dr',43.613689,-79.68999
 14,'0014','Matheson Blvd @ Solar Dr',43.652876,-79.609556
 20,'0020','Matheson Blvd @ Shuttle Dr',43.660649,-79.600931
 21,'0021','Matheson Blvd West Of Orbitor Dr',43.657301,-79.604704
@@ -1541,7 +1540,6 @@
 1812,'1812','Keaton Cres @ Matheson Blvd',43.614391,-79.682334
 1813,'1813','Lakeshore Rd E @ Montbeck Cres',43.570582,-79.56531
 1815,'1815','Derry Rd @ Vanguard Dr',43.691513,-79.656325
-1816,'1816','Britannia Rd W East Of Avebury Rd',43.623834,-79.682152
 1818,'1818','Matheson Blvd @ Cancross Crt',43.61587,-79.675485
 1819,'1819','Matheson Blvd East Of Cancross Ct',43.617602,-79.672646
 1820,'1820','Matheson Blvd @ Hurontario St',43.619107,-79.670519
@@ -2201,6 +2199,7 @@
 2591,'2591','Cardiff Blvd East Of Tomken Rd',43.671585,-79.685561
 2592,'2592','Kitimat Rd @ Mississauga Rd',43.597228,-79.733841
 2593,'2593','Robert Speck Pky North Of Burnhamthorpe Rd',43.597577,-79.631483
+2594,'2594','Creditview Rd South Of Derry Rd',43.613432,-79.743803
 2595,'2595','Netherhart Rd South Of Courtneypark Dr',43.67147,-79.647841
 2596,'2596','Courtneypark Dr @ 1801 Courtneypark Dr',43.669211,-79.651812
 2597,'2597','Courtneypark Dr @ 1750 Courtneypark Dr',43.668101,-79.653114
