@@ -1098,7 +1098,6 @@
 1307,'1307','Burnhamthorpe Rd @ Stoneham Rd',43.640623,-79.582489
 1308,'1308','Tomken Rd North Of Runningbrook Dr',43.613332,-79.611137
 1309,'1309','Burnhamthorpe Rd @ Mill Rd',43.639518,-79.584201
-1310,'1310','Tomken Rd South Of Burnhamthorpe Rd',43.61289,-79.611085
 1311,'1311','Tomken Rd @ Dundas St',43.600715,-79.593982
 1313,'1313','Tomken Rd @ Rymal Rd',43.602159,-79.595733
 1314,'1314','Tomken Rd @ Homeric Dr',43.604075,-79.598489
@@ -1634,7 +1633,6 @@
 1962,'1962','Eglinton Ave @ Mclaughlin Rd',43.597488,-79.663487
 1963,'1963','Eglinton Ave @ Fallingbrook Dr',43.583713,-79.679064
 1964,'1964','Eglinton Ave @ Creditview Rd',43.578495,-79.684937
-1965,'1965','Confederation Pky @ Eglinton Ave',43.596783,-79.663292
 1966,'1966','Eglinton Ave East Of Willow Crk Dr',43.585129,-79.676989
 1967,'1967','Eglinton Ave @ Confederation Pky',43.596986,-79.663659
 1968,'1968','Hurontario St South Of Britannia Rd',43.625232,-79.67844
@@ -2762,8 +2760,6 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.599883,-79.715359
 3392,'3392','Creditview Rd @ Britannia Rd',43.597696,-79.712478
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
-3395,'3395','Sq One Dr @ Lower City Ctr Terminal',43.593569,-79.645231
-3396,'3396','Sq One Dr @ Lower City Ctr Terminal',43.593185,-79.645901
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
@@ -3194,7 +3190,6 @@
 9073,'9073','Burnhamthorpe Rd @ Ashbourne Dr',43.649272,-79.546351
 9074,'9074','Burnhamthorpe Rd @ Botfield Ave',43.650375,-79.541761
 9075,'9075','Burnhamthorpe Rd @ Kipling Ave',43.650843,-79.539629
-9076,'9076','Burnhamthorpe Rd @ Royalavon Cres',43.650621,-79.536386
 9077,'9077','Burnhamthorpe Rd @ Avonhurst Rd',43.650353,-79.534458
 9078,'9078','Burnhamthorpe Rd @ Burnhamthorpe Cres',43.649406,-79.531517
 9079,'9079','Cordova Ave @ Dundas St W',43.648483,-79.528365
