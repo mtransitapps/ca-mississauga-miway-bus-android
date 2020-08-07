@@ -273,7 +273,6 @@
 340,'0340','Eglinton Ave W @ Forum Dr',43.611575,-79.647846
 341,'0341','Ann St @ Pk St',43.556109,-79.584534
 342,'0342','Port Credit Go Sta P.6',43.555506,-79.587408
-344,'0344','Port Credit Go Sta P.5',43.555675,-79.587255
 345,'0345','Elizabeth St @ Pk St',43.55439,-79.586716
 346,'0346','Winston Churchill Blvd @ Aquitaine Ave',43.582304,-79.763234
 348,'0348','Port Credit Go Sta P.8',43.55531,-79.587623
@@ -446,7 +445,6 @@
 530,'0530','Speakman Dr @ Flavelle Blvd',43.519344,-79.659831
 532,'0532','Gln Erin Dr @ Britannia Rd',43.574658,-79.738336
 533,'0533','Meadowvale Blvd East Of West Credit Ave',43.61087,-79.75701
-534,'0534','Dundas St W West Of Erin Mills Pky',43.535977,-79.666988
 535,'0535','Dundas St W East Of Erin Mills Pky',43.538021,-79.664653
 536,'0536','Dundas St W @ Sir Johns Homestead',43.539789,-79.662646
 537,'0537','Dundas St W @ Mississauga Rd',43.541797,-79.660311
@@ -2454,7 +2452,6 @@
 2932,'2932','Airport Rd @ American Dr',43.689184,-79.621808
 2933,'2933','Airport Rd South Of Derry Rd',43.702061,-79.639918
 2934,'2934','Airport Rd South Of 409 Hwy',43.686005,-79.609114
-2938,'2938','Hull St @ Derry Rd',43.704416,-79.642454
 2939,'2939','Derry Rd @ Malton Go Sta',43.706485,-79.639421
 2940,'2940','Northwest Dr East Of Airport Rd',43.69958,-79.634961
 2941,'2941','Northwest Dr @ Caravelle Dr',43.700501,-79.633686
@@ -2505,7 +2502,6 @@
 2993,'2993','Derry Rd @ Malton Go Sta',43.706881,-79.639462
 2994,'2994','Northwest Dr @ Caravelle Dr',43.703011,-79.626803
 2995,'2995','Dixon Rd West Of Carlingview Dr',43.687016,-79.598941
-2996,'2996','Hull St @ Airport Rd',43.704429,-79.643025
 2997,'2997','Northwest Dr @ 6757 Northwest Dr',43.702,-79.63184
 2998,'2998','Northwest Dr @ Caravelle Dr',43.700734,-79.633594
 2999,'2999','Northwest Dr @ Airport Rd',43.69914,-79.635864
