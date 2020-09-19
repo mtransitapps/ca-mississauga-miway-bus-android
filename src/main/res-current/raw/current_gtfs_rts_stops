@@ -63,7 +63,7 @@
 78,'0078','Elm Dr @ Mississauga Vly Blvd',43.59221,-79.628434
 79,'0079','Matheson Blvd @ Explorer Dr',43.652238,-79.614792
 80,'0080','Matheson Blvd @ Timberlea Blvd',43.631816,-79.644764
-81,'0081','Lisgar Dr @ Berryman Tr',43.569872,-79.77685
+81,'0081','Lisgar Dr @ Berryman Tr',43.571236,-79.778181
 82,'0082','Lisgar Dr @ Dillingwood Dr',43.576114,-79.782904
 83,'0083','Lisgar Dr @ Yarrow Ave',43.573763,-79.780313
 85,'0085','City Ctr Transit Terminal P.L',43.594021,-79.647341
@@ -725,7 +725,7 @@
 863,'0863','Dundas St @ Neilco Crt',43.611158,-79.581471
 864,'0864','Dundas St @ Mattawa Ave',43.614161,-79.578265
 865,'0865','Dundas St @ Coram Way',43.615929,-79.576315
-866,'0866','Dundas / Wharton',43.618578,-79.573551
+866,'0866','Dundas St @ Wharton Way',43.618578,-79.573551
 867,'0867','Dundas St @ Summerville Crt',43.621893,-79.570113
 868,'0868','Dundas St East Of Southcreek Rd',43.624542,-79.567361
 869,'0869','Dundas St @ 2200 Dundas St',43.626166,-79.5655
@@ -902,7 +902,7 @@
 1061,'1061','Mdws Blvd @ Prince George Ave',43.601464,-79.629735
 1062,'1062','South Common Ctr Bus Terminal P.H',43.543479,-79.684238
 1063,'1063','The Collegeway @ South Commom Ctr Access Rd',43.54341,-79.680588
-1065,'1065','Dixie Rd @ Mid-Way Blvd',43.668226,-79.665304
+1065,'1065','Dixie Rd @ Mid-Way Blvd',43.668338,-79.665506
 1066,'1066','Mdws Blvd @ Prince George Ave',43.601699,-79.629767
 1067,'1067','Fairwind Dr @ Ceremonial Dr',43.604694,-79.662225
 1068,'1068','Eglinton Ave @ Tomken Rd',43.627588,-79.630034
@@ -1607,7 +1607,7 @@
 1892,'1892','Columbus Rd @ 6760 Columbus Rd',43.66622,-79.6716
 1893,'1893','Columbus Rd North Of Mid-Way Blvd',43.664902,-79.669806
 1894,'1894','Mid-Way Blvd @ Davand Dr',43.6667,-79.666454
-1895,'1895','Mid-Way Blvd @ Dixie Rd',43.667926,-79.665063
+1895,'1895','Mid-Way Blvd @ Dixie Rd',43.667612,-79.665031
 1896,'1896','Eglinton Ave W East Of Creditview Rd',43.578373,-79.684507
 1897,'1897','Eglinton Ave @ East Mill Rd',43.58101,-79.682083
 1898,'1898','Hurontario St @ Aldridge St',43.62301,-79.675465
@@ -1843,7 +1843,7 @@
 2182,'2182','Hurontario/407 Pk And Ride P.A',43.652271,-79.710627
 2184,'2184','Tomken Rd @ Nuvik Crt',43.627885,-79.631502
 2185,'2185','Tomken Rd @ Brevik Pl',43.634819,-79.64363
-2186,'2186','Drew Rd @ Dixie Rd',43.682165,-79.680901
+2186,'2186','Drew Rd @ Dixie Rd',43.682413,-79.68028
 2188,'2188','Drew Rd @ Tranmere Dr',43.682594,-79.679018
 2189,'2189','Tranmere Dr South Of Drew Rd',43.681601,-79.67569
 2190,'2190','Tranmere Dr @ Telford Way',43.68092,-79.670569
@@ -1885,7 +1885,7 @@
 2228,'2228','Meadowvale Town Ctr Bus Terminal P.C',43.583429,-79.759
 2229,'2229','Creditview Rd @ Willow Way',43.590556,-79.702674
 2230,'2230','Viscount Rd @ American Dr',43.69147,-79.619028
-2231,'2231','Dixie Rd @ Khalsa Dr',43.676841,-79.676953
+2231,'2231','Dixie Rd @ Khalsa Dr',43.676096,-79.675832
 2232,'2232','Montevideo Rd @ Arles Mews',43.578882,-79.754015
 2233,'2233','Montevideo Rd @ Neuchatel Rd',43.57674,-79.751644
 2234,'2234','Montevideo Rd @ Lorca Cres',43.578313,-79.749803
@@ -1987,7 +1987,7 @@
 2338,'2338','Erin Mills Pky @ Millcreek Dr',43.590403,-79.740849
 2339,'2339','Lakeshore Rd 2391 Lakeshore Rd',43.490643,-79.620074
 2340,'2340','Derry Rd @ Danton Promenade',43.585839,-79.773703
-2341,'2341','Dixie Rd South Of Drew Rd',43.679097,-79.679985
+2341,'2341','Dixie Rd South Of Drew Rd',43.677888,-79.678423
 2342,'2342','Aquitaine Ave @ Formentera Ave',43.583982,-79.761862
 2343,'2343','Matheson Blvd @ 2365 Matheson Blvd',43.656569,-79.605986
 2344,'2344','Matheson Blvd @ Satellite Dr',43.655451,-79.607302
@@ -2134,7 +2134,7 @@
 2498,'2498','Derry Rd @ Kennedy Rd',43.655367,-79.695563
 2499,'2499','Derry Rd @ Kennedy Rd',43.656307,-79.695084
 2500,'2500','Courtneypark Dr West Of Netherhart Rd',43.671157,-79.649597
-2502,'2502','Dixie Rd @ Meyerside Dr',43.66024,-79.653798
+2502,'2502','Dixie Rd @ Meyerside Dr',43.660228,-79.653816
 2503,'2503','Dixie Rd @ Courtneypark Dr',43.663122,-79.65769
 2505,'2505','Financial Dr @ 6768 Financial Dr',43.609929,-79.74014
 2506,'2506','Gln Erin Dr @ Credit Vly Rd',43.552755,-79.708054
@@ -2219,20 +2219,20 @@
 2612,'2612','Hurontario St @ Sir Lou Dr',43.661742,-79.727659
 2613,'2613','Hurontario St @ Ray Lawson Blvd',43.658599,-79.723589
 2614,'2614','Hurontario St @ North County Court Blvd',43.661609,-79.726955
-2615,'2615','Dixie Rd North Of Derry Rd',43.679043,-79.679344
+2615,'2615','Dixie Rd North Of Derry Rd',43.679014,-79.67906
 2616,'2616','Brampton Gateway Terminal',43.666171,-79.733575
 2617,'2617','Winston Churchill Blvd @ Derry Rd',43.588085,-79.770813
 2618,'2618','Explorer Dr @ Shuttle Dr',43.662889,-79.604414
 2619,'2619','Explorer Dr @ Shuttle Dr',43.663323,-79.603821
 2621,'2621','Eglinton Ave @ Dixie Rd',43.636153,-79.620495
 2622,'2622','Queensway @ Trillium Hosp',43.572066,-79.609825
-2623,'2623','Dixie Rd @ Derry Rd',43.675948,-79.675046
+2623,'2623','Dixie Rd @ Derry Rd',43.675922,-79.674997
 2631,'2631','Matheson Blvd West Of Creekbank Rd',43.647183,-79.624232
-2632,'2632','Dixie Rd @ Drew Rd',43.681088,-79.681954
+2632,'2632','Dixie Rd @ Drew Rd',43.681112,-79.682004
 2634,'2634','Drew Rd East Of Bramalea Rd',43.690561,-79.668854
 2635,'2635','Drew Rd @ Bramalea Rd',43.689942,-79.669823
 2636,'2636','Gln Erin Dr @ Britannia Rd',43.574395,-79.737351
-2637,'2637','Dixie Rd @ Britannia Rd',43.654586,-79.646211
+2637,'2637','Dixie Rd @ Britannia Rd',43.654841,-79.646406
 2638,'2638','Dixie Rd @ Shawson Dr',43.652088,-79.642845
 2639,'2639','Commerce Blvd @ Skymark Ave',43.66427,-79.593435
 2640,'2640','Gln Erin Dr South Of Britannia Rd',43.573703,-79.736623
@@ -2241,7 +2241,7 @@
 2643,'2643','Tomken Rd @ Tristar Dr',43.652718,-79.667347
 2644,'2644','Battleford Rd @ Montevideo Rd',43.58512,-79.747309
 2645,'2645','Battleford Rd @ Montevideo Rd',43.585025,-79.746791
-2647,'2647','Courtneypark Dr @ Dixie Rd',43.662952,-79.658525
+2647,'2647','Courtneypark Dr @ Dixie Rd',43.662897,-79.65861
 2648,'2648','Battleford Rd @ Erin Mills Pky',43.585631,-79.743
 2649,'2649','Lakeshore Rd @ Southdown Rd',43.511505,-79.629781
 2650,'2650','Thamesgate Dr @ Bath Rd',43.712978,-79.659396
@@ -2249,7 +2249,7 @@
 2652,'2652','Bath Rd @ Slough St',43.710919,-79.656525
 2653,'2653','Slough St West Of Bath Rd',43.709512,-79.657859
 2654,'2654','Slough St @ Rena Rd',43.71017,-79.66096
-2655,'2655','Dixie Rd @ Trinity Dr',43.657963,-79.650823
+2655,'2655','Dixie Rd @ Trinity Dr',43.658031,-79.650887
 2656,'2656','Rena Rd @ Slough St',43.709993,-79.662814
 2657,'2657','Rena Rd @ Bren Rd',43.707993,-79.665005
 2658,'2658','Rena Rd @ Torbram Rd',43.706207,-79.667018
@@ -2465,7 +2465,7 @@
 2890,'2890','Brandon Gt Dr @ Monica Dr',43.727552,-79.646096
 2891,'2891','Airport Rd South Of Northwest Dr',43.696461,-79.632388
 2892,'2892','Bloor St @ The West Mall',43.635402,-79.562442
-2894,'2894','Courtneypark Dr East Of Dixie Rd',43.664325,-79.657391
+2894,'2894','Courtneypark Dr East Of Dixie Rd',43.664197,-79.657504
 2895,'2895','Creditview Rd @ Duval Dr',43.593835,-79.706766
 2897,'2897','Goreway Dr @ Jolliffe Ave',43.719095,-79.639074
 2898,'2898','Northam Dr @ Airway Dr',43.697627,-79.620051
@@ -3026,7 +3026,7 @@
 4942,'4942','Churchill Mdws Blvd @ Tacc Dr',43.547579,-79.741254
 5007,'5007','Britannia Rd @ 2400 Britannia Rd',43.669151,-79.624331
 5009,'5009','Eglinton Ave East Of 427 Hwy',43.671874,-79.571532
-5015,'5015','Dixie Rd @ Derry Rd',43.675674,-79.675379
+5015,'5015','Dixie Rd @ Derry Rd',43.675598,-79.675312
 5016,'5016','Britannia Rd @ Midfield Rd',43.67113,-79.628411
 5017,'5017','Britannia Rd @ Infield Tunnel Rd',43.673655,-79.631753
 5018,'5018','Britannia Rd North Of Infield Tunnel Rd',43.677222,-79.636361
@@ -3056,7 +3056,7 @@
 5711,'5711','Tenth Line North Of Alpaca Ave',43.549686,-79.729103
 5712,'5712','Tenth Line @ Tacc Dr',43.552145,-79.732381
 5713,'5713','Tenth Line @ Sunlight St',43.553891,-79.734771
-5714,'5714','Courtneypark Dr East Of Dixie Rd',43.664099,-79.657284
+5714,'5714','Courtneypark Dr East Of Dixie Rd',43.663528,-79.657494
 5715,'5715','Courtneypark Dr @ Van Deemter Crt',43.665938,-79.655209
 5716,'5716','Courtneypark Dr East Of Van Deemter Crt',43.668328,-79.652526
 5717,'5717','Courtneypark Dr @ 1820 Courtneypark Dr',43.670399,-79.650197
