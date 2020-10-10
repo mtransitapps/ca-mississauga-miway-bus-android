@@ -63,7 +63,7 @@
 78,'0078','Elm Dr @ Mississauga Vly Blvd',43.59221,-79.628434
 79,'0079','Matheson Blvd @ Explorer Dr',43.652238,-79.614792
 80,'0080','Matheson Blvd @ Timberlea Blvd',43.631816,-79.644764
-81,'0081','Lisgar Dr @ Berryman Tr',43.571236,-79.778181
+81,'0081','Lisgar Dr @ Beacham St',43.571236,-79.778181
 82,'0082','Lisgar Dr @ Dillingwood Dr',43.576114,-79.782904
 83,'0083','Lisgar Dr @ Yarrow Ave',43.573763,-79.780313
 85,'0085','City Ctr Transit Terminal P.L',43.594021,-79.647341
@@ -1469,7 +1469,7 @@
 1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky @ Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
-1719,'1719','Erin Mills Pky @ Burnhamthorpe Rd',43.547901,-79.68512
+1719,'1719','Erin Mills Pky North Of Burnhamthorpe Rd',43.547901,-79.68512
 1720,'1720','Erin Mills Pky @ Folkway Dr',43.55074,-79.689267
 1722,'1722','Mississauga Rd @ Tattersall Way',43.565886,-79.692493
 1725,'1725','Eglinton Ave @ The Chase',43.565138,-79.699579
@@ -2651,7 +2651,7 @@
 3120,'3120','Northwest Dr West Of Caravelle Dr',43.702906,-79.629983
 3121,'3121','Meadowpine Blvd @ Danbro Cres',43.603325,-79.777957
 3122,'3122','Dixie Rd @ Dixie Sta',43.631107,-79.614314
-3123,'3123','Hillcrest Ave West Of Hurontario St',43.580354,-79.623328
+3123,'3123','Hillcrest Ave West Of Hurontario St',43.580353,-79.623325
 3125,'3125','Central Pky @ Erindale Sta Rd',43.567559,-79.655815
 3126,'3126','Mclaughlin Rd @ Cantay Rd',43.62109,-79.695684
 3127,'3127','Rose Cherry Pl @ Paramount Ctr',43.63276,-79.653433
