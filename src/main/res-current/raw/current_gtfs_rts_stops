@@ -599,7 +599,7 @@
 715,'0715','Erin Mills Pky South Of Eglinton Ave',43.557613,-79.704496
 716,'0716','Asta Dr @ Boismere Crt',43.583984,-79.589467
 717,'0717','Hurontario St @ Dundas St W',43.579725,-79.61601
-718,'0718','Hurontario St @ Dundas St E',43.580048,-79.615878
+718,'0718','Hurontario St @ Dundas St E',43.580035,-79.615886
 719,'0719','Hurontario St @ King St W',43.578296,-79.613974
 720,'0720','Hurontario St @ Floradale Dr',43.577538,-79.612344
 721,'0721','Hurontario St @ Paisley Blvd W',43.575831,-79.610451
@@ -641,7 +641,7 @@
 763,'0763','Cawthra Rd @ Tedwyn Dr',43.586411,-79.588395
 764,'0764','Cawthra Rd @ North Service Rd',43.58517,-79.586392
 766,'0766','City Ctr Transit Terminal P.K',43.59406,-79.646875
-769,'0769','Hurontario St @ John St',43.583756,-79.621115
+769,'0769','Hurontario St @ John St',43.583758,-79.621111
 772,'0772','Winston Churchill Blvd @ Eglinton Ave',43.548674,-79.716646
 773,'0773','Winston Churchill Blvd @ Erin Ctr Blvd',43.552926,-79.722498
 774,'0774','Winston Churchill Blvd @ Thomas St',43.560835,-79.733288
@@ -665,7 +665,7 @@
 793,'0793','Gln Erin Dr North Of The Collegeway',43.537887,-79.68733
 794,'0794','Gln Erin Dr @ Council Ring Rd',43.540923,-79.689802
 795,'0795','Gln Erin Dr @ Burnhamthorpe Rd W',43.542637,-79.690866
-796,'0796','Hurontario St @ Kirwin Ave',43.582878,-79.619839
+796,'0796','Hurontario St @ Kirwin Ave',43.582876,-79.619847
 797,'0797','Cawthra Rd North Of Arbor Crt',43.579331,-79.579481
 799,'0799','Cawthra Rd South Of South Service Rd',43.57919,-79.57972
 800,'0800','Trelawny Cir @ Forest Pk Dr',43.57628,-79.772411
@@ -926,7 +926,7 @@
 1101,'1101','Dundas St @ Dundas Cres',43.548981,-79.650274
 1102,'1102','Dundas St @ Nanticoke Rd',43.544859,-79.655032
 1103,'1103','Hurontario St @ Matthews Gt',43.591916,-79.633148
-1104,'1104','Hurontario St @ John St',43.58376,-79.621481
+1104,'1104','Hurontario St @ John St',43.58377,-79.621649
 1105,'1105','Hurontario St @ Elm Dr W',43.590797,-79.631451
 1106,'1106','Dundas St West Of Erindale Sta Rd',43.556526,-79.644125
 1107,'1107','Hurontario St @ Central Pky W',43.589315,-79.62949
@@ -935,7 +935,7 @@
 1110,'1110','Forestwood Dr @ Lindenlea Dr',43.557137,-79.651664
 1111,'1111','Hurontario St @ Hanson Rd Walkway',43.585841,-79.624416
 1112,'1112','Forestwood Dr @ Erindale Sta Rd',43.559009,-79.645481
-1113,'1113','Hurontario St @ Hillcrest Ave',43.582968,-79.62058
+1113,'1113','Hurontario St @ Hillcrest Ave',43.582973,-79.620568
 1114,'1114','Forestwood Dr @ Jessica Crt',43.560633,-79.644219
 1115,'1115','Hurontario St South Of Hillcrest Ave',43.581584,-79.618593
 1116,'1116','Mcbride Ave @ Westlock Rd',43.564942,-79.643949
@@ -2824,6 +2824,8 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.599883,-79.715359
 3392,'3392','Creditview Rd @ Britannia Rd',43.597696,-79.712478
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
+3395,'3395','Sq One Dr @ Lower City Ctr Terminal',43.593569,-79.645231
+3396,'3396','Sq One Dr @ Lower City Ctr Terminal',43.593185,-79.645901
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
@@ -2843,6 +2845,8 @@
 3423,'3423','Bloor St @ Islington Ave',43.644524,-79.523667
 3424,'3424','Erin Mills Sta West P.4',43.552557,-79.699905
 3425,'3425','Erin Mills Sta East P.6',43.552245,-79.699942
+3428,'3428','Cooksville Go Sta P.6',43.582038,-79.624638
+3429,'3429','Cooksville Go Sta P.7',43.582137,-79.624513
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.489901,-79.636403
