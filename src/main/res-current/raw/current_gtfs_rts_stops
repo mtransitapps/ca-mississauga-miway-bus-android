@@ -41,7 +41,6 @@
 52,'0052','Matheson Blvd @ Mcadam Rd',43.624711,-79.657678
 53,'0053','Matheson Blvd @ Mclaughlin Rd',43.613003,-79.684582
 54,'0054','Britannia Rd @ Ellesboro Dr',43.590024,-79.719874
-55,'0055','9th Line @ Thomas St',43.548389,-79.751128
 57,'0057','Erin Ctr Blvd West Of Erin Mills Pky',43.561219,-79.712095
 58,'0058','Erin Ctr Blvd East Of Mall Access',43.560673,-79.713184
 59,'0059','Mississauga Vly Blvd North Of Central Pky E',43.591642,-79.626861
@@ -782,9 +781,6 @@
 935,'0935','Unity Dr @ Loyalist Dr',43.537922,-79.707009
 936,'0936','Viscount Rd South Of Airway Dr',43.692847,-79.622419
 937,'0937','The Collegeway @ Winston Churchill Blvd',43.531114,-79.692675
-938,'0938','Burnhamthorpe Rd @ Tamarack Gt',43.539618,-79.696192
-939,'0939','Burnhamthorpe Rd @ Folkway Dr',43.54177,-79.693769
-940,'0940','Burnhamthorpe Rd @ Gln Erin Dr',43.542673,-79.691646
 941,'0941','Columbus Rd @ 6830 Columbus Rd',43.666134,-79.67118
 942,'0942','Columbus Rd @ 6855 Columbus Rd',43.668061,-79.673519
 943,'0943','Derry Rd @ Tenth Line',43.584066,-79.776315
@@ -806,7 +802,6 @@
 960,'0960','Colonial Dr @ Jackpine Rd',43.528518,-79.706678
 961,'0961','Burnhamthorpe Rd @ Colonial Dr',43.527877,-79.709662
 962,'0962','Loyalist Dr @ Burnhamthorpe Rd',43.533119,-79.704253
-963,'0963','Burnhamthorpe Rd @ Winston Churchill Blvd',43.535937,-79.700257
 964,'0964','Burnhamthorpe Rd @ Erin Mills Pky',43.545878,-79.683753
 965,'0965','Laird Rd @ Coldstream Rd',43.519945,-79.690714
 966,'0966','Columbus Rd South Of Davand Dr',43.669795,-79.675552
@@ -815,7 +810,6 @@
 969,'0969','South Millway @ The Collegeway',43.545436,-79.677462
 970,'0970','Sladeview Cres @ Loyola Secondary School',43.526646,-79.714034
 971,'0971','Burnhamthorpe Rd W @ Sawmill Vly Dr',43.551011,-79.676783
-972,'0972','Sladeview Cres West Of Ridgeway Dr',43.526395,-79.714754
 973,'0973','Ridgeway Dr North Of Dovetail Mews',43.521439,-79.700915
 974,'0974','Loyalist Dr @ Seebring Cres',43.534867,-79.705131
 975,'0975','Loyalist Dr @ Osbourne Rd',43.537625,-79.706236
@@ -1172,12 +1166,8 @@
 1365,'1365','Mississauga Vly Blvd @ Daralea Hts',43.600668,-79.62196
 1367,'1367','Mississauga Vly Blvd @ Hyacinthe Blvd',43.601226,-79.61595
 1368,'1368','Mississauga Vly Blvd @ Bloor St',43.599238,-79.613122
-1370,'1370','Fairview Rd @ Joan Dr',43.583951,-79.630479
-1371,'1371','Fairview Rd @ Hanson Rd',43.586317,-79.628023
-1372,'1372','Fairview Rd @ Hurontario St',43.587294,-79.626886
 1373,'1373','Confederation Pky @ Central Pky W',43.582953,-79.635865
 1374,'1374','Meadowvale Town Ctr Bus Terminal P.I',43.583658,-79.758549
-1375,'1375','Fairview Rd @ Burdock Pl',43.588497,-79.625087
 1376,'1376','Garthwood Rd @ Loyalist Dr',43.528282,-79.693033
 1377,'1377','Dundas St West Of Dixie Rd',43.608724,-79.584837
 1378,'1378','Dundas St @ Queen Frederica Dr',43.606592,-79.587204
@@ -1469,7 +1459,6 @@
 1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
 1717,'1717','Erin Mills Pky @ Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
-1719,'1719','Erin Mills Pky North Of Burnhamthorpe Rd',43.547901,-79.68512
 1720,'1720','Erin Mills Pky @ Folkway Dr',43.55074,-79.689267
 1722,'1722','Mississauga Rd @ Tattersall Way',43.565886,-79.692493
 1725,'1725','Eglinton Ave @ The Chase',43.565138,-79.699579
@@ -2331,7 +2320,6 @@
 2748,'2748','Morning Star Dr @ Catalpa Rd',43.72016,-79.643097
 2749,'2749','Catalpa Rd @ Clara Dr',43.722448,-79.646236
 2750,'2750','Catalpa Rd @ Brandon Gt Dr',43.723963,-79.648685
-2751,'2751','Brandon Gt Dr West Of Catalpa Rd',43.723066,-79.64971
 2752,'2752','Brandon Gt Dr @ Anaka Dr',43.722124,-79.650737
 2753,'2753','Copenhagen Rd @ Bendigo Cir',43.591943,-79.772188
 2754,'2754','Copenhagen Rd @ Oslo Cres',43.591288,-79.769717
@@ -2790,9 +2778,6 @@
 3356,'3356','Bristol Rd @ Kennedy Rd',43.620561,-79.6483
 3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714
 3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925
-3359,'3359','9th Line @ Henrietta Way',43.54207,-79.742523
-3360,'3360','9th Line @ Tacc Dr',43.544126,-79.745171
-3361,'3361','9th Line @ Arbourview Ter',43.547293,-79.74968
 3362,'3362','Kennedy Rd @ Kenway Dr',43.638049,-79.671706
 3363,'3363','Derry Rd @ Mavis Rd',43.632823,-79.7217
 3364,'3364','Derry Rd @ Mavis Rd',43.633187,-79.721782
@@ -3137,7 +3122,6 @@
 6123,'6123','Mavis Rd @ 3240 Mavis Rd',43.570015,-79.638906
 6124,'6124','Mavis Rd @ Cantay Rd',43.616994,-79.702081
 6125,'6125','Mavis Rd @ Britannia Rd',43.612155,-79.69615
-6126,'6126','Cooksville Go Sta P.2',43.582013,-79.623513
 6127,'6127','Hillcrest Ave @ Confederation Pky',43.579382,-79.624167
 6128,'6128','Hillcrest Ave @ Parkerhill Rd',43.577791,-79.625826
 6129,'6129','Hillcrest Ave @ High Spgs Cres',43.575998,-79.628777
