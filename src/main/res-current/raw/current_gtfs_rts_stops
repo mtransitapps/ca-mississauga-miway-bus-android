@@ -1,8 +1,8 @@
-1,'0001','Erin Mills Pky North Of Lincoln Grn Way',43.53564,-79.664309
+1,'0001','Erin Mills Pky North Of Lincoln Grn Way',43.53524,-79.663641
 2,'0002','Erin Mills Pky 2nd Stop South Of Dundas St W',43.534537,-79.663158
 4,'0004','Eglinton Ave W West Of East Mill Rd',43.579357,-79.683928
 9,'0009','The Collegeway East Of Gln Erin Dr',43.537213,-79.684337
-10,'0010','Explorer Dr @ 5875 Explorer Dr',43.65427,-79.616047
+10,'0010','Explorer Dr @ 5875 Explorer Dr',43.654607,-79.616728
 11,'0011','Mclaughlin Rd @ Ceremonial Dr',43.599843,-79.666978
 12,'0012','Creekbank Rd North Of Tech Ave',43.643523,-79.615674
 14,'0014','Matheson Blvd @ Solar Dr',43.652876,-79.609556
@@ -343,7 +343,7 @@
 418,'0418','Lisgar Dr @ Yarrow Ave',43.573688,-79.780067
 419,'0419','Lisgar Dr @ Allcroft Rd',43.576039,-79.782633
 420,'0420','Ogden Ave @ Halliday Ave',43.58286,-79.567198
-422,'0422','Queensway West Of The West Mall',43.609221,-79.568406
+422,'0422','Queensway West Of The West Mall',43.60851,-79.569117
 423,'0423','Dixie Rd @ Kendall Rd',43.601748,-79.573416
 424,'0424','Dixie Rd @ Primate Rd',43.600334,-79.571366
 426,'0426','Dixie Mall Bus Terminal P.B',43.593759,-79.565366
@@ -2073,7 +2073,7 @@
 2441,'2441','Vista Blvd @ Vista Dr',43.57569,-79.723404
 2442,'2442','Vista Blvd @ Sora Dr',43.575042,-79.725114
 2443,'2443','Vista Blvd @ Turney Dr',43.573863,-79.726761
-2448,'2448','Thomas St @ Hillside Dr',43.576071,-79.716472
+2448,'2448','Thomas St @ Mcfarren Blvd',43.575187,-79.717299
 2450,'2450','Thomas St @ Queen St',43.580035,-79.711855
 2452,'2452','Queen St @ Old Sta Rd',43.57629,-79.706337
 2453,'2453','Queen St @ Old Sta Rd',43.576384,-79.706694
@@ -2639,7 +2639,7 @@
 3120,'3120','Northwest Dr West Of Caravelle Dr',43.702906,-79.629983
 3121,'3121','Meadowpine Blvd @ Danbro Cres',43.603325,-79.777957
 3122,'3122','Dixie Rd @ Dixie Sta',43.631107,-79.614314
-3123,'3123','Hillcrest Ave West Of Hurontario St',43.580353,-79.623325
+3123,'3123','Hillcrest Ave @ Condo Rd',43.580353,-79.623325
 3125,'3125','Central Pky @ Erindale Sta Rd',43.567559,-79.655815
 3126,'3126','Mclaughlin Rd @ Cantay Rd',43.62109,-79.695684
 3127,'3127','Rose Cherry Pl @ Paramount Ctr',43.63276,-79.653433
@@ -2843,7 +2843,7 @@
 3504,'3504','Eglinton Ave @ Hewicks Ln',43.57195,-79.691334
 3505,'3505','Eglinton Ave @ Explorer Dr',43.660475,-79.59362
 3507,'3507','Britannia Rd @ Churchill Mdws Blvd',43.557855,-79.756256
-3508,'3508','Erin Ctr Blvd @ Winston Churchill Blvd',43.552322,-79.723229
+3508,'3508','Erin Ctr Blvd @ Winston Churchill Blvd',43.552605,-79.72299
 3509,'3509','Eglinton Ave @ Gln Erin Dr',43.553666,-79.712206
 3510,'3510','Eglinton Ave @ Southampton Dr',43.546143,-79.720611
 3511,'3511','Eglinton Ave @ Winston Churchill Blvd',43.549421,-79.71741
@@ -3265,8 +3265,8 @@
 9096,'9096','Kipling Ave @ Goswell Rd',43.649071,-79.538395
 9097,'9097','Sherway Gt South Of Sherway Gdns Bter',43.609548,-79.556465
 9098,'9098','Islington Ave South Of Dundas St',43.649842,-79.525842
-9100,'9100','Finch Ave @ Humber College Blvd',43.734046,-79.610229
-9101,'9101','Finch Ave @ Humber College Blvd',43.734176,-79.609117
+9100,'9100','Finch Ave @ Humber College Blvd',43.734,-79.610303
+9101,'9101','Finch Ave @ Humber College Blvd',43.734304,-79.610806
 9102,'9102','Finch Ave West Of Humber College Blvd',43.734517,-79.612002
 9103,'9103','Finch Ave @ Humberline Dr',43.735135,-79.616918
 9107,'9107','Rexdale Blvd @ Tidemore Ave',43.714681,-79.585498
@@ -3286,19 +3286,19 @@
 9123,'9123','Rexdale Blvd @ 230 Rexdale Blvd',43.713027,-79.577059
 9124,'9124','Rexdale Blvd @ Martin Grv Rd',43.713922,-79.580936
 9125,'9125','Rexdale Blvd @ Tidemore Ave',43.714846,-79.58501
-9127,'9127','Humber College Blvd @ Etobicoke Hosp',43.730763,-79.599498
+9127,'9127','Humber College Blvd @ Etobicoke Hosp',43.730983,-79.598892
 9128,'9128','Humber College Blvd @ Lynmont Rd',43.731695,-79.596174
 9129,'9129','Humber College Blvd @ Tamarisk Dr',43.733396,-79.593961
 9131,'9131','Finch Ave @ Kiskadee Dr',43.735547,-79.597537
 9132,'9132','Finch Ave @ Westmore Dr',43.73496,-79.600344
 9133,'9133','Finch Ave @ Woodbine Downs Blvd',43.733871,-79.606293
 9150,'9150','Rexdale Blvd @ Brydon Dr',43.711529,-79.57172
-9160,'9160','Dundas St @ West Mall Cres',43.627145,-79.562662
+9160,'9160','Dundas St @ West Mall Cres',43.627277,-79.562435
 9161,'9161','Bloor St @ Markland Dr',43.629155,-79.57991
 9162,'9162','Aukland Rd North Of Dundas St W',43.638899,-79.539299
 9163,'9163','Burnhamthorpe Rd @ Mill Rd',43.638996,-79.58439
-9960,'9960','Dixon Rd East Of Hwy 427',43.686472,-79.598693
-9961,'9961','Dixon Rd @ Carlingview Dr',43.686572,-79.5958
+9960,'9960','Dixon Rd East Of Hwy 427',43.686415,-79.598057
+9961,'9961','Dixon Rd @ Carlingview Dr',43.686556,-79.595816
 9962,'9962','Carlingview Dr South Of Dixon Rd',43.68245,-79.59375
-9970,'9970','Carlingview Dr North Of International Blvd',43.677364,-79.591195
-9972,'9972','Carlingview Dr North Of Meteor Dr',43.68173,-79.593072
+9970,'9970','Carlingview Dr North Of International Blvd',43.677265,-79.591083
+9972,'9972','Carlingview Dr North Of Meteor Dr',43.683051,-79.592505
