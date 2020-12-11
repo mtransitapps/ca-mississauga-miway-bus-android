@@ -751,7 +751,6 @@
 893,'0893','Darcel Ave @ South Chigwel Crt',43.720792,-79.625876
 894,'0894','Cawthra Rd @ Orwell St',43.590502,-79.593787
 895,'0895','Cawthra Rd @ Needham Ln',43.592591,-79.596761
-896,'0896','Burnhamthorpe Rd West Of Folkway Dr',43.541641,-79.694292
 897,'0897','Colonial Dr South Of Huxley Dr',43.52585,-79.704805
 898,'0898','Colonial Dr North Of The Collegeway',43.525718,-79.704275
 899,'0899','Elia Ave @ Hurontario St',43.604722,-79.648483
@@ -768,9 +767,7 @@
 921,'0921','Middlegate Rd @ 1000 Middlegate Rd',43.595638,-79.587279
 922,'0922','Tomken Rd South Of Derry Rd',43.664777,-79.683874
 923,'0923','Terry Fox Way @ Bristol Rd',43.595564,-79.685507
-924,'0924','Burnhamthorpe Rd @ Tamarack Gt',43.539649,-79.69655
 925,'0925','Columbus Rd North Of Mid-Way Blvd',43.665064,-79.669765
-926,'0926','Burnhamthorpe Rd W @ Winston Churchill Blvd',43.53684,-79.69968
 927,'0927','Burnhamthorpe Rd W @ Loyalist Dr',43.533168,-79.703819
 928,'0928','Loyalist Dr @ Sancrest Crt',43.534253,-79.704996
 929,'0929','Burnhamthorpe Rd @ Ridgeway Dr',43.526312,-79.711427
@@ -808,7 +805,6 @@
 967,'0967','Columbus Rd @ Derry Rd',43.671467,-79.6776
 968,'0968','South Millway @ Sanderling Cres',43.547119,-79.678935
 969,'0969','South Millway @ The Collegeway',43.545436,-79.677462
-970,'0970','Sladeview Cres @ Loyola Secondary School',43.526646,-79.714034
 971,'0971','Burnhamthorpe Rd W @ Sawmill Vly Dr',43.551011,-79.676783
 973,'0973','Ridgeway Dr North Of Dovetail Mews',43.521439,-79.700915
 974,'0974','Loyalist Dr @ Seebring Cres',43.534867,-79.705131
@@ -904,7 +900,6 @@
 1071,'1071','The Collegeway @ South Millway',43.545436,-79.677046
 1072,'1072','The Collegeway West Of Broad Hollow Gt',43.545251,-79.670831
 1073,'1073','South Common Ctr Bus Terminal P.F',43.543917,-79.684551
-1074,'1074','Burnhamthorpe Rd West Of Gln Erin Dr',43.542471,-79.6929
 1087,'1087','The Collegeway @ Broad Hollow Gt',43.543982,-79.666279
 1088,'1088','Renforth Sta West P.1',43.663267,-79.591031
 1089,'1089','South Common Ctr Bus Terminal P.K',43.54272,-79.683107
@@ -1195,7 +1190,6 @@
 1404,'1404','Rathburn Rd West Of Elora Dr',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr',43.584849,-79.653721
 1406,'1406','City Ctr Transit Terminal P.A',43.594748,-79.646556
-1407,'1407','Goreway Dr @ Nashua Dr',43.710682,-79.622162
 1408,'1408','City Ctr Transit Terminal P.O',43.594234,-79.647358
 1410,'1410','Creditview Rd @ Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr @ Castlebridge Dr',43.568218,-79.731648
@@ -1441,7 +1435,6 @@
 1696,'1696','Eglinton Ave @ Heatherleigh Ave',43.590246,-79.671761
 1697,'1697','Eglinton Ave W @ Sandford Farm Dr',43.58976,-79.671797
 1698,'1698','Hurontario St @ Admiral Blvd',43.643871,-79.702879
-1699,'1699','Silken Laumann Way @ Britannia Rd',43.607731,-79.701438
 1700,'1700','Eglinton Ave @ Mississauga Rd',43.568869,-79.69592
 1701,'1701','Mississauga Rd @ Eglinton Ave',43.568443,-79.695632
 1702,'1702','Mississauga Rd @ Barbertown Rd',43.571041,-79.699192
@@ -1453,7 +1446,6 @@
 1708,'1708','Mississauga Rd @ Badminton Dr',43.563861,-79.689466
 1709,'1709','Mississauga Rd @ Badminton Dr',43.563956,-79.689823
 1712,'1712','Gln Erin Dr @ Thomas St',43.565529,-79.72789
-1713,'1713','Silken Laumann Way @ Ivandale Dr',43.60861,-79.702745
 1714,'1714','Central Pkwy Sta East P.A',43.607769,-79.635966
 1715,'1715','Erin Mills Sta East P.5',43.552589,-79.699554
 1716,'1716','Central Pkwy Sta West P.B',43.607892,-79.636173
@@ -1467,14 +1459,9 @@
 1728,'1728','Mississauga Rd @ Tattersall Way',43.565828,-79.692172
 1729,'1729','Carlingview Dr @ Constellation Crt',43.690747,-79.597178
 1730,'1730','Explorer Dr @ Orbitor Dr',43.661599,-79.607892
-1731,'1731','Silken Laumann Way @ Dendron St',43.609972,-79.704587
 1732,'1732','Explorer Dr West Of Orbitor Dr',43.659641,-79.611298
 1733,'1733','Fasken Dr West Of Carlingview Dr',43.690033,-79.601195
 1736,'1736','Campus Rd @ Elmbank Rd',43.688818,-79.610121
-1738,'1738','Bancroft Dr @ Swinbourne Dr',43.609531,-79.709317
-1739,'1739','Bancroft Dr @ Tremaine Crt',43.606516,-79.710299
-1740,'1740','Bancroft Dr @ Deacon Crt',43.602518,-79.713407
-1741,'1741','Bancroft Dr @ Creditview Rd',43.60014,-79.714982
 1742,'1742','Wolfedale Rd @ Westlock Rd',43.566971,-79.641885
 1744,'1744','Bancroft Dr @ Bidwell Trl',43.601715,-79.713263
 1746,'1746','Webb Dr East Of Confederation Pky',43.585408,-79.641656
@@ -1562,7 +1549,6 @@
 1850,'1850','Argentia Rd @ 3050 Argentia Rd',43.59595,-79.785515
 1851,'1851','Milverton Dr @ Hurontario St',43.620778,-79.672633
 1852,'1852','Edwards Blvd @ Statesman Dr',43.651053,-79.708271
-1853,'1853','Goreway Dr @ Nashua Dr',43.710565,-79.622655
 1854,'1854','Bristol Rd W @ Kinglet Ave',43.592848,-79.688118
 1857,'1857','Bristol Rd W @ Mclaughlin Rd',43.602333,-79.67204
 1861,'1861','Central Pky @ Copernicus Dr',43.581508,-79.638499
@@ -1862,7 +1848,6 @@
 2215,'2215','Rose Cherry Pl @ Coopers Ave',43.632779,-79.660027
 2216,'2216','Hurontario St @ Strathhaven Dr',43.610246,-79.658099
 2217,'2217','Bloor St @ Mississauga Vly Blvd',43.598902,-79.612894
-2218,'2218','American Dr @ Viscount Rd',43.691717,-79.618838
 2219,'2219','Cawthra Rd @ Santee Gt',43.59925,-79.606741
 2220,'2220','Cawthra Rd @ Silver Crk Blvd',43.597208,-79.603926
 2221,'2221','Cawthra Rd @ Silver Crk Blvd',43.5969,-79.602991
@@ -2437,7 +2422,6 @@
 2872,'2872','Darcel Ave @ Monica Dr',43.72694,-79.639318
 2873,'2873','Darcel Ave @ Middleshire Dr',43.730457,-79.635948
 2874,'2874','Finch Ave @ Humberline Dr',43.734907,-79.618202
-2875,'2875','Westwood Sq Bus Terminal P.G',43.721431,-79.64081
 2876,'2876','Darcel Ave @ Monica Dr',43.727105,-79.639563
 2877,'2877','Darcel Ave @ Middleshire Dr',43.730486,-79.636134
 2879,'2879','Rexdale Blvd @ Precision Rd',43.71589,-79.589355
@@ -2548,14 +2532,12 @@
 3003,'3003','Northwest Dr @ 6580 Northwest Dr',43.702854,-79.629438
 3004,'3004','Winston Churchill @ 450 Winston Churchill Blvd',43.485911,-79.630942
 3005,'3005','Matheson Blvd @ Rose Cherry Pl',43.628015,-79.651543
-3006,'3006','Falconer Dr @ Kinsmen Gt',43.60617,-79.729252
 3007,'3007','Tahoe Sta West P.B',43.638721,-79.610169
 3008,'3008','Commerce Blvd South Of Matheson Blvd E',43.664599,-79.594075
 3009,'3009','Goreway Dr South Of Morning Star Dr',43.720294,-79.641018
 3010,'3010','Mclaughlin Rd @ Bristol Rd',43.602899,-79.671173
 3012,'3012','Falbourne St @ 5900 Falbourne St',43.619206,-79.682179
 3013,'3013','City Ctr Dr South Of Robert Speck Pky',43.594332,-79.639449
-3014,'3014','Bancroft Dr @ Donway Dr',43.611568,-79.707948
 3015,'3015','Bristol Rd W @ Fallingbrook Dr',43.589792,-79.692533
 3016,'3016','Winston Churchill Blvd @ Vanderbilt Rd',43.584676,-79.766022
 3017,'3017','Winston Churchill Blvd North Of Vanderbilt Rd',43.587739,-79.770357
@@ -3187,7 +3169,6 @@
 6880,'6880','Financial Dr South Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Sq Bus Terminal P.K',43.721882,-79.640868
 7200,'7200','Humber College North Campus P.8',43.729206,-79.604957
-7201,'7201','Humber College North Campus P.1',43.729268,-79.605653
 9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
