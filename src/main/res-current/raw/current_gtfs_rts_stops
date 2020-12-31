@@ -2434,7 +2434,6 @@
 2887,'2887','Erin Mills Pky @ Dundas St W',43.536195,-79.664879
 2888,'2888','Brandon Gt Dr @ Darcel Ave',43.732077,-79.634409
 2889,'2889','Eglinton Ave 1037 Eglinton Ave',43.585321,-79.677233
-2890,'2890','Brandon Gt Dr @ Monica Dr',43.727552,-79.646096
 2891,'2891','Airport Rd South Of Northwest Dr',43.696461,-79.632388
 2892,'2892','Bloor St @ The West Mall',43.635402,-79.562442
 2894,'2894','Courtneypark Dr East Of Dixie Rd',43.664197,-79.657504
@@ -2793,6 +2792,8 @@
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
 3395,'3395','Sq One Dr @ Lower City Ctr Terminal',43.593569,-79.645231
 3396,'3396','Sq One Dr @ Lower City Ctr Terminal',43.593185,-79.645901
+3397,'3397','Streetsville Go West Entrance',43.577901,-79.713802
+3398,'3398','Thomas St Opp Emby Dr',43.578667,-79.713497
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Terminal P.B',43.560493,-79.710736
@@ -2892,6 +2893,7 @@
 4001,'4001','Old Derry Rd @ Gooderham Est Blvd',43.629638,-79.724692
 4002,'4002','Winston Churchill Blvd @ Bentley Dr',43.563172,-79.737028
 4003,'4003','Hurontario St @ Burnhamthorpe Rd E',43.593553,-79.634548
+4005,'4005','Hurontario St @ Burnhamthorpe Rd W',43.593801,-79.63567
 4006,'4006','Hurontario St @ Kingsway Dr',43.647225,-79.707491
 4007,'4007','South Common Ctr Bus Terminal P.C',43.543128,-79.683419
 4008,'4008','South Common Ctr Bus Terminal P.I',43.543269,-79.683933
@@ -3167,9 +3169,8 @@
 6813,'6813','Guildwood Way @ Bluesky Cres',43.598156,-79.66901
 6814,'6814','Guildwood Way @ Constellation Dr',43.596371,-79.667327
 6880,'6880','Financial Dr South Of Syntex Crt',43.609308,-79.745097
-7100,'7100','Westwood Sq Bus Terminal P.K',43.721882,-79.640868
 7200,'7200','Humber College North Campus P.8',43.729206,-79.604957
-9000,'9000','Islington Subway Drop Off',43.645061,-79.523734
+9000,'9000','Islington Subway',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
 9003,'9003','Dundas St @ Shorncliffe Rd',43.631794,-79.544851
@@ -3199,6 +3200,7 @@
 9029,'9029','Bloor St @ Shaver Ave',43.638927,-79.54784
 9030,'9030','Bloor St @ Wilmar Rd',43.639669,-79.544574
 9031,'9031','Bloor St @ Acorn Ave',43.640282,-79.541794
+9033,'9033','Aukland Rd @ Dundas St',43.638528,-79.538209
 9034,'9034','Bloor St @ Ashbourne Dr',43.640376,-79.54209
 9035,'9035','Bloor St @ Martin Grv Rd',43.639745,-79.544931
 9036,'9036','Bloor St @ Shaver Ave',43.639123,-79.547686
@@ -3210,9 +3212,23 @@
 9043,'9043','Bloor St @ Mill Rd',43.632148,-79.575089
 9044,'9044','Bloor St West Of Mill Rd',43.631319,-79.577241
 9045,'9045','Carlingview Dr South Of Fasken Dr',43.690899,-79.597579
+9046,'9046','Bloor St @ Resurrection Rd',43.642901,-79.530911
+9047,'9047','Bloor St @ Grn Lanes',43.644142,-79.525305
+9048,'9048','Islington Ave @ Bloor St',43.645395,-79.523588
+9049,'9049','Cordova Ave @ 50 Cordova Ave',43.648121,-79.524582
+9050,'9050','Cordova Ave @ Central Pk Roadway',43.64762,-79.526147
+9051,'9051','Burnhamthorpe Rd @ Dundas St',43.648996,-79.528958
 9052,'9052','Bloor St @ Aukland Rd',43.640546,-79.54066
+9053,'9053','Burnhamthorpe Rd @ Burnhamthorpe Cr',43.649502,-79.530813
+9054,'9054','Burnhamthorpe Rd @ Burnhamthorpe Pk Blvd',43.650485,-79.534018
+9055,'9055','Burnhamthorpe Rd @ Royalavon Cres',43.650691,-79.53628
+9056,'9056','Kipling Terminal P.3',43.635409,-79.538866
+9057,'9057','Kipling Terminal P.4',43.635582,-79.538692
 9058,'9058','Sherway Gdns Bus Terminal',43.610018,-79.558305
+9059,'9059','Kipling Terminal P.5',43.635705,-79.538519
 9060,'9060','The West Mall South Of The Queensway',43.610893,-79.561483
+9061,'9061','Kipling Terminal P.6',43.635816,-79.538378
+9062,'9062','Kipling Terminal P.11',43.635675,-79.538133
 9063,'9063','Burnhamthorpe Rd @ Triburnham Pl',43.641634,-79.57892
 9064,'9064','Burnhamthorpe Rd @ Saturn Rd',43.642406,-79.576127
 9065,'9065','Burnhamthorpe Rd @ Renforth Dr',43.643245,-79.57257
@@ -3246,10 +3262,13 @@
 9096,'9096','Kipling Ave @ Goswell Rd',43.649071,-79.538395
 9097,'9097','Sherway Gt South Of Sherway Gdns Bter',43.609548,-79.556465
 9098,'9098','Islington Ave South Of Dundas St',43.649842,-79.525842
+9099,'9099','Kipling Terminal P.12',43.635547,-79.538275
 9100,'9100','Finch Ave @ Humber College Blvd',43.734,-79.610303
 9101,'9101','Finch Ave @ Humber College Blvd',43.734304,-79.610806
 9102,'9102','Finch Ave West Of Humber College Blvd',43.734517,-79.612002
 9103,'9103','Finch Ave @ Humberline Dr',43.735135,-79.616918
+9105,'9105','Kipling Terminal P.13',43.635413,-79.538421
+9106,'9106','Kipling Terminal P.14',43.63525,-79.538608
 9107,'9107','Rexdale Blvd @ Tidemore Ave',43.714681,-79.585498
 9108,'9108','Rexdale Blvd @ Martin Grv Rd',43.713694,-79.581413
 9109,'9109','Rexdale Blvd East Of Martin Grv Rd',43.71316,-79.57903
@@ -3260,6 +3279,8 @@
 9114,'9114','Bergamot Ave @ Rexdale Blvd',43.714042,-79.559582
 9115,'9115','Bergamot Ave @ Islington Ave',43.716765,-79.556289
 9116,'9116','Islington Ave @ Rexdale Blvd',43.715495,-79.555575
+9117,'9117','Kipling Terminal P.15',43.635136,-79.538717
+9118,'9118','Kipling Terminal P.16',43.635224,-79.539
 9119,'9119','Rexdale Blvd @ Frost St',43.712424,-79.564102
 9120,'9120','Rexdale Blvd @ Kipling Ave',43.711825,-79.566574
 9121,'9121','Rexdale Blvd @ Brydon Dr',43.711612,-79.571147
