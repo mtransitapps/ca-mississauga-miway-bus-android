@@ -249,7 +249,7 @@
 309,'0309','Dixie Rd S Of Mid-Way Blvd',43.666359,-79.662704
 310,'0310','Bloor St @ Grn Lanes',43.644159,-79.526609
 311,'0311','Elizabeth St @ High St',43.553753,-79.585505
-313,'0313','Erin Ctr Blvd @ John Fraser Secondary School',43.559753,-79.715407
+313,'0313','Erin Ctr Blvd @ John Fraser SS',43.559753,-79.715407
 314,'0314','Port Credit Go Sta P:7',43.555435,-79.587496
 315,'0315','Atwater Ave @ Cawthra Rd',43.574893,-79.573059
 320,'0320','Winston Churchill Blvd @ N Sheridan Way',43.513331,-79.668579
@@ -322,7 +322,7 @@
 395,'0395','Osprey Blvd @ Longspur Rd',43.570644,-79.763225
 396,'0396','Osprey Blvd @ Warbler Ln',43.571765,-79.76444
 397,'0397','Trelawny Cir @ Osprey Blvd',43.571065,-79.768021
-398,'0398','Trelawny Cir @ Mt Carmel Secondary School',43.573885,-79.773227
+398,'0398','Trelawny Cir @ Mt Carmel SS',43.573885,-79.773227
 399,'0399','Britannia Rd @ Long Vly Rd',43.566128,-79.747022
 400,'0400','N Service Rd @ Annapolis Ave',43.585314,-79.581967
 401,'0401','Britannia Rd @ Arch Rd',43.588628,-79.72178
@@ -339,7 +339,7 @@
 413,'0413','N Service Rd @ Redan Dr',43.587389,-79.579441
 414,'0414','N Service Rd @ Annapolis Ave',43.585423,-79.582039
 415,'0415','N Service Rd @ Cawthra Rd',43.58538,-79.585842
-416,'0416','Cawthra Rd @ Cawthra Pk Secondary School',43.576078,-79.574926
+416,'0416','Cawthra Rd @ Cawthra Pk SS',43.576078,-79.574926
 418,'0418','Lisgar Dr @ Yarrow Ave',43.573688,-79.780067
 419,'0419','Lisgar Dr @ Allcroft Rd',43.576039,-79.782633
 420,'0420','Ogden Ave @ Halliday Ave',43.58286,-79.567198
@@ -677,7 +677,7 @@
 811,'0811','Dundas St @ Aukland Rd',43.638667,-79.538002
 812,'0812','Meadowvale Town Ctr Bus Term P:G',43.583367,-79.758295
 813,'0813','Kariya Gt @ City Ctr Dr',43.592117,-79.638706
-814,'0814','Dream Crest Rd @ Rick Hansen Secondary School',43.58968,-79.683579
+814,'0814','Dream Crest Rd @ Rick Hansen SS',43.58968,-79.683579
 815,'0815','Dundas St @ Billingham Rd',43.630623,-79.549056
 818,'0818','Kennedy Rd @ Ambassador Dr',43.649891,-79.687559
 819,'0819','Osprey Blvd @ Waxwing Dr',43.565581,-79.757162
@@ -867,7 +867,7 @@
 1034,'1034','Erin Mills Pky S Of S Millway',43.539923,-79.671072
 1036,'1036','Dundas St @ Redstart Dr',43.539304,-79.663523
 1037,'1037','Dundas St E Of Erin Mills Pky',43.537813,-79.665363
-1038,'1038','Erin Mills Pky @ Erindale Secondary School',43.538458,-79.668208
+1038,'1038','Erin Mills Pky @ Erindale SS',43.538458,-79.668208
 1039,'1039','S Millway @ 5th Line W',43.539871,-79.674291
 1040,'1040','S Millway @ Buttonbush Cres',43.54086,-79.678082
 1041,'1041','S Millway @ Buttonbush Cres',43.541409,-79.679642
@@ -1070,7 +1070,7 @@
 1266,'1266','S Millway @ Burnhamthorpe Rd W',43.548114,-79.679347
 1267,'1267','Trelawny Cir @ Mockingbird Lanes',43.577717,-79.771143
 1268,'1268','Trelawny Cir @ Forest Pk Dr',43.576559,-79.772393
-1269,'1269','Trelawny Cir @ Mt Carmel Secondary School',43.57459,-79.773485
+1269,'1269','Trelawny Cir @ Mt Carmel SS',43.57459,-79.773485
 1270,'1270','Burnhamthorpe Rd E Of Hurontario St',43.594268,-79.63411
 1271,'1271','Burnhamthorpe Rd @ Arista Way',43.595565,-79.632595
 1272,'1272','Burnhamthorpe Rd @ Robert Speck Pky',43.597368,-79.630429
@@ -1278,7 +1278,7 @@
 1512,'1512','Dixie Rd @ Hickory Dr',43.628345,-79.610692
 1513,'1513','Dixie Rd @ Rathburn Rd',43.626553,-79.608391
 1514,'1514','Dixie Rd S Of Rathburn Rd',43.624519,-79.605562
-1515,'1515','Tomken Rd @ Philip Pocock Secondary School',43.623996,-79.626323
+1515,'1515','Tomken Rd @ Philip Pocock SS',43.623996,-79.626323
 1516,'1516','Rathburn Rd @ Wilcox Rd',43.609316,-79.623039
 1517,'1517','Rathburn Rd @ Wilcox Rd',43.609631,-79.623032
 1518,'1518','Rathburn Rd @ Mdws Blvd',43.608051,-79.629408
@@ -1408,7 +1408,7 @@
 1665,'1665','Dundas St @ Gln Erin Dr',43.531058,-79.672912
 1666,'1666','Dundas St @ Woodchester Dr',43.527305,-79.676967
 1667,'1667','Dundas St W @ Hampshire Gt',43.520627,-79.684253
-1668,'1668','Central Pky W @ Father Goetz Secondary School',43.582738,-79.636725
+1668,'1668','Central Pky W @ Father Goetz SS',43.582738,-79.636725
 1669,'1669','River Grv Ave @ Riverbrook Cres',43.593892,-79.71343
 1670,'1670','River Grv Ave @ Kingsbank Crt',43.591311,-79.709832
 1671,'1671','River Grv Ave @ Riverdale Cres',43.590347,-79.709078
@@ -1769,7 +1769,7 @@
 2126,'2126','Erin Mills Pky @ Britannia Rd',43.578761,-79.734052
 2127,'2127','Meadowvale Town Ctr Bus Term P:E',43.58312,-79.758783
 2128,'2128','Credit Vly Hosp',43.558705,-79.703655
-2129,'2129','Dream Crest Rd @ Rick Hansen Secondary School',43.589773,-79.683044
+2129,'2129','Dream Crest Rd @ Rick Hansen SS',43.589773,-79.683044
 2130,'2130','Ceremonial Dr @ Sunrise Crt',43.597808,-79.670128
 2131,'2131','Meadowvale Blvd @ W Credit Ave',43.608981,-79.758003
 2133,'2133','Kennedy Rd @ Watline Ave',43.629445,-79.659804
@@ -1801,7 +1801,7 @@
 2167,'2167','Mclaughlin Rd @ Matheson Blvd',43.612837,-79.684958
 2168,'2168','Falconer Dr S Of Alpha Mills Rd',43.593678,-79.725687
 2169,'2169','Falconer Dr N Of Matlock Ave',43.592616,-79.724941
-2170,'2170','Erin Ctr Blvd @ John Fraser Secondary School',43.559535,-79.715264
+2170,'2170','Erin Ctr Blvd @ John Fraser SS',43.559535,-79.715264
 2171,'2171','Tranmere Dr @ 7830 Tranmere Dr',43.681455,-79.67475
 2172,'2172','Tranmere Dr S Of Drew Rd',43.68231,-79.677821
 2173,'2173','Creditview Rd @ Bristol Rd',43.586843,-79.697663
@@ -2262,7 +2262,7 @@
 2698,'2698','Tomken Rd @ Verbena Rd',43.648287,-79.661815
 2699,'2699','Brandon Gt Dr @ Langworthy Dr',43.721437,-79.651287
 2700,'2700','Humber College Blvd @ Hwy 27',43.73031,-79.601736
-2701,'2701','Tomken Rd @ Philip Pocock Secondary School',43.624092,-79.626036
+2701,'2701','Tomken Rd @ Philip Pocock SS',43.624092,-79.626036
 2702,'2702','Catalpa Rd @ Twilight Rd',43.72048,-79.643884
 2703,'2703','Tomken Sta W P:B',43.621777,-79.623496
 2705,'2705','York St @ Scarboro St',43.705488,-79.648777
@@ -2566,7 +2566,7 @@
 3049,'3049','Lisgar Dr @ Foxwood Ave',43.562971,-79.765623
 3051,'3051','Derry Rd @ Mississauga Rd',43.610641,-79.751711
 3052,'3052','Derry Rd @ Syntex Dr',43.605255,-79.754883
-3053,'3053','Creditview Rd @ St Joseph Secondary School',43.589205,-79.700365
+3053,'3053','Creditview Rd @ St Joseph SS',43.589205,-79.700365
 3054,'3054','9th Line @ Parkgate Dr',43.556465,-79.762611
 3055,'3055','Britannia Rd @ Delle Donne Dr',43.561254,-79.752546
 3056,'3056','Britannia Rd @ Creditview Rd',43.597271,-79.712082
@@ -2662,7 +2662,7 @@
 3211,'3211','Creekbank Rd @ Aimco Blvd',43.645026,-79.616297
 3212,'3212','Creekbank Rd @ Aimco Blvd',43.645311,-79.616774
 3213,'3213','Creekbank Rd @ Eglinton Ave',43.641439,-79.614925
-3219,'3219','Erin Ctr Blvd @ John Fraser Secondary School',43.559789,-79.715407
+3219,'3219','Erin Ctr Blvd @ John Fraser SS',43.559789,-79.715407
 3220,'3220','Dixie Sta W P:B',43.629887,-79.614905
 3221,'3221','Gln Erin Dr S Of Erin Ctr Blvd',43.556765,-79.71635
 3222,'3222','Gln Erin Dr @ Hazelton Pl',43.555082,-79.714009
@@ -2896,7 +2896,7 @@
 4101,'4101','Queen St @ Old Pine St',43.579763,-79.710972
 4102,'4102','Thomas St W Of Tenth Line',43.558131,-79.742012
 4103,'4103','Thomas St @ Passion Flower Blvd',43.555288,-79.743903
-4104,'4104','Thomas St @ St Joan Of Arc Secondary School',43.55213,-79.746594
+4104,'4104','Thomas St @ St Joan Of Arc SS',43.55213,-79.746594
 4105,'4105','Churchill Mdws Blvd S Of Rosanna Dr',43.544639,-79.737589
 4111,'4111','Churchill Mdws Blvd @ Deepwood Hts',43.549593,-79.743465
 4112,'4112','Churchill Mdws Blvd @ Thomas St',43.551842,-79.746525
@@ -3061,7 +3061,7 @@
 5772,'5772','Courtneypark Dr @ Mclaughlin Rd',43.626585,-79.70299
 5773,'5773','Courtneypark Dr @ Spinnaker Cir',43.625118,-79.707013
 5774,'5774','Courtneypark Dr @ Mavis Rd',43.624155,-79.711843
-5775,'5775','Courtneypark Dr @ St Marcellinus Secondary School',43.624199,-79.711024
+5775,'5775','Courtneypark Dr @ St Marcellinus SS',43.624199,-79.711024
 5776,'5776','Courtneypark Dr @ Spinnaker Cir',43.62478,-79.708247
 5777,'5777','Courtneypark Dr @ Mclaughlin Rd',43.626164,-79.70321
 5778,'5778','Courtneypark Dr E Of Madill Blvd',43.630723,-79.700261
