@@ -2096,7 +2096,7 @@
 2489,'2489','Tomken Rd @ Meyerside Dr',43.650857,-79.66528
 2490,'2490','Falconer Dr @ Plainsman Rd',43.596351,-79.727984
 2492,'2492','Lorimar Dr E Of Maxwell Rd',43.671044,-79.681516
-2493,'2493','Cardiff Blvd @ Khalsa Dr',43.673332,-79.680064
+2493,'2493','Cardiff Blvd @ Khalsa Dr',43.673644,-79.680396
 2494,'2494','Tomken Rd @ Derry Rd',43.665767,-79.685365
 2495,'2495','Creditview Rd @ Britannia Rd',43.597455,-79.711607
 2496,'2496','Argentia Rd @ Creditview Rd',43.608855,-79.727758
@@ -2110,7 +2110,7 @@
 2506,'2506','Gln Erin Dr @ Credit Vly Rd',43.552755,-79.708054
 2507,'2507','Derry Rd W Of Dixie Rd',43.674467,-79.67545
 2508,'2508','Gln Erin Dr @ Eglinton Ave',43.553932,-79.711817
-2509,'2509','Cardiff Blvd @ Transmark Crt',43.674192,-79.681224
+2509,'2509','Cardiff Blvd @ Transmark Crt',43.673657,-79.683133
 2510,'2510','Cardiff Blvd @ Lorimar Dr',43.669532,-79.6879
 2512,'2512','Old Derry Rd @ Gazette Gt',43.619397,-79.736534
 2513,'2513','Tomken Rd @ Gana Crt',43.666854,-79.686743
@@ -2804,6 +2804,7 @@
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3424,'3424','Erin Mills Sta W P:4',43.552557,-79.699905
 3425,'3425','Erin Mills Sta E P:6',43.552245,-79.699942
+3427,'3427','Cooksville Go Sta P:5',43.581931,-79.624757
 3428,'3428','Cooksville Go Sta P:6',43.582038,-79.624638
 3429,'3429','Cooksville Go Sta P:7',43.582137,-79.624513
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
@@ -3169,6 +3170,7 @@
 9012,'9012','Central Pk Roadway @ Islington Ave',43.648175,-79.52539
 9013,'9013','Bloor St @ Resurrection Rd',43.643157,-79.530726
 9015,'9015','Dundas St @ Acorn Ave',43.637509,-79.538985
+9016,'9016','Dundas St @ Poplar Ave',43.636253,-79.540082
 9017,'9017','Dundas St @ Wilmar Rd',43.634891,-79.54133
 9018,'9018','Dundas St @ Shaver Ave',43.632232,-79.544617
 9019,'9019','Dundas St @ Paulart Dr',43.631376,-79.546671
