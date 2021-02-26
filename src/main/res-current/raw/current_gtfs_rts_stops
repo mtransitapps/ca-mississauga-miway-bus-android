@@ -311,7 +311,6 @@
 380,'0380','Mineola Rd @ Oakes Dr',43.563951,-79.588127
 381,'0381','Mineola Rd @ Broadmoor Ave',43.566644,-79.585228
 382,'0382','Mineola Rd @ Lochlin Trl',43.567479,-79.584317
-383,'0383','Mineola Gdns @ Atwater Ave',43.567813,-79.580755
 384,'0384','Atwater Ave @ Canterbury Rd',43.569126,-79.578495
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
@@ -814,12 +813,8 @@
 980,'0980','Burnhamthorpe Rd W @ Mississauga Rd',43.553317,-79.675309
 981,'0981','Burnhamthorpe Rd W @ Sawmill Vly Dr',43.550278,-79.676692
 982,'0982','Mavis Rd @ 3285 Mavis Rd',43.572363,-79.641764
-983,'0983','Mississauga Rd @ Bridlepath Trl',43.559261,-79.683288
 984,'0984','Mississauga Rd @ Harkiss Rd',43.549041,-79.669225
 985,'0985','Brandon Gt Dr @ Sigsbee Dr',43.73159,-79.632818
-986,'0986','Mississauga Rd @ Bridlepath Trl',43.55922,-79.682831
-987,'0987','Mississauga Rd @ Lapad Crt',43.557831,-79.680286
-988,'0988','Mississauga Rd @ Burnhamthorpe Rd',43.553118,-79.676043
 989,'0989','Mississauga Rd @ Sawmill Vly Dr',43.551537,-79.672513
 990,'0990','S Common Mall Bus Term P:J',43.543095,-79.683727
 991,'0991','U Of Toronto @ Mississauga Campus',43.547809,-79.663549
@@ -827,8 +822,6 @@
 993,'0993','Mississauga Rd @ Dundas St',43.543059,-79.659726
 994,'0994','Mississauga Rd @ Harkiss Rd',43.548965,-79.66888
 995,'0995','Mississauga Rd @ Sawmill Vly Dr',43.551751,-79.673065
-996,'0996','Mississauga Rd @ Burnhamthorpe Rd',43.553118,-79.675313
-997,'0997','Mississauga Rd S Of Paddock Cres Walkway',43.558086,-79.680565
 998,'0998','Winston Churchill Blvd @ Dundas St',43.523365,-79.682103
 999,'0999','Mid-Way Blvd E Of Columbus Rd',43.665217,-79.668211
 1000,'1000','Kimbel St @ 7350 Kimbel St',43.702745,-79.660505
@@ -1432,15 +1425,12 @@
 1697,'1697','Eglinton Ave W @ Sandford Farm Dr',43.58976,-79.671797
 1698,'1698','Hurontario St @ Admiral Blvd',43.643871,-79.702879
 1700,'1700','Eglinton Ave @ Mississauga Rd',43.568869,-79.69592
-1701,'1701','Mississauga Rd @ Eglinton Ave',43.568443,-79.695632
 1702,'1702','Mississauga Rd @ Barbertown Rd',43.571041,-79.699192
 1703,'1703','Queen St @ Reid Dr',43.575302,-79.704971
 1704,'1704','Queen St @ Reid Dr',43.574985,-79.70478
 1705,'1705','Mississauga Rd @ Rothesay Crt',43.57119,-79.69966
 1706,'1706','Mississauga Rd @ Eglinton Ave',43.56873,-79.696357
 1707,'1707','Eglinton Ave E Of Mississauga Rd',43.569067,-79.695074
-1708,'1708','Mississauga Rd @ Badminton Dr',43.563861,-79.689466
-1709,'1709','Mississauga Rd @ Badminton Dr',43.563956,-79.689823
 1712,'1712','Gln Erin Dr @ Thomas St',43.565529,-79.72789
 1714,'1714','Central Pkwy Sta E P:A',43.607769,-79.635966
 1715,'1715','Erin Mills Sta E P:5',43.552589,-79.699554
@@ -1448,11 +1438,9 @@
 1717,'1717','Erin Mills Pky @ Folkway Dr',43.550898,-79.690477
 1718,'1718','Erin Mills Pky @ Burnhamthorpe Rd',43.54659,-79.683861
 1720,'1720','Erin Mills Pky @ Folkway Dr',43.55074,-79.689267
-1722,'1722','Mississauga Rd @ Tattersall Way',43.565886,-79.692493
 1725,'1725','Eglinton Ave @ The Chase',43.565138,-79.699579
 1726,'1726','Cawthra Sta W P:B',43.616483,-79.628971
 1727,'1727','Explorer Dr @ Satellite Dr',43.658686,-79.612947
-1728,'1728','Mississauga Rd @ Tattersall Way',43.565828,-79.692172
 1729,'1729','Carlingview Dr @ Constellation Crt',43.690747,-79.597178
 1730,'1730','Explorer Dr @ Orbitor Dr',43.661599,-79.607892
 1732,'1732','Explorer Dr W Of Orbitor Dr',43.659641,-79.611298
@@ -1970,7 +1958,6 @@
 2353,'2353','Royal Windsor Dr @ Avonhead Rd',43.504867,-79.6364
 2354,'2354','Argentia Rd @ 3050 Argentia Rd',43.595915,-79.78554
 2355,'2355','Old Derry Rd @ Historic Trl',43.624545,-79.730675
-2356,'2356','Mississauga Rd S Of Badminton Dr',43.562967,-79.688445
 2357,'2357','Winston Churchill Blvd @ Hazelton Pl',43.551044,-79.720037
 2358,'2358','Inverhouse Dr S Of Lakeshore Rd',43.512904,-79.62631
 2359,'2359','Inverhouse Dr N Of Bonnymede Dr',43.509758,-79.622286
@@ -2620,7 +2607,6 @@
 3125,'3125','Central Pky @ Erindale Sta Rd',43.567559,-79.655815
 3126,'3126','Mclaughlin Rd @ Cantay Rd',43.62109,-79.695684
 3127,'3127','Rose Cherry Pl @ Paramount Ctr',43.63276,-79.653433
-3128,'3128','Rose Cherry Pl @ Matheson Blvd',43.628404,-79.651683
 3129,'3129','Derry Rd @ Envoy Dr',43.6332,-79.726005
 3130,'3130','Osprey Blvd @ Waxwing Dr',43.565863,-79.757404
 3131,'3131','Whittle Rd @ Britannia Rd',43.627894,-79.676572
@@ -2704,7 +2690,6 @@
 3278,'3278','Derry Rd @ Goreway Dr',43.713239,-79.632375
 3279,'3279','Goreway Dr @ Derry Rd',43.713804,-79.632168
 3280,'3280','Hurontario St @ Robert Speck Pky',43.596079,-79.637923
-3281,'3281','Fairview Rd @ Hurontario St',43.587757,-79.626703
 3282,'3282','Terry Fox Way @ Plymouth Dr',43.606104,-79.699317
 3283,'3283','Central Pky @ Burnhamthorpe Rd',43.601086,-79.625828
 3284,'3284','Central Pky @ Burnhamthorpe Rd',43.601326,-79.626689
