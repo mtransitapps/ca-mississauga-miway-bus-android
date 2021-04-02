@@ -445,7 +445,7 @@
 530,'0530','Speakman Dr @ Flavelle Blvd',43.519344,-79.659831
 532,'0532','Gln Erin Dr @ Britannia Rd',43.574658,-79.738336
 533,'0533','Meadowvale Blvd E Of W Credit Ave',43.61087,-79.75701
-535,'0535','Dundas St W E Of Erin Mills Pky',43.538021,-79.664653
+535,'0535','Dundas St W E Of Erin Mills Pky',43.53748,-79.665198
 536,'0536','Dundas St W @ Sir Johns Homestead',43.539789,-79.662646
 537,'0537','Dundas St W @ Mississauga Rd',43.541797,-79.660311
 539,'0539','Meadowvale Blvd @ Financial Dr',43.614194,-79.751353
@@ -2031,7 +2031,7 @@
 2431,'2431','Queen St S @ Henry St',43.586213,-79.72001
 2432,'2432','Queen St S @ Caroline St',43.584485,-79.717669
 2433,'2433','Queen St S @ Tannery St',43.58199,-79.714315
-2434,'2434','Queen St S @ Pearl St',43.58113,-79.713145
+2434,'2434','Queen St S @ Thomas St',43.580278,-79.712015
 2435,'2435','Queen St @ Barry Ave',43.579201,-79.71051
 2436,'2436','Queen St @ Beech St',43.577089,-79.707682
 2437,'2437','Thomas St @ Joymar Dr',43.577149,-79.715545
@@ -2740,7 +2740,7 @@
 3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714
 3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925
 3362,'3362','Kennedy Rd @ Kenway Dr',43.638049,-79.671706
-3363,'3363','Derry Rd @ Mavis Rd',43.632823,-79.7217
+3363,'3363','Derry Rd @ Mavis Rd',43.632945,-79.721398
 3364,'3364','Derry Rd @ Mavis Rd',43.633187,-79.721782
 3365,'3365','Finch Ave E Of Humberline Dr',43.734511,-79.614179
 3366,'3366','Erin Mills Pky @ Credit Vly Rd',43.556711,-79.702819
@@ -2752,7 +2752,7 @@
 3374,'3374','Steeles Ave E Of Mavis Rd',43.647341,-79.753535
 3375,'3375','Steeles Ave Btwn Mavis Rd/Windmill Blvd',43.649579,-79.751159
 3376,'3376','Camilla Rd @ Paisley Blvd',43.579421,-79.606114
-3377,'3377','Camilla Rd @ Pasiley Blvd',43.57931,-79.605644
+3377,'3377','Camilla Rd @ Paisley Blvd',43.57931,-79.605644
 3378,'3378','Ridgeway Dr S Of Sladeview Cres',43.531197,-79.716634
 3379,'3379','Steeles Ave @ Windmill Blvd',43.653268,-79.747024
 3380,'3380','Ridgeway Dr @ Sladeview Cres',43.527367,-79.713804
@@ -3085,7 +3085,7 @@
 6129,'6129','Hillcrest Ave @ High Spgs Cres',43.575998,-79.628777
 6130,'6130','Hillcrest Ave @ Clayhill Rd',43.57272,-79.631671
 6131,'6131','Hillcrest Ave @ Wheatstone Ave',43.570216,-79.633136
-6132,'6132','Hillcrest Ave @ Mavis Rd',43.568319,-79.635626
+6132,'6132','Hillcrest Ave @ Mavis Rd',43.568338,-79.635656
 6133,'6133','Mavis Rd @ Novo Star Dr',43.630169,-79.719797
 6134,'6134','Derry Rd @ Bellshire Gt',43.621559,-79.742363
 6137,'6137','Hillcrest Ave W Of Pearwood Pl',43.57461,-79.630902
