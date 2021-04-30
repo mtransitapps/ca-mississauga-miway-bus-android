@@ -68,7 +68,6 @@
 85,'0085','City Ctr TT P:L',43.594021,-79.647341
 87,'0087','Mavis Rd @ Courtneypark Dr',43.623792,-79.711615
 88,'0088','Lisgar Dr @ Berryman Tr',43.570222,-79.777561
-90,'0090','Mavis Rd S Of Central Pky W',43.572442,-79.642394
 91,'0091','Derry Rd @ Forest Pk Dr',43.581178,-79.779074
 92,'0092','Derry Rd W Of Tenth Line',43.584204,-79.775718
 93,'0093','Winston Churchill Blvd @ Vanderbilt Rd',43.58491,-79.766847
@@ -467,7 +466,6 @@
 557,'0557','Homelands Dr @ Pyramid Cres',43.525178,-79.662857
 558,'0558','Sheridan Pk Dr E Of Speakman Dr',43.527213,-79.660535
 559,'0559','Sheridan Pk Dr @ 5th Line W',43.529121,-79.658538
-562,'0562','Trillium Hosp Bus Term',43.572161,-79.60926
 563,'0563','Sheridan Ctr Bus Term P:B',43.530089,-79.651673
 564,'0564','Lincoln Grn Way @ Lincoln Grn Way',43.531872,-79.654727
 565,'0565','Fowler Dr @ Roche Crt',43.528029,-79.651842
@@ -501,7 +499,6 @@
 597,'0597','City Ctr TT P:J',43.593878,-79.646706
 598,'0598','Sheridan Ctr Bus Term P:A',43.530486,-79.651751
 599,'0599','Eglinton Ave W @ Erin Mills Pky',43.559412,-79.705906
-600,'0600','Glengarry Rd @ Dundas St',43.556736,-79.642102
 601,'0601','Matheson Blvd @ Mavis Rd',43.608421,-79.690164
 602,'0602','Matheson Blvd @ Venice St',43.610327,-79.68757
 603,'0603','Matheson Blvd E Of Kennedy Rd',43.626341,-79.654487
@@ -556,8 +553,6 @@
 666,'0666','City Ctr Dr @ Sq One Dr',43.596226,-79.642143
 667,'0667','Eglinton Ave @ The Chase',43.565651,-79.699507
 670,'0670','Dundas St @ Cornerbrook Pl',43.553063,-79.647546
-671,'0671','Cedarglen Gt @ Hemus Sq',43.559502,-79.638487
-672,'0672','Cedarglen Gt @ Parmeer Dr',43.557422,-79.640007
 673,'0673','Cantay Rd W Of Foster Cres',43.624454,-79.687518
 675,'0675','Dundas St @ Liruma Rd',43.530509,-79.672949
 677,'0677','Central Pky W S Of Burnhamthorpe Rd',43.567222,-79.66246
@@ -812,7 +807,6 @@
 978,'0978','Columbus Rd @ 6830 Columbus Rd',43.66821,-79.673987
 980,'0980','Burnhamthorpe Rd W @ Mississauga Rd',43.553317,-79.675309
 981,'0981','Burnhamthorpe Rd W @ Sawmill Vly Dr',43.550278,-79.676692
-982,'0982','Mavis Rd @ 3285 Mavis Rd',43.572363,-79.641764
 984,'0984','Mississauga Rd @ Harkiss Rd',43.549041,-79.669225
 985,'0985','Brandon Gt Dr @ Sigsbee Dr',43.73159,-79.632818
 989,'0989','Mississauga Rd @ Sawmill Vly Dr',43.551537,-79.672513
@@ -2789,9 +2783,12 @@
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3424,'3424','Erin Mills Sta W P:4',43.552557,-79.699905
 3425,'3425','Erin Mills Sta E P:6',43.552245,-79.699942
+3426,'3426','Cooksville Go Sta P:4',43.581821,-79.624907
 3427,'3427','Cooksville Go Sta P:5',43.581931,-79.624757
 3428,'3428','Cooksville Go Sta P:6',43.582038,-79.624638
 3429,'3429','Cooksville Go Sta P:7',43.582137,-79.624513
+3430,'3430','Mavis Rd @ Dundas St',43.566764,-79.633696
+3431,'3431','Mavis Rd @ Dundas St',43.566469,-79.633889
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.489901,-79.636403
@@ -3059,8 +3056,6 @@
 5784,'5784','Millcreek Dr @ Derry Rd',43.597223,-79.760636
 6000,'6000','City Ctr TT Drop Off',43.594363,-79.646651
 6002,'6002','Meadowvale Town Ctr Drop Off',43.583782,-79.759017
-6101,'6101','Mavis Rd N Of Hillcrest Ave',43.569908,-79.638277
-6102,'6102','Mavis Rd @ Central Pky',43.575019,-79.645531
 6105,'6105','Mavis Rd @ Winterton Way',43.595676,-79.674949
 6106,'6106','Mavis Rd @ Bristol Rd',43.598884,-79.680566
 6107,'6107','Mavis Rd @ Lafayette Dr',43.602845,-79.685163
@@ -3077,7 +3072,6 @@
 6118,'6118','Mavis Rd @ Bristol Rd',43.599109,-79.681342
 6119,'6119','Mavis Rd @ Winterton Way',43.595693,-79.675581
 6120,'6120','Derry Rd @ Atwood Ln',43.621077,-79.741902
-6123,'6123','Mavis Rd @ 3240 Mavis Rd',43.570015,-79.638906
 6124,'6124','Mavis Rd @ Cantay Rd',43.616994,-79.702081
 6125,'6125','Mavis Rd @ Britannia Rd',43.612155,-79.69615
 6127,'6127','Hillcrest Ave @ Confederation Pky',43.579382,-79.624167
@@ -3085,7 +3079,6 @@
 6129,'6129','Hillcrest Ave @ High Spgs Cres',43.575998,-79.628777
 6130,'6130','Hillcrest Ave @ Clayhill Rd',43.57272,-79.631671
 6131,'6131','Hillcrest Ave @ Wheatstone Ave',43.570216,-79.633136
-6132,'6132','Hillcrest Ave @ Mavis Rd',43.568338,-79.635656
 6133,'6133','Mavis Rd @ Novo Star Dr',43.630169,-79.719797
 6134,'6134','Derry Rd @ Bellshire Gt',43.621559,-79.742363
 6137,'6137','Hillcrest Ave W Of Pearwood Pl',43.57461,-79.630902
