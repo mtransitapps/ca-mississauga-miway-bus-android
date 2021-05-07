@@ -364,7 +364,7 @@
 443,'0443','Lakeshore Rd E @ Dixie Rd',43.583999,-79.551056
 444,'0444','Lakeshore Rd E E Of Deta Rd',43.586114,-79.548875
 445,'0445','Lakeshore Rd E E Of Isl Rd',43.587742,-79.547325
-446,'0446','Long Branch Go Sta',43.592019,-79.543867
+446,'0446','Long Branch Go Sta P:A',43.592019,-79.543867
 447,'0447','Lakeshore Rd W Of Forty-3rd St',43.587308,-79.548135
 448,'0448','Lakeshore Rd E @ Deta Rd',43.585913,-79.549351
 449,'0449','Ogden Ave @ Delco Ave',43.58368,-79.567909
@@ -1409,7 +1409,7 @@
 1682,'1682','Sheridan Ctr Bus Term P:C',43.529917,-79.651652
 1684,'1684','Winston Churchill Blvd @ Royal Windsor Dr',43.496397,-79.645311
 1687,'1687','Westwood Sq Bus Term P:D',43.721596,-79.640667
-1689,'1689','Erin Mills Town Ctr Bus Term P:F',43.560412,-79.71083
+1689,'1689','Erin Mills Town Ctr Bus Term P:C',43.560412,-79.71083
 1690,'1690','Cawthra Sta E P:A',43.616433,-79.628585
 1691,'1691','Webb Dr W Of Duke Of York Blvd',43.586451,-79.64079
 1693,'1693','Britannia Rd @ Tenth Line',43.564065,-79.749429
@@ -2622,7 +2622,6 @@
 3149,'3149','Eglinton Ave @ Tahoe Blvd',43.644403,-79.61072
 3160,'3160','Central Pky W Of Mavis Rd',43.573923,-79.647277
 3163,'3163','Courtneypark Dr W Of Kennedy Rd',43.647065,-79.685352
-3168,'3168','Mavis Rd @ Paisley Blvd',43.563204,-79.62804
 3169,'3169','Dundas St W W Of Mavis Rd',43.56556,-79.633794
 3175,'3175','Tours Rd @ Winston Churchill Blvd',43.573546,-79.751846
 3180,'3180','Coopers Ave @ Kennedy Rd',43.631308,-79.662056
@@ -2763,8 +2762,6 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.599883,-79.715359
 3392,'3392','Creditview Rd @ Britannia Rd',43.597696,-79.712478
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
-3397,'3397','Streetsville Go W Entrance',43.577901,-79.713802
-3398,'3398','Thomas St Opp Emby Dr',43.578667,-79.713497
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.555098,-79.720236
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55726,-79.717961
 3402,'3402','Erin Mills Town Ctr Bus Term P:B',43.560493,-79.710736
@@ -2787,7 +2784,7 @@
 3427,'3427','Cooksville Go Sta P:5',43.581931,-79.624757
 3428,'3428','Cooksville Go Sta P:6',43.582038,-79.624638
 3429,'3429','Cooksville Go Sta P:7',43.582137,-79.624513
-3430,'3430','Mavis Rd @ Dundas St',43.566764,-79.633696
+3430,'3430','Mavis Rd @ Dundas St',43.567117,-79.634212
 3431,'3431','Mavis Rd @ Dundas St',43.566469,-79.633889
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102
@@ -2956,6 +2953,7 @@
 4915,'4915','Thomas St E Of Erin Mills Pky',43.570212,-79.721846
 4916,'4916','Thomas St @ Highbank Rd',43.571007,-79.720914
 4917,'4917','Thomas St @ Northrise Rd',43.572216,-79.719564
+4918,'4918','Thomas St E Of Joymar Dr',43.578,-79.714215
 4920,'4920','Streetsville Go Sta P:3',43.575484,-79.71057
 4921,'4921','Thomas St @ Wareham Dr',43.572549,-79.719507
 4922,'4922','Thomas St @ Erin Mills Pky',43.570379,-79.721955
@@ -3187,7 +3185,7 @@
 9055,'9055','Burnhamthorpe Rd @ Royalavon Cres',43.650691,-79.53628
 9056,'9056','Kipling Term P:3',43.635409,-79.538866
 9057,'9057','Kipling Term P:4',43.635582,-79.538692
-9058,'9058','Sherway Gdns Bus Term',43.610018,-79.558305
+9058,'9058','Sherway Gdns Bus Term P:A',43.610018,-79.558305
 9059,'9059','Kipling Term P:5',43.635705,-79.538519
 9060,'9060','The W Mall S Of The Queensway',43.610893,-79.561483
 9061,'9061','Kipling Term P:6',43.635816,-79.538378
