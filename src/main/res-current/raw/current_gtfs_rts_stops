@@ -272,6 +272,7 @@
 340,'0340','Eglinton Ave W @ Forum Dr',43.611575,-79.647846
 341,'0341','Ann St @ Pk St',43.556109,-79.584534
 342,'0342','Port Credit Go Sta P:6',43.555506,-79.587408
+344,'0344','Port Credit Go Sta P:5',43.555675,-79.587255
 345,'0345','Elizabeth St @ Pk St',43.55439,-79.586716
 346,'0346','Winston Churchill Blvd @ Aquitaine Ave',43.582304,-79.763234
 348,'0348','Port Credit Go Sta P:8',43.55531,-79.587623
@@ -656,7 +657,7 @@
 807,'0807','Middlegate Rd @ 1004 Middlegate Rd',43.597063,-79.586798
 809,'0809','Haines Rd S Of Dundas St',43.594328,-79.592285
 810,'0810','Haines Rd @ Dundas St',43.597252,-79.596339
-811,'0811','Dundas St @ Aukland Rd',43.638667,-79.538002
+811,'0811','Dundas St @ Aukland Rd',43.638385,-79.5382
 812,'0812','Meadowvale Town Ctr Bus Term P:G',43.583367,-79.758295
 813,'0813','Kariya Gt @ City Ctr Dr',43.592117,-79.638706
 815,'0815','Dundas St @ Billingham Rd',43.630623,-79.549056
@@ -1747,7 +1748,7 @@
 2144,'2144','Matheson Blvd @ Orbitor Dr',43.657819,-79.603614
 2145,'2145','Matheson Blvd @ Explorer Dr',43.662453,-79.598942
 2147,'2147','Skymark Ave @ Explorer Dr',43.661243,-79.595721
-2149,'2149','Tranmere Dr @ Telford Way',43.681022,-79.67079
+2149,'2149','Tranmere Dr @ Telford Way',43.681447,-79.670243
 2151,'2151','Eglinton Ave E Of White Clover Way',43.581787,-79.680766
 2153,'2153','Millers Grv @ Colebrook Cres',43.573416,-79.759775
 2154,'2154','Millers Grv @ Arnett Crt',43.574848,-79.760612
@@ -3068,7 +3069,7 @@
 6183,'6183','Mavis Rd S Of Twain Ave',43.636909,-79.727563
 6184,'6184','Mavis Rd @ Envoy Dr',43.635631,-79.725197
 6202,'6202','Webb Dr @ Confederation Pky',43.583489,-79.643749
-6203,'6203','Webb Dr @ Confederation Pky',43.583893,-79.643672
+6203,'6203','Webb Dr @ Confederation Pky',43.584619,-79.642875
 6602,'6602','Mclaughlin Rd @ Courtneypark Dr',43.626281,-79.70266
 6604,'6604','Mclaughlin Rd @ Ramonet Dr',43.632119,-79.710669
 6605,'6605','Mclaughlin Rd @ Arrowsmith Dr',43.634451,-79.713854
