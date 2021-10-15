@@ -2245,7 +2245,7 @@
 2705,'2705','York St @ Scarboro St',43.705488,-79.648777
 2706,'2706','Tomken Sta E P:A',43.621769,-79.623491
 2707,'2707','Goreway Dr @ Dorcas St',43.71519,-79.634035
-2708,'2708','Westwood Sq Bus Term P:H',43.721326,-79.640559
+2708,'2708','Westwood Sq Bus Term P:H',43.721617,-79.64023
 2709,'2709','Derry Rd @ Legion Rd',43.70967,-79.636258
 2713,'2713','Avebury Rd N Of Aldridge St',43.621005,-79.67883
 2714,'2714','Avebury Rd S Of Aldridge St',43.61942,-79.677279
@@ -2772,7 +2772,9 @@
 3414,'3414','Bristol Rd W @ Mavis Rd',43.599148,-79.680808
 3415,'3415','Bristol Rd W @ Heatherleigh Ave',43.597232,-79.683315
 3416,'3416','Bristol Rd E @ Hurontario St',43.614195,-79.663712
+3417,'3417','Erin Ctr Blvd @ Longford Dr',43.541565,-79.738053
 3418,'3418','Admiral Blvd @ Edwards Blvd',43.645209,-79.699391
+3419,'3419','Churchill Mdws CC',43.540203,-79.741985
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334
 3424,'3424','Erin Mills Sta W P:4',43.552557,-79.699905
 3425,'3425','Erin Mills Sta E P:6',43.552245,-79.699942
@@ -2896,7 +2898,7 @@
 4502,'4502','Winston Churchill Blvd @ Benedet Dr',43.507383,-79.660355
 4505,'4505','Winston Churchill Blvd @ Burnhamthorpe Rd',43.536175,-79.699781
 4506,'4506','Winston Churchill Blvd @ Unity Gt',43.53942,-79.70413
-4507,'4507','Winston Churchill Blvd @ Credit Vly Rd',43.546736,-79.714087
+4507,'4507','Winston Churchill Blvd @ Credit Vly Rd',43.547109,-79.714533
 4508,'4508','Clarkson Go Sta P:8',43.512603,-79.63306
 4509,'4509','Winston Pk Dr @ Plymouth Dr',43.510148,-79.674938
 4510,'4510','Derry Rd @ Copenhagen Rd',43.591037,-79.768147
@@ -3128,7 +3130,7 @@
 6813,'6813','Guildwood Way @ Bluesky Cres',43.598156,-79.66901
 6814,'6814','Guildwood Way @ Constellation Dr',43.596371,-79.667327
 6880,'6880','Financial Dr S Of Syntex Crt',43.609308,-79.745097
-7100,'7100','Westwood Sq Bus Term P:K',43.721882,-79.640868
+7100,'7100','Westwood Sq Bus Term P:I',43.721882,-79.640868
 7200,'7200','Humber College N Campus P:8',43.729206,-79.604957
 7201,'7201','Humber College N Campus P:1',43.729268,-79.605653
 9000,'9000','Islington Subway',43.645061,-79.523734
