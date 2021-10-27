@@ -2100,7 +2100,6 @@
 2520,'2520','Dixie Rd @ Courtneypark Dr',43.66356,-79.658995
 2521,'2521','Dixie Rd @ Meyerside Dr',43.660568,-79.65492
 2529,'2529','Netherhart Rd @ 6227 Netherhart Rd',43.665269,-79.643553
-2533,'2533','Financial Dr @ 6696 Financial Dr',43.61062,-79.738316
 2536,'2536','Hurontario St S Of Central Pky W',43.58851,-79.628419
 2538,'2538','Netherhart Rd @ Romani Crt',43.662639,-79.64195
 2539,'2539','Netherhart Rd N Of Romani Crt',43.664119,-79.643789
@@ -2370,7 +2369,6 @@
 2845,'2845','Morning Star Dr @ Brandon Gt Dr',43.72528,-79.627735
 2846,'2846','Morning Star Dr @ Harwick Dr',43.725268,-79.632019
 2847,'2847','Morning Star Dr @ Wainbrook Rd',43.724818,-79.634264
-2848,'2848','Westwood Sq Bus Term P:J',43.721635,-79.640207
 2849,'2849','Westwood Sq Bus Term P:E',43.721799,-79.640496
 2850,'2850','Westwood Sq Bus Term P:A',43.721735,-79.640971
 2851,'2851','John Garland Blvd @ Finch Ave',43.735636,-79.594554
@@ -2629,7 +2627,6 @@
 3199,'3199','S Common Ctr Bus Term P:G',43.544028,-79.684715
 3200,'3200','Derry Rd @ Syntex Dr',43.604836,-79.754446
 3201,'3201','Derry Rd @ Mississauga Rd',43.609595,-79.752452
-3202,'3202','Derry Rd @ Creditview Rd',43.613825,-79.744842
 3203,'3203','Mcdowell Dr @ Churchill Mdws Blvd',43.555854,-79.752831
 3204,'3204','Mcdowell Dr @ Delle Donne Dr',43.559159,-79.748763
 3205,'3205','Mcdowell Dr @ Delle Donne Dr',43.559402,-79.748758
@@ -2881,11 +2878,8 @@
 4115,'4115','Thomas St @ Passion Flower Blvd',43.554945,-79.743811
 4116,'4116','Thomas St @ Tenth Line',43.558357,-79.741314
 4117,'4117','Thomas St @ Oscar Peterson Blvd',43.559554,-79.73752
-4118,'4118','Churchill Mdws Blvd S Of Quiet Crk Dr',43.54212,-79.733668
-4119,'4119','Churchill Mdws Blvd @ Stardust Dr',43.53925,-79.731488
 4120,'4120','Churchill Mdws Blvd @ Tacc Dr',43.547475,-79.74086
 4121,'4121','Churchill Mdws Blvd N Of Placid Pl',43.544671,-79.737217
-4122,'4122','Churchill Mdws Blvd @ Eglinton Ave',43.538354,-79.72958
 4123,'4123','Churchill Mdws Blvd N Of Swiftdale Dr',43.550387,-79.744426
 4124,'4124','Churchill Mdws Blvd @ Erin Ctr Blvd',43.543281,-79.736144
 4125,'4125','Thomas St @ Tenth Line',43.55868,-79.741196
