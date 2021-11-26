@@ -237,10 +237,10 @@
 298,'0298','Erin Mills Pky @ Mcfarren Blvd',43.567683,-79.718372
 299,'0299','Erin Mills Pky @ Banfield Rd',43.567353,-79.718713
 302,'0302','Elizabeth St @ Lakeshore Rd',43.553109,-79.584381
-303,'0303','Front St @ John St',43.550528,-79.588242
+303,'0303','Front St @ John St',43.550588,-79.588577
 304,'0304','Hurontario St N Of Mineola Rd E',43.563205,-79.592627
 305,'0305','Hurontario St S Of Indian Vly Trl',43.562724,-79.592254
-306,'0306','Front St @ Pk St',43.550773,-79.589883
+306,'0306','Front St @ Pk St',43.550795,-79.590281
 307,'0307','Tranmere Dr @ 7875 Tranmere Dr',43.680094,-79.672286
 308,'0308','Tranmere Dr W Of Telford Way',43.680643,-79.673106
 309,'0309','Dixie Rd S Of Mid-Way Blvd',43.666359,-79.662704
@@ -2074,7 +2074,7 @@
 2489,'2489','Tomken Rd @ Meyerside Dr',43.650857,-79.66528
 2490,'2490','Falconer Dr @ Plainsman Rd',43.596351,-79.727984
 2492,'2492','Lorimar Dr E Of Maxwell Rd',43.671044,-79.681516
-2493,'2493','Cardiff Blvd @ Khalsa Dr',43.673644,-79.680396
+2493,'2493','Cardiff Blvd @ Khalsa Dr',43.673615,-79.680399
 2494,'2494','Tomken Rd @ Derry Rd',43.665767,-79.685365
 2495,'2495','Creditview Rd @ Britannia Rd',43.597455,-79.711607
 2496,'2496','Argentia Rd @ Creditview Rd',43.608855,-79.727758
@@ -2088,7 +2088,7 @@
 2506,'2506','Gln Erin Dr @ Credit Vly Rd',43.552755,-79.708054
 2507,'2507','Derry Rd W Of Dixie Rd',43.674467,-79.67545
 2508,'2508','Gln Erin Dr @ Eglinton Ave',43.553932,-79.711817
-2509,'2509','Cardiff Blvd @ Transmark Crt',43.673657,-79.683133
+2509,'2509','Cardiff Blvd @ Transmark Crt',43.673655,-79.683136
 2510,'2510','Cardiff Blvd @ Lorimar Dr',43.669532,-79.6879
 2513,'2513','Tomken Rd @ Gana Crt',43.666854,-79.686743
 2514,'2514','Derry Rd @ Tomken Rd',43.666147,-79.684005
@@ -3116,7 +3116,7 @@
 6621,'6621','Mclaughlin Rd @ Rothschild Trl',43.63236,-79.711369
 6622,'6622','Mclaughlin Rd @ Navigator Dr',43.62842,-79.706025
 6623,'6623','Mclaughlin Rd @ Courtneypark Dr',43.626418,-79.703415
-6624,'6624','Sheridan College Brampton Campus',43.65688,-79.741224
+6624,'6624','Sheridan College Brampton Campus',43.656933,-79.741386
 6627,'6627','Mclaughlin Rd @ 6150 Mclaughlin Rd',43.618964,-79.693214
 6670,'6670','Mclaughlin Rd @ Rossellini Dr',43.643182,-79.725633
 6810,'6810','Winterton Way @ Stapleford Ter',43.599668,-79.671343
