@@ -398,11 +398,13 @@
 485,'0485','Speakman Dr @ Hadwen Rd',43.521974,-79.657607
 486,'0486','Speakman Dr S Of Sheridan Pk Dr',43.515792,-79.669473
 487,'0487','Speakman Dr @ 2660 Speakman Dr',43.513583,-79.666194
+488,'0488','Cawthra Seniors Bldg @ Arbor Crt',43.57844,-79.575861
 489,'0489','Speakman Dr S Of Sheridan Pk Dr',43.516018,-79.669568
 490,'0490','U Of Toronto @ Mississauga Campus',43.547843,-79.663744
 491,'0491','Cawthra Rd @ Queensway',43.589521,-79.592385
 493,'0493','Cawthra Rd @ Arbor Crt',43.577371,-79.57684
 494,'0494','Winterton Way @ Astwell Ave',43.597287,-79.674047
+495,'0495','Cawthra Seniors Bldg @ Arbor Crt',43.57837,-79.576061
 496,'0496','Cawthra Rd @ S Service Rd',43.580399,-79.580658
 497,'0497','Cawthra Rd @ N Service Rd',43.585597,-79.586679
 498,'0498','Cawthra Rd @ Tedwyn Dr',43.58679,-79.588522
@@ -1142,8 +1144,12 @@
 1365,'1365','Mississauga Vly Blvd @ Daralea Hts',43.600668,-79.62196
 1367,'1367','Mississauga Vly Blvd @ Hyacinthe Blvd',43.601226,-79.61595
 1368,'1368','Mississauga Vly Blvd @ Bloor St',43.599238,-79.613122
+1370,'1370','Fairview Rd @ Joan Dr',43.583951,-79.630479
+1371,'1371','Fairview Rd @ Hanson Rd',43.586317,-79.628023
+1372,'1372','Fairview Rd @ Hurontario St',43.587294,-79.626886
 1373,'1373','Confederation Pky @ Central Pky W',43.582953,-79.635865
 1374,'1374','Meadowvale Town Ctr Bus Term P:I',43.583658,-79.758549
+1375,'1375','Fairview Rd @ Burdock Pl',43.588497,-79.625087
 1376,'1376','Garthwood Rd @ Loyalist Dr',43.528282,-79.693033
 1377,'1377','Dundas St W Of Dixie Rd',43.608724,-79.584837
 1378,'1378','Dundas St @ Queen Frederica Dr',43.606592,-79.587204
@@ -3095,6 +3101,7 @@
 6184,'6184','Mavis Rd @ Envoy Dr',43.635631,-79.725197
 6202,'6202','Webb Dr @ Confederation Pky',43.583489,-79.643749
 6203,'6203','Webb Dr @ Confederation Pky',43.584619,-79.642875
+6600,'6600','Sheridan College Brampton Campus',43.656819,-79.741145
 6602,'6602','Mclaughlin Rd @ Courtneypark Dr',43.626281,-79.70266
 6604,'6604','Mclaughlin Rd @ Ramonet Dr',43.632119,-79.710669
 6605,'6605','Mclaughlin Rd @ Arrowsmith Dr',43.634451,-79.713854
