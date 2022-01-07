@@ -679,7 +679,6 @@
 825,'0825','Ceremonial Dr @ Fairwind Dr',43.604502,-79.662724
 826,'0826','Dundas St E Of Haines Rd',43.598795,-79.595316
 827,'0827','Dundas St W Of Tomken Rd',43.598756,-79.595775
-828,'0828','Meadowvale Blvd @ Tottington Dr',43.614818,-79.749196
 829,'0829','Meadowvale Blvd @ Financial Dr',43.614531,-79.750962
 830,'0830','Tours Rd @ Edenwood Dr',43.572897,-79.75342
 831,'0831','Dundas St E Of Dixie Rd',43.609369,-79.583554
@@ -1177,7 +1176,6 @@
 1404,'1404','Rathburn Rd W Of Elora Dr',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr',43.584849,-79.653721
 1406,'1406','City Ctr TT P:A',43.594748,-79.646556
-1407,'1407','Goreway Dr @ Nashua Dr',43.710682,-79.622162
 1408,'1408','City Ctr TT P:O',43.594234,-79.647358
 1410,'1410','Creditview Rd @ Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr @ Castlebridge Dr',43.568218,-79.731648
@@ -1531,7 +1529,6 @@
 1850,'1850','Argentia Rd @ 3050 Argentia Rd',43.59595,-79.785515
 1851,'1851','Milverton Dr @ Hurontario St',43.620778,-79.672633
 1852,'1852','Edwards Blvd @ Statesman Dr',43.651053,-79.708271
-1853,'1853','Goreway Dr @ Nashua Dr',43.710565,-79.622655
 1854,'1854','Bristol Rd W @ Kinglet Ave',43.592848,-79.688118
 1857,'1857','Bristol Rd W @ Mclaughlin Rd',43.602333,-79.67204
 1861,'1861','Central Pky @ Copernicus Dr',43.581508,-79.638499
@@ -1830,7 +1827,6 @@
 2215,'2215','Rose Cherry Pl @ Coopers Ave',43.632779,-79.660027
 2216,'2216','Hurontario St @ Strathhaven Dr',43.610246,-79.658099
 2217,'2217','Bloor St @ Mississauga Vly Blvd',43.598902,-79.612894
-2218,'2218','American Dr @ Viscount Rd',43.691717,-79.618838
 2219,'2219','Cawthra Rd @ Santee Gt',43.59925,-79.606741
 2220,'2220','Cawthra Rd @ Silver Crk Blvd',43.597208,-79.603926
 2221,'2221','Cawthra Rd @ Silver Crk Blvd',43.5969,-79.602991
@@ -2399,7 +2395,6 @@
 2872,'2872','Darcel Ave @ Monica Dr',43.72694,-79.639318
 2873,'2873','Darcel Ave @ Middleshire Dr',43.730457,-79.635948
 2874,'2874','Finch Ave @ Humberline Dr',43.734907,-79.618202
-2875,'2875','Westwood Sq Bus Term P:G',43.721431,-79.64081
 2876,'2876','Darcel Ave @ Monica Dr',43.727105,-79.639563
 2877,'2877','Darcel Ave @ Middleshire Dr',43.730486,-79.636134
 2879,'2879','Rexdale Blvd @ Precision Rd',43.71589,-79.589355
@@ -2892,7 +2887,6 @@
 4204,'4204','Financial Dr @ 6745 Financial Dr',43.609642,-79.741704
 4205,'4205','Financial Dr W Of Creditview Rd',43.610548,-79.739275
 4213,'4213','Hurontario St @ Kingsway Dr',43.647298,-79.708048
-4300,'4300','S Common Ctr Bus Term P:B',43.543064,-79.683335
 4500,'4500','Royal Windsor Dr @ Winston Churchill Blvd',43.497174,-79.645207
 4501,'4501','Winston Churchill Blvd @ Bromsgrove Rd',43.500519,-79.650933
 4502,'4502','Winston Churchill Blvd @ Benedet Dr',43.507383,-79.660355
@@ -3044,10 +3038,6 @@
 5778,'5778','Courtneypark Dr E Of Madill Blvd',43.630723,-79.700261
 5779,'5779','Courtneypark Dr @ Kateson Dr',43.63398,-79.697711
 5780,'5780','Courtneypark Dr @ Hurontario St',43.636895,-79.694314
-5781,'5781','Millcreek Dr @ Derry Rd',43.596913,-79.760259
-5782,'5782','Millcreek Dr @ Aquitaine Ave',43.595204,-79.756305
-5783,'5783','Millcreek Dr @ Aquitaine Ave',43.595434,-79.756746
-5784,'5784','Millcreek Dr @ Derry Rd',43.597223,-79.760636
 6000,'6000','City Ctr TT Drop Off',43.594363,-79.646651
 6002,'6002','Meadowvale Town Ctr Drop Off',43.583782,-79.759017
 6105,'6105','Mavis Rd @ Winterton Way',43.595676,-79.674949
@@ -3131,9 +3121,7 @@
 6813,'6813','Guildwood Way @ Bluesky Cres',43.598156,-79.66901
 6814,'6814','Guildwood Way @ Constellation Dr',43.596371,-79.667327
 6880,'6880','Financial Dr S Of Syntex Crt',43.609308,-79.745097
-7100,'7100','Westwood Sq Bus Term P:I',43.721882,-79.640868
 7200,'7200','Humber College N Campus P:8',43.729206,-79.604957
-7201,'7201','Humber College N Campus P:1',43.729268,-79.605653
 9000,'9000','Islington Subway',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
@@ -3182,7 +3170,6 @@
 9053,'9053','Burnhamthorpe Rd @ Burnhamthorpe Cr',43.649502,-79.530813
 9054,'9054','Burnhamthorpe Rd @ Burnhamthorpe Pk Blvd',43.650485,-79.534018
 9055,'9055','Burnhamthorpe Rd @ Royalavon Cres',43.650691,-79.53628
-9056,'9056','Kipling Term P:3',43.635409,-79.538866
 9057,'9057','Kipling Term P:4',43.635582,-79.538692
 9058,'9058','Sherway Gdns Bus Term P:A',43.610018,-79.558305
 9059,'9059','Kipling Term P:5',43.635705,-79.538519
