@@ -77,6 +77,7 @@
 97,'0097','Hurontario St @ Courtneypark Dr W',43.637231,-79.694567
 98,'0098','Hurontario St S Of Prologis Blvd',43.634862,-79.691395
 99,'0099','Meadowvale Blvd @ Tottington Dr',43.615138,-79.748817
+100,'0100','Clarkson Go Sta P:9',43.512574,-79.633008
 101,'0101','Clarkson Go Sta P:5',43.512821,-79.632839
 103,'0103','Southdown Rd @ S Sheridan Way',43.521694,-79.644584
 104,'0104','Southdown Rd @ Truscott Dr',43.518646,-79.640408
@@ -129,6 +130,7 @@
 155,'0155','Gln Erin Dr @ Burnford Trl',43.562565,-79.722888
 156,'0156','Gln Erin Dr N Of Burnford Trl',43.564162,-79.725641
 157,'0157','Gln Erin Dr N Of Thomas St',43.566364,-79.729284
+158,'0158','Robert Speck Pky @ Mdws Blvd',43.59776,-79.632421
 160,'0160','Gln Erin Dr @ Folkway Dr',43.547214,-79.699792
 161,'0161','Gln Erin Dr S Of Rolling Vly Dr',43.545002,-79.694566
 162,'0162','Gln Erin Dr @ Romark Mews Walkway',43.544323,-79.693405
@@ -433,6 +435,7 @@
 523,'0523','Dundas St @ Dunwin Dr',43.533062,-79.670245
 524,'0524','Dundas St @ 5th Line W',43.535318,-79.667658
 525,'0525','Speakman Dr @ 2650 Speakman Dr',43.513928,-79.66412
+526,'0526','Erin Mills Pky @ Leanne Blvd',43.527462,-79.652622
 527,'0527','The Collegeway @ Ridgeway Dr',43.523842,-79.704031
 529,'0529','Lakeshore Rd @ Avonhead Rd',43.492314,-79.618292
 530,'0530','Speakman Dr @ Flavelle Blvd',43.519344,-79.659831
@@ -849,6 +852,7 @@
 1032,'1032','S Millway @ Buttonbush Cres',43.5408,-79.678306
 1033,'1033','S Millway @ 5th Line W',43.539546,-79.674236
 1034,'1034','Erin Mills Pky S Of S Millway',43.539923,-79.671072
+1035,'1035','Dundas St @ Mississauga Rd',43.542315,-79.659953
 1036,'1036','Dundas St @ Redstart Dr',43.539304,-79.663523
 1037,'1037','Dundas St E Of Erin Mills Pky',43.537813,-79.665363
 1038,'1038','Erin Mills Pky @ Erindale SS',43.538458,-79.668208
@@ -873,6 +877,7 @@
 1059,'1059','Meadowvale Blvd @ Rapistan Crt',43.603919,-79.765356
 1060,'1060','Meadowvale Blvd E Of Rapistan Crt',43.604441,-79.761963
 1061,'1061','Mdws Blvd @ Prince George Ave',43.601464,-79.629735
+1062,'1062','S Common Ctr Bus Term P:H',43.543479,-79.684238
 1063,'1063','The Collegeway @ S Commom Ctr Access Rd',43.54341,-79.680588
 1065,'1065','Dixie Rd @ Mid-Way Blvd',43.668338,-79.665506
 1066,'1066','Mdws Blvd @ Prince George Ave',43.601699,-79.629767
@@ -1172,6 +1177,7 @@
 1404,'1404','Rathburn Rd W Of Elora Dr',43.586443,-79.652979
 1405,'1405','Rathburn Rd @ Elora Dr',43.584849,-79.653721
 1406,'1406','City Ctr TT P:A',43.594748,-79.646556
+1408,'1408','City Ctr TT P:O',43.594234,-79.647358
 1410,'1410','Creditview Rd @ Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr @ Castlebridge Dr',43.568218,-79.731648
 1412,'1412','Creditview Rd @ Melia Dr',43.569395,-79.670436
@@ -2144,6 +2150,7 @@
 2590,'2590','Derry Rd @ Edwards Blvd',43.649051,-79.703127
 2591,'2591','Cardiff Blvd E Of Tomken Rd',43.671585,-79.685561
 2592,'2592','Kitimat Rd @ Mississauga Rd',43.597228,-79.733841
+2593,'2593','Robert Speck Pky N Of Burnhamthorpe Rd',43.597577,-79.631483
 2594,'2594','Creditview Rd S Of Derry Rd',43.613432,-79.743803
 2595,'2595','Netherhart Rd S Of Courtneypark Dr',43.67147,-79.647841
 2596,'2596','Courtneypark Dr @ 1801 Courtneypark Dr',43.669211,-79.651812
@@ -2855,6 +2862,7 @@
 4003,'4003','Hurontario St @ Burnhamthorpe Rd E',43.593553,-79.634548
 4005,'4005','Hurontario St @ Burnhamthorpe Rd W',43.593801,-79.63567
 4006,'4006','Hurontario St @ Kingsway Dr',43.647225,-79.707491
+4007,'4007','S Common Ctr Bus Term P:C',43.543128,-79.683419
 4008,'4008','S Common Ctr Bus Term P:I',43.543269,-79.683933
 4009,'4009','Clarkson Go Sta P:8',43.512689,-79.633209
 4020,'4020','Living Arts Dr @ Rathburn Rd',43.590996,-79.649657
@@ -3163,7 +3171,7 @@
 9053,'9053','Burnhamthorpe Rd @ Burnhamthorpe Cr',43.649502,-79.530813
 9054,'9054','Burnhamthorpe Rd @ Burnhamthorpe Pk Blvd',43.650485,-79.534018
 9055,'9055','Burnhamthorpe Rd @ Royalavon Cres',43.650691,-79.53628
-9056,'9056','Kipling Term P:3',43.635409,-79.538866
+9057,'9057','Kipling Term P:4',43.635582,-79.538692
 9058,'9058','Sherway Gdns Bus Term P:A',43.610018,-79.558305
 9059,'9059','Kipling Term P:5',43.635705,-79.538519
 9060,'9060','The W Mall S Of The Queensway',43.610893,-79.561483
@@ -3202,6 +3210,7 @@
 9101,'9101','Finch Ave @ Humber College Blvd',43.734304,-79.610806
 9102,'9102','Finch Ave W Of Humber College Blvd',43.734517,-79.612002
 9103,'9103','Finch Ave @ Humberline Dr',43.735135,-79.616918
+9105,'9105','Kipling Term P:13',43.635413,-79.538421
 9106,'9106','Kipling Term P:14',43.63525,-79.538608
 9107,'9107','Rexdale Blvd @ Tidemore Ave',43.714681,-79.585498
 9108,'9108','Rexdale Blvd @ Martin Grv Rd',43.713694,-79.581413
