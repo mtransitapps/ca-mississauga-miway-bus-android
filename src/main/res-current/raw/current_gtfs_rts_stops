@@ -2888,6 +2888,7 @@
 4204,'4204','Financial Dr @ 6745 Financial Dr',43.609642,-79.741704
 4205,'4205','Financial Dr W Of Creditview Rd',43.610548,-79.739275
 4213,'4213','Hurontario St @ Kingsway Dr',43.647298,-79.708048
+4300,'4300','S Common Ctr Bus Term P:B',43.543064,-79.683335
 4500,'4500','Royal Windsor Dr @ Winston Churchill Blvd',43.497174,-79.645207
 4501,'4501','Winston Churchill Blvd @ Bromsgrove Rd',43.500519,-79.650933
 4502,'4502','Winston Churchill Blvd @ Benedet Dr',43.507383,-79.660355
@@ -3115,6 +3116,7 @@
 6622,'6622','Mclaughlin Rd @ Navigator Dr',43.62842,-79.706025
 6623,'6623','Mclaughlin Rd @ Courtneypark Dr',43.626418,-79.703415
 6624,'6624','Sheridan College Brampton Campus',43.656933,-79.741386
+6625,'6625','Sheridan College Brampton Campus',43.656317,-79.74034
 6627,'6627','Mclaughlin Rd @ 6150 Mclaughlin Rd',43.618964,-79.693214
 6670,'6670','Mclaughlin Rd @ Rossellini Dr',43.643182,-79.725633
 6810,'6810','Winterton Way @ Stapleford Ter',43.599668,-79.671343
@@ -3171,6 +3173,7 @@
 9053,'9053','Burnhamthorpe Rd @ Burnhamthorpe Cr',43.649502,-79.530813
 9054,'9054','Burnhamthorpe Rd @ Burnhamthorpe Pk Blvd',43.650485,-79.534018
 9055,'9055','Burnhamthorpe Rd @ Royalavon Cres',43.650691,-79.53628
+9056,'9056','Kipling Term P:3',43.635409,-79.538866
 9057,'9057','Kipling Term P:4',43.635582,-79.538692
 9058,'9058','Sherway Gdns Bus Term P:A',43.610018,-79.558305
 9059,'9059','Kipling Term P:5',43.635705,-79.538519
