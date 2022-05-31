@@ -313,7 +313,6 @@
 385,'0385','Atwater Ave @ Claredale Rd',43.569918,-79.577697
 386,'0386','Atwater Ave @ Delwood Pl',43.57275,-79.575178
 387,'0387','Cawthra Rd @ Atwater Ave',43.575124,-79.573487
-388,'0388','Rathburn Rd @ Hammerson Dr',43.596094,-79.64498
 392,'0392','Grossbeak Dr @ Prairie Cir',43.562154,-79.753369
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.564289,-79.757572
 394,'0394','Osprey Blvd @ Snowflake Ln',43.567706,-79.759694
@@ -389,7 +388,6 @@
 470,'0470','S Service Rd @ Dixie Mall Access',43.593791,-79.571498
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.589704,-79.545816
 472,'0472','Lakeshore Rd @ Forty-1st St',43.590336,-79.545021
-475,'0475','Eglinton Ave W @ E Mill Rd',43.580277,-79.682776
 477,'0477','City Ctr TT P:E',43.5938,-79.646225
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058
@@ -2387,7 +2385,7 @@
 2860,'2860','Morning Star Dr @ Malton Cc',43.723639,-79.639592
 2862,'2862','Rexdale Blvd @ Islington Ave',43.714356,-79.555924
 2863,'2863','Rexdale Blvd @ Bergamot Ave',43.713484,-79.559608
-2864,'2864','Darcel Ave @ Woodruff Cres',43.719801,-79.631857
+2864,'2864','Darcel Ave @ Woodruff Cres',43.720007,-79.632334
 2865,'2865','Darcel Ave @ Darla Dr',43.729,-79.637595
 2866,'2866','Teeswater Rd @ Corliss Cres',43.726515,-79.635404
 2867,'2867','Darcel Ave @ Brandon Gt Dr',43.731825,-79.634695
