@@ -732,7 +732,7 @@
 892,'0892','Creditview Rd @ Torrington Dr',43.590405,-79.702071
 893,'0893','Darcel Ave @ S Chigwel Crt',43.720792,-79.625876
 894,'0894','Cawthra Rd @ Orwell St',43.590502,-79.593787
-895,'0895','Cawthra Rd @ Needham Ln',43.592591,-79.596761
+895,'0895','Cawthra Rd S Of Needham Ln',43.591499,-79.595203
 897,'0897','Colonial Dr S Of Huxley Dr',43.52585,-79.704805
 898,'0898','Colonial Dr N Of The Collegeway',43.525718,-79.704275
 899,'0899','Elia Ave @ Hurontario St',43.604722,-79.648483
@@ -1166,7 +1166,6 @@
 1405,'1405','Rathburn Rd @ Elora Dr',43.584849,-79.653721
 1406,'1406','City Ctr TT P:A',43.594748,-79.646556
 1407,'1407','Goreway Dr @ Nashua Dr',43.710682,-79.622162
-1408,'1408','City Ctr TT P:O',43.594234,-79.647358
 1410,'1410','Creditview Rd @ Melia Dr',43.570171,-79.672128
 1411,'1411','Gln Erin Dr @ Castlebridge Dr',43.568218,-79.731648
 1412,'1412','Creditview Rd @ Melia Dr',43.569395,-79.670436
@@ -1295,7 +1294,7 @@
 1556,'1556','Southdown Rd @ Orr Rd',43.50566,-79.622911
 1557,'1557','Burnhamthorpe Rd @ Dixie Rd',43.622212,-79.603161
 1558,'1558','Burnhamthorpe Rd @ Golden Orchard Dr',43.618538,-79.607045
-1559,'1559','Burnhamthorpe Rd @ Corbet Dr',43.616667,-79.609177
+1559,'1559','Burnhamthorpe Rd @ Corbet Dr',43.616103,-79.609715
 1560,'1560','Burnhamthorpe Rd @ Tomken Rd',43.614481,-79.611569
 1561,'1561','Burnhamthorpe Rd @ Westminster Pl',43.611574,-79.614672
 1563,'1563','Burnhamthorpe Rd @ Cawthra Rd',43.60748,-79.619376
@@ -1981,7 +1980,7 @@
 2395,'2395','Derry Rd @ Mclaughlin Rd',43.636125,-79.717048
 2396,'2396','Derry Rd @ Saint Barbara Blvd',43.639158,-79.713801
 2397,'2397','Derry Rd @ Maritz Dr',43.643055,-79.709356
-2398,'2398','Millcreek Dr @ Aquitaine Ave',43.595348,-79.754602
+2398,'2398','Millcreek Dr @ Meadowvale Go Sta',43.595348,-79.754602
 2400,'2400','Queen St @ Beech St',43.577497,-79.707934
 2401,'2401','Queen St @ Barry Ave',43.579316,-79.710335
 2402,'2402','Queen St S @ Main St',43.581052,-79.712577
@@ -2202,12 +2201,12 @@
 2665,'2665','Drew Rd E Of Kimbel St',43.697425,-79.661343
 2666,'2666','Drew Rd @ Torbram Rd',43.698944,-79.659634
 2667,'2667','Bristol Rd E Of Mclaughlin Rd',43.603319,-79.670941
-2668,'2668','Kimbel St 7300 Kimbel St',43.702818,-79.657537
+2668,'2668','Kimbel St @ 7300 Kimbel St',43.702818,-79.657537
 2669,'2669','Drew Rd @ Kimbel St',43.702031,-79.656438
-2670,'2670','Drew Rd 2570 Drew Rd',43.699783,-79.658945
+2670,'2670','Drew Rd @ 2570 Drew Rd',43.699783,-79.658945
 2671,'2671','Battleford Rd W Of Erin Mills Pky',43.585655,-79.744387
 2672,'2672','Drew Rd E Of Torbram Rd',43.700243,-79.658265
-2673,'2673','Drew Rd 2600 Drew Rd',43.701301,-79.657112
+2673,'2673','Drew Rd @ 2600 Drew Rd',43.701301,-79.657112
 2674,'2674','Kimbel St W Of Drew Rd',43.702695,-79.656224
 2675,'2675','Kimbel St @ 7347 Kimbel St',43.702872,-79.660577
 2676,'2676','Kimbel St @ Torbram Rd',43.702033,-79.662742
@@ -2395,7 +2394,7 @@
 2884,'2884','Darcel Ave @ Finch Ave',43.733009,-79.634028
 2885,'2885','Britannia Rd @ Bidwell Tr',43.599944,-79.709559
 2886,'2886','Rexdale Blvd @ Woodbine Ctr',43.71916,-79.602686
-2887,'2887','Erin Mills Pky @ Dundas St W',43.536195,-79.664879
+2887,'2887','Erin Mills Pky @ Dundas St W',43.53739,-79.66663
 2888,'2888','Brandon Gt Dr @ Darcel Ave',43.732077,-79.634409
 2889,'2889','Eglinton Ave 1037 Eglinton Ave',43.585321,-79.677233
 2891,'2891','Airport Rd S Of Northwest Dr',43.696461,-79.632388
@@ -2513,7 +2512,7 @@
 3027,'3027','Cantay Rd @ Standish Crt',43.62423,-79.684449
 3028,'3028','Mclaughlin Rd N Of Ceremonial Dr',43.601737,-79.669613
 3029,'3029','Mclaughlin Rd N Of Faith Dr',43.605378,-79.674575
-3030,'3030','Bristol Rd @ Wildwood Trl',43.615898,-79.657044
+3030,'3030','Bristol Rd @ Wildwood Trl',43.616133,-79.659185
 3031,'3031','Mclaughlin Rd @ Avonwick Ave',43.610528,-79.681538
 3032,'3032','Mclaughlin Rd @ S Ceremonial Dr',43.599913,-79.667571
 3033,'3033','Living Arts Dr @ Princess Royal Dr',43.588525,-79.645562
