@@ -1541,6 +1541,7 @@
 1878,'1878','Central Pky @ Central Pky Sta',43.606826,-79.635487
 1879,'1879','Mclaughlin Rd @ Eglinton Ave',43.59723,-79.663778
 1881,'1881','Britannia Rd E Of Greensboro Dr',43.572594,-79.739754
+1882,'1882','Streetsville Go Sta P:3',43.575495,-79.71059
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441
 1884,'1884','Rose Cherry Pl S Of Paramount Ctr',43.630015,-79.651611
 1886,'1886','Britannia Rd @ Sundance Pl',43.576636,-79.735657
@@ -2738,7 +2739,6 @@
 3387,'3387','Mavis Rd S Of Ray Lawson Blvd',43.641658,-79.746441
 3388,'3388','Mavis Rd @ Rollingwood Walkway',43.641468,-79.741918
 3389,'3389','Creditview Rd @ Bancroft Dr',43.59986,-79.714894
-3390,'3390','City Ctr TT P:N',43.59455,-79.647013
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.599883,-79.715359
 3392,'3392','Creditview Rd @ Britannia Rd',43.597696,-79.712478
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.670486,-79.577731
@@ -2929,6 +2929,7 @@
 4916,'4916','Thomas St @ Highbank Rd',43.571007,-79.720914
 4917,'4917','Thomas St @ Northrise Rd',43.572216,-79.719564
 4918,'4918','Thomas St E Of Joymar Dr',43.578,-79.714215
+4920,'4920','Streetsville Go Sta P:3',43.575484,-79.71057
 4921,'4921','Thomas St @ Wareham Dr',43.572549,-79.719507
 4922,'4922','Thomas St @ Erin Mills Pky',43.570379,-79.721955
 4923,'4923','Thomas St W Of Erin Mills Pky',43.569018,-79.724201
@@ -3097,6 +3098,7 @@
 6622,'6622','Mclaughlin Rd @ Navigator Dr',43.62842,-79.706025
 6623,'6623','Mclaughlin Rd @ Courtneypark Dr',43.626418,-79.703415
 6624,'6624','Sheridan College Brampton Campus',43.656933,-79.741386
+6625,'6625','Sheridan College Brampton Campus',43.656317,-79.74034
 6627,'6627','Mclaughlin Rd @ 6150 Mclaughlin Rd',43.618964,-79.693214
 6670,'6670','Mclaughlin Rd @ Rossellini Dr',43.643182,-79.725633
 6810,'6810','Winterton Way @ Stapleford Ter',43.599668,-79.671343
@@ -3106,6 +3108,7 @@
 6880,'6880','Financial Dr S Of Syntex Crt',43.609308,-79.745097
 7100,'7100','Westwood Sq Bus Term P:I',43.721882,-79.640868
 7200,'7200','Humber College N Campus P:8',43.729206,-79.604957
+7201,'7201','Humber College N Campus P:1',43.729268,-79.605653
 9000,'9000','Islington Subway',43.645061,-79.523734
 9001,'9001','Dundas St @ Billingham Rd',43.630411,-79.548677
 9002,'9002','Dundas St @ Paulart Dr',43.631092,-79.546306
