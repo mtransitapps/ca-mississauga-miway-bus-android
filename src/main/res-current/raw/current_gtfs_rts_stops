@@ -114,7 +114,6 @@
 137,'0137','Truscott Dr @ Winston Churchill Blvd',43.505802,-79.65757,1
 138,'0138','Truscott Dr @ Lockhart Rd',43.5075,-79.655701,1
 139,'0139','Clarkson Go Sta P:7',43.51294,-79.633347,1
-140,'0140','Bromsgrove Rd @ Southdown Rd',43.51453,-79.634983,1
 141,'0141','Bromsgrove Rd @ 2252 Bromsgrove Rd',43.509641,-79.639534,1
 142,'0142','Bromsgrove Rd @ Winston Churchill Blvd',43.500836,-79.65105,1
 143,'0143','Winston Churchill Blvd @ Stockholm Rd',43.503088,-79.654946,1
@@ -124,7 +123,6 @@
 148,'0148','Gln Erin Dr @ Folkway Dr',43.547261,-79.699234,1
 149,'0149','Dundas St @ Clayhill Rd',43.57079,-79.627669,1
 150,'0150','Winston Churchill Blvd N Of Stockholm Rd',43.504136,-79.655999,1
-152,'0152','Britannia Rd E E Of Wallace St',43.632802,-79.668903,1
 153,'0153','Gln Erin Dr N Of Erin Ctr Blvd',43.558317,-79.718261,1
 154,'0154','Gln Erin Dr @ Middlebury Dr',43.560317,-79.720707,1
 155,'0155','Gln Erin Dr @ Burnford Trl',43.562565,-79.722888,1
@@ -1691,7 +1689,6 @@
 2048,'2048','Eglinton Ave E @ Tomken Rd',43.62655,-79.630529,1
 2051,'2051','Tomken Rd S Of Kamato Rd',43.635788,-79.64491,1
 2052,'2052','Tomken Rd @ Stacey Crt',43.632027,-79.639801,1
-2055,'2055','Matheson Blvd E Of Tomken Rd',43.634161,-79.639802,1
 2058,'2058','Erin Mills Pky @ Britannia Rd',43.578334,-79.732872,1
 2059,'2059','Explorer Dr E Of Shuttle Dr',43.663542,-79.599636,1
 2061,'2061','Explorer Dr S Of Matheson Blvd E',43.661481,-79.596782,1
@@ -1828,7 +1825,6 @@
 2228,'2228','Meadowvale Town Ctr Bus Term P:C',43.583429,-79.759,1
 2229,'2229','Creditview Rd @ Willow Way',43.590556,-79.702674,1
 2230,'2230','Viscount Rd @ American Dr',43.69147,-79.619028,1
-2231,'2231','Dixie Rd @ Khalsa Dr',43.676096,-79.675832,1
 2232,'2232','Montevideo Rd @ Arles Mews',43.578882,-79.754015,1
 2233,'2233','Montevideo Rd @ Neuchatel Rd',43.57674,-79.751644,1
 2234,'2234','Montevideo Rd @ Lorca Cres',43.578313,-79.749803,1
@@ -1932,7 +1928,6 @@
 2340,'2340','Derry Rd @ Danton Promenade',43.585839,-79.773703,1
 2341,'2341','Dixie Rd S Of Drew Rd',43.677888,-79.678423,1
 2342,'2342','Aquitaine Ave @ Formentera Ave',43.583982,-79.761862,1
-2343,'2343','Matheson Blvd @ 2365 Matheson Blvd',43.656569,-79.605986,1
 2344,'2344','Matheson Blvd @ Satellite Dr',43.655451,-79.607302,1
 2347,'2347','Kitimat Rd S Of Argentia Rd',43.600637,-79.734012,1
 2348,'2348','Lakeshore Rd W Of Southdown Rd',43.493958,-79.616498,1
@@ -2220,7 +2215,6 @@
 2686,'2686','Rena Rd @ Slough St',43.710488,-79.662033,1
 2687,'2687','Dixie Rd @ Trinity Dr',43.658253,-79.651747,1
 2688,'2688','Thamesgate Dr @ Bath Rd',43.713118,-79.65902,1
-2689,'2689','Matheson Blvd E Of Satellite Dr',43.656298,-79.605906,1
 2690,'2690','Tomken Rd @ Britannia Rd',43.645872,-79.658571,1
 2691,'2691','Slough St S Of Rena Rd',43.709704,-79.660375,1
 2692,'2692','Slough St E Of Rena Rd',43.709314,-79.657864,1
