@@ -113,7 +113,6 @@
 136,'0136','Bromsgrove Rd W Of Southdown Rd',43.514399,-79.636087,1
 137,'0137','Truscott Dr @ Winston Churchill Blvd',43.505802,-79.65757,1
 138,'0138','Truscott Dr @ Lockhart Rd',43.5075,-79.655701,1
-139,'0139','Clarkson Go Sta P:7',43.51294,-79.633347,1
 141,'0141','Bromsgrove Rd @ 2252 Bromsgrove Rd',43.509641,-79.639534,1
 142,'0142','Bromsgrove Rd @ Winston Churchill Blvd',43.500836,-79.65105,1
 143,'0143','Winston Churchill Blvd @ Stockholm Rd',43.503088,-79.654946,1
@@ -229,7 +228,6 @@
 294,'0294','Sorrento Dr @ Trudeau Ave',43.607963,-79.649134,1
 295,'0295','Lakeshore Rd W @ Ibar Way',43.536462,-79.602086,1
 296,'0296','Lakeshore Rd W @ Balboa Dr',43.538479,-79.599898,1
-297,'0297','Clarkson Go Sta P:6',43.513005,-79.633134,1
 298,'0298','Erin Mills Pky @ Mcfarren Blvd',43.567683,-79.718372,1
 299,'0299','Erin Mills Pky @ Banfield Rd',43.567353,-79.718713,1
 302,'0302','Elizabeth St @ Lakeshore Rd',43.553109,-79.584381,1
@@ -346,7 +344,7 @@
 432,'0432','Ogden Ave @ Atwater Ave',43.581752,-79.565688,2
 433,'0433','Ogden Ave @ Pelham Ave',43.580643,-79.564142,1
 434,'0434','Ogden Ave @ Lakeshore Rd',43.577315,-79.559378,1
-435,'0435','Lakeshore Rd E @ Beechwood Ave',43.566309,-79.569906,1
+435,'0435','Lakeshore Rd E @ Beechwood Ave',43.566042,-79.570125,1
 436,'0436','Lakeshore Rd E @ Hampton Cres',43.568243,-79.567582,1
 437,'0437','Lakeshore Rd E @ Cawthra Rd',43.569632,-79.566323,1
 438,'0438','Lakeshore Rd E @ E Ave',43.572118,-79.563589,1
@@ -383,11 +381,10 @@
 470,'0470','S Service Rd @ Dixie Mall Access',43.593791,-79.571498,1
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.589704,-79.545816,1
 472,'0472','Lakeshore Rd @ Forty-1st St',43.590336,-79.545021,1
-475,'0475','Eglinton Ave W @ E Mill Rd',43.580277,-79.682776,1
 477,'0477','City Ctr TT P:E',43.5938,-79.646225,1
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.599053,-79.68983,1
 480,'0480','Rathburn Rd W @ City Ctr Dr',43.597061,-79.644058,1
-481,'0481','City Ctr Dr @ Sq One Dr',43.596141,-79.642406,1
+481,'0481','City Ctr Dr @ Sq One Dr',43.596301,-79.642662,1
 482,'0482','Eglinton Ave @ Hurontario St',43.607248,-79.652713,1
 483,'0483','Terry Fox Way @ Preston Mnr Dr',43.599212,-79.690309,1
 484,'0484','Hadwen Rd @ 2075 Hawden Rd',43.52198,-79.655033,1
@@ -406,7 +403,7 @@
 500,'0500','Leanne Blvd @ Erin Mills Pky',43.526918,-79.653105,1
 501,'0501','Dundas St @ Woodchester Dr',43.527637,-79.676131,1
 502,'0502','Erin Mills Pky S Of Leanne Blvd',43.526429,-79.651296,1
-503,'0503','Erin Mills Pky N Of Fowler Dr',43.528574,-79.653773,1
+503,'0503','Erin Mills Pky @ Sheridan Ctr',43.528574,-79.653773,1
 504,'0504','Erin Mills Pky @ Lincoln Grn Way',43.530527,-79.656749,1
 505,'0505','Sheridan Pk Dr @ 5th Line W',43.528941,-79.659012,1
 506,'0506','Sheridan Pk Dr W Of 5th Line W',43.527286,-79.660695,1
@@ -650,8 +647,6 @@
 794,'0794','Gln Erin Dr @ Council Ring Rd',43.540923,-79.689802,1
 795,'0795','Gln Erin Dr @ Burnhamthorpe Rd W',43.542637,-79.690866,1
 796,'0796','Hurontario St @ Kirwin Ave',43.582876,-79.619847,1
-797,'0797','Cawthra Rd N Of Arbor Crt',43.579331,-79.579481,1
-799,'0799','Cawthra Rd S Of S Service Rd',43.57919,-79.57972,1
 800,'0800','Trelawny Cir @ Forest Pk Dr',43.57628,-79.772411,1
 802,'0802','Derry Rd @ Dixie Rd',43.674301,-79.675069,1
 805,'0805','Stanfield Rd N Of Middlegate Rd',43.601058,-79.586788,1
@@ -920,7 +915,7 @@
 1132,'1132','Burnhamthorpe Rd W @ Grand Pk Dr',43.581471,-79.649065,1
 1133,'1133','Renforth Sta E P:7',43.66313,-79.590892,1
 1134,'1134','Mcbride Ave @ Forestwood Dr',43.563532,-79.641937,1
-1135,'1135','Burnhamthorpe Rd W @ Confederation Pky',43.58555,-79.644441,1
+1135,'1135','Burnhamthorpe Rd W @ Confederation Pky',43.585007,-79.645083,1
 1136,'1136','Sheridan Pk Dr @ Winston Churchill Blvd',43.516055,-79.671992,1
 1138,'1138','Mavis Rd S Of Derry Rd',43.631942,-79.722176,1
 1139,'1139','Colonial Dr @ Huxley Dr',43.526995,-79.705745,1
@@ -2368,7 +2363,6 @@
 2872,'2872','Darcel Ave @ Monica Dr',43.72694,-79.639318,1
 2873,'2873','Darcel Ave @ Middleshire Dr',43.730457,-79.635948,1
 2874,'2874','Finch Ave @ Humberline Dr',43.734907,-79.618202,1
-2875,'2875','Westwood Sq Bus Term P:G',43.721431,-79.64081,1
 2876,'2876','Darcel Ave @ Monica Dr',43.727105,-79.639563,1
 2877,'2877','Darcel Ave @ Middleshire Dr',43.730486,-79.636134,1
 2879,'2879','Rexdale Blvd @ Precision Rd',43.71589,-79.589355,1
@@ -2417,7 +2411,7 @@
 2928,'2928','Airport Rd @ Silver Dart Dr',43.695013,-79.631056,1
 2932,'2932','Airport Rd @ American Dr',43.689184,-79.621808,1
 2933,'2933','Airport Rd S Of Derry Rd',43.702061,-79.639918,1
-2934,'2934','Airport Rd S Of 409 Hwy',43.685761,-79.609138,1
+2934,'2934','Airport Rd S Of 409 Hwy',43.685997,-79.6091,1
 2939,'2939','Derry Rd @ Malton Go Sta',43.706485,-79.639421,1
 2940,'2940','Northwest Dr E Of Airport Rd',43.69958,-79.634961,2
 2941,'2941','Northwest Dr @ Caravelle Dr',43.700501,-79.633686,2
@@ -2711,7 +2705,7 @@
 3377,'3377','Camilla Rd @ Paisley Blvd',43.57931,-79.605644,1
 3378,'3378','Ridgeway Dr S Of Sladeview Cres',43.531197,-79.716634,1
 3379,'3379','Steeles Ave @ Windmill Blvd',43.653268,-79.747024,1
-3380,'3380','Ridgeway Dr @ Sladeview Cres',43.527367,-79.713804,1
+3380,'3380','Ridgeway Dr @ Sladeview Cres',43.526985,-79.713179,1
 3381,'3381','Steeles Ave @ Mclaughlin Rd',43.656009,-79.743877,1
 3382,'3382','Burnhamthorpe Rd @ Colonial Dr',43.529045,-79.708004,1
 3383,'3383','Steeles Ave E Of Tait Blvd',43.653898,-79.746819,1
