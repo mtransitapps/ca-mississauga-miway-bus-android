@@ -1,5 +1,5 @@
 1,'0001','Erin Mills Pky N Of Lincoln Grn Way',43.53524,-79.663641,1
-2,'0002','Erin Mills Pky 2nd Stop S Of Dundas St W',43.534537,-79.663158,1
+2,'0002','Erin Mills Pky @ Paula Crt Walkway',43.534537,-79.663158,1
 4,'0004','Eglinton Ave W W Of E Mill Rd',43.579357,-79.683928,1
 9,'0009','The Collegeway E Of Gln Erin Dr',43.537213,-79.684337,1
 10,'0010','Explorer Dr @ 5875 Explorer Dr',43.654607,-79.616728,2
@@ -368,7 +368,7 @@
 455,'0455','Lakeshore Rd E @ Cawthra Rd',43.569686,-79.566608,1
 456,'0456','Lakeshore Rd E @ Hampton Cres',43.568206,-79.568214,1
 457,'0457','Lakeshore Rd E @ Beechwood Ave',43.566809,-79.569757,1
-458,'0458','Dixie Rd @ Kendal L Rd',43.601319,-79.572274,1
+458,'0458','Dixie Rd @ Kendall Rd',43.601319,-79.572274,1
 459,'0459','Dixie Rd @ Sherway Dr',43.600219,-79.570726,1
 461,'0461','Dixie Mall Bus Term P:A',43.593852,-79.565562,1
 462,'0462','S Service Rd @ Haig Blvd',43.592271,-79.573094,1
@@ -869,7 +869,7 @@
 1090,'1090','S Millway @ The Collegeway',43.541445,-79.681176,1
 1091,'1091','Dixie Rd @ Dundas St',43.608889,-79.582949,1
 1094,'1094','The Collegeway E Of S Millway',43.54583,-79.675733,1
-1095,'1095','Dundas St E Of Winston Churchill Blv',43.525197,-79.679241,1
+1095,'1095','Dundas St W Of Woodchester Dr',43.525197,-79.679241,1
 1096,'1096','Winston Churchill Blvd @ The Collegeway',43.530851,-79.692458,1
 1098,'1098','Winston Churchill Blvd @ Laird Rd',43.525541,-79.685643,1
 1099,'1099','S Common Ctr Bus Term P:A',43.542999,-79.683247,1
@@ -1724,7 +1724,7 @@
 2135,'2135','Derry Rd @ Millcreek Dr',43.597562,-79.761187,1
 2136,'2136','Explorer Dr N Of Matheson Blvd',43.663463,-79.599104,1
 2137,'2137','Mavis Rd S Of Winterton Way',43.594529,-79.673092,1
-2139,'2139','Tranmere Dr S Of Boylen Rd',43.683641,-79.667655,1
+2139,'2139','Tranmere Dr @ 7090 Tranmere Dr',43.683641,-79.667655,1
 2140,'2140','Kariya Dr @ N Enfield Pl',43.590657,-79.636514,1
 2144,'2144','Matheson Blvd @ Orbitor Dr',43.657819,-79.603614,1
 2145,'2145','Matheson Blvd @ Explorer Dr',43.662453,-79.598942,1
@@ -2764,7 +2764,7 @@
 3720,'3720','Winston Churchill Blvd @ Beryl Rd',43.494109,-79.642171,1
 3800,'3800','Argentia Rd W Of Winston Churchill Blvd',43.594304,-79.787381,1
 3801,'3801','Argentia Rd W Of Winston Churchill Blvd',43.596986,-79.784701,1
-3812,'3812','Argentia Rd E Of Tenth Line',43.594044,-79.787326,1
+3812,'3812','Argentia Rd E Of Tenth Line',43.594924,-79.786421,1
 3815,'3815','Airport Rd @ Jetliner Rd',43.68577,-79.607311,1
 3840,'3840','Argentia Rd W Of Derry Rd',43.601879,-79.762424,1
 3841,'3841','Argentia Rd @ 2835 Argentia Rd',43.600067,-79.773448,1
@@ -3145,7 +3145,7 @@
 9108,'9108','Rexdale Blvd @ Martin Grv Rd',43.713694,-79.581413,1
 9109,'9109','Rexdale Blvd E Of Martin Grv Rd',43.71316,-79.57903,1
 9110,'9110','Rexdale Blvd Opp 230 Rexdale Blvd',43.712652,-79.576596,1
-9111,'9111','Rexdale Blvd 3rd Stop E Of Martin Grv Rd',43.712103,-79.574375,1
+9111,'9111','Rexdale Blvd W Of Brydon Dr',43.712103,-79.574375,1
 9112,'9112','Rexdale Blvd @ Kipling Ave',43.711453,-79.567055,1
 9113,'9113','Rexdale Blvd @ Bergamot Ave',43.712984,-79.560675,1
 9114,'9114','Bergamot Ave @ Rexdale Blvd',43.714042,-79.559582,1
