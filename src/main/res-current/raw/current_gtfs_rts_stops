@@ -635,7 +635,6 @@
 788,'0788','Dundas St @ Jaguar Vly Dr',43.581667,-79.614987,1
 789,'0789','Britannia Rd @ Queen St N',43.588428,-79.722416,1
 790,'0790','Britannia Rd @ Farmstead Ln',43.566702,-79.746861,1
-791,'0791','Ceremonial Dr @ Micmac Cres',43.600885,-79.666038,1
 792,'0792','Hurontario St @ Floradale Dr',43.577227,-79.612333,1
 793,'0793','Gln Erin Dr N Of The Collegeway',43.537887,-79.68733,1
 794,'0794','Gln Erin Dr @ Council Ring Rd',43.540923,-79.689802,1
@@ -651,15 +650,12 @@
 811,'0811','Dundas St @ Aukland Rd',43.638385,-79.5382,1
 812,'0812','Meadowvale Town Ctr Bus Term P:G',43.583367,-79.758295,1
 813,'0813','Kariya Gt @ City Ctr Dr',43.592117,-79.638706,1
-814,'0814','Dream Crest Rd @ Rick Hansen SS',43.58968,-79.683579,1
 815,'0815','Dundas St @ Billingham Rd',43.630623,-79.549056,1
 818,'0818','Kennedy Rd @ Ambassador Dr',43.649891,-79.687559,1
 819,'0819','Osprey Blvd @ Waxwing Dr',43.565581,-79.757162,1
 820,'0820','Dixie Rd @ Dundas St',43.608687,-79.583326,1
 821,'0821','Dixie Rd @ Blundell Rd',43.607812,-79.582017,1
 822,'0822','Dixie Rd @ Ernest Samuel Dr',43.604276,-79.576862,1
-824,'0824','Ceremonial Dr @ Micmac Cres',43.601091,-79.665959,1
-825,'0825','Ceremonial Dr @ Fairwind Dr',43.604502,-79.662724,1
 826,'0826','Dundas St E Of Haines Rd',43.598795,-79.595316,1
 827,'0827','Dundas St W Of Tomken Rd',43.598756,-79.595775,1
 829,'0829','Meadowvale Blvd @ Financial Dr',43.614531,-79.750962,1
@@ -857,7 +853,6 @@
 1062,'1062','S Common Ctr Bus Term P:H',43.543479,-79.684238,1
 1063,'1063','The Collegeway @ S Commom Ctr Access Rd',43.54341,-79.680588,1
 1066,'1066','Mdws Blvd @ Prince George Ave',43.601699,-79.629767,1
-1067,'1067','Fairwind Dr @ Ceremonial Dr',43.604694,-79.662225,2
 1068,'1068','Eglinton Ave @ Tomken Rd',43.627588,-79.630034,1
 1069,'1069','The Collegeway W Of S Millway',43.544913,-79.678959,1
 1071,'1071','The Collegeway @ S Millway',43.545436,-79.677046,1
@@ -1613,7 +1608,6 @@
 1987,'1987','Kennedy Rd @ Eglinton Ave',43.616475,-79.642642,1
 1988,'1988','Eglinton Ave @ Delaware Dr',43.613059,-79.646164,1
 1989,'1989','Britannia Rd E @ 190 Britannia Rd',43.630563,-79.67458,1
-1990,'1990','Ceremonial Dr @ Sunrise Crt',43.598101,-79.670121,1
 1991,'1991','Eglinton Ave E E Of Hurontario St',43.607348,-79.652017,1
 1992,'1992','Eglinton Ave E @ Huron Hts Dr',43.612556,-79.646275,1
 1993,'1993','Kennedy Rd @ Candlestick Cir',43.617348,-79.643354,1
@@ -1716,8 +1710,6 @@
 2126,'2126','Erin Mills Pky @ Britannia Rd',43.578761,-79.734052,1
 2127,'2127','Meadowvale Town Ctr Bus Term P:E',43.58312,-79.758783,1
 2128,'2128','Credit Vly Hosp',43.558705,-79.703655,1
-2129,'2129','Dream Crest Rd @ Rick Hansen SS',43.589773,-79.683044,1
-2130,'2130','Ceremonial Dr @ Sunrise Crt',43.597808,-79.670128,1
 2131,'2131','Meadowvale Blvd @ W Credit Ave',43.608981,-79.758003,1
 2133,'2133','Kennedy Rd @ Watline Ave',43.629445,-79.659804,1
 2134,'2134','Derry Rd @ Argentia Rd',43.601753,-79.756628,1
@@ -2573,7 +2565,6 @@
 3204,'3204','Mcdowell Dr @ Delle Donne Dr',43.559159,-79.748763,1
 3205,'3205','Mcdowell Dr @ Delle Donne Dr',43.559402,-79.748758,1
 3206,'3206','Mcdowell Dr @ Churchill Mdws Blvd',43.556133,-79.752751,1
-3207,'3207','Mcdowell Dr @ Questman Hollow',43.553842,-79.755286,1
 3211,'3211','Creekbank Rd @ Aimco Blvd',43.645026,-79.616297,1
 3212,'3212','Creekbank Rd @ Aimco Blvd',43.645311,-79.616774,1
 3213,'3213','Creekbank Rd @ Eglinton Ave',43.641439,-79.614925,1
@@ -2654,7 +2645,6 @@
 3356,'3356','Bristol Rd @ Kennedy Rd',43.620561,-79.6483,1
 3357,'3357','Bristol Rd @ Kennedy Rd',43.620551,-79.648714,1
 3358,'3358','Kennedy Rd @ Indian Summer Tr',43.618549,-79.644925,1
-3361,'3361','Thomas St @ Dolmite Hts',43.54934,-79.749969,1
 3362,'3362','Kennedy Rd @ Kenway Dr',43.638049,-79.671706,1
 3363,'3363','Derry Rd @ Mavis Rd',43.632945,-79.721398,1
 3364,'3364','Derry Rd @ Mavis Rd',43.633187,-79.721782,1
@@ -2701,6 +2691,7 @@
 3418,'3418','Admiral Blvd @ Edwards Blvd',43.645209,-79.699391,1
 3419,'3419','Churchill Mdws CC',43.540203,-79.741985,1
 3421,'3421','Bristol Rd E @ Hurontario St',43.614805,-79.66334,1
+3422,'3422','Gln Erin Dr @ The Collegeway',43.5365,-79.685414,1
 3424,'3424','Erin Mills Sta W P:4',43.552557,-79.699905,1
 3425,'3425','Erin Mills Sta E P:6',43.552245,-79.699942,1
 3426,'3426','Cooksville Go Sta P:4',43.581821,-79.624907,1
@@ -2709,8 +2700,10 @@
 3429,'3429','Cooksville Go Sta P:7',43.582137,-79.624513,1
 3430,'3430','Mavis Rd @ Dundas St',43.567117,-79.634212,1
 3431,'3431','Mavis Rd @ Dundas St',43.566469,-79.633889,1
+3432,'3432','Burnhamthorpe Rd @ S Millway',43.548474,-79.679374,1
 3434,'3434','Camilla Rd @ King St',43.582103,-79.609682,1
 3435,'3435','King St @ Camilla Rd',43.581965,-79.609905,1
+3436,'3436','Burnhamthorpe Rd @ Erin Mills Pky',43.546782,-79.683109,1
 3440,'3440','Terry Fox Way @ Galesway Blvd',43.606144,-79.69965,1
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.734303,-79.639102,1
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.489901,-79.636403,1
