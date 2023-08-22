@@ -460,7 +460,7 @@
 563,'0563','Sheridan Ctr Bus Term P:B',43.530089,-79.651673,1
 564,'0564','Lincoln Grn Way @ Lincoln Grn Way',43.531872,-79.654727,1
 565,'0565','Fowler Dr @ Roche Crt',43.528029,-79.651842,1
-566,'0566','Erin Mills Pky @ Fowler Dr',43.527337,-79.651944,1
+566,'0566','Erin Mills Pky @ Fowler Dr',43.527836,-79.652715,1
 567,'0567','Leanne Blvd @ N Sheridan Way',43.524154,-79.651557,1
 568,'0568','Leanne Blvd N Of N Sheridan Way',43.52441,-79.651923,1
 569,'0569','Leanne Blvd @ 5th Line W',43.525884,-79.653227,1
@@ -1160,7 +1160,7 @@
 1444,'1444','Creditview Rd @ Falconer Dr',43.606785,-79.724605,1
 1445,'1445','Creditview Rd @ Kenninghall Blvd',43.604289,-79.721201,1
 1446,'1446','Living Arts Dr @ Sq One Dr',43.590715,-79.648581,1
-1447,'1447','Queenston Dr @ Fellmore Dr',43.560815,-79.66124,1
+1447,'1447','Queenston Dr @ Fellmore Dr',43.561227,-79.661384,1
 1449,'1449','Eglinton Ave W Of Guildwood Way',43.593719,-79.667708,1
 1450,'1450','Mclaughlin Rd N Of Ceremonial Dr',43.60955,-79.680271,2
 1451,'1451','Creditview Rd @ Carolyn Rd',43.584931,-79.694979,1
@@ -1916,7 +1916,7 @@
 2363,'2363','Morning Star Dr @ Reindeer Dr',43.714836,-79.646631,1
 2364,'2364','Morning Star Dr @ Lancaster Ave',43.713171,-79.647438,1
 2365,'2365','Airport Rd @ Morning Star Dr',43.709195,-79.650047,1
-2366,'2366','Airport Rd @ Beverley Rd',43.707592,-79.647787,1
+2366,'2366','Airport Rd @ Beverley St',43.707592,-79.647787,1
 2367,'2367','Airport Rd @ Ripon St',43.705789,-79.645246,1
 2368,'2368','Airport Rd @ Hull St',43.704271,-79.643344,1
 2369,'2369','Millcreek Dr N Of Millrace Crt',43.594082,-79.749192,1
@@ -2960,6 +2960,7 @@
 5780,'5780','Courtneypark Dr @ Hurontario St',43.636895,-79.694314,1
 6000,'6000','City Ctr TT Drop Off',43.594363,-79.646651,1
 6002,'6002','Meadowvale Town Ctr Drop Off',43.583782,-79.759017,1
+6003,'6003','Westwood Sq Bus Term Drop Off',43.721458,-79.640832,1
 6105,'6105','Mavis Rd @ Winterton Way',43.595676,-79.674949,1
 6106,'6106','Mavis Rd @ Bristol Rd',43.598884,-79.680566,1
 6107,'6107','Mavis Rd @ Lafayette Dr',43.602845,-79.685163,1
