@@ -324,7 +324,7 @@
 408,'0408','Lakeshore Rd E @ Dixie Rd',43.58467,-79.550743,1
 409,'0409','N Service Rd @ Harvest Dr',43.595679,-79.570515,1
 410,'0410','N Service Rd @ Tolman Rd',43.594132,-79.572134,1
-411,'0411','N Service Rd @ Stanfield Rd',43.592311,-79.574122,1
+411,'0411','N Service Rd @ Stanfield Rd',43.591948,-79.574486,1
 412,'0412','N Service Rd @ Insley Rd',43.590081,-79.576528,1
 413,'0413','N Service Rd @ Redan Dr',43.587389,-79.579441,1
 414,'0414','N Service Rd @ Annapolis Ave',43.585423,-79.582039,1
@@ -1507,7 +1507,7 @@
 1846,'1846','Matheson Blvd @ Venice St',43.610656,-79.687632,1
 1847,'1847','Matheson Blvd @ E Keaton Cres',43.615256,-79.679266,1
 1848,'1848','Bristol Rd W @ Sweetgrass Gt',43.594805,-79.686044,1
-1850,'1850','Argentia Rd @ 3050 Argentia Rd',43.59595,-79.785515,1
+1850,'1850','Argentia Rd @ 3050 Argentia Rd',43.595936,-79.78549,1
 1851,'1851','Milverton Dr @ Hurontario St',43.620778,-79.672633,1
 1852,'1852','Edwards Blvd @ Statesman Dr',43.651053,-79.708271,1
 1853,'1853','Goreway Dr @ Nashua Dr',43.710565,-79.622655,1
@@ -1931,7 +1931,7 @@
 2351,'2351','Royal Windsor Dr E Of Winston Churchill Blvd',43.4978,-79.644067,1
 2352,'2352','Royal Windsor Dr @ 2480 Royal Windsor Dr',43.49916,-79.64259,1
 2353,'2353','Royal Windsor Dr @ Avonhead Rd',43.504867,-79.6364,1
-2354,'2354','Argentia Rd @ 3050 Argentia Rd',43.595915,-79.78554,1
+2354,'2354','Argentia Rd @ 3050 Argentia Rd',43.595926,-79.785526,1
 2356,'2356','Mississauga Rd S Of Badminton Dr',43.562967,-79.688445,1
 2357,'2357','Winston Churchill Blvd @ Hazelton Pl',43.551044,-79.720037,1
 2358,'2358','Inverhouse Dr S Of Lakeshore Rd',43.512904,-79.62631,1
@@ -2574,8 +2574,8 @@
 3142,'3142','Royal Windsor Dr @ 2555 Royal Windsor Dr',43.500098,-79.641975,1
 3143,'3143','Royal Windsor Dr W Of Avonhead Rd',43.503503,-79.638274,1
 3144,'3144','Dixie Rd @ Dixie Sta',43.630786,-79.61428,1
-3145,'3145','Argentia Rd W Of Winston Churchill Blvd',43.594322,-79.787369,1
-3146,'3146','Argentia Rd W Of Winston Churchill Blvd',43.597035,-79.784694,1
+3145,'3145','Argentia Rd @ 3155 Argentia Rd',43.594322,-79.787369,1
+3146,'3146','Argentia Rd W Of Winston Churchill Blvd',43.596103,-79.78575,1
 3147,'3147','Bristol Rd W E Of Creditview Rd',43.587288,-79.696353,1
 3148,'3148','Eglinton Ave @ Tahoe Blvd',43.644999,-79.610545,1
 3149,'3149','Eglinton Ave @ Tahoe Blvd',43.644403,-79.61072,1
@@ -2707,7 +2707,7 @@
 3381,'3381','Steeles Ave @ Mclaughlin Rd',43.656009,-79.743877,1
 3382,'3382','Burnhamthorpe Rd @ Colonial Dr',43.529045,-79.708004,1
 3383,'3383','Steeles Ave E Of Tait Blvd',43.653898,-79.746819,1
-3384,'3384','Steeles Ave @ Beaconsfield Walkway',43.649107,-79.752175,1
+3384,'3384','Steeles Ave @ Beaconsfield Walkway',43.649747,-79.751306,1
 3385,'3385','Mavis Rd N Of Clementine Dr',43.644294,-79.75129,1
 3386,'3386','Mavis Rd S Of Clementine Dr',43.643126,-79.749615,1
 3387,'3387','Mavis Rd S Of Ray Lawson Blvd',43.641658,-79.746441,1
@@ -2798,8 +2798,8 @@
 3700,'3700','Kennedy Rd @ Edwards Blvd',43.640786,-79.674925,2
 3701,'3701','Kennedy Rd @ Edwards Blvd',43.640892,-79.675481,1
 3720,'3720','Winston Churchill Blvd @ Beryl Rd',43.494109,-79.642171,1
-3800,'3800','Argentia Rd W Of Winston Churchill Blvd',43.594304,-79.787381,1
-3801,'3801','Argentia Rd W Of Winston Churchill Blvd',43.596986,-79.784701,1
+3800,'3800','Argentia Rd @ 3155 Argentia Rd',43.594304,-79.787381,1
+3801,'3801','Argentia Rd W Of Winston Churchill Blvd',43.596072,-79.785772,1
 3812,'3812','Argentia Rd E Of Tenth Line',43.594924,-79.786421,1
 3815,'3815','Airport Rd @ Jetliner Rd',43.68577,-79.607311,1
 3840,'3840','Argentia Rd W Of Derry Rd',43.601879,-79.762424,1
@@ -3207,7 +3207,7 @@
 9150,'9150','Rexdale Blvd @ Brydon Dr',43.711529,-79.57172,1
 9160,'9160','Dundas St @ W Mall Cres',43.627277,-79.562435,1
 9161,'9161','Bloor St @ Markland Dr',43.629155,-79.57991,1
-9162,'9162','Aukland Rd N Of Dundas St W',43.638899,-79.539299,1
+9162,'9162','Aukland Rd S Of Bloor St',43.638899,-79.539299,1
 9163,'9163','Burnhamthorpe Rd @ Mill Rd',43.638996,-79.58439,1
 9960,'9960','Dixon Rd E Of Hwy 427',43.686415,-79.598057,1
 9961,'9961','Dixon Rd @ Carlingview Dr',43.686556,-79.595816,1
