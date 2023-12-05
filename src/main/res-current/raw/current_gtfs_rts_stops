@@ -1935,8 +1935,8 @@
 2357,'2357','Winston Churchill Blvd @ Hazelton Pl',43.551044,-79.720037,1
 2358,'2358','Inverhouse Dr S Of Lakeshore Rd',43.512904,-79.62631,1
 2360,'2360','Morning Star Dr @ Reindeer Dr',43.714682,-79.646547,1
-2361,'2361','Morning Star Dr @ Netherwood Dr',43.716016,-79.645934,1
-2362,'2362','Morning Star Dr @ Netherwood Dr',43.716304,-79.645952,1
+2361,'2361','Morning Star Dr @ Netherwood Rd',43.716016,-79.645934,1
+2362,'2362','Morning Star Dr @ Netherwood Rd',43.716304,-79.645952,1
 2363,'2363','Morning Star Dr @ Reindeer Dr',43.714836,-79.646631,1
 2365,'2365','Airport Rd @ Morning Star Dr',43.709195,-79.650047,1
 2366,'2366','Airport Rd @ Beverley St',43.707592,-79.647787,1
@@ -2475,7 +2475,7 @@
 3013,'3013','City Ctr Dr S Of Robert Speck Pky',43.594332,-79.639449,1
 3015,'3015','Bristol Rd W @ Fallingbrook Dr',43.589792,-79.692533,1
 3016,'3016','Winston Churchill Blvd @ Vanderbilt Rd',43.584676,-79.766022,1
-3017,'3017','Winston Churchill Blvd N Of Vanderbilt Rd',43.587739,-79.770357,1
+3017,'3017','Winston Churchill Blvd N Of Vanderbilt Rd',43.586278,-79.768282,1
 3018,'3018','Matheson Blvd @ 190 Matheson Blvd',43.622627,-79.663488,1
 3019,'3019','Meadowvale Blvd @ Syntex Dr',43.606069,-79.759401,1
 3020,'3020','Meadowpine Blvd @ Howe Crt',43.602923,-79.78328,1
@@ -3139,7 +3139,7 @@
 9060,'9060','The W Mall S Of The Queensway',43.610893,-79.561483,1
 9061,'9061','Kipling Term P:6',43.635813,-79.538389,1
 9062,'9062','Kipling Term P:11',43.635677,-79.538129,1
-9063,'9063','Burnhamthorpe Rd @ Triburnham Pl',43.641634,-79.57892,1
+9063,'9063','Burnhamthorpe Rd @ Silver Shadow Path',43.641634,-79.57892,1
 9064,'9064','Burnhamthorpe Rd @ Saturn Rd',43.642406,-79.576127,1
 9065,'9065','Burnhamthorpe Rd @ Renforth Dr',43.643245,-79.57257,1
 9066,'9066','Burnhamthorpe Rd @ Mulgrove Dr',43.644112,-79.568591,1
