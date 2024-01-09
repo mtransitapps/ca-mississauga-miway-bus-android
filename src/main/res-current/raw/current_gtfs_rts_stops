@@ -481,7 +481,6 @@
 586,'0586','Burnhamthorpe Rd @ Duke Of York Blvd',43.588499,-79.641462,1,1482691
 587,'0587','Burnhamthorpe Rd @ Kariya Dr',43.591139,-79.637811,1,1482692
 588,'0588','Burnhamthorpe Rd @ Kariya Gt',43.591749,-79.637718,1,1482693
-589,'0589','Confederation Pky S Of Burnhamthorpe Rd',43.58493,-79.644614,1,1482694
 590,'0590','Bristol Rd @ Trailwood Dr',43.615928,-79.658929,1,1482716
 591,'0591','Bristol Rd @ Frank Mckechnie Cc',43.616933,-79.653917,1,1482717
 592,'0592','Bristol Rd @ Nahani Way',43.619529,-79.650513,1,1482718
@@ -1070,7 +1069,6 @@
 1302,'1302','Dundas St W Of Constitution Blvd',43.601819,-79.592272,1,1510308
 1304,'1304','Aukland Rd N Of Dundas St W',43.638863,-79.538568,1,1510310
 1305,'1305','Bloor St @ Markland Dr',43.629133,-79.58028,1,1510311
-1307,'1307','Burnhamthorpe Rd @ Stoneham Rd',43.640623,-79.582489,1,1510313
 1308,'1308','Tomken Rd N Of Runningbrook Dr',43.613332,-79.611137,1,1510314
 1309,'1309','Burnhamthorpe Rd @ Mill Rd',43.639518,-79.584201,1,1510315
 1311,'1311','Tomken Rd @ Dundas St',43.600715,-79.593982,1,1510338
@@ -1192,7 +1190,6 @@
 1456,'1456','Rathburn Rd @ Duke Of York Blvd',43.592509,-79.648929,1,1511428
 1458,'1458','Aquitaine Ave E Of Formentera Ave',43.584834,-79.760668,1,1511430
 1459,'1459','Bristol Rd W @ Bathgate Rd',43.58575,-79.698913,1,1511431
-1460,'1460','Erindale Go Sta P:5',43.567012,-79.668081,1,1511453
 1461,'1461','Bristol Rd @ River Grv Ave',43.584142,-79.703147,1,1511454
 1462,'1462','River Grv Ave @ Stillriver Cres',43.586547,-79.704817,1,1511455
 1463,'1463','River Grv Ave @ Willow Way',43.588265,-79.707047,1,1511456
@@ -1310,8 +1307,6 @@
 1581,'1581','Tomken Rd @ Burnhamthorpe Rd',43.614144,-79.612754,1,1512477
 1582,'1582','Hurontario St @ Elia Ave',43.603857,-79.648428,1,1512478
 1583,'1583','Rathburn Rd @ Mdws Blvd',43.60828,-79.629207,1,1512479
-1585,'1585','Rathburn Rd @ Lovingston Cres',43.619811,-79.613045,1,1512481
-1586,'1586','Rathburn Rd @ Lovingston Cres',43.619662,-79.613359,1,1512482
 1588,'1588','Elia Ave @ Hurontario St',43.605065,-79.647781,1,1512484
 1589,'1589','Rathburn Rd @ Shipp Dr',43.599644,-79.639391,1,1512485
 1590,'1590','Ponytrail Dr @ Maple Rdg Dr',43.634238,-79.592618,1,1512507
@@ -2575,7 +2570,6 @@
 3147,'3147','Bristol Rd W E Of Creditview Rd',43.587288,-79.696353,1,1568097
 3148,'3148','Eglinton Ave @ Tahoe Blvd',43.644999,-79.610545,1,1568098
 3149,'3149','Eglinton Ave @ Tahoe Blvd',43.644403,-79.61072,1,1568099
-3160,'3160','Central Pky W Of Mavis Rd',43.573923,-79.647277,1,1568152
 3163,'3163','Courtneypark Dr W Of Kennedy Rd',43.647065,-79.685352,1,1568155
 3169,'3169','Dundas St W W Of Mavis Rd',43.56556,-79.633794,1,1568161
 3175,'3175','Tours Rd @ Winston Churchill Blvd',43.573546,-79.751846,1,1568188
@@ -3072,7 +3066,6 @@
 6622,'6622','Mclaughlin Rd @ Navigator Dr',43.62842,-79.706025,1,1662208
 6623,'6623','Mclaughlin Rd @ Courtneypark Dr',43.626418,-79.703415,1,1662209
 6624,'6624','Sheridan College Brampton Campus',43.656933,-79.741386,1,1662210
-6625,'6625','Sheridan College Brampton Campus',43.656317,-79.74034,1,1662211
 6626,'6626','Mclaughlin Rd @ Sheridan College Dr',43.654227,-79.74048,1,1662212
 6627,'6627','Mclaughlin Rd @ 6150 Mclaughlin Rd',43.618964,-79.693214,1,1662213
 6628,'6628','Mclaughlin Rd @ Steeles Ave',43.656199,-79.74306,1,1662214
