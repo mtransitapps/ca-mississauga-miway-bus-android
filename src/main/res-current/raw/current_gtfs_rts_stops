@@ -140,7 +140,6 @@
 182,'0182','Kennedy Rd @ Courtneypark Dr',43.647645,-79.684124,1,1478843
 190,'0190','Hurontario St @ Barondale Dr',43.616901,-79.666651,1,1478872
 191,'0191','Hurontario St @ Barondale Dr',43.616916,-79.667134,1,1478873
-192,'0192','Erin Mills Pky @ Erin Ctr Blvd',43.562435,-79.711302,1,1478874
 193,'0193','Kennedy Rd @ Courtneypark Dr',43.647824,-79.684802,1,1478875
 194,'0194','Kennedy Rd @ Pendant Dr',43.643151,-79.678519,1,1478876
 196,'0196','Kennedy Rd @ Britannia Rd',43.634252,-79.666676,1,1478878
@@ -374,7 +373,6 @@
 462,'0462','S Service Rd @ Haig Blvd',43.592271,-79.573094,1,1481664
 463,'0463','S Service Rd @ Applewood Rd',43.591161,-79.57431,1,1481665
 464,'0464','Ogden Ave @ S Service Rd',43.589399,-79.576011,1,1481666
-465,'0465','Ogden Ave N Of Strathy Ave',43.586658,-79.5721,1,1481667
 466,'0466','Ogden Ave @ Strathy Ave',43.585715,-79.570809,1,1481668
 467,'0467','Ogden Ave @ Atwater Ave',43.581721,-79.565342,1,1481669
 468,'0468','Ogden Ave @ Pelham Ave',43.580621,-79.563783,1,1481670
@@ -843,7 +841,6 @@
 1039,'1039','S Millway @ 5th Line W',43.539871,-79.674291,1,1507525
 1040,'1040','S Millway @ Buttonbush Cres',43.54086,-79.678082,1,1507547
 1041,'1041','S Millway @ Buttonbush Cres',43.541409,-79.679642,1,1507548
-1042,'1042','Thomas St @ Go Sta Access',43.578303,-79.714116,1,1507549
 1043,'1043','The Collegeway @ Gln Erin Dr',43.536507,-79.68637,1,1507550
 1044,'1044','The Collegeway @ Spruce Needle Dr',43.535702,-79.687613,1,1507551
 1045,'1045','The Collegeway @ Council Ring Rd',43.532297,-79.691362,1,1507552
@@ -1190,6 +1187,7 @@
 1456,'1456','Rathburn Rd @ Duke Of York Blvd',43.592509,-79.648929,1,1511428
 1458,'1458','Aquitaine Ave E Of Formentera Ave',43.584834,-79.760668,1,1511430
 1459,'1459','Bristol Rd W @ Bathgate Rd',43.58575,-79.698913,1,1511431
+1460,'1460','Erindale Go Sta P:5',43.567012,-79.668081,1,1511453
 1461,'1461','Bristol Rd @ River Grv Ave',43.584142,-79.703147,1,1511454
 1462,'1462','River Grv Ave @ Stillriver Cres',43.586547,-79.704817,1,1511455
 1463,'1463','River Grv Ave @ Willow Way',43.588265,-79.707047,1,1511456
@@ -1527,7 +1525,6 @@
 1878,'1878','Central Pky @ Central Pky Sta',43.606826,-79.635487,1,1515336
 1879,'1879','Mclaughlin Rd @ Eglinton Ave',43.59723,-79.663778,1,1515337
 1881,'1881','Britannia Rd E Of Greensboro Dr',43.572594,-79.739754,1,1515360
-1882,'1882','Streetsville Go Sta P:3',43.575495,-79.71059,1,1515361
 1883,'1883','Britannia Rd @ Brookside Dr',43.586704,-79.72441,1,1515362
 1884,'1884','Rose Cherry Pl S Of Paramount Ctr',43.630015,-79.651611,1,1515363
 1886,'1886','Britannia Rd @ Sundance Pl',43.576636,-79.735657,1,1515365
@@ -1694,7 +1691,6 @@
 2082,'2082','Kamato Rd @ Ambler Dr',43.638893,-79.643997,1,1537464
 2083,'2083','Eglinton Ave E Of Hwy 403',43.626158,-79.631604,1,1537465
 2084,'2084','Matheson Blvd @ Tomken Rd',43.633201,-79.641634,1,1537466
-2085,'2085','Matheson Blvd E Of Timberlea Blvd',43.632444,-79.643064,1,1537467
 2094,'2094','Tomken Rd @ Matheson Blvd',43.633285,-79.641148,1,1537497
 2095,'2095','Matheson Blvd @ Maingate Dr',43.63604,-79.637268,1,1537498
 2096,'2096','Maingate Dr @ Haultain Crt',43.63414,-79.632811,1,1537499
@@ -2007,7 +2003,6 @@
 2442,'2442','Vista Blvd @ Sora Dr',43.575042,-79.725114,1,1541184
 2443,'2443','Vista Blvd @ Turney Dr',43.573863,-79.726761,1,1541185
 2448,'2448','Thomas St @ Mcfarren Blvd',43.575187,-79.717299,1,1541190
-2450,'2450','Thomas St @ Queen St',43.580035,-79.711855,1,1541213
 2452,'2452','Queen St @ Old Sta Rd',43.57629,-79.706337,1,1541215
 2453,'2453','Queen St @ Old Sta Rd',43.576384,-79.706694,1,1541216
 2454,'2454','Windwood Dr @ Wabukayne Crt',43.579343,-79.737,1,1541217
@@ -2577,7 +2572,6 @@
 3184,'3184','Gln Erin Dr @ Meadowvale Town Ctr Cir',43.583894,-79.755361,1,1568218
 3192,'3192','Rathburn Rd @ Confederation Pky',43.590116,-79.651399,1,1568247
 3195,'3195','Eglinton Ave E @ Satellite Dr',43.651762,-79.603047,1,1568250
-3197,'3197','Carlingview Dr @ 231 Carlingview Dr',43.684809,-79.594464,1,1568252
 3198,'3198','Queensway @ Confederation Pky',43.57171,-79.610563,1,1568253
 3200,'3200','Derry Rd @ Syntex Dr',43.604836,-79.754446,1,1568927
 3201,'3201','Derry Rd @ Mississauga Rd',43.609595,-79.752452,1,1568928
@@ -2894,7 +2888,6 @@
 4913,'4913','Thomas St @ Middlebury Dr',43.567915,-79.725487,1,1605479
 4914,'4914','Thomas St @ Erin Mills Pky',43.569323,-79.723377,1,1605480
 4915,'4915','Thomas St E Of Erin Mills Pky',43.570212,-79.721846,1,1605481
-4916,'4916','Thomas St @ Highbank Rd',43.571007,-79.720914,1,1605482
 4917,'4917','Thomas St @ Northrise Rd',43.572216,-79.719564,1,1605483
 4918,'4918','Thomas St E Of Joymar Dr',43.578,-79.714215,1,1605484
 4920,'4920','Streetsville Go Sta P:3',43.575484,-79.71057,1,1605507
