@@ -438,7 +438,7 @@
 539,'0539','Meadowvale Blvd @ Financial Dr',43.614194,-79.751353,1,1482539
 540,'0540','Gln Erin Dr @ Peacock Dr',43.572803,-79.735874,1,1482561
 541,'0541','Gln Erin Dr @ Quails Run',43.570733,-79.733539,1,1482562
-543,'0543','Viscount Sta',43.689883,-79.615684,1,1482564
+543,'0543','Viscount Sta Toronto Airport',43.689883,-79.615684,1,1482564
 544,'0544','Matheson Blvd @ Heatherleigh Ave',43.605583,-79.693409,1,1482565
 545,'0545','Erin Mills Pky S Of Dundas St W',43.536058,-79.665426,1,1482566
 546,'0546','Gln Erin Dr @ Thomas St',43.565708,-79.728617,1,1482567
@@ -467,7 +467,7 @@
 572,'0572','Gln Erin Dr @ Middlebury Dr',43.560538,-79.721148,1,1482656
 573,'0573','Gln Erin Dr @ Erin Ctr Blvd',43.558513,-79.718826,1,1482657
 574,'0574','Aimco Blvd @ Dixie Rd',43.638021,-79.625179,1,1482658
-575,'0575','Viscount Sta',43.689789,-79.615574,1,1482659
+575,'0575','Viscount Sta Toronto Airport',43.689789,-79.615574,1,1482659
 576,'0576','Matheson Blvd @ Bradco Blvd',43.638537,-79.634423,1,1482660
 577,'0577','Living Arts Dr @ Prince Of Wales Dr',43.589792,-79.647799,1,1482661
 578,'0578','City Ctr Dr N Of Kariya Gt',43.594045,-79.638749,1,1482662
@@ -631,7 +631,7 @@
 779,'0779','Commerce Blvd @ Renforth Sta',43.66359,-79.592526,1,1484585
 780,'0780','Meadowvale Town Ctr Bus Term P:F',43.583109,-79.75856,1,1484607
 781,'0781','Mclaughlin Rd @ Regal Dr',43.614611,-79.687323,1,1484608
-782,'0782','Falconer Dr @ Plainsman Rd',43.596186,-79.727678,1,1484609
+782,'0782','Falconer Dr N Of Plainsman Rd',43.597179,-79.727846,1,1484609
 783,'0783','Britannia Rd W Of Tilsdown Rd',43.594671,-79.715458,1,1484610
 784,'0784','Dundas St @ Hensall Cir',43.589073,-79.606505,1,1484611
 785,'0785','Dundas St @ Grenville Rd',43.587812,-79.607946,1,1484612
@@ -653,7 +653,7 @@
 807,'0807','Middlegate Rd @ 1004 Middlegate Rd',43.597063,-79.586798,1,1485327
 809,'0809','Haines Rd S Of Dundas St',43.594328,-79.592285,2,1485329
 810,'0810','Haines Rd @ Dundas St',43.597252,-79.596339,2,1485351
-811,'0811','Dundas St @ Aukland Rd',43.638385,-79.5382,1,1485352
+811,'0811','Dundas St @ Aukland Rd',43.638026,-79.538634,1,1485352
 812,'0812','Meadowvale Town Ctr Bus Term P:G',43.583367,-79.758295,1,1485353
 813,'0813','Kariya Gt @ City Ctr Dr',43.592117,-79.638706,1,1485354
 814,'0814','Dream Crest Rd @ Rick Hansen SS',43.58968,-79.683579,1,1485355
@@ -798,7 +798,7 @@
 991,'0991','U Of Toronto @ Mississauga Campus',43.547809,-79.663549,1,1486561
 992,'0992','Mississauga Rd @ Dundas St',43.543118,-79.660134,1,1486562
 993,'0993','Mississauga Rd @ Dundas St',43.543059,-79.659726,1,1486563
-994,'0994','Mississauga Rd @ Harkiss Rd',43.548965,-79.66888,1,1486564
+994,'0994','Mississauga Rd @ Outer Cir',43.548965,-79.66888,1,1486564
 995,'0995','Mississauga Rd @ Sawmill Vly Dr',43.551751,-79.673065,1,1486565
 996,'0996','Mississauga Rd @ Burnhamthorpe Rd',43.553118,-79.675313,1,1486566
 997,'0997','Mississauga Rd S Of Paddock Cres Walkway',43.558086,-79.680565,2,1486567
@@ -941,8 +941,8 @@
 1164,'1164','Colonial Dr @ Brett Rd',43.528121,-79.706563,1,1508574
 1165,'1165','Burnhamthorpe Rd W @ Central Pky W',43.5681,-79.66436,1,1508575
 1166,'1166','Burnhamthorpe Rd W @ Creditview Rd',43.568737,-79.664197,1,1508576
-1167,'1167','Burnhamthorpe Rd W E Of The Credit Woodlands',43.567008,-79.665709,1,1508577
-1168,'1168','Burnhamthorpe Rd W W Of Creditview Rd',43.567122,-79.666177,1,1508578
+1167,'1167','Burnhamthorpe Rd W @ Erindale Go Sta',43.567008,-79.665709,1,1508577
+1168,'1168','Burnhamthorpe Rd W @ Erindale Go Sta',43.567122,-79.666177,1,1508578
 1169,'1169','Mcbride Ave @ Eaglemount Cres',43.564457,-79.647068,1,1508579
 1170,'1170','Colonial Dr @ The Collegeway',43.525033,-79.702619,1,1508601
 1171,'1171','Erindale Sta Rd S Of Forestwood Dr',43.558082,-79.643991,1,1508602
@@ -1065,7 +1065,7 @@
 1301,'1301','Dundas St @ Tomken Rd',43.600832,-79.593494,1,1510307
 1302,'1302','Dundas St W Of Constitution Blvd',43.601819,-79.592272,1,1510308
 1304,'1304','Aukland Rd N Of Dundas St W',43.638863,-79.538568,1,1510310
-1305,'1305','Bloor St @ Markland Dr',43.629133,-79.58028,1,1510311
+1305,'1305','Bloor St @ W Markland Dr',43.629133,-79.58028,1,1510311
 1308,'1308','Tomken Rd N Of Runningbrook Dr',43.613332,-79.611137,1,1510314
 1309,'1309','Burnhamthorpe Rd @ Mill Rd',43.639518,-79.584201,1,1510315
 1311,'1311','Tomken Rd @ Dundas St',43.600715,-79.593982,1,1510338
@@ -1209,12 +1209,12 @@
 1481,'1481','Rathburn Rd @ W Wakefield Cres',43.5805,-79.658376,1,1511516
 1482,'1482','Rathburn Rd @ Regency Dr',43.577837,-79.662398,1,1511517
 1483,'1483','Rathburn Rd @ Perivale Rd',43.575807,-79.664326,1,1511518
-1484,'1484','Rathburn Rd @ Deer Run',43.572603,-79.667554,1,1511519
+1484,'1484','Rathburn Rd @ E Deer Run',43.572603,-79.667554,1,1511519
 1485,'1485','Rathburn Rd @ W Deer Run',43.570748,-79.669106,1,1511520
 1486,'1486','Creditview Rd @ Rathkeale Rd',43.57622,-79.682807,1,1511521
 1487,'1487','Creditview Rd @ Eglinton Ave',43.577341,-79.684789,1,1511522
-1488,'1488','Rathburn Rd @ Deer Run',43.570512,-79.668888,1,1511523
-1489,'1489','Rathburn Rd @ Deer Run',43.572298,-79.667648,1,1511524
+1488,'1488','Rathburn Rd @ W Deer Run',43.570512,-79.668888,1,1511523
+1489,'1489','Rathburn Rd @ E Deer Run',43.572298,-79.667648,1,1511524
 1490,'1490','Rathburn Rd @ Perivale Rd',43.575375,-79.664348,1,1511546
 1491,'1491','Rathburn Rd @ Queensbridge Dr',43.577531,-79.662343,1,1511547
 1492,'1492','Rathburn Rd @ Queensbridge Dr',43.580089,-79.65862,1,1511548
@@ -1557,7 +1557,7 @@
 1915,'1915','Hurontario St @ Kingsbridge Gdn Cir',43.60415,-79.649623,1,1516108
 1916,'1916','Hurontario St @ Elia Ave',43.60458,-79.649427,1,1516109
 1917,'1917','Hurontario St @ Andrika Crt',43.618014,-79.668597,1,1516110
-1918,'1918','Hurontario St @ Gln Hawthorne Blvd',43.612232,-79.660793,1,1516111
+1918,'1918','Hurontario St @ Glenn Hawthorne Blvd',43.612232,-79.660793,1,1516111
 1919,'1919','Hurontario St @ Eglinton Ave',43.605984,-79.652144,1,1516112
 1920,'1920','Matheson Blvd E Of Hurontario St',43.620126,-79.669071,1,1516134
 1923,'1923','Whittle Rd @ Watline Ave',43.622974,-79.670062,1,1516137
@@ -1604,10 +1604,10 @@
 1968,'1968','Hurontario St S Of Britannia Rd',43.625232,-79.67844,1,1516266
 1969,'1969','Hurontario St @ Milverton Dr',43.621097,-79.67283,1,1516267
 1970,'1970','Kingsbridge Gdn Cir @ Tucana Crt',43.602664,-79.650325,1,1516289
-1971,'1971','Kingsbridge Gdn Cir @ Regents Ter',43.601142,-79.651053,1,1516290
+1971,'1971','Kingsbridge Gdn Cir @ S Regents Ter',43.601142,-79.651053,1,1516290
 1972,'1972','Kingsbridge Gdn Cir @ Dunedin Cres',43.599457,-79.652478,1,1516291
 1973,'1973','Kingsbridge Gdn Cir @ Huntington Rdg Dr',43.599442,-79.654312,1,1516292
-1974,'1974','Kingsbridge Gdn Cir @ Regents Ter',43.601583,-79.656421,1,1516293
+1974,'1974','Kingsbridge Gdn Cir @ N Regents Ter',43.601583,-79.656421,1,1516293
 1975,'1975','Kariya Dr @ Burnhamthorpe Rd',43.591383,-79.63757,1,1516294
 1976,'1976','Eglinton Ave W @ Kingsbridge Gdn Cir',43.602132,-79.657908,1,1516295
 1977,'1977','Kingsbridge Gdn Cir @ Winfield Ter',43.600646,-79.656367,1,1516296
@@ -1797,7 +1797,7 @@
 2213,'2213','Sorrento Dr @ Trudeau Ave',43.607714,-79.648713,1,1539170
 2214,'2214','Campus Rd @ Bresler Dr',43.687588,-79.606406,1,1539171
 2215,'2215','Rose Cherry Pl @ Coopers Ave',43.632779,-79.660027,1,1539172
-2216,'2216','Hurontario St @ Strathhaven Dr',43.610246,-79.658099,1,1539173
+2216,'2216','Hurontario St @ Strathaven Dr',43.610246,-79.658099,1,1539173
 2217,'2217','Bloor St @ Mississauga Vly Blvd',43.598902,-79.612894,1,1539174
 2218,'2218','American Dr @ Viscount Rd',43.691717,-79.618838,1,1539175
 2219,'2219','Cawthra Rd @ Santee Gt',43.59925,-79.606741,1,1539176
@@ -1958,14 +1958,14 @@
 2396,'2396','Derry Rd @ Saint Barbara Blvd',43.639158,-79.713801,1,1540382
 2397,'2397','Derry Rd @ Maritz Dr',43.643055,-79.709356,1,1540383
 2398,'2398','Millcreek Dr @ Meadowvale Go Sta',43.595348,-79.754602,1,1540384
-2400,'2400','Queen St @ Beech St',43.577497,-79.707934,1,1541058
-2401,'2401','Queen St @ Barry Ave',43.579316,-79.710335,1,1541059
+2400,'2400','Queen St S Of Church St',43.577497,-79.707934,1,1541058
+2401,'2401','Queen St @ Princess St',43.57905,-79.709974,1,1541059
 2402,'2402','Queen St S @ Main St',43.581052,-79.712577,1,1541060
 2403,'2403','Queen St S @ Tannery St',43.582142,-79.714275,1,1541061
 2404,'2404','Queen St S @ Ontario St',43.584849,-79.717933,1,1541062
 2405,'2405','Queen St S @ Ellen St',43.586018,-79.719482,1,1541063
 2406,'2406','Queen St S @ Britannia Rd',43.588029,-79.722152,1,1541064
-2407,'2407','Queen St N @ Matlock Ave',43.590147,-79.725131,1,1541065
+2407,'2407','Queen St N @ Matlock Ave',43.589853,-79.724567,1,1541065
 2408,'2408','Matlock Ave @ Falconer Dr',43.590745,-79.724299,1,1541066
 2409,'2409','Falconer Dr @ Alpha Mills Rd',43.595503,-79.726659,1,1541067
 2410,'2410','Falconer Dr @ Hyde Mill Cres',43.598412,-79.727099,1,1541089
@@ -2041,7 +2041,7 @@
 2487,'2487','Tomken Rd @ Courtneypark Dr',43.654434,-79.670124,1,1541313
 2488,'2488','Tomken Rd @ Tristar Dr',43.652824,-79.667915,1,1541314
 2489,'2489','Tomken Rd @ Meyerside Dr',43.650857,-79.66528,1,1541315
-2490,'2490','Falconer Dr @ Plainsman Rd',43.596351,-79.727984,1,1541337
+2490,'2490','Falconer Dr N Of Plainsman Rd',43.59756,-79.727891,1,1541337
 2492,'2492','Lorimar Dr E Of Maxwell Rd',43.671044,-79.681516,1,1541339
 2493,'2493','Cardiff Blvd @ Khalsa Dr',43.673615,-79.680399,1,1541340
 2494,'2494','Tomken Rd @ Derry Rd',43.665767,-79.685365,1,1541341
@@ -2135,7 +2135,7 @@
 2613,'2613','Hurontario St @ Ray Lawson Blvd',43.658599,-79.723589,1,1543014
 2614,'2614','Hurontario St @ N County Court Blvd',43.661609,-79.726955,1,1543015
 2615,'2615','Dixie Rd N Of Derry Rd',43.679014,-79.67906,1,1543016
-2616,'2616','Brampton Gateway Term',43.666171,-79.733575,1,1543017
+2616,'2616','Brampton Gateway Term',43.666347,-79.733747,1,1543017
 2617,'2617','Winston Churchill Blvd @ Derry Rd',43.588085,-79.770813,1,1543018
 2618,'2618','Explorer Dr @ Shuttle Dr',43.662889,-79.604414,1,1543019
 2619,'2619','Explorer Dr @ Shuttle Dr',43.663323,-79.603821,2,1543020
@@ -2338,7 +2338,7 @@
 2858,'2858','Brandon Gt Dr @ Rockhill Rd',43.73186,-79.642659,1,1545065
 2859,'2859','Westwood Sq Bus Term P:F',43.721665,-79.640585,1,1545066
 2860,'2860','Morning Star Dr @ Malton Cc',43.723639,-79.639592,1,1545088
-2862,'2862','Rexdale Blvd @ Islington Ave',43.714356,-79.555924,1,1545090
+2862,'2862','Rexdale Blvd @ Islington Ave',43.714236,-79.55651,1,1545090
 2863,'2863','Rexdale Blvd @ Bergamot Ave',43.713484,-79.559608,1,1545091
 2864,'2864','Darcel Ave @ Woodruff Cres',43.720007,-79.632334,1,1545092
 2865,'2865','Darcel Ave @ Darla Dr',43.729,-79.637595,1,1545093
@@ -2889,7 +2889,7 @@
 4914,'4914','Thomas St @ Erin Mills Pky',43.569323,-79.723377,1,1605480
 4915,'4915','Thomas St E Of Erin Mills Pky',43.570212,-79.721846,1,1605481
 4917,'4917','Thomas St @ Northrise Rd',43.572216,-79.719564,1,1605483
-4918,'4918','Thomas St E Of Joymar Dr',43.578,-79.714215,1,1605484
+4918,'4918','Thomas St @ Streetsville Go Access',43.578,-79.714215,1,1605484
 4920,'4920','Streetsville Go Sta P:3',43.575484,-79.71057,1,1605507
 4921,'4921','Thomas St @ Wareham Dr',43.572549,-79.719507,1,1605508
 4922,'4922','Thomas St @ Erin Mills Pky',43.570379,-79.721955,1,1605509
@@ -3026,7 +3026,7 @@
 6159,'6159','Grand Pk Dr @ Webb Dr',43.580528,-79.646931,1,1657503
 6160,'6160','Webb Dr @ Redmond Rd',43.581738,-79.645727,1,1657525
 6161,'6161','Webb Dr @ Redmond Rd',43.581804,-79.646023,1,1657526
-6162,'6162','Grand Pk Dr @ Webb Dr',43.579909,-79.646424,1,1657527
+6162,'6162','Grand Pk Dr S Of Webb Dr',43.579909,-79.646424,1,1657527
 6163,'6163','Grand Pk Dr @ Central Pky',43.577059,-79.643751,1,1657528
 6164,'6164','Mavis Rd @ Kaiser Dr',43.635607,-79.724652,1,1657529
 6165,'6165','Mavis Rd @ Twain Ave',43.637391,-79.727999,1,1657530
@@ -3104,7 +3104,7 @@
 9037,'9037','Bloor St @ Laurel Ave',43.638279,-79.551376,1,1745851
 9038,'9038','Bloor St @ The E Mall',43.637048,-79.556613,1,1745852
 9040,'9040','Bloor St @ Peacock Ave',43.635046,-79.565661,1,1745875
-9041,'9041','Bloor St @ Markland Dr',43.633669,-79.57069,1,1745876
+9041,'9041','Bloor St @ E Markland Dr',43.633669,-79.57069,1,1745876
 9042,'9042','Bloor St @ Forestview Rd',43.632909,-79.573311,1,1745877
 9043,'9043','Bloor St @ Mill Rd',43.632148,-79.575089,1,1745878
 9044,'9044','Bloor St W Of Mill Rd',43.631319,-79.577241,1,1745879
@@ -3167,17 +3167,17 @@
 9110,'9110','Rexdale Blvd Opp 230 Rexdale Blvd',43.712652,-79.576596,1,1746743
 9111,'9111','Rexdale Blvd W Of Brydon Dr',43.712103,-79.574375,1,1746744
 9112,'9112','Rexdale Blvd @ Kipling Ave',43.711453,-79.567055,1,1746745
-9113,'9113','Rexdale Blvd @ Bergamot Ave',43.712984,-79.560675,1,1746746
+9113,'9113','Rexdale Blvd @ Frost St',43.712265,-79.563763,1,1746746
 9114,'9114','Bergamot Ave @ Rexdale Blvd',43.714042,-79.559582,1,1746747
 9115,'9115','Bergamot Ave @ Islington Ave',43.716765,-79.556289,1,1746748
-9116,'9116','Islington Ave @ Rexdale Blvd',43.715495,-79.555575,1,1746749
+9116,'9116','Islington Ave @ Rexdale Blvd',43.715136,-79.555263,1,1746749
 9117,'9117','Kipling Term P:15',43.635141,-79.538719,1,1746750
 9118,'9118','Kipling Term P:16',43.635222,-79.539002,1,1746751
 9119,'9119','Rexdale Blvd @ Frost St',43.712424,-79.564102,1,1746752
 9120,'9120','Rexdale Blvd @ Kipling Ave',43.711825,-79.566574,1,1746774
 9121,'9121','Rexdale Blvd @ Brydon Dr',43.711612,-79.571147,1,1746775
 9122,'9122','Rexdale Blvd W Of Brydon Dr',43.712362,-79.574232,1,1746776
-9123,'9123','Rexdale Blvd @ 230 Rexdale Blvd',43.713027,-79.577059,1,1746777
+9123,'9123','Rexdale Blvd @ 240 Rexdale Blvd',43.713027,-79.577059,1,1746777
 9124,'9124','Rexdale Blvd @ Martin Grv Rd',43.713922,-79.580936,1,1746778
 9125,'9125','Rexdale Blvd @ Tidemore Ave',43.714846,-79.58501,1,1746779
 9126,'9126','Dundas St @ Kipling Ave',43.640005,-79.534816,1,1746780
