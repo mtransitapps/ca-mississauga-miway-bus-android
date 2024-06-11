@@ -7,7 +7,7 @@
 400,0,'4 E Sherway Gdns To Sherway',4
 401,0,'4 W Sherway Gdns To Cooksville Go',4
 500,0,'5 N Dixie To Cardiff',5
-501,0,'5 S Dixie To Long Branch Go',5
+501,0,'5 S Dixie To Long Branch',5
 600,0,'6 E Credit Woodlands To City Ctr',6
 601,0,'6 W Credit Woodlands To Westdale',6
 700,0,'7 N Airport To Westwood',7
@@ -16,8 +16,8 @@
 801,0,'8 S Cawthra To Port Credit Go',8
 900,0,'9 E Rathburn-Thomas To City Ctr',9
 901,0,'9 W Rathburn-Thomas To Churchill Mdws',9
-1000,0,'10 N Bristol To Meadowvale',10
-1001,0,'10 S Bristol To City Ctr',10
+1000,0,'10 N Bristol-Britannia To Meadowvale',10
+1001,0,'10 S Bristol-Britannia To City Ctr',10
 1100,0,'11 N Westwood To Westwood',11
 1101,0,'11 S Westwood To Kipling Term',11
 1300,0,'13 N Gln Erin To Meadowvale',13
@@ -39,7 +39,7 @@
 2300,0,'23 E Lakeshore To Long Branch Go',23
 2301,0,'23 W Lakeshore To Clarkson Go',23
 2400,0,'24 N Northwest To Westwood',24
-2401,0,'24 S Northwest To Commerce-Renforth Stn',24
+2401,0,'24 S Northwest To Renforth Sta',24
 2500,0,'25 Traders Loop To Matheson',25
 2600,0,'26 E Burnhamthorpe To Kipling Term',26
 2601,0,'26 W Burnhamthorpe To South Common',26
@@ -51,7 +51,7 @@
 3001,0,'30 W Rexdale To Westwood',30
 3500,0,'35 E Eglinton To Kipling Term',35
 3501,0,'35 W Eglinton To Churchill Mdws',35
-3600,0,'36 N Colonial-Ridgeway To Winston Churchill Stn',36
+3600,0,'36 N Colonial-Ridgeway To Winston Churchill Sta',36
 3601,0,'36 S Colonial-Ridgeway To South Common',36
 3800,0,'N Creditview To Meadowvale',38
 3801,0,'S Creditview To Cooksville Go',38
@@ -60,7 +60,7 @@
 4200,0,'42 E Derry To Westwood',42
 4201,0,'42 W Derry To Meadowvale',42
 4300,0,'43 N Matheson-Argentia To Meadowvale',43
-4301,0,'43 S Matheson-Argentia To Commerce-Renforth Stn',43
+4301,0,'43 S Matheson-Argentia To Renforth Sta',43
 4400,0,'44 N Mississauga Rd To Meadowvale',44
 4401,0,'44 S Mississauga Rd To Utm',44
 4500,0,'45 N Winston Churchill To Meadowvale',45
@@ -75,7 +75,7 @@
 5101,0,'51 S Tomken To Stanfield',51
 5300,0,'53 N Kennedy To 407 P&R',53
 5301,0,'53 S Kennedy To Cooksville Go',53
-5700,0,'57 E Courtneypark To Commerce-Renforth Stn',57
+5700,0,'57 E Courtneypark To Renforth Sta',57
 5701,0,'57 W Courtneypark To Sheridan College',57
 6100,0,'61 N Mavis To Sheridan College',61
 6101,0,'61 S Mavis To City Ctr',61
@@ -89,7 +89,7 @@
 7101,0,'71 W Sheridan-Subway To Plymouth Loop',71
 7300,0,'73 N Kamato To Kamato Loop',73
 7301,0,'73 S Kamato To Dixie Sta',73
-7400,0,'74 E Explorer To Commerce-Renforth Stn',74
+7400,0,'74 E Explorer To Renforth Sta',74
 7401,0,'74 W Explorer To Dixie Sta',74
 7600,0,'76 E City Ctr-Subway To Kipling Term',76
 7601,0,'76 W City Ctr-Subway To City Ctr',76
@@ -123,5 +123,3 @@
 31501,0,'315 S Rick Hansen Ss To City Ctr',315
 32100,0,'321 N Stephen Lewis Ss To Joan Of Arc Ss',321
 32101,0,'321 S Stephen Lewis Ss To Artesian',321
-50500,0,'Carassauga Route A',505
-50600,0,'Carassauga Route B',506
