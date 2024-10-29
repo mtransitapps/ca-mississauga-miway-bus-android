@@ -378,7 +378,6 @@
 470,'0470','S Service Rd @ Dixie Mall Access',43.59380,-79.57150,1,1481693
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.58971,-79.54582,1,1481694
 472,'0472','Lakeshore Rd @ Forty-1st St',43.59035,-79.54503,1,1481695
-474,'0474','City Ctr TT Drop Off',43.59477,-79.64635,2,1481697
 477,'0477','City Ctr TT P:E',43.59381,-79.64623,1,1481700
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.59906,-79.68983,1,1481702
 480,'0480','Rathburn Rd @ City Ctr Dr',43.59707,-79.64406,1,1481724
@@ -2006,9 +2005,6 @@
 2475,'2475','Tomken Rd @ Mid-Way Blvd',43.65993,-79.67675,1,1541280
 2476,'2476','Tomken Rd @ Pacific Gt',43.66236,-79.68028,1,1541281
 2477,'2477','Tomken Rd @ Derry Rd',43.66535,-79.68414,1,1541282
-2478,'2478','Tomken Rd @ Gana Crt',43.66682,-79.68623,2,1541283
-2479,'2479','Tomken Rd @ Cardiff Blvd',43.66852,-79.68858,1,1541284
-2480,'2480','Cardiff Blvd @ Tomken Rd',43.66917,-79.68807,1,1541306
 2481,'2481','Lorimar Dr S Of Cardiff Blvd',43.66849,-79.68566,1,1541307
 2482,'2482','Lorimar Dr @ Maxwell Rd',43.66977,-79.68297,1,1541308
 2483,'2483','Derry Rd @ Edwards Blvd',43.64825,-79.70346,1,1541309
@@ -2546,7 +2542,6 @@
 3211,'3211','Creekbank Rd @ Aimco Blvd',43.64503,-79.61630,1,1568959
 3212,'3212','Creekbank Rd S Of Aimco Blvd',43.64532,-79.61678,1,1568960
 3213,'3213','Creekbank Rd @ Eglinton Ave',43.64145,-79.61493,1,1568961
-3219,'3219','Erin Ctr Blvd @ John Fraser SS',43.55980,-79.71541,1,1568967
 3220,'3220','Dixie Sta W P:B',43.62990,-79.61491,1,1568989
 3221,'3221','Gln Erin Dr S Of Erin Ctr Blvd',43.55677,-79.71635,1,1568990
 3222,'3222','Gln Erin Dr @ Hazelton Pl',43.55510,-79.71397,1,1568991
@@ -2945,6 +2940,16 @@
 6000,'6000','City Ctr TT Drop Off',43.59437,-79.64665,1,1656378
 6002,'6002','Meadowvale Town Ctr Drop Off',43.58379,-79.75902,1,1656380
 6003,'6003','Westwood Sq Bus Term Drop Off',43.72145,-79.64081,1,1656381
+6020,'6020','Steeles Ave @ Bramalea Go',43.70222,-79.69307,1,1656440
+6021,'6021','Steeles Ave W Of Advance Blvd',43.69821,-79.69781,1,1656441
+6022,'6022','Steeles Ave @ Dixie Rd',43.69477,-79.70196,1,1656442
+6023,'6023','Tomken Rd S Of Steeles Ave',43.68975,-79.70587,1,1656443
+6024,'6024','Steeles Ave @ Tomken Rd',43.69100,-79.70556,1,1656444
+6025,'6025','Steeles Ave E Of Tomken Rd',43.69244,-79.70397,1,1656445
+6026,'6026','Steeles Ave E Of Tomken Rd',43.69435,-79.70187,1,1656446
+6027,'6027','Steeles Ave @ Dixie Rd',43.69585,-79.70019,1,1656447
+6028,'6028','Steeles Ave E Of Advance Blvd',43.69875,-79.69652,1,1656448
+6029,'6029','Bramalea Go Sta P:12',43.70189,-79.69159,1,1656449
 6105,'6105','Mavis Rd @ Winterton Way',43.59569,-79.67495,1,1657344
 6106,'6106','Mavis Rd @ Bristol Rd',43.59889,-79.68057,1,1657345
 6107,'6107','Mavis Rd @ Lafayette Dr',43.60285,-79.68517,1,1657346
@@ -3003,7 +3008,6 @@
 6608,'6608','Mclaughlin Rd @ Panhellenic Dr',43.64121,-79.72289,1,1662152
 6609,'6609','Mclaughlin Rd N Of Ray Lawson Blvd',43.65234,-79.73829,1,1662153
 6610,'6610','Mclaughlin Rd @ Gurdwara Gt',43.64831,-79.73236,1,1662175
-6611,'6611','Mclaughlin Rd N Of Gurdwara Gt',43.64937,-79.73374,1,1662176
 6612,'6612','Mclaughlin Rd @ Ray Lawson Blvd',43.65127,-79.73638,1,1662177
 6613,'6613','Mclaughlin Rd N Of Ray Lawson Blvd',43.65256,-79.73812,1,1662178
 6614,'6614','Mclaughlin Rd @ Sheridan College Dr',43.65390,-79.73987,1,1662179
