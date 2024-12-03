@@ -333,7 +333,7 @@
 422,'0422','Queensway W Of The W Mall',43.60852,-79.56912,2,1481540
 423,'0423','Dixie Rd @ Kendall Rd',43.60176,-79.57342,1,1481541
 424,'0424','Dixie Rd @ Primate Rd',43.60034,-79.57137,1,1481542
-426,'0426','Dixie Mall Bus Term P:B',43.59377,-79.56537,1,1481544
+426,'0426','Dixie Mall Bus Term P:B',43.59385,-79.56567,1,1481544
 427,'0427','S Service Rd @ Haig Blvd',43.59259,-79.57302,1,1481545
 428,'0428','S Service Rd @ Dixie Mall N Access',43.59415,-79.57134,2,1481546
 429,'0429','Ogden Ave @ S Service Rd',43.58922,-79.57604,1,1481547
@@ -367,10 +367,11 @@
 457,'0457','Lakeshore Rd @ Beechwood Ave',43.56682,-79.56976,1,1481638
 458,'0458','Dixie Rd @ Kendall Rd',43.60133,-79.57228,1,1481639
 459,'0459','Dixie Rd @ Sherway Dr',43.60023,-79.57073,1,1481640
-461,'0461','Dixie Mall Bus Term P:A',43.59386,-79.56557,1,1481663
+461,'0461','Dixie Mall Bus Term P:A',43.59374,-79.56549,1,1481663
 462,'0462','S Service Rd @ Haig Blvd',43.59228,-79.57310,1,1481664
 463,'0463','S Service Rd @ Applewood Rd',43.59117,-79.57431,1,1481665
 464,'0464','Ogden Ave @ S Service Rd',43.58941,-79.57602,1,1481666
+465,'0465','Ogden Ave N Of Strathy Ave',43.58667,-79.57210,1,1481667
 466,'0466','Ogden Ave @ Strathy Ave',43.58572,-79.57081,1,1481668
 467,'0467','Ogden Ave @ Atwater Ave',43.58173,-79.56535,1,1481669
 468,'0468','Ogden Ave @ Pelham Ave',43.58063,-79.56379,1,1481670
@@ -391,7 +392,7 @@
 489,'0489','Speakman Dr S Of Sheridan Pk Dr',43.51603,-79.66957,2,1481733
 490,'0490','U Of Toronto @ Mississauga Campus',43.54787,-79.66384,1,1481755
 491,'0491','Cawthra Rd @ Queensway',43.58953,-79.59239,1,1481756
-493,'0493','Cawthra Rd @ Arbor Crt',43.57738,-79.57684,1,1481758
+493,'0493','Cawthra Rd @ Arbor Crt',43.57765,-79.57713,1,1481758
 494,'0494','Winterton Way @ Astwell Ave',43.59730,-79.67405,1,1481759
 496,'0496','Cawthra Rd @ S Service Rd',43.58041,-79.58066,1,1481761
 497,'0497','Cawthra Rd @ N Service Rd',43.58561,-79.58668,1,1481762
@@ -889,7 +890,7 @@
 1117,'1117','Mcbride Ave @ Eaglemount Cres',43.56466,-79.64692,1,1508422
 1118,'1118','Mcbride Ave @ Erindale Sta Rd',43.56298,-79.65044,1,1508423
 1119,'1119','Mcbride Ave @ Carillion Ave',43.56153,-79.65272,1,1508424
-1120,'1120','Mcbride Ave @ Ellengale Dr',43.56027,-79.65578,1,1508446
+1120,'1120','Mcbride Ave @ Ellengale Dr',43.56032,-79.65565,1,1508446
 1121,'1121','The Credit Woodlands @ Mcbride Ave',43.55897,-79.65805,1,1508447
 1122,'1122','The Credit Woodlands @ Queenston Dr',43.55906,-79.66123,1,1508448
 1123,'1123','Queenston Dr @ Fellmore Dr',43.56066,-79.66102,1,1508449
@@ -931,7 +932,7 @@
 1162,'1162','Winterton Way @ Mavis Rd',43.59546,-79.67538,1,1508572
 1163,'1163','Edwards Blvd @ Export Blvd',43.64956,-79.70536,1,1508573
 1164,'1164','Colonial Dr @ Brett Rd',43.52816,-79.70659,1,1508574
-1165,'1165','Burnhamthorpe Rd @ Central Pky',43.56811,-79.66436,1,1508575
+1165,'1165','Burnhamthorpe Rd @ Central Pky',43.56873,-79.66361,1,1508575
 1166,'1166','Burnhamthorpe Rd @ Creditview Rd',43.56875,-79.66420,1,1508576
 1167,'1167','Burnhamthorpe Rd @ Erindale Go Sta',43.56685,-79.66593,1,1508577
 1168,'1168','Burnhamthorpe Rd @ Erindale Go Sta',43.56720,-79.66604,1,1508578
@@ -1131,7 +1132,7 @@
 1391,'1391','Burnhamthorpe Rd @ Fieldgate Dr',43.62866,-79.59561,1,1510586
 1392,'1392','Burnhamthorpe Rd E Of Fieldgate Dr',43.63083,-79.59327,1,1510587
 1393,'1393','Burnhamthorpe Rd E Of Ponytrail Dr',43.63338,-79.59039,1,1510588
-1396,'1396','Northwest Dr @ American Dr',43.69919,-79.61255,1,1510591
+1396,'1396','Northwest Dr @ American Dr',43.69876,-79.61194,1,1510591
 1397,'1397','American Dr @ Northam Dr',43.69516,-79.61527,1,1510592
 1398,'1398','River Grv Ave @ Astrella Cres',43.59359,-79.71275,1,1510593
 1399,'1399','Queensway E Of Dixie Rd',43.60565,-79.57212,1,1510594
@@ -1175,7 +1176,7 @@
 1453,'1453','Creditview Rd @ Cuthbert Ave',43.57908,-79.68707,1,1511425
 1454,'1454','Truscott Dr @ Elite Rd',43.53088,-79.62922,1,1511426
 1456,'1456','Rathburn Rd @ Duke Of York Blvd',43.59247,-79.64895,1,1511428
-1458,'1458','Aquitaine Ave @ Meadowvale Town Cir',43.58484,-79.76067,1,1511430
+1458,'1458','Aquitaine Ave @ E Meadowvale Town Cir',43.58484,-79.76067,1,1511430
 1459,'1459','Bristol Rd @ Bathgate Rd',43.58576,-79.69892,1,1511431
 1460,'1460','Erindale Go Sta P:5',43.56702,-79.66809,1,1511453
 1461,'1461','Bristol Rd @ River Grv Ave',43.58415,-79.70315,1,1511454
@@ -1219,7 +1220,7 @@
 1503,'1503','Rathburn Rd @ Central Pky',43.60590,-79.63435,1,1512231
 1504,'1504','Rathburn Rd @ 425 Mdws Blvd',43.60785,-79.63182,1,1512232
 1505,'1505','Rathburn Rd @ Cawthra Rd',43.61011,-79.62188,1,1512233
-1506,'1506','Rathburn Rd @ Willowbank Trl',43.61188,-79.62012,1,1512234
+1506,'1506','Rathburn Rd @ Willowbank Trl',43.61224,-79.61988,1,1512234
 1507,'1507','Rathburn Rd @ Westminster Pl',43.61431,-79.61810,1,1512235
 1508,'1508','Robert Speck Pky @ Shipp Dr',43.59729,-79.63690,1,1512236
 1509,'1509','Mdws Blvd @ Bishopstoke Ln',43.59817,-79.63231,1,1512237
@@ -1607,7 +1608,7 @@
 1994,'1994','Traders Blvd @ Kennedy Rd',43.63094,-79.66229,1,1516355
 1998,'1998','Eglinton Ave @ Terry Fox Way',43.58797,-79.67421,1,1516359
 1999,'1999','Eglinton Ave @ Wainscot Dr',43.58732,-79.67458,1,1516360
-2002,'2002','Eglinton Ave E Of Tomken Rd',43.62853,-79.62849,1,1537216
+2002,'2002','Eglinton Ave E Of Tomken Rd',43.62855,-79.62853,1,1537216
 2003,'2003','Dixie Rd @ Aerowood Dr',43.64445,-79.63304,1,1537217
 2004,'2004','Dixie Rd @ Matheson Blvd',43.64196,-79.62955,1,1537218
 2005,'2005','Dixie Rd S Of Matheson Blvd',43.64043,-79.62745,1,1537219
@@ -1873,7 +1874,7 @@
 2321,'2321','Airport Rd @ Ripon St',43.70629,-79.64535,1,1540160
 2322,'2322','Airport Rd @ Victory Cres',43.70759,-79.64723,1,1540161
 2323,'2323','Morning Star Dr @ Collet Rd',43.71001,-79.64981,1,1540162
-2324,'2324','Morning Star Dr @ Lancaster Ave',43.71279,-79.64748,1,1540163
+2324,'2324','Morning Star Dr @ Lancaster Ave',43.71277,-79.64743,1,1540163
 2325,'2325','Windwood Dr @ Townwood Crt',43.57423,-79.74759,1,1540164
 2326,'2326','Meadowvale Go Sta P:3',43.59616,-79.75544,1,1540165
 2327,'2327','Britannia Rd @ Latimer Dr',43.60945,-79.69898,1,1540166
@@ -1980,7 +1981,7 @@
 2443,'2443','Vista Blvd @ Turney Dr',43.57387,-79.72677,1,1541185
 2448,'2448','Thomas St @ Mcfarren Blvd',43.57520,-79.71730,1,1541190
 2452,'2452','Queen St @ Old Sta Rd',43.57624,-79.70624,1,1541215
-2453,'2453','Queen St @ Old Sta Rd',43.57606,-79.70622,1,1541216
+2453,'2453','Queen St @ Old Sta Rd',43.57681,-79.70726,1,1541216
 2454,'2454','Windwood Dr @ Wabukayne Crt',43.57935,-79.73700,1,1541217
 2455,'2455','Queen St N Of Kerr St',43.58363,-79.71655,1,1541218
 2456,'2456','Queen St N Of Kerr St',43.58385,-79.71653,1,1541219
@@ -2186,7 +2187,7 @@
 2724,'2724','Lancaster Ave @ Etude Dr',43.71107,-79.64434,1,1544007
 2725,'2725','Lancaster Ave @ Etude Dr',43.71087,-79.64371,1,1544008
 2726,'2726','Lancaster Ave @ Harold Sheard Dr',43.71234,-79.64617,1,1544009
-2727,'2727','Manion Rd @ Sills Rd',43.71268,-79.64831,1,1544010
+2727,'2727','Manion Rd @ Sills Rd',43.71268,-79.64823,1,1544010
 2728,'2728','Manion Rd @ Coral Dr',43.71295,-79.64945,1,1544011
 2729,'2729','Manion Rd @ Redstone Rd',43.71452,-79.65056,1,1544012
 2731,'2731','Redstone Rd @ Bonaventure Dr',43.71468,-79.65400,1,1544035
@@ -2940,7 +2941,7 @@
 6000,'6000','City Ctr TT Drop Off',43.59437,-79.64665,1,1656378
 6002,'6002','Meadowvale Town Ctr Drop Off',43.58379,-79.75902,1,1656380
 6003,'6003','Westwood Sq Bus Term Drop Off',43.72145,-79.64081,1,1656381
-6020,'6020','Steeles Ave @ Bramalea Go',43.70222,-79.69307,1,1656440
+6020,'6020','Steeles Ave @ Bramalea Go Sta',43.70393,-79.69123,1,1656440
 6021,'6021','Steeles Ave W Of Advance Blvd',43.69821,-79.69781,1,1656441
 6022,'6022','Steeles Ave @ Dixie Rd',43.69477,-79.70196,1,1656442
 6023,'6023','Tomken Rd S Of Steeles Ave',43.68975,-79.70587,1,1656443
@@ -2949,13 +2950,13 @@
 6026,'6026','Steeles Ave E Of Tomken Rd',43.69435,-79.70187,1,1656446
 6027,'6027','Steeles Ave @ Dixie Rd',43.69585,-79.70019,1,1656447
 6028,'6028','Steeles Ave E Of Advance Blvd',43.69875,-79.69652,1,1656448
-6029,'6029','Bramalea Go Sta P:12',43.70189,-79.69159,1,1656449
+6029,'6029','Bramalea Go Sta P:12',43.70200,-79.69120,1,1656449
 6105,'6105','Mavis Rd @ Winterton Way',43.59569,-79.67495,1,1657344
 6106,'6106','Mavis Rd @ Bristol Rd',43.59889,-79.68057,1,1657345
 6107,'6107','Mavis Rd @ Lafayette Dr',43.60285,-79.68517,1,1657346
 6108,'6108','Mavis Rd @ Avonwick Ave',43.60619,-79.68761,1,1657347
 6109,'6109','Mavis Rd @ Matheson Blvd',43.60804,-79.68994,1,1657348
-6110,'6110','Mavis Rd @ Rodeo Dr',43.60977,-79.69235,1,1657370
+6110,'6110','Mavis Rd @ Rodeo Dr',43.61031,-79.69301,1,1657370
 6111,'6111','Derry Rd @ W Credit Ave',43.60782,-79.75440,1,1657371
 6112,'6112','Mavis Rd @ Craig Carrier Crt',43.62792,-79.71716,1,1657372
 6113,'6113','Mavis Rd @ Boyer Blvd',43.61418,-79.69885,1,1657373
