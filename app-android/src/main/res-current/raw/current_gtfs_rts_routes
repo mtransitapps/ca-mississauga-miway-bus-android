@@ -24,6 +24,7 @@
 28,'28','Confederation','',1606,3
 29,'29','Park Royal','',1607,3
 30,'30','Rexdale','',1629,3
+31,'31','Ogden','',1630,3
 35,'35','Eglinton','',1634,3
 36,'36','Ridgeway','',1635,3
 38,'38','Creditview','',1637,3
@@ -52,12 +53,3 @@
 108,'108','Financial Express','026BCD',48633,3
 109,'109','Meadowvale Express','026BCD',48634,3
 110,'110','University Express','026BCD',48656,3
-126,'126','Burnhamthorpe Express','026BCD',48693,3
-302,'302','Philip Pocock SS','',50549,3
-304,'304','Father Goetz SS','',50551,3
-306,'306','Streetsville SS','',50553,3
-307,'307','Philip Pocock SS','',50554,3
-313,'313','Streetsville SS','',50581,3
-314,'314','Rick Hansen SS','',50582,3
-315,'315','Rick Hansen SS','',50583,3
-321,'321','Stephen Lewis SS','',50610,3
