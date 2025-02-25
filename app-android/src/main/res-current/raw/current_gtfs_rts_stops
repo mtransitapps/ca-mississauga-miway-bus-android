@@ -2111,6 +2111,7 @@
 2636,'2636','Gln Erin Dr @ Britannia Rd',43.57440,-79.73736,1,1543079
 2637,'2637','Dixie Rd @ Britannia Rd',43.65485,-79.64641,1,1543080
 2638,'2638','Dixie Rd @ Shawson Dr',43.65208,-79.64287,1,1543081
+2639,'2639','Commerce Blvd N Of Skymark Ave',43.66428,-79.59344,1,1543082
 2640,'2640','Gln Erin Dr S Of Britannia Rd',43.57371,-79.73663,1,1543104
 2641,'2641','Tomken Rd @ Brevik Pl',43.63451,-79.64287,1,1543105
 2642,'2642','Tomken Rd @ Meyerside Dr',43.65072,-79.66463,1,1543106
@@ -2170,14 +2171,12 @@
 2715,'2715','Copenhagen Rd @ Tamar Rd',43.59534,-79.76840,1,1543977
 2716,'2716','Redstone Rd @ Thamesgate Dr',43.71526,-79.65632,1,1543978
 2717,'2717','Benavon Rd @ Redstone Rd',43.71608,-79.65764,1,1543979
-2718,'2718','Redstone Rd @ Thamesgate Dr',43.71562,-79.65696,1,1543980
 2719,'2719','Redstone Rd @ Bonaventure Dr',43.71453,-79.65483,2,1543981
 2720,'2720','Redstone Rd @ Manion Rd',43.71478,-79.65082,1,1544003
 2723,'2723','Lancaster Ave @ Harold Sheard Dr',43.71241,-79.64645,1,1544006
 2724,'2724','Lancaster Ave @ Etude Dr',43.71107,-79.64434,1,1544007
 2725,'2725','Lancaster Ave @ Etude Dr',43.71087,-79.64371,1,1544008
 2726,'2726','Lancaster Ave @ Harold Sheard Dr',43.71234,-79.64617,1,1544009
-2727,'2727','Manion Rd @ Sills Rd',43.71268,-79.64823,1,1544010
 2728,'2728','Manion Rd @ Coral Dr',43.71295,-79.64945,1,1544011
 2729,'2729','Manion Rd @ Redstone Rd',43.71452,-79.65056,1,1544012
 2731,'2731','Redstone Rd @ Bonaventure Dr',43.71468,-79.65400,1,1544035
@@ -2616,7 +2615,6 @@
 3345,'3345','Bristol Rd @ Barondale Dr',43.61983,-79.65024,1,1570017
 3346,'3346','Derry Rd E Of Edwards Blvd',43.65018,-79.70127,1,1570018
 3347,'3347','Morning Star Dr @ Catalpa Rd',43.71976,-79.64320,1,1570019
-3352,'3352','Tenth Line S Of Erin Ctr Blvd',43.54707,-79.72738,1,1570045
 3356,'3356','Bristol Rd @ Kennedy Rd',43.62046,-79.64842,1,1570049
 3357,'3357','Bristol Rd @ Kennedy Rd',43.62037,-79.64894,1,1570050
 3358,'3358','Kennedy Rd @ Indian Summer Trl',43.61856,-79.64493,1,1570051
@@ -2686,6 +2684,8 @@
 3441,'3441','Burnhamthorpe Rd @ W Old Burnhamthorpe Rd',43.64089,-79.58156,1,1570974
 3442,'3442','Burnhamthorpe Rd @ W Old Burnhamthorpe Rd',43.64058,-79.58208,1,1570975
 3443,'3443','Lakeshore Rd @ Long Branch Go Sta',43.59137,-79.54431,1,1570976
+3444,'3444','Dixie Rd @ St James Ave',43.58506,-79.55206,1,1570977
+3445,'3445','Tomken Rd S Of N Gana Crt',43.66823,-79.68855,1,1570978
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.73431,-79.63911,1,1571035
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.48991,-79.63641,1,1571069
 3497,'3497','Hurontario St @ Robert Speck Pky',43.59709,-79.63996,1,1571135
