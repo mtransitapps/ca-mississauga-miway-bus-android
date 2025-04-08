@@ -105,7 +105,7 @@
 128,'0128','Truscott Dr E Of Winston Churchill Blvd',43.50570,-79.65744,1,1478663
 129,'0129','Winston Churchill Blvd @ Stockholm Rd',43.50294,-79.65430,1,1478664
 130,'0130','Bromsgrove Rd @ Cramer St',43.50205,-79.64978,1,1478686
-131,'0131','Bromsgrove Rd @ Constable Rd',43.50418,-79.64732,1,1478687
+131,'0131','Bromsgrove Rd @ Playford Rd',43.50477,-79.64651,1,1478687
 132,'0132','Bromsgrove Rd E Of Tredmore Dr',43.50662,-79.64480,1,1478688
 133,'0133','Bromsgrove Rd @ Seagull Dr',43.50889,-79.64218,1,1478689
 135,'0135','Bromsgrove Rd @ 2170 Bromsgrove Rd',43.51249,-79.63780,1,1478691
@@ -618,11 +618,11 @@
 780,'0780','Meadowvale Town Ctr Bus Term P:F',43.58324,-79.75832,1,1484607
 781,'0781','Mclaughlin Rd @ Regal Dr',43.61462,-79.68733,1,1484608
 782,'0782','Falconer Dr N Of Plainsman Rd',43.59719,-79.72785,1,1484609
-783,'0783','Britannia Rd W Of Tillsdown Rd',43.59456,-79.71557,1,1484610
+783,'0783','Britannia Rd W Of Tillsdown Dr',43.59456,-79.71557,1,1484610
 784,'0784','Dundas St @ Hensall Cir',43.58908,-79.60651,1,1484611
 785,'0785','Dundas St @ Grenville Rd',43.58782,-79.60795,1,1484612
 786,'0786','Dundas St @ Edenhurst Dr',43.58531,-79.61079,1,1484613
-787,'0787','Dundas St @ Littlejohn Ln',43.58297,-79.61344,1,1484614
+787,'0787','Dundas St @ Little John Ln',43.58297,-79.61344,1,1484614
 788,'0788','Dundas St @ Jaguar Vly Dr',43.58168,-79.61499,1,1484615
 789,'0789','Britannia Rd @ Queen St',43.58844,-79.72242,1,1484616
 790,'0790','Britannia Rd @ Farmstead Ln',43.56671,-79.74686,1,1484638
@@ -984,7 +984,7 @@
 1232,'1232','Bloor St @ Michelle Row',43.59782,-79.61725,1,1509440
 1233,'1233','Wolfedale Rd S Of Central Pky',43.57048,-79.64660,1,1509441
 1234,'1234','Wolfedale Rd S Of Central Pky',43.57000,-79.64618,1,1509442
-1235,'1235','Wolfedale Rd @ 3265 Wolfdale Rd',43.56824,-79.64367,1,1509443
+1235,'1235','Wolfedale Rd @ 3265 Wolfedale Rd',43.56824,-79.64367,1,1509443
 1236,'1236','Britannia Rd @ Mavis Rd',43.61166,-79.69644,1,1509444
 1237,'1237','Cawthra Rd @ Dundas St',43.59585,-79.60207,1,1509445
 1238,'1238','Bloor St @ Michelle Row',43.59808,-79.61682,1,1509446
@@ -1316,7 +1316,7 @@
 1626,'1626','Confederation Pky @ Riel Dr',43.58419,-79.64009,1,1513257
 1627,'1627','Confederation Pky @ Webb Dr',43.58429,-79.64256,1,1513258
 1629,'1629','Mississauga Rd @ The Collegeway',43.54492,-79.66303,1,1513260
-1630,'1630','Eglinton Ave @ Fairwind Dr',43.60292,-79.65753,1,1513282
+1630,'1630','Eglinton Ave @ Fairwind Dr',43.60221,-79.65837,1,1513282
 1631,'1631','Orr Rd E Of Southdown Rd',43.50604,-79.62183,2,1513283
 1633,'1633','Eglinton Ave W Of Creditview Rd',43.57731,-79.68606,1,1513285
 1634,'1634','Bristol Rd @ Fairwind Dr',43.60577,-79.66944,1,1513286
@@ -1338,7 +1338,7 @@
 1657,'1657','Colonial Dr @ Orleans Rd',43.52307,-79.69029,1,1513351
 1658,'1658','Colonial Dr @ Mcmaster Rd',43.52311,-79.69392,1,1513352
 1660,'1660','Dundas St @ Vega Blvd',43.51586,-79.68946,1,1513375
-1661,'1661','Laird Rd W Of Ridgeway Dr',43.51770,-79.69043,1,1513376
+1661,'1661','Laird Rd W Of Ridgeway Dr',43.51804,-79.69041,1,1513376
 1662,'1662','Laird Rd @ Colonial Dr',43.52154,-79.68944,1,1513377
 1663,'1663','Laird Rd @ Turnstone Cres',43.52366,-79.68715,1,1513378
 1664,'1664','Laird Rd @ Winston Churchill Blvd',43.52521,-79.68546,1,1513379
@@ -2637,7 +2637,7 @@
 3381,'3381','Steeles Ave @ Mclaughlin Rd',43.65602,-79.74388,1,1570137
 3382,'3382','Burnhamthorpe Rd @ Colonial Dr',43.52906,-79.70808,1,1570138
 3383,'3383','Steeles Ave E Of Tait Blvd',43.65391,-79.74682,1,1570139
-3384,'3384','Steeles Ave @ Beaconsfield Walkway',43.64976,-79.75131,1,1570140
+3384,'3384','Steeles Ave @ Beaconsfield Walkway',43.64944,-79.75175,1,1570140
 3385,'3385','Mavis Rd N Of Clementine Dr',43.64430,-79.75129,1,1570141
 3386,'3386','Mavis Rd S Of Clementine Dr',43.64314,-79.74962,1,1570142
 3387,'3387','Mavis Rd S Of Ray Lawson Blvd',43.64167,-79.74644,1,1570143
@@ -2880,7 +2880,7 @@
 5707,'5707','Britannia Rd N Of Infield Tunnel Rd',43.67718,-79.63634,1,1633321
 5711,'5711','Tenth Line N Of Alpaca Ave',43.54960,-79.72908,1,1633346
 5712,'5712','Tenth Line @ Tacc Dr',43.55215,-79.73238,1,1633347
-5713,'5713','Tenth Line @ Sunlight St',43.55441,-79.73552,2,1633348
+5713,'5713','Tenth Line @ Serena Way',43.55441,-79.73552,2,1633348
 5714,'5714','Courtneypark Dr E Of Dixie Rd',43.66354,-79.65750,1,1633349
 5715,'5715','Courtneypark Dr @ Van Deemter Crt',43.66595,-79.65521,2,1633350
 5716,'5716','Courtneypark Dr E Of Van Deemter Crt',43.66834,-79.65253,2,1633351
@@ -3025,7 +3025,7 @@
 7100,'7100','Westwood Sq Bus Term P:I',43.72183,-79.64086,1,1687130
 7200,'7200','Humber College N Campus P:8',43.72922,-79.60496,1,1688091
 7201,'7201','Humber College N Campus P:1',43.72928,-79.60566,1,1688092
-9000,'9000','Islington Ave @ Islington Sta',43.64520,-79.52378,1,1745751
+9000,'9000','Bloor St @ Islington Sta',43.64455,-79.52422,1,1745751
 9001,'9001','Dundas St @ E Mall Cres',43.63037,-79.54916,1,1745752
 9002,'9002','Dundas St @ Paulart Dr',43.63107,-79.54653,1,1745753
 9003,'9003','Dundas St @ Shorncliffe Rd',43.63180,-79.54485,1,1745754
