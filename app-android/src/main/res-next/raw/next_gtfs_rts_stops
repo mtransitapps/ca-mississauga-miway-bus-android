@@ -657,7 +657,7 @@
 832,'0832','Mavis Rd @ White Clover Way',43.59035,-79.66682,1,1485415
 833,'0833','Mavis Rd @ Waterford Cres Walkway',43.58844,-79.66363,1,1485416
 834,'0834','Mavis Rd @ Huntington Rdg Dr',43.59019,-79.66604,1,1485417
-835,'0835','Cantay Rd @ Britannia Rd W',43.62356,-79.68322,1,1485418
+835,'0835','Cantay Rd @ Britannia Rd',43.62356,-79.68322,1,1485418
 836,'0836','Eglinton Ave E Of Mavis Rd',43.59334,-79.66778,1,1485419
 837,'0837','Rathburn Rd @ Sagebrush Trl',43.57927,-79.66067,1,1485420
 838,'0838','Cawthra Rd @ Needham Ln',43.59261,-79.59717,1,1485421
@@ -1309,7 +1309,7 @@
 1626,'1626','Confederation Pky @ Riel Dr',43.58419,-79.64009,1,1513257
 1627,'1627','Confederation Pky @ Webb Dr',43.58429,-79.64256,1,1513258
 1629,'1629','Mississauga Rd @ The Collegeway',43.54492,-79.66303,1,1513260
-1630,'1630','Eglinton Ave @ Fairwind Dr',43.60221,-79.65837,1,1513282
+1630,'1630','Eglinton Ave W Of Fairwind Dr',43.60221,-79.65837,1,1513282
 1631,'1631','Orr Rd E Of Southdown Rd',43.50604,-79.62183,2,1513283
 1633,'1633','Eglinton Ave W Of Creditview Rd',43.57731,-79.68606,1,1513285
 1634,'1634','Bristol Rd @ Fairwind Dr',43.60577,-79.66944,1,1513286
