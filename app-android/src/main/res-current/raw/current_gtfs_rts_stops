@@ -370,6 +370,7 @@
 470,'0470','S Service Rd @ Dixie Mall Access',43.59380,-79.57150,1,1481693
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.58971,-79.54582,1,1481694
 472,'0472','Lakeshore Rd @ Forty-1st St',43.59035,-79.54503,1,1481695
+475,'0475','Eglinton Ave @ E Mill Rd',43.58029,-79.68278,1,1481698
 477,'0477','City Ctr TT P:E',43.59381,-79.64623,1,1481700
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.59906,-79.68983,1,1481702
 480,'0480','Rathburn Rd @ City Ctr Dr',43.59707,-79.64406,1,1481724
@@ -2646,6 +2647,7 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.59993,-79.71538,1,1570168
 3392,'3392','Creditview Rd @ Britannia Rd',43.59800,-79.71277,1,1570169
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.67050,-79.57773,1,1570170
+3396,'3396','Sq One Dr @ Lower City Ctr Term',43.59319,-79.64591,1,1570173
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.55515,-79.72029,1,1570176
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55727,-79.71797,1,1570850
 3402,'3402','Erin Mills Town Ctr Bus Term P:B',43.56080,-79.71110,1,1570851
@@ -2932,6 +2934,7 @@
 6000,'6000','City Ctr TT Drop Off',43.59437,-79.64665,1,1656378
 6002,'6002','Meadowvale Town Ctr Drop Off',43.58379,-79.75902,1,1656380
 6003,'6003','Westwood Sq Bus Term Drop Off',43.72145,-79.64081,1,1656381
+6019,'6019','Tomken Rd @ Advance Blvd',43.68598,-79.70068,1,1656418
 6020,'6020','Steeles Ave @ Bramalea Go Sta',43.70393,-79.69123,1,1656440
 6021,'6021','Steeles Ave W Of Advance Blvd',43.69821,-79.69781,1,1656441
 6022,'6022','Steeles Ave @ Dixie Rd',43.69477,-79.70196,1,1656442
