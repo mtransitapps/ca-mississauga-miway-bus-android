@@ -49,7 +49,7 @@
 2901,0,'29 S Pk Royal To Clarkson Go',29
 3000,0,'30 E Rexdale To Bergamot',30
 3001,0,'30 W Rexdale To Westwood',30
-3100,0,'31 N Ogden To Dixie Outlet Mall',31
+3100,0,'31 N Ogden To Dixie Go',31
 3101,0,'31 S Ogden To Long Branch Go',31
 3500,0,'35 E Eglinton To Kipling Term',35
 3501,0,'35 W Eglinton To Churchill Mdws',35
@@ -109,17 +109,9 @@
 11001,0,'110 S Express U Exp',110
 12600,0,'126 E Express Burnhamthorpe Exp',126
 12601,0,'126 W Express Burnhamthorpe Exp',126
-30201,0,'302 W Philip Pocock Ss To City Ctr',302
-30401,0,'304 W Father Goetz Ss To S',304
-30600,0,'306 N Streetsville Ss',306
-30601,0,'306 S Streetsville Ss To Mavis',306
-30700,0,'307 E Philip Pocock Ss To Kipling Term',307
-30701,0,'307 W Philip Pocock Ss',307
-31300,0,'313 N Streestville Ss To Meadowvale',313
-31301,0,'313 S Streetsville Ss',313
-31400,0,'314 N Rick Hansen Ss To Bristol',314
-31401,0,'314 S Rick Hansen Ss To Creditview',314
-31500,0,'315 N Rick Hansen Ss Via Ceremonial',315
-31501,0,'315 S Rick Hansen Ss To City Ctr',315
-32100,0,'321 N Stephen Lewis Ss To Joan Of Arc Ss',321
-32101,0,'321 S Stephen Lewis Ss To Artesian',321
+35600,0,'356 N Rick Hansen Ss To S',356
+35601,0,'356 S Rick Hansen Ss To City Ctr',356
+37300,0,'373 N Joan Of Arc Ss To S',373
+37301,0,'373 S Joan Of Arc Ss To South Common',373
+37400,0,'374 N Joan Of Arc Ss To Meadowvale',374
+37401,0,'374 S Joan Of Arc Ss To S',374
