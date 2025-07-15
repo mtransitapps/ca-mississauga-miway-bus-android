@@ -4,10 +4,10 @@
 201,0,'2 S Hurontario To Port Credit Go',2
 300,0,'3 E Bloor To Kipling Term',3
 301,0,'3 W Bloor To City Ctr',3
-400,0,'4 E North Service Rd To Sherway',4
+400,0,'4 E North Service Rd To Sherway Gdns',4
 401,0,'4 W North Service Rd To Cooksville Go',4
 500,0,'5 N Dixie To Cardiff',5
-501,0,'5 S Dixie To Long Branch',5
+501,0,'5 S Dixie To Long Branch Go',5
 600,0,'6 E Credit Woodlands To City Ctr',6
 601,0,'6 W Credit Woodlands To Westdale',6
 700,0,'7 N Airport To Westwood',7
@@ -15,7 +15,7 @@
 800,0,'8 N Cawthra To City Ctr',8
 801,0,'8 S Cawthra To Port Credit Go',8
 900,0,'9 E Rathburn To City Ctr',9
-901,0,'9 W Rathburn To Churchill Mdws',9
+901,0,'9 W Rathburn To Churchill Mdws Cc',9
 1000,0,'10 N Bristol To Meadowvale',10
 1001,0,'10 S Bristol City Ctr',10
 1100,0,'11 N Westwood To Westwood',11
@@ -52,7 +52,7 @@
 3100,0,'31 N Ogden To Dixie Go',31
 3101,0,'31 S Ogden To Long Branch Go',31
 3500,0,'35 E Eglinton To Kipling Term',35
-3501,0,'35 W Eglinton To Churchill Mdws',35
+3501,0,'35 W Eglinton To Churchill Mdws Cc',35
 3600,0,'36 N Ridgeway To Winston Churchill Sta',36
 3601,0,'36 S Ridgeway To South Common',36
 3800,0,'38 N Creditview To Meadowvale',38

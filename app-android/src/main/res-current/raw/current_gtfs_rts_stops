@@ -313,9 +313,9 @@
 400,'0400','N Service Rd @ Annapolis Ave',43.58532,-79.58197,2,1481476
 401,'0401','Britannia Rd E Of Queen St',43.58864,-79.72178,1,1481477
 402,'0402','N Service Rd @ Insley Rd',43.58992,-79.57646,2,1481478
-403,'0403','N Service Rd @ Stanfield Rd',43.59282,-79.57325,2,1481479
+403,'0403','N Service Rd @ Stanfield Rd',43.59284,-79.57330,2,1481479
 404,'0404','Britannia Rd @ River Grv Ave',43.59479,-79.71489,1,1481480
-405,'0405','N Service Rd @ Harvest Dr',43.59541,-79.57050,2,1481481
+405,'0405','N Service Rd @ Harvest Dr',43.59543,-79.57052,2,1481481
 408,'0408','Lakeshore Rd @ Dixie Rd',43.58407,-79.55137,1,1481484
 409,'0409','N Service Rd @ Harvest Dr',43.59569,-79.57052,1,1481485
 410,'0410','N Service Rd @ Tolman Rd',43.59414,-79.57214,1,1481507
@@ -332,8 +332,8 @@
 423,'0423','Dixie Rd @ Kendall Rd',43.60176,-79.57342,1,1481541
 424,'0424','Dixie Rd @ Primate Rd',43.60034,-79.57137,1,1481542
 426,'0426','Dixie Mall Bus Term P:B',43.59402,-79.56498,1,1481544
-427,'0427','S Service Rd @ Haig Blvd',43.59259,-79.57302,1,1481545
-428,'0428','S Service Rd @ Dixie Mall N Access',43.59415,-79.57134,1,1481546
+427,'0427','S Service Rd @ Haig Blvd',43.59258,-79.57296,1,1481545
+428,'0428','S Service Rd @ Dixie Mall N Access',43.59401,-79.57117,1,1481546
 429,'0429','Ogden Ave @ S Service Rd',43.58922,-79.57604,1,1481547
 430,'0430','Ogden Ave @ Strathy Ave',43.58587,-79.57127,1,1481569
 431,'0431','Ogden Ave S Of Strathy Ave',43.58435,-79.56929,1,1481570
@@ -365,7 +365,7 @@
 457,'0457','Lakeshore Rd @ Beechwood Ave',43.56682,-79.56976,1,1481638
 458,'0458','Dixie Rd @ Kendall Rd',43.60133,-79.57228,1,1481639
 461,'0461','Dixie Mall Bus Term P:A',43.59381,-79.56465,1,1481663
-462,'0462','S Service Rd @ Haig Blvd',43.59228,-79.57310,1,1481664
+462,'0462','S Service Rd @ Haig Blvd',43.59225,-79.57306,1,1481664
 463,'0463','S Service Rd @ Applewood Rd',43.59117,-79.57431,1,1481665
 464,'0464','Ogden Ave @ S Service Rd',43.58941,-79.57602,1,1481666
 465,'0465','Ogden Ave N Of Strathy Ave',43.58667,-79.57210,1,1481667
@@ -373,7 +373,7 @@
 467,'0467','Ogden Ave @ Atwater Ave',43.58173,-79.56535,1,1481669
 468,'0468','Ogden Ave @ Pelham Ave',43.58063,-79.56379,1,1481670
 469,'0469','Ogden Ave @ Gardner Ave',43.57808,-79.56013,1,1481671
-470,'0470','S Service Rd @ Dixie Mall Access',43.59380,-79.57150,1,1481693
+470,'0470','S Service Rd @ Dixie Mall Access',43.59364,-79.57127,1,1481693
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.58971,-79.54582,1,1481694
 472,'0472','Lakeshore Rd @ Forty-1st St',43.59035,-79.54503,1,1481695
 477,'0477','City Ctr TT P:E',43.59381,-79.64623,1,1481700
@@ -525,7 +525,7 @@
 666,'0666','City Ctr Dr @ Sq One Dr',43.59602,-79.64177,1,1483590
 667,'0667','Eglinton Ave @ The Chase',43.56566,-79.69951,1,1483591
 670,'0670','Dundas St @ Cornerbrook Pl',43.55307,-79.64755,1,1483615
-675,'0675','Dundas St @ Liruma Rd',43.53052,-79.67295,1,1483620
+675,'0675','Dundas St @ Liruma Rd',43.53051,-79.67295,1,1483620
 677,'0677','Central Pky S Of Burnhamthorpe Rd',43.56723,-79.66246,1,1483622
 678,'0678','Winston Churchill Blvd @ Dover Gt',43.51901,-79.67678,1,1483623
 680,'0680','Sheridan Pk Dr @ Winston Churchill Blvd',43.51620,-79.67156,1,1483646
@@ -652,7 +652,7 @@
 827,'0827','Dundas St W Of Tomken Rd',43.59877,-79.59578,1,1485389
 829,'0829','Meadowvale Blvd @ Financial Dr',43.61454,-79.75097,1,1485391
 830,'0830','Tours Rd @ Edenwood Dr',43.57291,-79.75342,1,1485413
-831,'0831','Dundas St E Of Dixie Rd',43.60938,-79.58356,1,1485414
+831,'0831','Dundas St E Of Dixie Rd',43.60937,-79.58356,1,1485414
 832,'0832','Mavis Rd @ White Clover Way',43.59035,-79.66682,1,1485415
 833,'0833','Mavis Rd @ Waterford Cres Walkway',43.58844,-79.66363,1,1485416
 834,'0834','Mavis Rd @ Huntington Rdg Dr',43.59019,-79.66604,1,1485417
@@ -760,7 +760,7 @@
 965,'0965','Laird Rd @ Coldstream Rd',43.51995,-79.69072,1,1486472
 966,'0966','Columbus Rd S Of Davand Dr',43.66980,-79.67556,1,1486473
 967,'0967','Columbus Rd @ Derry Rd',43.67148,-79.67760,1,1486474
-968,'0968','S Millway @ Sanderling Cres',43.54713,-79.67894,1,1486475
+968,'0968','S Millway @ Sanderling Cres',43.54712,-79.67894,1,1486475
 971,'0971','Burnhamthorpe Rd @ Sawmill Vly Dr',43.55069,-79.67692,1,1486499
 973,'0973','Ridgeway Dr N Of Dovetail Mews',43.52155,-79.70113,1,1486501
 974,'0974','Loyalist Dr @ Seebring Cres',43.53482,-79.70509,1,1486502
@@ -779,7 +779,7 @@
 989,'0989','Mississauga Rd @ Ivygate Crt',43.55155,-79.67252,1,1486538
 990,'0990','S Common Mall Bus Term P:J',43.54310,-79.68373,1,1486560
 991,'0991','U Of Toronto @ Mississauga Campus',43.54782,-79.66355,1,1486561
-992,'0992','Mississauga Rd @ Dundas St',43.54313,-79.66014,1,1486562
+992,'0992','Mississauga Rd @ Dundas St',43.54312,-79.66013,1,1486562
 993,'0993','Mississauga Rd @ Dundas St',43.54307,-79.65973,1,1486563
 994,'0994','Mississauga Rd @ Outer Cir',43.54895,-79.66882,1,1486564
 995,'0995','Mississauga Rd @ Sawmill Vly Dr',43.55181,-79.67308,1,1486565
@@ -811,13 +811,13 @@
 1027,'1027','The Collegeway @ Hornbeam Cres',43.53739,-79.68341,1,1507492
 1028,'1028','The Collegeway E Of Hornbeam Cres',43.53978,-79.68151,1,1507493
 1029,'1029','S Millway N Of The Collegeway',43.54185,-79.68310,1,1507494
-1030,'1030','The Collegeway @ S Millway',43.54524,-79.67687,1,1507516
+1030,'1030','The Collegeway @ S Millway',43.54523,-79.67687,1,1507516
 1031,'1031','S Millway @ Buttonbush Cres',43.54125,-79.67948,1,1507517
 1032,'1032','S Millway @ S Buttonbush Cres',43.54082,-79.67828,1,1507518
 1033,'1033','S Millway @ 5th Line W',43.53955,-79.67424,1,1507519
 1034,'1034','Erin Mills Pky S Of S Millway',43.53993,-79.67104,1,1507520
 1035,'1035','Dundas St @ Mississauga Rd',43.54232,-79.65996,1,1507521
-1036,'1036','Dundas St @ Redstart Dr',43.53931,-79.66353,1,1507522
+1036,'1036','Dundas St @ Redstart Dr',43.53930,-79.66352,1,1507522
 1037,'1037','Dundas St W Of Erin Mills Pky',43.53646,-79.66696,1,1507523
 1039,'1039','S Millway @ 5th Line W',43.54018,-79.67415,1,1507525
 1040,'1040','S Millway @ S Buttonbush Cres',43.54087,-79.67809,1,1507547
@@ -831,7 +831,7 @@
 1049,'1049','The Collegeway @ S Common Ctr Access Rd',43.54340,-79.68093,1,1507556
 1051,'1051','Meadowvale Blvd @ Meadowpine Blvd',43.60454,-79.76868,1,1507579
 1053,'1053','Meadowpine Blvd @ E Danbro Cres',43.60356,-79.77505,1,1507581
-1054,'1054','The Collegeway S Of S Millway',43.54482,-79.66943,1,1507582
+1054,'1054','The Collegeway S Of S Millway',43.54481,-79.66943,1,1507582
 1055,'1055','The Collegeway @ Broad Hollow Gt',43.54412,-79.66677,1,1507583
 1056,'1056','Meadowpine Blvd @ Danbro Cres',43.60315,-79.77785,1,1507584
 1057,'1057','Meadowpine Blvd @ E Danbro Cres',43.60343,-79.77418,1,1507585
@@ -845,21 +845,21 @@
 1067,'1067','Fairwind Dr @ Ceremonial Dr',43.60470,-79.66223,2,1507616
 1068,'1068','Eglinton Ave @ Tomken Rd',43.62760,-79.63004,1,1507617
 1071,'1071','The Collegeway @ S Millway',43.54545,-79.67705,1,1507641
-1072,'1072','The Collegeway W Of Broad Hollow Gt',43.54526,-79.67083,1,1507642
+1072,'1072','The Collegeway W Of Broad Hollow Gt',43.54525,-79.67083,1,1507642
 1073,'1073','S Common Ctr Bus Term P:F',43.54373,-79.68425,1,1507643
 1087,'1087','The Collegeway @ Broad Hollow Gt',43.54399,-79.66628,1,1507678
 1088,'1088','Renforth Sta W P:1',43.66328,-79.59103,1,1507679
 1089,'1089','S Common Ctr Bus Term P:K',43.54290,-79.68334,1,1507680
 1090,'1090','S Millway @ The Collegeway',43.54145,-79.68112,1,1507702
 1091,'1091','Dixie Rd @ Dundas St',43.60890,-79.58295,1,1507703
-1094,'1094','The Collegeway E Of S Millway',43.54584,-79.67574,1,1507706
+1094,'1094','The Collegeway E Of S Millway',43.54583,-79.67573,1,1507706
 1095,'1095','Dundas St W Of Woodchester Dr',43.52521,-79.67924,1,1507707
 1096,'1096','Winston Churchill Blvd @ The Collegeway',43.53073,-79.69231,1,1507708
 1098,'1098','Winston Churchill Blvd @ Laird Rd',43.52558,-79.68564,1,1507710
 1099,'1099','S Common Ctr Bus Term P:A',43.54299,-79.68314,1,1507711
 1100,'1100','Dundas St @ Robinson St',43.54620,-79.65284,1,1508384
 1101,'1101','Dundas St @ Dundas Cres',43.54899,-79.65028,1,1508385
-1102,'1102','Dundas St @ Nanticoke Rd',43.54487,-79.65504,1,1508386
+1102,'1102','Dundas St @ Nanticoke Rd',43.54486,-79.65503,1,1508386
 1103,'1103','Hurontario St @ Matthews Gt',43.59192,-79.63315,1,1508387
 1104,'1104','Hurontario St @ John St',43.58378,-79.62165,1,1508388
 1105,'1105','Hurontario St @ Elm Dr',43.59081,-79.63146,1,1508389
@@ -944,14 +944,14 @@
 1188,'1188','Forestwood Dr @ Jessica Crt',43.56085,-79.64428,1,1508640
 1189,'1189','Dundas St @ Hurontario St',43.57995,-79.61692,1,1508641
 1190,'1190','Dundas St @ Confederation Pky',43.57737,-79.61989,1,1508663
-1191,'1191','Dundas St @ Jarrow Ave',43.61253,-79.58002,1,1508664
+1191,'1191','Dundas St @ Jarrow Ave',43.61252,-79.58002,1,1508664
 1192,'1192','Dundas St @ Jarrow Ave',43.61295,-79.58012,1,1508665
 1194,'1194','Dundas St @ Mavis Rd',43.56677,-79.63242,1,1508667
 1195,'1195','Dundas St @ Wolfedale Rd',43.56341,-79.63609,1,1508668
-1196,'1196','Dundas St @ Cedarglen Gt',43.56065,-79.63915,1,1508669
+1196,'1196','Dundas St @ Cedarglen Gt',43.56064,-79.63914,1,1508669
 1197,'1197','Dundas St @ Erindale Sta Rd',43.55688,-79.64371,1,1508670
 1198,'1198','Dundas St @ Old Carriage Rd',43.55553,-79.64523,1,1508671
-1199,'1199','Dundas St @ The Credit Woodlands',43.55232,-79.64852,1,1508672
+1199,'1199','Dundas St @ The Credit Woodlands',43.55231,-79.64852,1,1508672
 1200,'1200','Wolfedale Rd N Of Westlock Rd',43.56888,-79.64428,1,1509345
 1204,'1204','Hurontario St @ Matthews Gt',43.59222,-79.63290,1,1509349
 1206,'1206','Hurontario St @ Elm Dr',43.59078,-79.63113,1,1509351
@@ -1035,7 +1035,7 @@
 1299,'1299','Montevideo Rd @ Aquitaine Ave',43.59019,-79.75625,1,1509633
 1300,'1300','Dixie Rd S Of Golden Orchard Dr',43.61118,-79.58688,1,1510306
 1301,'1301','Dundas St @ Tomken Rd',43.60084,-79.59350,1,1510307
-1302,'1302','Dundas St W Of Constitution Blvd',43.60183,-79.59228,1,1510308
+1302,'1302','Dundas St W Of Constitution Blvd',43.60182,-79.59227,1,1510308
 1304,'1304','Aukland Rd N Of Dundas St',43.63887,-79.53857,1,1510310
 1305,'1305','Bloor St @ W Markland Dr',43.62914,-79.58028,1,1510311
 1308,'1308','Tomken Rd N Of Runningbrook Dr',43.61334,-79.61114,1,1510314
@@ -1081,7 +1081,7 @@
 1351,'1351','Bloor St @ Tomken Rd',43.60777,-79.60323,1,1510462
 1352,'1352','Bloor St @ Anneliese Ave',43.60595,-79.60493,1,1510463
 1353,'1353','Bloor St @ Cedar Crk Dr',43.60344,-79.60719,1,1510464
-1354,'1354','Dundas St @ Dixie Rd',43.60949,-79.58386,1,1510465
+1354,'1354','Dundas St @ Dixie Rd',43.60948,-79.58386,1,1510465
 1355,'1355','Dixie Rd N Of Dundas St',43.61005,-79.58456,1,1510466
 1356,'1356','Dixie Rd @ Golden Orchard Rd',43.61286,-79.58851,1,1510467
 1357,'1357','Dixie Rd @ Bloor St',43.61751,-79.59533,1,1510468
@@ -1156,7 +1156,7 @@
 1458,'1458','Aquitaine Ave @ E Meadowvale Town Cir',43.58484,-79.76067,1,1511430
 1459,'1459','Bristol Rd @ Bathgate Rd',43.58576,-79.69892,1,1511431
 1460,'1460','Erindale Go Sta P:5',43.56702,-79.66809,1,1511453
-1461,'1461','Bristol Rd @ River Grv Ave',43.58415,-79.70315,1,1511454
+1461,'1461','Bristol Rd @ River Grv Ave',43.58416,-79.70313,1,1511454
 1462,'1462','River Grv Ave @ Stillriver Cres',43.58656,-79.70482,1,1511455
 1463,'1463','River Grv Ave @ Willow Way',43.58827,-79.70705,1,1511456
 1464,'1464','River Grv Ave @ N Riverdale Cres',43.59044,-79.70899,1,1511457
@@ -1509,6 +1509,7 @@
 1905,'1905','Hurontario St @ World Dr',43.63379,-79.68933,1,1516077
 1906,'1906','Hurontario St @ Ambassador Dr',43.63966,-79.69725,1,1516078
 1907,'1907','Hurontario St @ Derry Rd',43.64584,-79.70557,1,1516079
+1908,'1908','Hurontario St @ Topflight Dr',43.65004,-79.71136,1,1516080
 1909,'1909','Hurontario St @ County Court Blvd',43.65858,-79.72310,1,1516081
 1911,'1911','Eglinton Ave @ Creditview Rd',43.57754,-79.68535,1,1516104
 1912,'1912','Hurontario St S Of Derry Rd',43.64518,-79.70526,1,1516105
@@ -1944,7 +1945,7 @@
 2438,'2438','Thomas St @ Gafney Dr',43.57552,-79.71732,1,1541159
 2448,'2448','Thomas St @ Mcfarren Blvd',43.57520,-79.71730,1,1541190
 2452,'2452','Queen St @ Old Sta Rd',43.57624,-79.70624,1,1541215
-2453,'2453','Queen St @ Old Sta Rd',43.57607,-79.70624,1,1541216
+2453,'2453','Queen St @ Old Sta Rd',43.57675,-79.70718,1,1541216
 2454,'2454','Windwood Dr @ Wabukayne Crt',43.57935,-79.73700,1,1541217
 2455,'2455','Queen St N Of Kerr St',43.58363,-79.71655,1,1541218
 2456,'2456','Queen St N Of Kerr St',43.58385,-79.71653,1,1541219
@@ -2644,7 +2645,7 @@
 3443,'3443','Lakeshore Rd @ Long Branch Go Sta',43.59137,-79.54431,1,1570976
 3444,'3444','Dixie Rd @ St James Ave',43.58506,-79.55206,1,1570977
 3445,'3445','Tomken Rd S Of N Gana Crt',43.66823,-79.68855,1,1570978
-3446,'3446','Dixie Rd @ S Service Rd',43.59444,-79.56509,1,1570979
+3446,'3446','Dixie Rd @ Rometown Dr',43.59444,-79.56509,1,1570979
 3447,'3447','Dixie Rd @ S Service Rd',43.59462,-79.56585,1,1570980
 3448,'3448','Dixie Rd @ Orchard Hl Rd',43.58762,-79.55537,1,1570981
 3449,'3449','Dixie Rd @ Lakeshore Rd',43.58475,-79.55133,1,1570982
@@ -2721,6 +2722,7 @@
 4002,'4002','Winston Churchill Blvd @ Bentley Dr',43.56338,-79.73721,1,1596798
 4003,'4003','Hurontario St @ Burnhamthorpe Rd',43.59356,-79.63455,1,1596799
 4005,'4005','Hurontario St @ Burnhamthorpe Rd',43.59381,-79.63567,1,1596801
+4006,'4006','Hurontario St @ Kingsway Dr',43.64723,-79.70749,1,1596802
 4007,'4007','S Common Ctr Bus Term P:C',43.54324,-79.68351,1,1596803
 4008,'4008','S Common Ctr Bus Term P:I',43.54328,-79.68394,1,1596804
 4009,'4009','Clarkson Go Sta P:8',43.51268,-79.63326,1,1596805
@@ -2745,6 +2747,7 @@
 4125,'4125','Thomas St @ Tenth Line',43.55869,-79.74120,1,1597824
 4204,'4204','Financial Dr @ 6745 Financial Dr',43.60965,-79.74171,2,1598722
 4205,'4205','Financial Dr W Of Creditview Rd',43.61056,-79.73928,2,1598723
+4213,'4213','Hurontario St @ Kingsway Dr',43.64731,-79.70805,1,1598752
 4300,'4300','S Common Ctr Bus Term P:B',43.54312,-79.68332,1,1599679
 4500,'4500','Royal Windsor Dr @ Winston Churchill Blvd',43.49699,-79.64540,1,1601601
 4501,'4501','Winston Churchill Blvd @ Bromsgrove Rd',43.50053,-79.65094,1,1601602
@@ -2988,7 +2991,7 @@
 9001,'9001','Dundas St @ E Mall Cres',43.63037,-79.54916,1,1745752
 9002,'9002','Dundas St @ Paulart Dr',43.63107,-79.54653,1,1745753
 9003,'9003','Dundas St @ Shorncliffe Rd',43.63180,-79.54485,1,1745754
-9004,'9004','Dundas St @ Wilmar Rd',43.63410,-79.54179,1,1745755
+9004,'9004','Dundas St @ Wilmar Rd',43.63454,-79.54139,1,1745755
 9005,'9005','Dundas St @ Subway Cr',43.63589,-79.54004,1,1745756
 9006,'9006','Dundas St @ Acorn Ave',43.63691,-79.53915,1,1745757
 9007,'9007','Dundas St @ Aukland Rd',43.63829,-79.53796,1,1745758
