@@ -351,7 +351,7 @@
 443,'0443','Lakeshore Rd @ Dixie Rd',43.58401,-79.55106,1,1481603
 444,'0444','Lakeshore Rd E Of Deta Rd',43.58612,-79.54888,1,1481604
 445,'0445','Lakeshore Rd E Of Isl Rd',43.58775,-79.54733,1,1481605
-446,'0446','Long Branch Go Sta P:A',43.59203,-79.54387,1,1481606
+446,'0446','Long Branch Go Sta P:A',43.59175,-79.54428,1,1481606
 447,'0447','Lakeshore Rd W Of Forty-3rd St',43.58732,-79.54814,1,1481607
 448,'0448','Lakeshore Rd @ Deta Rd',43.58592,-79.54935,1,1481608
 449,'0449','Ogden Ave @ Delco Ave',43.58369,-79.56791,1,1481609
@@ -558,7 +558,7 @@
 711,'0711','Clf Rd @ Pathfinder Dr',43.57802,-79.59454,1,1484391
 712,'0712','Tedwyn Dr @ Chantenay Dr',43.58010,-79.59616,1,1484392
 713,'0713','Tedwyn Dr @ Munden Rd',43.58087,-79.59445,1,1484393
-714,'0714','Tedwyn Dr @ Hensall St',43.58243,-79.59251,1,1484394
+714,'0714','Tedwyn Dr @ Chantenay Dr',43.58299,-79.59188,1,1484394
 715,'0715','Erin Mills Pky S Of Eglinton Ave',43.55762,-79.70450,1,1484395
 716,'0716','Asta Dr @ Boismere Crt',43.58398,-79.58947,1,1484396
 717,'0717','Hurontario St @ Dundas St',43.57973,-79.61601,1,1484397
@@ -691,7 +691,7 @@
 877,'0877','Dundas St @ Mattawa Ave',43.61471,-79.57827,1,1485544
 878,'0878','Dundas St @ Neilco Crt',43.61174,-79.58139,1,1485545
 879,'0879','Dixie Rd @ Caterpillar Rd',43.60413,-79.57619,1,1485546
-880,'0880','Dixie Rd @ Blundell Rd',43.60776,-79.58155,1,1485568
+880,'0880','Dixie Rd @ Blundell Rd',43.60774,-79.58134,1,1485568
 881,'0881','Lakeshore Rd @ St Lawrence Dr',43.55674,-79.58035,1,1485569
 883,'0883','Turner Vly Rd @ Argentia Rd',43.59797,-79.74220,1,1485571
 885,'0885','Stanfield Rd @ 2530 Stanfield Rd',43.60269,-79.58906,1,1485573
@@ -730,8 +730,8 @@
 935,'0935','Unity Dr @ Loyalist Dr',43.53788,-79.70708,1,1486379
 936,'0936','Viscount Rd S Of Airway Dr',43.69286,-79.62242,2,1486380
 937,'0937','The Collegeway @ Winston Churchill Blvd',43.53112,-79.69268,1,1486381
-941,'0941','Columbus Rd @ 6830 Columbus Rd',43.66614,-79.67118,1,1486406
-942,'0942','Columbus Rd @ 6855 Columbus Rd',43.66807,-79.67352,1,1486407
+941,'0941','Columbus Rd @ 6830 Columbus Rd',43.66656,-79.67174,1,1486406
+942,'0942','Columbus Rd @ 6855 Columbus Rd',43.66842,-79.67400,1,1486407
 943,'0943','Derry Rd @ Tenth Line',43.58407,-79.77632,1,1486408
 944,'0944','Ridgeway Dr @ Bertrand Rd Walkway',43.52976,-79.71593,1,1486409
 946,'0946','The Collegeway @ Loyalist Dr',43.53006,-79.69399,1,1486411
@@ -843,7 +843,7 @@
 1088,'1088','Renforth Sta W P:1',43.66328,-79.59103,1,1507679
 1089,'1089','S Common Ctr Bus Term P:K',43.54290,-79.68334,1,1507680
 1090,'1090','S Millway @ The Collegeway',43.54145,-79.68112,1,1507702
-1091,'1091','Dixie Rd @ Dundas St',43.60890,-79.58295,1,1507703
+1091,'1091','Dixie Rd @ Dundas St',43.60889,-79.58295,1,1507703
 1094,'1094','The Collegeway E Of S Millway',43.54583,-79.67573,1,1507706
 1095,'1095','Dundas St W Of Woodchester Dr',43.52521,-79.67924,1,1507707
 1096,'1096','Winston Churchill Blvd @ The Collegeway',43.53073,-79.69231,1,1507708
@@ -892,8 +892,8 @@
 1142,'1142','Wolfedale Rd @ Dundas St',43.56360,-79.63668,1,1508510
 1143,'1143','Wolfedale Rd @ Forestwood Dr',43.56493,-79.63864,1,1508511
 1144,'1144','Mcbride Ave @ Erindale Sta Rd',43.56269,-79.65065,1,1508512
-1145,'1145','Mcbride Ave @ Grechen Rd',43.56360,-79.64911,1,1508513
-1146,'1146','Mcbride Ave @ Westlock Rd',43.56491,-79.64419,1,1508514
+1145,'1145','Mcbride Ave @ Grechen Rd',43.56341,-79.64941,1,1508513
+1146,'1146','Mcbride Ave @ Westlock Rd',43.56479,-79.64396,1,1508514
 1147,'1147','Mcbride Ave @ Forestwood Dr',43.56343,-79.64201,1,1508515
 1148,'1148','Edwards Blvd @ Derry Rd',43.64874,-79.70365,1,1508516
 1149,'1149','Lisgar Dr @ Doug Leavens Blvd',43.56773,-79.77396,1,1508517
@@ -928,7 +928,7 @@
 1180,'1180','The Credit Woodlands @ Erinmore Dr',43.55898,-79.66022,1,1508632
 1181,'1181','Mcbride Ave @ The Credit Woodlands',43.55939,-79.65681,1,1508633
 1182,'1182','Mcbride Ave @ Ellengale Dr',43.56003,-79.65588,1,1508634
-1183,'1183','Mcbride Ave @ Carillion Ave',43.56129,-79.65295,1,1508635
+1183,'1183','Mcbride Ave @ Carillion Ave',43.56129,-79.65292,1,1508635
 1184,'1184','Mavis Rd @ Eglinton Ave',43.59238,-79.66961,1,1508636
 1185,'1185','Wolfedale Rd @ Westlock Rd',43.56672,-79.64115,1,1508637
 1186,'1186','Truscott Dr @ Merrow Rd',43.53004,-79.63024,2,1508638
@@ -1036,7 +1036,7 @@
 1313,'1313','Tomken Rd @ Rymal Rd',43.60217,-79.59574,1,1510340
 1314,'1314','Tomken Rd @ Homeric Dr',43.60408,-79.59849,1,1510341
 1315,'1315','Dixie Rd @ Burnhamthorpe Rd',43.62196,-79.60206,1,1510342
-1316,'1316','Dixie Rd @ Winding Trl',43.61964,-79.59901,1,1510343
+1316,'1316','Dixie Rd @ Winding Trl',43.61963,-79.59901,1,1510343
 1317,'1317','Dixie Rd @ Bloor St',43.61706,-79.59533,1,1510344
 1318,'1318','Dixie Rd @ Golden Orchard Dr',43.61207,-79.58819,1,1510345
 1319,'1319','Dixie Rd N Of Dundas St',43.61006,-79.58527,1,1510346
@@ -1075,7 +1075,7 @@
 1353,'1353','Bloor St @ Cedar Crk Dr',43.60344,-79.60719,1,1510464
 1354,'1354','Dundas St @ Dixie Rd',43.60948,-79.58386,1,1510465
 1355,'1355','Dixie Rd N Of Dundas St',43.61005,-79.58456,1,1510466
-1356,'1356','Dixie Rd @ Golden Orchard Rd',43.61286,-79.58851,1,1510467
+1356,'1356','Dixie Rd @ Golden Orchard Rd',43.61285,-79.58851,1,1510467
 1357,'1357','Dixie Rd @ Bloor St',43.61751,-79.59533,1,1510468
 1358,'1358','Dixie Rd @ Winding Trl',43.61948,-79.59817,1,1510469
 1359,'1359','Dixie Rd @ Burnhamthorpe Rd',43.62194,-79.60149,1,1510470
@@ -1232,7 +1232,7 @@
 1547,'1547','Rathburn Rd @ Cawthra Rd',43.61075,-79.62151,1,1512359
 1548,'1548','Dixie Rd @ Hickory Dr',43.62821,-79.61005,1,1512360
 1549,'1549','Dixie Rd @ Rathburn Rd',43.62601,-79.60702,1,1512361
-1550,'1550','Dixie Rd @ Rockwood Mall',43.62449,-79.60496,1,1512383
+1550,'1550','Dixie Rd @ Rockwood Mall',43.62448,-79.60496,1,1512383
 1552,'1552','Burnhamthorpe Rd @ Ponytrail Dr',43.63298,-79.59133,1,1512385
 1553,'1553','Burnhamthorpe Rd W Of Ponytrail Dr',43.63124,-79.59313,1,1512386
 1554,'1554','Burnhamthorpe Rd @ Fieldgate Dr',43.62826,-79.59648,1,1512387
@@ -1307,7 +1307,7 @@
 1644,'1644','Confederation Pky @ Central Pky',43.58340,-79.63649,1,1513317
 1645,'1645','Duke Of York Blvd @ Webb Dr',43.58726,-79.64003,1,1513318
 1646,'1646','Confederation Pky @ Hillcrest Ave',43.57916,-79.62456,1,1513319
-1647,'1647','Confederation Pky @ Agnes St',43.57814,-79.62180,1,1513320
+1647,'1647','Confederation Pky @ Agnes St',43.57811,-79.62111,1,1513320
 1648,'1648','Confederation Pky @ Dundas St',43.57724,-79.61913,1,1513321
 1649,'1649','Confederation Pky @ Dunbar Rd',43.57531,-79.61611,1,1513322
 1651,'1651','Confederation Pky @ King St',43.57599,-79.61710,1,1513345
@@ -1440,7 +1440,7 @@
 1829,'1829','Silken Laumann Way @ Ivandale Dr',43.60872,-79.70314,1,1515182
 1830,'1830','Silken Laumann Way @ Britannia Rd',43.60783,-79.70198,1,1515204
 1831,'1831','Wolfedale Rd @ Dundas St',43.56361,-79.63701,1,1515205
-1832,'1832','Lorimar Dr @ Cardiff Blvd',43.67265,-79.67979,1,1515206
+1832,'1832','Lorimar Dr @ Cardiff Blvd',43.67264,-79.67978,1,1515206
 1833,'1833','Guildwood Way @ Galaxy Crt',43.59678,-79.66727,1,1515207
 1834,'1834','Guildwood Way @ Ceremonial Dr',43.59844,-79.66913,1,1515208
 1835,'1835','Morning Star Dr @ Cambrett Dr',43.71729,-79.64526,1,1515209
@@ -1486,7 +1486,7 @@
 1889,'1889','Hurontario St @ Skyway Dr',43.64077,-79.69937,1,1515368
 1890,'1890','Columbus Rd S Of Derry Rd',43.67106,-79.67739,1,1515390
 1891,'1891','Columbus Rd S Of Davand Dr',43.66952,-79.67554,1,1515391
-1892,'1892','Columbus Rd @ 6760 Columbus Rd',43.66623,-79.67160,1,1515392
+1892,'1892','Columbus Rd @ 6760 Columbus Rd',43.66632,-79.67168,1,1515392
 1893,'1893','Columbus Rd N Of Mid-Way Blvd',43.66491,-79.66981,1,1515393
 1894,'1894','Mid-Way Blvd @ Davand Dr',43.66671,-79.66646,1,1515394
 1895,'1895','Mid-Way Blvd @ Dixie Rd',43.66762,-79.66504,1,1515395
@@ -1576,7 +1576,7 @@
 1999,'1999','Eglinton Ave @ Wainscot Dr',43.58732,-79.67458,1,1516360
 2003,'2003','Dixie Rd @ Aerowood Dr',43.64445,-79.63304,1,1537217
 2004,'2004','Dixie Rd @ Matheson Blvd',43.64196,-79.62955,1,1537218
-2005,'2005','Dixie Rd S Of Matheson Blvd',43.64043,-79.62745,1,1537219
+2005,'2005','Dixie Rd S Of Matheson Blvd',43.64042,-79.62745,1,1537219
 2007,'2007','Dixie Rd @ Aimco Blvd',43.63872,-79.62514,1,1537221
 2008,'2008','Dixie Rd @ Eglinton Ave',43.63600,-79.62139,1,1537222
 2009,'2009','Aimco Blvd @ Dixie Rd',43.63805,-79.62492,1,1537223
@@ -1607,7 +1607,7 @@
 2037,'2037','Eglinton Ave @ Maingate Dr',43.63080,-79.62651,1,1537314
 2038,'2038','Eglinton Ave E Of Satellite Dr',43.65373,-79.60056,1,1537315
 2039,'2039','Eglinton Ave @ Burgoyne St',43.63312,-79.62391,1,1537316
-2040,'2040','Dixie Rd @ Aerowood Dr',43.64430,-79.63219,1,1537338
+2040,'2040','Dixie Rd @ Aerowood Dr',43.64418,-79.63198,1,1537338
 2041,'2041','Dixie Rd @ Matheson Blvd',43.64238,-79.62957,1,1537339
 2042,'2042','Dixie Rd N Of Aimco Blvd',43.64054,-79.62697,1,1537340
 2043,'2043','Dixie Rd @ Aimco Blvd',43.63837,-79.62405,1,1537341
@@ -1956,7 +1956,7 @@
 2478,'2478','Tomken Rd @ Gana Crt',43.66682,-79.68623,2,1541283
 2479,'2479','Tomken Rd @ Cardiff Blvd',43.66852,-79.68858,1,1541284
 2481,'2481','Lorimar Dr S Of Cardiff Blvd',43.66849,-79.68566,1,1541307
-2482,'2482','Lorimar Dr @ Maxwell Rd',43.66977,-79.68297,1,1541308
+2482,'2482','Lorimar Dr @ Maxwell Rd',43.66975,-79.68301,1,1541308
 2483,'2483','Derry Rd @ Edwards Blvd',43.64825,-79.70346,1,1541309
 2484,'2484','Tomken Rd @ Pacific Gt',43.66276,-79.68122,1,1541310
 2485,'2485','Tomken Rd @ Mid-Way Blvd',43.66001,-79.67756,1,1541311
@@ -2246,7 +2246,7 @@
 2858,'2858','Brandon Gt Dr @ Rockhill Rd',43.73187,-79.64266,1,1545065
 2859,'2859','Westwood Sq Bus Term P:F',43.72159,-79.64050,1,1545066
 2860,'2860','Morning Star Dr @ Malton CC',43.72365,-79.63960,1,1545088
-2862,'2862','Rexdale Blvd @ Islington Ave',43.71424,-79.55651,1,1545090
+2862,'2862','Rexdale Blvd @ Islington Ave',43.71422,-79.55650,1,1545090
 2863,'2863','Rexdale Blvd @ Bergamot Ave',43.71349,-79.55961,1,1545091
 2864,'2864','Darcel Ave @ Woodruff Cres',43.72002,-79.63234,1,1545092
 2865,'2865','Darcel Ave @ Darla Dr',43.72901,-79.63760,1,1545093

@@ -1,0 +1,126 @@
+101,0,'1 W Dundas To Ridgeway / 1C W Dundas To South Common',1
+100,0,'E Dundas To Kipling Term',1
+200,0,'2 N Hurontario To City Ctr',2
+201,0,'2 S Hurontario To Port Credit Go',2
+300,0,'3 E Bloor To Kipling Term',3
+301,0,'3 W Bloor To City Ctr',3
+400,0,'4 E North Service Rd To Sherway Gdns',4
+401,0,'4 W North Service Rd To Cooksville Go',4
+500,0,'5 N Dixie To Cardiff',5
+501,0,'5 S Dixie To Long Branch Go',5
+600,0,'6 E Credit Woodlands To City Ctr',6
+601,0,'6 W Credit Woodlands To Westdale',6
+700,0,'7 N Airport To Westwood',7
+701,0,'7 S Airport To City Ctr',7
+800,0,'8 N Cawthra To City Ctr',8
+801,0,'8 S Cawthra To Port Credit Go',8
+900,0,'9 E Rathburn To City Ctr',9
+901,0,'9 W Rathburn To Churchill Mdws Cc',9
+1000,0,'10 N Bristol To Meadowvale',10
+1001,0,'10 S Bristol City Ctr',10
+1100,0,'11 N Westwood To Westwood',11
+1101,0,'11 S Westwood To Kipling Term',11
+1300,0,'13 N Gln Erin To Meadowvale',13
+1301,0,'13 S Gln Erin To Clarkson Go',13
+1400,0,'14 E Lorne Pk To Port Credit Go',14
+1401,0,'W Lorne Pk To Clarkson Go',14
+1500,0,'15 E Drew To Westwood',15
+1501,0,'15 W Drew To Cardiff',15
+1601,0,'16 Malton To Westwood',16
+1600,0,'16A Malton To Westwood',16
+1700,0,'17 N Hurontario To 407 P&R',17
+1701,0,'17 S Hurontario To City Ctr',17
+1800,0,'18 E Derry To Westwood',18
+1801,0,'18 W Derry To Sheridan College',18
+2000,0,'20 E Rathburn To Kipling Term',20
+2001,0,'20 W Rathburn To City Ctr',20
+2200,0,'22 E Finch To Osler Ctr',22
+2201,0,'22 W Finch To Westwood',22
+2300,0,'23 E Lakeshore To Long Branch Go',23
+2301,0,'23 W Lakeshore To Clarkson Go',23
+2400,0,'24 N Northwest To Westwood',24
+2401,0,'24 S Northwest To Renforth Sta',24
+2500,0,'25 Traders Loop To Matheson',25
+2600,0,'26 E Burnhamthorpe To Kipling Term',26
+2601,0,'26 W Burnhamthorpe To South Common',26
+2800,0,'28 N Confederation To City Ctr',28
+2801,0,'28 S Confederation To Trillium',28
+2900,0,'29 N Pk Royal To South Common',29
+2901,0,'29 S Pk Royal To Clarkson Go',29
+3000,0,'30 E Rexdale To Bergamot',30
+3001,0,'30 W Rexdale To Westwood',30
+3100,0,'31 N Ogden To Dixie Go',31
+3101,0,'31 S Ogden To Long Branch Go',31
+3500,0,'35 E Eglinton To Kipling Term',35
+3501,0,'35 W Eglinton To Churchill Mdws Cc',35
+3600,0,'36 N Ridgeway To Winston Churchill Sta',36
+3601,0,'36 S Ridgeway To South Common',36
+3800,0,'38 N Creditview To Meadowvale',38
+3801,0,'38 S Creditview To Cooksville Go',38
+3900,0,'39 E Britannia To Renforth Sta',39
+3901,0,'39 W Britannia To Meadowvale',39
+4200,0,'42 E Derry To Westwood',42
+4201,0,'42 W Derry To Meadowvale',42
+4300,0,'43 N Matheson To Meadowvale',43
+4301,0,'43 S Matheson To Renforth Sta',43
+4400,0,'44 N Mississauga Rd To Meadowvale',44
+4401,0,'44 S Mississauga Rd To Utm',44
+4500,0,'45 N Winston Churchill To Meadowvale',45
+4501,0,'45 S Winston Churchill To Clarkson Go',45
+4600,0,'46 N Tenth Line To Meadowvale',46
+4601,0,'46 S Tenth Line To Erin Mills Sta',46
+4800,0,'48 N Erin Mills To Meadowvale',48
+4801,0,'48 S Erin Mills To South Common',48
+4900,0,'49 E Mcdowell To Erin Mills / 49A E Mcdowell To Streetsville Go',49
+4901,0,'W Mcdowell To Churchill Mdws',49
+5100,0,'51 N Tomken To Bramalea Go',51
+5101,0,'51 S Tomken To Stanfield',51
+5300,0,'53 N Kennedy To 407 P&R',53
+5301,0,'53 S Kennedy To Cooksville Go',53
+5700,0,'57 E Courtneypark To Renforth Sta',57
+5701,0,'57 W Courtneypark To Sheridan College',57
+6100,0,'61 N Mavis To Sheridan College',61
+6101,0,'61 S Mavis To City Ctr',61
+6600,0,'66 N Mclaughlin To Sheridan College',66
+6601,0,'66 S Mclaughlin To City Ctr',66
+6800,0,'68 N Terry Fox To Bancroft',68
+6801,0,'68 S Terry Fox To City Ctr',68
+7000,0,'70 E Keaton To Kipling Term',70
+7001,0,'70 W Keaton To Milverton',70
+7100,0,'71 E Sheridan To Kipling Term',71
+7101,0,'71 W Sheridan To Plymouth Loop',71
+7300,0,'73 N Kamato To Kamato Loop',73
+7301,0,'73 S Kamato To Dixie Sta',73
+7400,0,'74 E Explorer To Renforth Sta',74
+7401,0,'74 W Explorer To Dixie Sta',74
+9000,0,'90 E Copenhagen',90
+9001,0,'90 W Terragar',90
+10100,0,'101 E Express Dundas Exp',101
+10101,0,'W Express Dundas Exp',101
+10300,0,'103 N Express Hurontario Exp',103
+10301,0,'103 S Express Hurontario Exp',103
+10700,0,'107 N Express Malton Exp',107
+10701,0,'107 S Express Malton Exp',107
+10800,0,'108 N Express Financial Exp',108
+10801,0,'108 S Express Financial Exp',108
+10900,0,'109 N Express Meadowvale Exp',109
+10901,0,'109 S Express Meadowvale Exp',109
+11000,0,'110 N Express U Exp',110
+11001,0,'110 S Express U Exp',110
+12600,0,'126 E Express Burnhamthorpe Exp',126
+12601,0,'126 W Express Burnhamthorpe Exp',126
+30201,0,'302 W Philip Pocock Ss To City Ctr',302
+30401,0,'304 W Father Goetz Ss To S',304
+30601,0,'306 S Streetsville Ss To Mavis',306
+30700,0,'307 E Philip Pocock Ss To Kipling Term',307
+30701,0,'307 W Philip Pocock Ss To S',307
+31200,0,'312 E Glenforest Ss To S',312
+31201,0,'312 W Glenforest Ss To City Ctr',312
+31300,0,'313 N Streetsville Ss To Meadowvale',313
+31301,0,'313 S Streetsville Ss To S',313
+31400,0,'314 N Rick Hansen Ss To Bristol',314
+31401,0,'314 S Rick Hansen Ss To S',314
+31500,0,'315 N Rick Hansen Ss To S',315
+31501,0,'315 S Rick Hansen Ss To City Ctr',315
+32100,0,'321 N Stephen Lewis Ss To Joan Of Arc Ss',321
+32101,0,'321 S Stephen Lewis Ss To Artesian',321
