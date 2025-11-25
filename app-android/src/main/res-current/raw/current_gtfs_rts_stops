@@ -8,7 +8,7 @@
 14,'0014','Matheson Blvd @ Solar Dr',43.65275,-79.60973,1,1477667
 20,'0020','Matheson Blvd @ Shuttle Dr',43.66066,-79.60093,1,1477694
 21,'0021','Matheson Blvd W Of Orbitor Dr',43.65767,-79.60417,1,1477695
-22,'0022','Tours Rd @ Millers Grv',43.57187,-79.75480,1,1477696
+22,'0022','Tours Rd @ Millers Grv',43.57187,-79.75478,1,1477696
 23,'0023','Tours Rd E Of Winston Churchill Blvd',43.57421,-79.75108,1,1477697
 24,'0024','Tours Rd @ Windwood Dr',43.57557,-79.74901,1,1477698
 25,'0025','Mclaughlin Rd S Of Britannia Rd',43.61629,-79.68960,1,1477699
@@ -70,7 +70,7 @@
 91,'0091','Derry Rd @ Forest Pk Dr',43.58118,-79.77908,1,1477912
 92,'0092','Derry Rd E Of Tenth Line',43.58401,-79.77599,1,1477913
 93,'0093','Winston Churchill Blvd @ Vanderbilt Rd',43.58487,-79.76673,1,1477914
-94,'0094','Tours Rd @ Millers Grv',43.57184,-79.75499,1,1477915
+94,'0094','Tours Rd @ Millers Grv',43.57183,-79.75500,1,1477915
 95,'0095','Hurontario St @ Annagem Blvd',43.63565,-79.69180,1,1477916
 96,'0096','Hurontario St @ Courtneypark Dr',43.63784,-79.69477,1,1477917
 97,'0097','Hurontario St @ Courtneypark Dr',43.63724,-79.69457,1,1477918
@@ -98,7 +98,7 @@
 121,'0121','Truscott Dr @ Thetford Crt',43.51853,-79.64195,1,1478656
 122,'0122','Truscott Dr @ Thetford Crt',43.51857,-79.64168,1,1478657
 123,'0123','Truscott Dr @ Lewisham Dr',43.51502,-79.64389,1,1478658
-124,'0124','Truscott Dr @ Bodmin Rd',43.51226,-79.64684,1,1478659
+124,'0124','Truscott Dr @ Bodmin Rd',43.51353,-79.64554,1,1478659
 125,'0125','Truscott Dr E Of Buckby Rd',43.50903,-79.65066,1,1478660
 126,'0126','Truscott Dr E Of Kelly Rd',43.51115,-79.64851,1,1478661
 127,'0127','Truscott Dr @ Buckby Rd',43.50810,-79.65350,1,1478662
@@ -280,15 +280,15 @@
 362,'0362','Lakeshore Rd @ Woodlawn Ave',43.55798,-79.57897,1,1480703
 363,'0363','Lakeshore Rd @ Hurontario St',43.55511,-79.58213,1,1480704
 364,'0364','City Ctr TT P:H',43.59367,-79.64632,1,1480705
-365,'0365','Cawthra Rd @ S Service Rd',43.58045,-79.58095,1,1480706
+365,'0365','Cawthra Rd @ S Service Rd',43.58042,-79.58101,1,1480706
 366,'0366','Cawthra Rd @ Arbor Rd',43.57704,-79.57679,1,1480707
-367,'0367','Atwater Ave W Of Cawthra Rd',43.57439,-79.57362,1,1480708
+367,'0367','Atwater Ave W Of Cawthra Rd',43.57438,-79.57361,1,1480708
 368,'0368','Atwater Ave @ Delwood Pl',43.57296,-79.57514,1,1480709
 369,'0369','Atwater Ave @ Claredale Rd',43.57014,-79.57770,1,1480710
 370,'0370','Atwater Ave @ Canterbury Rd',43.56938,-79.57846,1,1480732
 371,'0371','Atwater Ave @ Mineola Gdns',43.56792,-79.58020,1,1480733
-372,'0372','Mineola Rd @ Lochlin Trl',43.56769,-79.58429,1,1480734
-373,'0373','Mineola Rd @ Broadmoor Ave',43.56690,-79.58516,1,1480735
+372,'0372','Mineola Rd @ Lochlin Trl',43.56771,-79.58427,1,1480734
+373,'0373','Mineola Rd @ Broadmoor Ave',43.56691,-79.58515,1,1480735
 374,'0374','Mineola Rd @ Crossfield Bend',43.56474,-79.58748,1,1480736
 375,'0375','Mineola Rd @ Wilson Ave',43.56339,-79.58897,1,1480737
 376,'0376','Mineola Rd @ Hurontario St',43.56201,-79.59047,1,1480738
@@ -296,11 +296,11 @@
 378,'0378','Lakeshore Rd W Of Stavebank Rd',43.55148,-79.58598,1,1480740
 379,'0379','Rexdale Blvd @ Humberwood Blvd',43.72023,-79.61276,2,1480741
 380,'0380','Mineola Rd @ Oakes Dr',43.56396,-79.58813,1,1480763
-381,'0381','Mineola Rd @ Broadmoor Ave',43.56665,-79.58523,1,1480764
-382,'0382','Mineola Rd @ Lochlin Trl',43.56749,-79.58432,1,1480765
+381,'0381','Mineola Rd @ Broadmoor Ave',43.56666,-79.58519,1,1480764
+382,'0382','Mineola Rd @ Lochlin Trl',43.56748,-79.58428,1,1480765
 384,'0384','Atwater Ave @ Canterbury Rd',43.56914,-79.57850,1,1480767
-385,'0385','Atwater Ave @ Claredale Rd',43.56993,-79.57770,1,1480768
-386,'0386','Atwater Ave @ Delwood Pl',43.57276,-79.57518,1,1480769
+385,'0385','Atwater Ave @ Claredale Rd',43.56989,-79.57771,1,1480768
+386,'0386','Atwater Ave @ Delwood Pl',43.57273,-79.57515,1,1480769
 387,'0387','Cawthra Rd @ Atwater Ave',43.57513,-79.57349,1,1480770
 392,'0392','Grossbeak Dr @ Prairie Cir',43.56216,-79.75337,1,1480796
 393,'0393','Grossbeak Dr @ Osprey Blvd',43.56430,-79.75758,1,1480797
@@ -332,7 +332,7 @@
 423,'0423','Dixie Rd @ Kendall Rd',43.60176,-79.57342,1,1481541
 424,'0424','Dixie Rd @ Primate Rd',43.60034,-79.57137,1,1481542
 426,'0426','Dixie Mall Bus Term P:B',43.59402,-79.56498,1,1481544
-427,'0427','S Service Rd @ Haig Blvd',43.59258,-79.57296,1,1481545
+427,'0427','S Service Rd @ Haig Blvd',43.59220,-79.57340,1,1481545
 428,'0428','S Service Rd @ Dixie Mall N Access',43.59401,-79.57117,1,1481546
 429,'0429','Ogden Ave @ S Service Rd',43.58922,-79.57604,1,1481547
 430,'0430','Ogden Ave @ Strathy Ave',43.58587,-79.57127,1,1481569
@@ -923,7 +923,7 @@
 1162,'1162','Winterton Way @ Mavis Rd',43.59546,-79.67538,1,1508572
 1163,'1163','Edwards Blvd @ Export Blvd',43.64956,-79.70536,1,1508573
 1164,'1164','Colonial Dr @ Brett Rd',43.52816,-79.70659,1,1508574
-1165,'1165','Burnhamthorpe Rd @ Central Pky',43.56873,-79.66361,1,1508575
+1165,'1165','Burnhamthorpe Rd @ Central Pky',43.56866,-79.66373,1,1508575
 1166,'1166','Burnhamthorpe Rd @ Creditview Rd',43.56875,-79.66420,1,1508576
 1167,'1167','Burnhamthorpe Rd @ Erindale Go Sta',43.56685,-79.66593,1,1508577
 1168,'1168','Burnhamthorpe Rd @ Erindale Go Sta',43.56720,-79.66604,1,1508578
@@ -1361,7 +1361,7 @@
 1684,'1684','Winston Churchill Blvd @ Royal Windsor Dr',43.49641,-79.64531,1,1513441
 1687,'1687','Westwood Sq Bus Term P:D',43.72171,-79.64064,1,1513444
 1689,'1689','Erin Mills Town Ctr Bus Term P:C',43.56034,-79.71075,1,1513446
-1690,'1690','Cawthra Sta E P:A',43.61644,-79.62859,1,1513468
+1690,'1690','Cawthra Sta E P:A',43.61751,-79.62769,1,1513468
 1691,'1691','Webb Dr W Of Duke Of York Blvd',43.58646,-79.64079,1,1513469
 1693,'1693','Britannia Rd @ Tenth Line',43.56407,-79.74943,1,1513471
 1694,'1694','Millers Grv @ Arnett Crt',43.57490,-79.76106,1,1513472
@@ -1387,7 +1387,7 @@
 1720,'1720','Erin Mills Pky @ Folkway Dr',43.55075,-79.68927,1,1514212
 1722,'1722','Mississauga Rd @ Tattersall Way',43.56590,-79.69250,1,1514214
 1725,'1725','Eglinton Ave @ The Chase',43.56515,-79.69958,1,1514217
-1726,'1726','Cawthra Sta W P:B',43.61649,-79.62898,1,1514218
+1726,'1726','Cawthra Sta W P:B',43.61750,-79.62794,1,1514218
 1727,'1727','Explorer Dr @ Satellite Dr',43.65870,-79.61295,1,1514219
 1728,'1728','Mississauga Rd @ Tattersall Way',43.56543,-79.69162,1,1514220
 1729,'1729','Carlingview Dr @ Constellation Crt',43.69076,-79.59718,1,1514221
@@ -1703,7 +1703,7 @@
 2145,'2145','Matheson Blvd @ E Explorer Dr',43.66246,-79.59895,1,1538304
 2147,'2147','Skymark Ave @ Explorer Dr',43.66161,-79.59530,1,1538306
 2149,'2149','Tranmere Dr @ Telford Way',43.68146,-79.67025,1,1538308
-2153,'2153','Millers Grv @ Colebrook Cres',43.57342,-79.75978,1,1538333
+2153,'2153','Millers Grv @ Colebrook Cres',43.57341,-79.75973,1,1538333
 2154,'2154','Millers Grv @ Arnett Crt',43.57486,-79.76062,1,1538334
 2155,'2155','Tomken Rd @ Timberlea Blvd',43.63902,-79.64896,1,1538335
 2156,'2156','Tomken Rd @ Britannia Rd',43.64571,-79.65795,1,1538336
@@ -1853,13 +1853,14 @@
 2322,'2322','Airport Rd @ Victory Cres',43.70759,-79.64723,1,1540161
 2323,'2323','Morning Star Dr @ Collet Rd',43.71001,-79.64981,1,1540162
 2324,'2324','Morning Star Dr @ Lancaster Ave',43.71277,-79.64743,1,1540163
-2325,'2325','Windwood Dr @ Townwood Crt',43.57423,-79.74759,1,1540164
+2325,'2325','Windwood Dr @ Townwood Crt',43.57423,-79.74757,1,1540164
 2326,'2326','Meadowvale Go Sta P:3',43.59616,-79.75544,1,1540165
 2327,'2327','Britannia Rd @ Latimer Dr',43.60945,-79.69898,1,1540166
 2328,'2328','Derry Rd @ Danton Promenade',43.58636,-79.77358,1,1540167
 2329,'2329','Winston Churchill Blvd @ Deer Run',43.48751,-79.63311,2,1540168
 2330,'2330','Millcreek Dr S Of Aquitaine Ave',43.59510,-79.75250,1,1540190
 2331,'2331','Coopers Ave @ Rose Cherry Pl',43.63242,-79.66021,1,1540191
+2332,'2332','Paisley Blvd @ Confederation Pky',43.57388,-79.61361,1,1540192
 2333,'2333','Southdown Rd @ Lakeshore Rd',43.49915,-79.61430,1,1540193
 2334,'2334','Winston Churchill Blvd @ Derry Rd',43.58824,-79.77154,1,1540194
 2335,'2335','Creditview Rd @ S Parade Crt',43.57614,-79.68306,1,1540195
@@ -2067,7 +2068,7 @@
 2588,'2588','Aquitaine Ave @ Edenwood Dr',43.58107,-79.76626,1,1542275
 2589,'2589','Aquitaine Ave @ Winston Churchill Blvd',43.58256,-79.76381,1,1542276
 2590,'2590','Derry Rd @ Edwards Blvd',43.64906,-79.70313,1,1542298
-2591,'2591','Cardiff Blvd E Of Tomken Rd',43.67159,-79.68556,1,1542299
+2591,'2591','Cardiff Blvd W Of Transmark Crt',43.67159,-79.68556,1,1542299
 2592,'2592','Kitimat Rd @ Mississauga Rd',43.59747,-79.73373,1,1542300
 2594,'2594','Creditview Rd S Of Derry Rd',43.61343,-79.74380,1,1542302
 2595,'2595','Netherhart Rd S Of Courtneypark Dr',43.67148,-79.64785,1,1542303
@@ -3016,7 +3017,7 @@
 6812,'6812','Winterton Way @ Guildwood Way',43.59980,-79.67097,1,1664099
 6813,'6813','Guildwood Way @ Bluesky Cres',43.59816,-79.66901,1,1664100
 6814,'6814','Guildwood Way @ Constellation Dr',43.59638,-79.66733,1,1664101
-6880,'6880','Financial Dr S Of Syntex Crt',43.60932,-79.74510,1,1664314
+6880,'6880','Financial Dr S Of Syntex Crt',43.60935,-79.74529,1,1664314
 7100,'7100','Westwood Sq Bus Term P:I',43.72183,-79.64086,1,1687130
 7200,'7200','Humber College N Campus P:8',43.72922,-79.60496,1,1688091
 7201,'7201','Humber College N Campus P:1',43.72928,-79.60566,1,1688092
@@ -3066,12 +3067,12 @@
 9052,'9052','Aukland Rd @ Bloor St',43.64019,-79.54048,1,1745908
 9053,'9053','Burnhamthorpe Rd @ Burnhamthorpe Cr',43.64951,-79.53082,1,1745909
 9054,'9054','Burnhamthorpe Rd @ Burnhamthorpe Pk Blvd',43.65049,-79.53402,1,1745910
-9056,'9056','Kipling Term P:3',43.63542,-79.53888,1,1745912
-9057,'9057','Kipling Term P:4',43.63558,-79.53870,1,1745913
+9056,'9056','Kipling Term P:3',43.63534,-79.53881,1,1745912
+9057,'9057','Kipling Term P:4',43.63551,-79.53863,1,1745913
 9058,'9058','Sherway Gdns Bus Term P:A',43.61003,-79.55831,1,1745914
-9059,'9059','Kipling Term P:5',43.63571,-79.53853,1,1745915
+9059,'9059','Kipling Term P:5',43.63564,-79.53845,1,1745915
 9060,'9060','The W Mall N Of Sherway Dr',43.60979,-79.56064,1,1745937
-9061,'9061','Kipling Term P:6',43.63582,-79.53839,1,1745938
+9061,'9061','Kipling Term P:6',43.63575,-79.53831,1,1745938
 9062,'9062','Kipling Term P:11',43.63569,-79.53813,1,1745939
 9063,'9063','Burnhamthorpe Rd @ Silver Shadow Path',43.64183,-79.57836,1,1745940
 9064,'9064','Burnhamthorpe Rd @ Saturn Rd',43.64241,-79.57613,1,1745941
