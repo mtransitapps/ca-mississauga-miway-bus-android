@@ -9,7 +9,7 @@ import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
-import org.mtransit.parser.mt.data.MTrip;
+import org.mtransit.parser.mt.data.MDirection;
 
 import java.util.Arrays;
 import java.util.List;
@@ -80,8 +80,8 @@ public class MississaugaMiWayBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Integer> getDirectionTypes() {
 		return Arrays.asList(
-				MTrip.HEADSIGN_TYPE_DIRECTION,
-				MTrip.HEADSIGN_TYPE_STRING
+				MDirection.HEADSIGN_TYPE_DIRECTION,
+				MDirection.HEADSIGN_TYPE_STRING
 		);
 	}
 
