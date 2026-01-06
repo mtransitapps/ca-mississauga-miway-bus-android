@@ -1566,7 +1566,6 @@
 1961,'1961','Hurontario St @ Watline Ave',43.62094,-79.67190,1,1516259
 1962,'1962','Eglinton Ave @ Mclaughlin Rd',43.59750,-79.66349,1,1516260
 1963,'1963','Eglinton Ave @ Fallingbrook Dr',43.58372,-79.67907,1,1516261
-1964,'1964','Eglinton Ave @ Creditview Rd',43.57850,-79.68494,1,1516262
 1966,'1966','Eglinton Ave E Of Willow Crk Dr',43.58514,-79.67699,1,1516264
 1967,'1967','Eglinton Ave @ Confederation Pky',43.59699,-79.66366,1,1516265
 1968,'1968','Hurontario St S Of Britannia Rd',43.62524,-79.67844,1,1516266
@@ -2681,6 +2680,10 @@
 3449,'3449','Dixie Rd @ Lakeshore Rd',43.58475,-79.55133,1,1570982
 3450,'3450','Dixie Go Sta P:3',43.60824,-79.57845,1,1571004
 3451,'3451','Erin Mills Pky @ Eglinton Ave',43.55834,-79.70619,1,1571005
+3452,'3452','Eglinton Ave @ Churchill Mdws Blvd',43.53821,-79.72947,1,1571006
+3453,'3453','Eglinton Ave @ Ridgeway Dr',43.53937,-79.72814,1,1571007
+3454,'3454','9th Line @ Erin Ctr Blvd',43.53993,-79.73991,1,1571008
+3455,'3455','Eglinton Ave @ Sebastian Dr',43.54123,-79.72613,1,1571009
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.73431,-79.63911,1,1571035
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.48991,-79.63641,1,1571069
 3497,'3497','Hurontario St @ Robert Speck Pky',43.59709,-79.63996,1,1571135
@@ -2718,8 +2721,6 @@
 3536,'3536','Dundas St W Of Wharton Way',43.61758,-79.57504,1,1571909
 3537,'3537','9th Line N Of Skyview St',43.53889,-79.73817,1,1571910
 3538,'3538','Eglinton Ave @ Churchill Mdws Blvd',43.53863,-79.72938,1,1571911
-3539,'3539','Erin Ctr Blvd @ Eaglesview Dr',43.54576,-79.73126,1,1571912
-3540,'3540','Erin Ctr Blvd @ Tenth Line',43.54756,-79.72783,1,1571934
 3543,'3543','Kennedy Rd N Of Matheson Blvd',43.62814,-79.65793,1,1571937
 3550,'3550','Kennedy Rd S Of Watline Ave',43.62819,-79.65841,1,1571965
 3553,'3553','Jetliner Rd @ Airport Rd',43.68551,-79.60711,1,1571968
