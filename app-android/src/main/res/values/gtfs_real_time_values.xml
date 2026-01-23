@@ -5,6 +5,8 @@
     <bool name="gtfs_real_time_stop_id_is_stop_code">false</bool>
     <bool name="gtfs_real_time_route_id_is_route_short_name">false</bool>
     <string name="gtfs_real_time_agency_service_alerts_url">https://www.miapp.ca/gtfs_rt/Alerts/Alerts.pb</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://www.miapp.ca/GTFS_RT/TripUpdate/TripUpdates.pb</string>
     <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages" />
     <string-array name="gtfs_real_time_agency_extra_bold_words" />
