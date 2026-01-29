@@ -6,4 +6,5 @@
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Toronto</string>
     <string name="gtfs_rts_color">D33517</string>
+    <string name="gtfs_rts_service_id_cleanup_regex">^\\d{2}[A-Z]{2}\\d{2}-|(Block-)|(-\\d{2}$)</string>
 </resources>

@@ -46,6 +46,12 @@ public class MississaugaMiWayBusAgencyTools extends DefaultAgencyTools {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
 
+	@Nullable
+	@Override
+	public String getServiceIdCleanupRegex() {
+		return "^\\d{2}[A-Z]{2}\\d{2}-|(Block-)|(-\\d{2}$)";
+	}
+
 	@Override
 	public boolean defaultAgencyColorEnabled() {
 		return true;
