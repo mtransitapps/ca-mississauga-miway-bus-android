@@ -1838,7 +1838,7 @@
 2305,'2305','Millcreek Dr N Of Erin Mills Pky',43.59055,-79.74205,1,1540102
 2307,'2307','Millcreek Dr @ Millrace Crt',43.59241,-79.74600,1,1540104
 2308,'2308','Millcreek Dr @ 6715 Millcreek Dr',43.59510,-79.75131,1,1540105
-2309,'2309','Millcreek Dr @ 6660 Millcreek Dr',43.59396,-79.74929,1,1540106
+2309,'2309','Millcreek Dr N Of Millrace Crt',43.59396,-79.74929,1,1540106
 2310,'2310','Millcreek Dr @ Millrace Crt',43.59269,-79.74691,1,1540128
 2312,'2312','Millcreek Dr @ Surveyor Rd',43.59069,-79.74323,1,1540130
 2314,'2314','Argentia Rd @ E Century Ave',43.59940,-79.74214,1,1540132
@@ -2350,7 +2350,7 @@
 2943,'2943','Northwest Dr @ Caravelle Dr',43.70292,-79.62731,2,1545990
 2944,'2944','Northwest Dr @ Orlando Dr',43.70279,-79.62241,1,1545991
 2945,'2945','Northwest Dr E Of Orlando Dr',43.70170,-79.61961,2,1545992
-2946,'2946','Humber College Blvd @ Humberline Dr',43.73233,-79.60946,1,1545993
+2946,'2946','Humber College Blvd @ Humberline Dr',43.73183,-79.60897,1,1545993
 2952,'2952','Rexwood Rd W Of Netherbrae Rd',43.71870,-79.62584,1,1546020
 2953,'2953','Airport Rd S Of Silver Dart Dr',43.69300,-79.62820,2,1546021
 2954,'2954','Derry Rd @ Goreway Dr',43.71319,-79.63205,1,1546022
@@ -2398,7 +2398,7 @@
 3002,'3002','Bristol Rd @ Terry Fox Way',43.59516,-79.68531,1,1567007
 3003,'3003','Northwest Dr @ 6580 Northwest Dr',43.70286,-79.62944,1,1567008
 3004,'3004','Winston Churchill @ 450 Winston Churchill Blvd',43.48592,-79.63095,2,1567009
-3005,'3005','Matheson Blvd @ Rose Cherry Pl',43.62802,-79.65155,1,1567010
+3005,'3005','Matheson Blvd @ Rose Cherry Pl',43.62851,-79.65063,1,1567010
 3007,'3007','Tahoe Sta W P:B',43.63873,-79.61017,1,1567012
 3008,'3008','Commerce Blvd S Of Matheson Blvd',43.66461,-79.59408,1,1567013
 3009,'3009','Goreway Dr S Of Morning Star Dr',43.72038,-79.64114,1,1567014
@@ -3132,7 +3132,7 @@
 9127,'9127','Humber College Blvd @ Etobicoke Hosp',43.73078,-79.59958,1,1746781
 9128,'9128','Humber College Blvd @ Lynmont Rd',43.73170,-79.59618,1,1746782
 9129,'9129','Humber College Blvd @ Tamarisk Dr',43.73341,-79.59396,1,1746783
-9131,'9131','Finch Ave @ Kiskadee Dr',43.73556,-79.59754,1,1746806
+9131,'9131','Finch Ave @ Damascus Dr',43.73556,-79.59754,1,1746806
 9132,'9132','Finch Ave @ Westmore Dr',43.73497,-79.60035,1,1746807
 9133,'9133','Finch Ave @ Woodbine Downs Blvd',43.73388,-79.60630,1,1746808
 9150,'9150','Rexdale Blvd @ Brydon Dr',43.71154,-79.57172,1,1746867
