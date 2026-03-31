@@ -23,7 +23,7 @@
 1300,0,'13 N Gln Erin To Meadowvale',13
 1301,0,'13 S Gln Erin To Clarkson Go',13
 1400,0,'14 E Lorne Pk To Port Credit Go',14
-1401,0,'W Lorne Pk To Clarkson Go',14
+1401,0,'14 W Lorne Pk To Clarkson Go / 14A W Lorne Pk To Clarkson Go',14
 1500,0,'15 E Drew To Westwood',15
 1501,0,'15 W Drew To Cardiff',15
 1601,0,'16 Malton To Westwood',16
@@ -41,7 +41,7 @@
 2400,0,'24 N Northwest To Westwood',24
 2401,0,'24 S Northwest To Renforth Sta',24
 2500,0,'25 Traders Loop To Matheson',25
-2600,0,'26 E Burnhamthorpe To Kipling Term',26
+2600,0,'26 Burhamthorpe Ends At City Ctr / 26 E Burnhamthorpe To Kipling Term',26
 2601,0,'26 W Burnhamthorpe To South Common',26
 2800,0,'28 N Confederation To City Ctr',28
 2801,0,'28 S Confederation To Trillium',28
@@ -65,20 +65,20 @@
 4301,0,'43 S Matheson To Renforth Sta',43
 4400,0,'44 N Mississauga Rd To Meadowvale',44
 4401,0,'44 S Mississauga Rd To Utm',44
-4500,0,'45 N Winston Churchill To Meadowvale',45
-4501,0,'45 S Winston Churchill To Clarkson Go',45
+4500,0,'45 N Winston Churchill To Meadowvale / 45A N Winston Churchill To Meadowvale',45
+4501,0,'45 S Winston Churchill To Clarkson Go / 45A S Winston Churchill To Clarkson Go',45
 4600,0,'46 N Tenth Line To Meadowvale',46
 4601,0,'46 S Tenth Line To Erin Mills Sta',46
 4800,0,'48 N Erin Mills To Meadowvale',48
 4801,0,'48 S Erin Mills To Utm',48
 4900,0,'49 E Mcdowell To Erin Mills / 49A E Mcdowell To Streetsville Go',49
-4901,0,'W Mcdowell To Churchill Mdws',49
+4901,0,'49 W Mcdowell To Churchill Mdws / 49A W Mcdowell To Churchill Mdws',49
 5100,0,'51 N Tomken To Bramalea Go',51
 5101,0,'51 S Tomken To Stanfield',51
 5300,0,'53 N Kennedy To 407 P&R',53
 5301,0,'53 S Kennedy To Cooksville Go',53
-5700,0,'57 E Courtneypark To Renforth Sta',57
-5701,0,'57 W Courtneypark To Sheridan College',57
+5700,0,'57 E Courtneypark To Renforth Sta / 57A E Courtneypark To Renforth Sta',57
+5701,0,'57 W Courtneypark To Sheridan College / 57A W Courtneypark To Sheridan College',57
 6100,0,'61 N Mavis To Sheridan College',61
 6101,0,'61 S Mavis To City Ctr',61
 6600,0,'66 N Mclaughlin To Sheridan College',66
@@ -105,8 +105,8 @@
 10801,0,'108 S Express Financial Exp',108
 10900,0,'109 N Express Meadowvale Exp',109
 10901,0,'109 S Express Meadowvale Exp',109
-11000,0,'110 N Express U Exp',110
-11001,0,'110 S Express U Exp',110
+11001,0,'110 Express U Exp / 110 S Express U Exp / 110A S Express U Exp',110
+11000,0,'110 N Express U Exp / 110A N Express U Exp',110
 12600,0,'126 E Express Burnhamthorpe Exp',126
 12601,0,'126 W Express Burnhamthorpe Exp',126
 13500,0,'135 E Express Eglinton Exp',135
