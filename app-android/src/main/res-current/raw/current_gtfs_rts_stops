@@ -376,6 +376,8 @@
 470,'0470','S Service Rd @ Dixie Mall Access',43.59364,-79.57127,1,1481693
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.58971,-79.54582,1,1481694
 472,'0472','Lakeshore Rd @ Forty-1st St',43.59035,-79.54503,1,1481695
+475,'0475','Eglinton Ave @ E Mill Rd',43.58029,-79.68278,1,1481698
+476,'0476','Burnhamthorpe CC',43.62400,-79.59858,1,1481699
 477,'0477','City Ctr TT P:E',43.59381,-79.64623,1,1481700
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.59906,-79.68983,1,1481702
 480,'0480','Rathburn Rd @ City Ctr Dr',43.59707,-79.64406,1,1481724
@@ -389,6 +391,7 @@
 489,'0489','Speakman Dr S Of Sheridan Pk Dr',43.51603,-79.66957,2,1481733
 490,'0490','U Of Toronto @ Mississauga Campus',43.54787,-79.66384,1,1481755
 491,'0491','Cawthra Rd @ Queensway',43.58953,-79.59239,1,1481756
+492,'0492','Cawthra Rd @ Hassall Rd',43.60664,-79.61684,1,1481757
 493,'0493','Cawthra Rd @ Arbor Crt',43.57765,-79.57713,1,1481758
 494,'0494','Winterton Way @ Astwell Ave',43.59730,-79.67405,1,1481759
 496,'0496','Cawthra Rd @ S Service Rd',43.58041,-79.58066,1,1481761
@@ -1138,7 +1141,6 @@
 1419,'1419','City Ctr TT P:F',43.59363,-79.64592,1,1511307
 1421,'1421','Burnhamthorpe Rd @ Living Arts Dr',43.58711,-79.64321,1,1511330
 1422,'1422','Burnhamthorpe Rd @ Confederation Pky',43.58564,-79.64488,1,1511331
-1423,'1423','Derry Rd W Of Meadowvale Blvd',43.61327,-79.74638,1,1511332
 1424,'1424','Rathburn Rd @ E Elora Dr',43.58754,-79.65253,1,1511333
 1425,'1425','City Ctr Dr @ Sq One Pkng Lot 1',43.59320,-79.63892,1,1511334
 1428,'1428','Living Arts Dr @ Prince Of Wales Dr',43.58969,-79.64720,1,1511337
@@ -1269,7 +1271,6 @@
 1572,'1572','Rathburn Rd @ Central Pky',43.60651,-79.63416,1,1512447
 1573,'1573','Rathburn Rd @ Chalfield Ln',43.60476,-79.63602,1,1512448
 1574,'1574','Rathburn Rd @ Woodington Dr',43.60194,-79.63714,1,1512449
-1575,'1575','Creditview Rd @ Derry Rd',43.61338,-79.74318,1,1512450
 1576,'1576','Tomken Rd @ Burnhamthorpe Rd',43.61430,-79.61243,1,1512451
 1577,'1577','Tomken Rd @ Rathburn Rd',43.61718,-79.61649,1,1512452
 1578,'1578','Tomken Rd @ Willowbank Trl',43.61924,-79.61938,1,1512453
@@ -1385,7 +1386,6 @@
 1729,'1729','Carlingview Dr @ Constellation Crt',43.69076,-79.59718,1,1514221
 1730,'1730','Explorer Dr @ Orbitor Dr',43.66161,-79.60790,2,1514243
 1732,'1732','Explorer Dr W Of Orbitor Dr',43.65965,-79.61130,2,1514245
-1733,'1733','Fasken Dr W Of Carlingview Dr',43.69004,-79.60120,2,1514246
 1736,'1736','Campus Rd @ Elmbank Rd',43.68883,-79.61012,1,1514249
 1742,'1742','Wolfedale Rd @ Westlock Rd',43.56698,-79.64189,1,1514276
 1744,'1744','Bancroft Dr @ Bidwell Trl',43.60172,-79.71327,1,1514278
@@ -1424,7 +1424,6 @@
 1792,'1792','Erin Mills Sta W P:3',43.55236,-79.70015,1,1514431
 1794,'1794','The Credit Woodlands @ Erinmore Dr',43.55912,-79.65992,1,1514433
 1795,'1795','Queenston Dr @ Chalice Cres',43.56356,-79.66499,1,1514434
-1797,'1797','Fasken Dr W Of Carlingview Dr',43.68994,-79.60076,1,1514436
 1798,'1798','Central Pky @ Central Pky Sta',43.60728,-79.63554,1,1514437
 1799,'1799','Eglinton Ave @ Mississauga Rd',43.56822,-79.69600,1,1514438
 1800,'1800','Mississauga Rd @ Melody Dr',43.57281,-79.70159,1,1515111
@@ -2621,6 +2620,7 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.59993,-79.71538,1,1570168
 3392,'3392','Creditview Rd @ Britannia Rd',43.59800,-79.71277,1,1570169
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.67050,-79.57773,1,1570170
+3396,'3396','Sq One Dr @ Lower City Ctr Term',43.59319,-79.64591,1,1570173
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.55515,-79.72029,1,1570176
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55727,-79.71797,1,1570850
 3402,'3402','Erin Mills Town Ctr Bus Term P:B',43.56080,-79.71110,1,1570851
@@ -2671,6 +2671,8 @@
 3455,'3455','Eglinton Ave @ Sebastian Dr',43.54123,-79.72613,1,1571009
 3456,'3456','Finch Ave @ Hwy 27',43.73413,-79.60402,1,1571010
 3457,'3457','Burnhamthorpe Rd @ S Millway',43.54831,-79.67902,1,1571011
+3458,'3458','Humberwood Blvd @ Pinecone Dr',43.72906,-79.61994,1,1571012
+3459,'3459','Humberwood Blvd @ Pinecone Dr',43.72917,-79.62007,1,1571013
 3460,'3460','Brandon Gt Dr @ Rhinebank St',43.73431,-79.63911,1,1571035
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.48991,-79.63641,1,1571069
 3497,'3497','Hurontario St @ Robert Speck Pky',43.59709,-79.63996,1,1571135
