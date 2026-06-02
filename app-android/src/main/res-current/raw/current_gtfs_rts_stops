@@ -376,8 +376,6 @@
 470,'0470','S Service Rd @ Dixie Mall Access',43.59364,-79.57127,1,1481693
 471,'0471','Lakeshore Rd @ Forty-3rd St',43.58971,-79.54582,1,1481694
 472,'0472','Lakeshore Rd @ Forty-1st St',43.59035,-79.54503,1,1481695
-475,'0475','Eglinton Ave @ E Mill Rd',43.58029,-79.68278,1,1481698
-476,'0476','Burnhamthorpe CC',43.62400,-79.59858,1,1481699
 477,'0477','City Ctr TT P:E',43.59381,-79.64623,1,1481700
 479,'0479','Terry Fox Way @ Preston Mnr Dr',43.59906,-79.68983,1,1481702
 480,'0480','Rathburn Rd @ City Ctr Dr',43.59707,-79.64406,1,1481724
@@ -391,7 +389,6 @@
 489,'0489','Speakman Dr S Of Sheridan Pk Dr',43.51603,-79.66957,2,1481733
 490,'0490','U Of Toronto @ Mississauga Campus',43.54787,-79.66384,1,1481755
 491,'0491','Cawthra Rd @ Queensway',43.58953,-79.59239,1,1481756
-492,'0492','Cawthra Rd @ Hassall Rd',43.60664,-79.61684,1,1481757
 493,'0493','Cawthra Rd @ Arbor Crt',43.57765,-79.57713,1,1481758
 494,'0494','Winterton Way @ Astwell Ave',43.59730,-79.67405,1,1481759
 496,'0496','Cawthra Rd @ S Service Rd',43.58041,-79.58066,1,1481761
@@ -1307,7 +1304,7 @@
 1620,'1620','Confederation Pky @ Dundas St',43.57752,-79.61909,1,1513251
 1621,'1621','Confederation Pky @ Agnes St',43.57834,-79.62153,1,1513252
 1622,'1622','Confederation Pky @ Hillcrest Ave',43.57908,-79.62387,1,1513253
-1625,'1625','Confederation Pky N Of Central Pky',43.58428,-79.63848,1,1513256
+1625,'1625','Confederation Pky N Of Central Pky',43.58388,-79.63685,1,1513256
 1626,'1626','Confederation Pky @ Riel Dr',43.58419,-79.64009,1,1513257
 1627,'1627','Confederation Pky @ Webb Dr',43.58429,-79.64256,1,1513258
 1629,'1629','Mississauga Rd @ The Collegeway',43.54492,-79.66303,1,1513260
@@ -2620,7 +2617,6 @@
 3391,'3391','Creditview Rd @ Sir Montys Dr',43.59993,-79.71538,1,1570168
 3392,'3392','Creditview Rd @ Britannia Rd',43.59800,-79.71277,1,1570169
 3393,'3393','Eglinton Ave @ Rangoon Rd Walkway',43.67050,-79.57773,1,1570170
-3396,'3396','Sq One Dr @ Lower City Ctr Term',43.59319,-79.64591,1,1570173
 3399,'3399','Erin Ctr Blvd @ Plantation Pl',43.55515,-79.72029,1,1570176
 3401,'3401','Erin Ctr Blvd @ Gln Erin Dr',43.55727,-79.71797,1,1570850
 3402,'3402','Erin Mills Town Ctr Bus Term P:B',43.56080,-79.71110,1,1570851
