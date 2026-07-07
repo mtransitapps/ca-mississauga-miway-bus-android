@@ -1,0 +1,27 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "direction_types": [
+        1,
+        0
+    ],
+    "direction_types_comment": "string and cardinal E/W/N/S",
+    "direction_headsign_cleaners": [
+        {
+            "regex": "^\\d+[A-Z]?\\s+([EWNS])\\s+(.+)$",
+            "ignore_case": true,
+            "replacement": "$1",
+            "comment": "keep only EWNS"
+        }
+    ],
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^(\\d+)([A-Z]\\s+)?\\s*(.*)\\s+to\\s+(.*)$",
+            "ignore_case": true,
+            "replacement": "$2$4",
+            "comment": "handle no direction in trip headsign like ''16A Malton To Westwood"
+        }
+    ]
+}
