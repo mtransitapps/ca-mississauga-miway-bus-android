@@ -1,0 +1,9 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "D33517",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "service_id_cleanup_regex": "^\\d{2}[A-Z]{2}\\d{2}-|(Block-)|(-\\d{2}$)",
+    "service_id_avoid_merge": true,
+    "service_id_avoid_merge_comment": "service IDs start with YYMMDD-abc-123 with 2 distinct groups like 26JN29-... and 26AU03-...."
+}
