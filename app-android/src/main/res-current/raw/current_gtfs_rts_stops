@@ -165,7 +165,7 @@
 230,'0230','Indian Rd @ Woodeden Dr',43.54245,-79.61199,1,1479647
 231,'0231','Indian Rd @ Tecumseh Pk Dr',43.54183,-79.61363,1,1479648
 232,'0232','Indian Rd @ Caldwell Ave',43.54030,-79.61777,1,1479649
-233,'0233','Indian Rd @ Birchview Dr',43.53870,-79.62211,1,1479650
+233,'0233','Indian Rd @ Birchview Dr',43.53884,-79.62179,1,1479650
 234,'0234','Indian Rd @ Narva Rd',43.53740,-79.62562,1,1479651
 235,'0235','Indian Rd @ Lorne Park Rd',43.53650,-79.62811,2,1479652
 236,'0236','Lorne Pk Rd @ Cr Rd',43.53521,-79.62717,2,1479653
@@ -1120,7 +1120,7 @@
 1412,'1412','Creditview Rd @ Melia Dr',43.56996,-79.67218,1,1511300
 1413,'1413','Creditview Rd @ Cuthbert Ave',43.57899,-79.68653,1,1511301
 1414,'1414','Creditview Rd @ Sherwood Mills Blvd',43.58067,-79.68876,1,1511302
-1415,'1415','Rathburn Rd @ Mavis Rd',43.58327,-79.65512,1,1511303
+1415,'1415','Rathburn Rd @ Mavis Rd',43.58317,-79.65518,1,1511303
 1416,'1416','Rathburn Rd @ West Elora Dr',43.58435,-79.65358,1,1511304
 1417,'1417','Creditview Rd @ Carolyn Rd',43.58480,-79.69436,1,1511305
 1419,'1419','City Ctr TT P:F',43.59363,-79.64592,1,1511307
@@ -1813,7 +1813,7 @@
 2303,'2303','Turner Vly Rd @ Torquay Mews',43.59761,-79.74049,1,1540100
 2305,'2305','Millcreek Dr N Of Erin Mills Pky',43.59055,-79.74205,1,1540102
 2307,'2307','Millcreek Dr @ Millrace Crt',43.59241,-79.74600,1,1540104
-2309,'2309','Millcreek Dr N Of Millrace Crt',43.59396,-79.74929,1,1540106
+2309,'2309','Millcreek Dr N Of Millrace Crt',43.59371,-79.74878,1,1540106
 2310,'2310','Millcreek Dr @ Millrace Crt',43.59269,-79.74691,1,1540128
 2312,'2312','Millcreek Dr @ Surveyor Rd',43.59069,-79.74323,1,1540130
 2314,'2314','Argentia Rd @ E Century Ave',43.59947,-79.74211,1,1540132
@@ -1845,7 +1845,7 @@
 2344,'2344','Matheson Blvd @ Satellite Dr',43.65517,-79.60753,1,1540225
 2347,'2347','Kitimat Rd S Of Argentia Rd',43.59985,-79.73358,1,1540228
 2348,'2348','Lakeshore Rd W Of Southdown Rd',43.49397,-79.61650,1,1540229
-2349,'2349','Creditview Rd N Of Britannia Rd',43.59845,-79.71293,1,1540230
+2349,'2349','Creditview Rd N Of Britannia Rd',43.59807,-79.71239,1,1540230
 2350,'2350','Winston Churchill Blvd N Of Beryl Rd',43.49528,-79.64375,1,1540252
 2351,'2351','Royal Windsor Dr E Of Winston Churchill Blvd',43.49786,-79.64402,1,1540253
 2352,'2352','Royal Windsor Dr @ 2480 Royal Windsor Dr',43.49917,-79.64259,1,1540254
@@ -1862,7 +1862,7 @@
 2366,'2366','Airport Rd @ Beverley St',43.70760,-79.64779,1,1540289
 2367,'2367','Airport Rd @ Ripon St',43.70580,-79.64525,1,1540290
 2368,'2368','Airport Rd @ Hull St',43.70428,-79.64335,1,1540291
-2369,'2369','Millcreek Dr N Of Millrace Crt',43.59415,-79.74924,1,1540292
+2369,'2369','Millcreek Dr N Of Millrace Crt',43.59364,-79.74829,1,1540292
 2371,'2371','Argentia Rd @ Turner Vly Rd',43.59839,-79.74258,1,1540315
 2372,'2372','Argentia Rd W Of Turner Vly Rd',43.59730,-79.74586,1,1540316
 2373,'2373','Argentia Rd @ 2283 Argentia Rd',43.59866,-79.74848,1,1540317
@@ -3050,7 +3050,7 @@
 9052,'9052','Aukland Rd @ Bloor St',43.64019,-79.54048,1,1745908
 9053,'9053','Burnhamthorpe Rd @ Burnhamthorpe Cr',43.64951,-79.53082,1,1745909
 9054,'9054','Burnhamthorpe Rd @ Burnhamthorpe Pk Blvd',43.65049,-79.53402,1,1745910
-9056,'9056','Kipling Terminal Platform 3',43.63534,-79.53881,1,1745912
+9056,'9056','Kipling Terminal Platform 3',43.63533,-79.53885,1,1745912
 9057,'9057','Kipling Terminal Platform 4',43.63551,-79.53863,1,1745913
 9058,'9058','Sherway Gdns Bus Term P:A',43.61003,-79.55831,1,1745914
 9059,'9059','Kipling Terminal Platform 5',43.63564,-79.53845,1,1745915
@@ -3104,7 +3104,7 @@
 9118,'9118','Kipling Term P:16',43.63523,-79.53901,1,1746751
 9119,'9119','Rexdale Blvd @ Frost St',43.71243,-79.56411,1,1746752
 9120,'9120','Rexdale Blvd @ Kipling Ave',43.71183,-79.56658,1,1746774
-9121,'9121','Rexdale Blvd @ Brydon Dr',43.71162,-79.57115,1,1746775
+9121,'9121','Rexdale Blvd @ Brydon Dr',43.71166,-79.57098,1,1746775
 9122,'9122','Rexdale Blvd W Of Brydon Dr',43.71237,-79.57424,1,1746776
 9123,'9123','Rexdale Blvd @ 240 Rexdale Blvd',43.71304,-79.57706,1,1746777
 9124,'9124','Rexdale Blvd @ Martin Grv Rd',43.71393,-79.58094,1,1746778
@@ -3121,7 +3121,7 @@
 9157,'9157','The W Mall @ The Queensway',43.61179,-79.56236,1,1746874
 9158,'9158','The W Mall @ N Sherway Dr',43.61044,-79.56152,1,1746875
 9159,'9159','The W Mall @ S Sherway Dr',43.60949,-79.56062,1,1746876
-9160,'9160','Dundas St @ West Mall Cres',43.62729,-79.56244,1,1746898
+9160,'9160','Dundas St @ West Mall Cres',43.62716,-79.56256,1,1746898
 9161,'9161','Bloor St @ West Markland Dr',43.62916,-79.57991,1,1746899
 9163,'9163','Burnhamthorpe Rd @ Mill Rd',43.63900,-79.58439,1,1746901
 9960,'9960','Dixon Rd East Of Hwy 427',43.68642,-79.59806,1,1754586
