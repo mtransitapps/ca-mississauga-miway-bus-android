@@ -163,7 +163,6 @@
 228,'0228','Indian Rd @ Kane Rd',43.55079,-79.60266,1,1479624
 229,'0229','Indian Rd @ Indian Grove',43.54727,-79.60644,1,1479625
 230,'0230','Indian Rd @ Woodeden Dr',43.54245,-79.61199,1,1479647
-231,'0231','Indian Rd @ Tecumseh Pk Dr',43.54183,-79.61363,1,1479648
 232,'0232','Indian Rd @ Caldwell Ave',43.54030,-79.61777,1,1479649
 233,'0233','Indian Rd @ Birchview Dr',43.53884,-79.62179,1,1479650
 234,'0234','Indian Rd @ Narva Rd',43.53740,-79.62562,1,1479651
@@ -191,7 +190,6 @@
 256,'0256','Indian Rd @ Narva Rd',43.53719,-79.62580,1,1479715
 257,'0257','Indian Rd @ Birchview Dr',43.53861,-79.62192,1,1479716
 258,'0258','Indian Rd @ Caldwell Ave',43.54015,-79.61771,2,1479717
-259,'0259','Indian Rd @ Tecumseh Pk Dr',43.54157,-79.61387,1,1479718
 260,'0260','Indian Rd @ Woodeden Dr',43.54259,-79.61140,2,1479740
 261,'0261','Indian Rd @ Indian Grove',43.54710,-79.60639,1,1479741
 262,'0262','Indian Rd @ Kane Rd',43.55080,-79.60240,1,1479742
@@ -217,8 +215,6 @@
 286,'0286','Southdown Rd S Of Lushes Ave',43.50897,-79.62740,1,1479808
 287,'0287','Southdown Rd S Of Royal Windsor Dr',43.51027,-79.62924,1,1479809
 288,'0288','Southdown Rd @ S Sheridan Way',43.52218,-79.64479,1,1479810
-289,'0289','Indian Rd @ Cermel Dr',43.54334,-79.61051,1,1479811
-290,'0290','Indian Rd @ Cermel Dr',43.54361,-79.61048,1,1479833
 291,'0291','Lakeshore Rd @ Balboa Dr',43.53899,-79.59970,1,1479834
 292,'0292','Lakeshore Rd @ Ibar Way',43.53647,-79.60242,1,1479835
 294,'0294','Sorrento Dr @ Trudeau Ave',43.60797,-79.64914,1,1479837
@@ -361,6 +357,7 @@
 456,'0456','Lakeshore Rd @ Hampton Cres',43.56821,-79.56822,1,1481637
 457,'0457','Lakeshore Rd @ Beechwood Ave',43.56682,-79.56976,1,1481638
 458,'0458','Dixie Rd @ Kendall Rd',43.60133,-79.57228,1,1481639
+459,'0459','Dixie Rd @ Sherway Dr',43.59945,-79.57034,1,1481640
 461,'0461','Dixie Mall Bus Term P:A',43.59381,-79.56465,1,1481663
 462,'0462','S Service Rd @ Haig Blvd',43.59225,-79.57306,1,1481664
 463,'0463','S Service Rd @ Applewood Rd',43.59117,-79.57431,1,1481665
@@ -497,7 +494,6 @@
 635,'0635','Kennedy Rd @ Driftcurrent Dr',43.62075,-79.64795,1,1483496
 636,'0636','Admiral Blvd @ Kenderry Gt',43.64855,-79.69546,1,1483497
 637,'0637','Lakeshore Rd W Of Wesley Ave',43.54643,-79.59166,1,1483498
-639,'0639','Dundas St @ Dundas Cres',43.54895,-79.64998,1,1483500
 640,'0640','Dundas St @ The Credit Woodlands',43.55148,-79.64876,1,1483522
 641,'0641','Dundas St @ Old Carriage Rd',43.55500,-79.64529,1,1483523
 642,'0642','Dundas St @ Glengarry Rd',43.55719,-79.64293,1,1483524
@@ -584,7 +580,6 @@
 740,'0740','Camilla Rd @ N Service Rd',43.57264,-79.59655,1,1484483
 741,'0741','Camilla Rd @ Pathfinder Dr',43.57411,-79.59877,1,1484484
 742,'0742','Camilla Rd @ Cherry Post Dr',43.57567,-79.60069,1,1484485
-743,'0743','Camilla Rd @ Daphne Ave',43.57831,-79.60432,1,1484486
 747,'0747','Dundas St @ Argyle Rd',43.57558,-79.62162,1,1484490
 748,'0748','Dundas St @ Confederation Pky',43.57777,-79.61903,1,1484491
 749,'0749','Dundas St @ Hurontario St',43.58038,-79.61601,1,1484492
@@ -594,7 +589,6 @@
 753,'0753','Dundas St @ Cliff Rd',43.58737,-79.60798,1,1484517
 754,'0754','Dundas St @ Hensall Cir',43.58861,-79.60663,1,1484518
 759,'0759','Confederation Pky @ 2300 Confederation Pky',43.57218,-79.61177,1,1484523
-760,'0760','Camilla Rd @ Camilla Pl',43.57700,-79.60270,1,1484545
 761,'0761','Camilla Rd @ Camilla Pl',43.57741,-79.60301,1,1484546
 762,'0762','Cawthra Rd @ Melton Dr',43.58812,-79.59079,1,1484547
 763,'0763','Cawthra Rd @ Tedwyn Dr',43.58687,-79.58909,1,1484548
@@ -757,11 +751,11 @@
 966,'0966','Columbus Rd S Of Davand Dr',43.66980,-79.67556,1,1486473
 967,'0967','Columbus Rd @ Derry Rd',43.67148,-79.67760,1,1486474
 968,'0968','S Millway @ Sanderling Cres',43.54712,-79.67894,1,1486475
+969,'0969','S Millway @ The Collegeway',43.54549,-79.67746,1,1486476
 971,'0971','Burnhamthorpe Rd @ Sawmill Vly Dr',43.55069,-79.67692,1,1486499
 973,'0973','Ridgeway Dr N Of Dovetail Mews',43.52155,-79.70113,1,1486501
 974,'0974','Loyalist Dr @ Seebring Cres',43.53482,-79.70509,1,1486502
 975,'0975','Loyalist Dr @ Osbourne Rd',43.53764,-79.70621,1,1486503
-976,'0976','Unity Dr W Of Pepper Mill Crt',43.53710,-79.70889,1,1486504
 977,'0977','Unity Dr @ Erin Mills Twin Arena',43.53613,-79.71133,1,1486505
 978,'0978','Columbus Rd @ 6830 Columbus Rd',43.66822,-79.67399,1,1486506
 980,'0980','Burnhamthorpe Rd @ Mississauga Rd',43.55333,-79.67531,1,1486529
@@ -1370,6 +1364,7 @@
 1729,'1729','Carlingview Dr @ Constellation Crt',43.69076,-79.59718,1,1514221
 1730,'1730','Explorer Dr @ Orbitor Dr',43.66161,-79.60790,2,1514243
 1732,'1732','Explorer Dr W Of Orbitor Dr',43.65965,-79.61130,2,1514245
+1733,'1733','Fasken Dr W Of Carlingview Dr',43.68985,-79.60128,1,1514246
 1736,'1736','Campus Rd @ Elmbank Rd',43.68883,-79.61012,1,1514249
 1738,'1738','Bancroft Dr @ Swinbourne Dr',43.60954,-79.70932,1,1514251
 1739,'1739','Bancroft Dr @ Tremaine Crt',43.60653,-79.71030,1,1514252
@@ -1411,6 +1406,7 @@
 1792,'1792','Erin Mills Sta West P:3',43.55236,-79.70015,1,1514431
 1794,'1794','The Credit Woodlands @ Erinmore Dr',43.55912,-79.65992,1,1514433
 1795,'1795','Queenston Dr @ Chalice Cres',43.56356,-79.66499,1,1514434
+1797,'1797','Fasken Dr W Of Carlingview Dr',43.68971,-79.60131,1,1514436
 1798,'1798','Central Pky @ Central Pky Sta',43.60728,-79.63554,1,1514437
 1799,'1799','Eglinton Ave @ Mississauga Rd',43.56822,-79.69600,1,1514438
 1800,'1800','Mississauga Rd @ Melody Dr',43.57281,-79.70159,1,1515111
@@ -1812,9 +1808,7 @@
 2302,'2302','Argentia Rd @ E Century Ave',43.60025,-79.74166,1,1540099
 2303,'2303','Turner Vly Rd @ Torquay Mews',43.59761,-79.74049,1,1540100
 2305,'2305','Millcreek Dr N Of Erin Mills Pky',43.59055,-79.74205,1,1540102
-2307,'2307','Millcreek Dr @ Millrace Crt',43.59241,-79.74600,1,1540104
 2309,'2309','Millcreek Dr N Of Millrace Crt',43.59371,-79.74878,1,1540106
-2310,'2310','Millcreek Dr @ Millrace Crt',43.59269,-79.74691,1,1540128
 2312,'2312','Millcreek Dr @ Surveyor Rd',43.59069,-79.74323,1,1540130
 2314,'2314','Argentia Rd @ E Century Ave',43.59947,-79.74211,1,1540132
 2315,'2315','Argentia Rd @ Mississauga Rd',43.60116,-79.73909,1,1540133
@@ -1869,8 +1863,6 @@
 2374,'2374','Argentia Rd @ W Century Ave',43.60015,-79.75247,1,1540318
 2375,'2375','Argentia Rd @ Derry Rd',43.60124,-79.75620,1,1540319
 2376,'2376','Meadowvale Blvd @ Mississauga Rd',43.61285,-79.75471,1,1540320
-2377,'2377','Argentia Rd @ Campobello Rd',43.60788,-79.72949,1,1540321
-2378,'2378','Argentia Rd @ 1705 Argentia Rd',43.60508,-79.73249,1,1540322
 2379,'2379','Argentia Rd @ Derry Rd',43.60089,-79.75590,1,1540323
 2380,'2380','Argentia Rd @ W Century Ave',43.60013,-79.75336,1,1540345
 2381,'2381','Argentia Rd @ 2290 Argentia Rd',43.59884,-79.74905,1,1540346
@@ -1969,7 +1961,6 @@
 2492,'2492','Lorimar Dr E Of Maxwell Rd',43.67105,-79.68152,1,1541339
 2493,'2493','Cardiff Blvd @ Khalsa Dr',43.67362,-79.68040,1,1541340
 2494,'2494','Tomken Rd @ Derry Rd',43.66578,-79.68537,1,1541341
-2495,'2495','Creditview Rd @ Britannia Rd',43.59739,-79.71147,1,1541342
 2496,'2496','Argentia Rd @ Creditview Rd',43.60886,-79.72776,1,1541343
 2497,'2497','Derry Rd @ Hurontario St',43.64571,-79.70628,1,1541344
 2498,'2498','Derry Rd @ Kennedy Rd',43.65538,-79.69557,1,1541345
@@ -2006,7 +1997,6 @@
 2551,'2551','Bristol Rd E Of Swiftcurrent Trl',43.61086,-79.66750,1,1542175
 2552,'2552','Kennedy Rd @ Watline Ave',43.62960,-79.66039,1,1542176
 2553,'2553','Derry Rd @ Bramalea Rd',43.68444,-79.66366,1,1542177
-2554,'2554','Argentia Rd E Of Kitimat Rd',43.60451,-79.73401,1,1542178
 2555,'2555','Derry Rd @ Vanguard Dr',43.69083,-79.65658,1,1542179
 2556,'2556','Derry Rd @ Hurontario St',43.64577,-79.70674,1,1542180
 2557,'2557','Derry Rd @ Derrycrest Dr',43.64410,-79.70875,1,1542181
@@ -2667,7 +2657,10 @@
 3468,'3468','2nd Line W @ Old Derry Rd',43.62698,-79.72763,1,1571043
 3469,'3469','Sombrero Way @ Nimbus Gate',43.62244,-79.71420,1,1571044
 3470,'3470','Sombrero Way @ Nimbus Gate',43.62214,-79.71450,1,1571066
+3471,'3471','Courtneypark Dr @ Madill Blvd',43.62840,-79.70121,1,1571067
+3472,'3472','Courtneypark Dr @ Madill Blvd',43.62802,-79.70113,1,1571068
 3473,'3473','Winston Churchill @ 650 Winston Churchill Blvd',43.48991,-79.63641,1,1571069
+3474,'3474','Middlegate Rd @ 1055 Middlegate Rd',43.59744,-79.58673,1,1571070
 3497,'3497','Hurontario St @ Robert Speck Pky',43.59709,-79.63996,1,1571135
 3500,'3500','Eglinton Ave @ Kimbermount Ave',43.55129,-79.71486,1,1571810
 3501,'3501','Erin Ctr Blvd @ Janice Dr',43.54291,-79.73617,1,1571811
